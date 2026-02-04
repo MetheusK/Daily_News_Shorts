@@ -1,35 +1,61 @@
-name: Daily Semicon News Shorts
+name: Daily Shorts Script Generator
 
+# 실행 조건 설정
 on:
   schedule:
     # 매일 한국 시간 오전 7시 실행 (UTC 기준 22:00)
+    # * * * * * 형식: 분 시 일 월 요일 (UTC)
     - cron: '0 22 * * *'
-  workflow_dispatch: # 수동으로 버튼 눌러서 실행 가능하게 함 (테스트용)
+    
+  workflow_dispatch: # Actions 탭에서 수동으로 버튼 눌러서 실행 가능
+
+# [중요] 봇이 리포지토리에 파일을 쓰고 커밋할 수 있도록 권한 부여
+permissions:
+  contents: write
 
 jobs:
-  build:
+  generate-and-save:
     runs-on: ubuntu-latest
-    timeout-minutes: 60
+    timeout-minutes: 10 # 10분 이상 걸리면 강제 종료 (무한 루프 방지)
 
     steps:
-    - name: 리포지토리 코드 체크아웃
-      uses: actions/checkout@v3
+    # 1. 내 리포지토리의 코드를 가져옴
+    - name: Checkout Repository
+      uses: actions/checkout@v4
 
-    - name: 파이썬 설정 (버전 3.9)
+    # 2. 파이썬 환경 설정
+    - name: Setup Python
       uses: actions/setup-python@v4
       with:
         python-version: '3.9'
 
-    - name: 필요한 라이브러리 설치
+    # 3. 필요한 라이브러리 설치
+    - name: Install Dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install -r requirements.txt
+        pip install feedparser google-generativeai
 
-    - name: 뉴스 요약 스크립트 실행
+    # 4. 파이썬 스크립트 실행 (대본 생성)
+    - name: Run Shorts Script Generator
       env:
-        # GitHub Secrets에 저장된 키들을 환경 변수로 주입
+        # GitHub Secrets에 등록한 Gemini API 키 주입
         GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        SENDER_EMAIL: ${{ secrets.SENDER_EMAIL }}
-        SENDER_PASSWORD: ${{ secrets.SENDER_PASSWORD }}
-        RECIPIENT_EMAIL: ${{ secrets.RECIPIENT_EMAIL }}
-      run: python main.py
+      # 실행할 파이썬 파일명이 정확해야 합니다. (예: daily_shorts.py)
+      run: python daily_shorts.py
+
+    # 5. 생성된 대본 파일을 리포지토리에 저장 (Commit & Push)
+    - name: Commit and Push Script
+      run: |
+        # 봇 계정 정보 설정
+        git config --global user.name "GitHub Actions Bot"
+        git config --global user.email "actions@github.com"
+        
+        # scripts 폴더에 새로 생긴 파일들을 스테이징 영역에 추가
+        git add scripts/
+        
+        # 커밋 메시지 작성 (날짜 포함)
+        # || echo ... 부분은 변경 사항이 없을 때 에러가 나지 않도록 방어하는 코드
+        git commit -m "🤖 Daily Shorts Script Generated [$(date +'%Y-%m-%d')]" || echo "No changes to commit"
+        
+        # 원격 저장소로 푸시
+        git push
