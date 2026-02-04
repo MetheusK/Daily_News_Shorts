@@ -1,134 +1,127 @@
 import os
-import json
-import requests
-import datetime
-from dotenv import load_dotenv
+import feedparser
 import google.generativeai as genai
+import time
+import socket
+from datetime import datetime, timedelta
+from time import mktime
+from google.generativeai.types import HarmCategory, HarmBlockThreshold
+
+# 네트워크 타임아웃 60초
+socket.setdefaulttimeout(60)
+
+# ==========================================
+# [설정] 모델 이름
+MODEL_NAME = 'gemini-1.5-flash' 
+# ==========================================
 
 # 환경 변수 로드
-load_dotenv()
+GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
 
-# 설정
-GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
-SERPER_API_KEY = os.getenv("SERPER_API_KEY")
-TOPIC_QUERY = "반도체 산업 삼성전자 SK하이닉스" # 검색어 (나중에 변경 가능)
-NEWS_COUNT = 3 # 가져올 뉴스 개수
+if not GEMINI_API_KEY:
+    print("🚨 경고: GEMINI_API_KEY가 환경변수에 없습니다.")
+else:
+    genai.configure(api_key=GEMINI_API_KEY)
 
-# Gemini 설정
-genai.configure(api_key=GEMINI_API_KEY)
+def get_gemini_response(prompt_text):
+    """Gemini API 호출 함수"""
+    try:
+        model = genai.GenerativeModel(MODEL_NAME)
+    except:
+        model = genai.GenerativeModel('gemini-1.5-flash')
 
-def fetch_latest_news(query, n=3):
-    """
-    Serper API를 사용하여 최근 24시간(qdr:d) 내의 뉴스를 검색합니다.
-    """
-    url = "https://google.serper.dev/search"
-    
-    # qdr:d 옵션은 '지난 24시간' 필터입니다.
-    payload = json.dumps({
-        "q": query,
-        "tbs": "qdr:d", 
-        "num": 10, # 넉넉하게 가져와서 필터링
-        "gl": "kr",
-        "hl": "ko"
-    })
-    
-    headers = {
-        'X-API-KEY': SERPER_API_KEY,
-        'Content-Type': 'application/json'
+    safety_settings = {
+        HarmCategory.HARM_CATEGORY_HARASSMENT: HarmBlockThreshold.BLOCK_NONE,
+        HarmCategory.HARM_CATEGORY_HATE_SPEECH: HarmBlockThreshold.BLOCK_NONE,
+        HarmCategory.HARM_CATEGORY_SEXUALLY_EXPLICIT: HarmBlockThreshold.BLOCK_NONE,
+        HarmCategory.HARM_CATEGORY_DANGEROUS_CONTENT: HarmBlockThreshold.BLOCK_NONE,
     }
 
     try:
-        response = requests.request("POST", url, headers=headers, data=payload)
-        data = response.json()
-        
-        # organic 결과 중 뉴스성 데이터만 추리기
-        results = []
-        if "organic" in data:
-            for item in data["organic"]:
-                # 제목과 요약(snippet)만 있어도 대본 작성 가능
-                results.append(f"- 제목: {item.get('title')}\n- 내용: {item.get('snippet')}\n- 링크: {item.get('link')}")
-                if len(results) >= n:
-                    break
-        
-        print(f"✅ {len(results)}개의 최신 뉴스를 가져왔습니다.")
-        return "\n\n".join(results)
-    
+        response = model.generate_content(prompt_text, safety_settings=safety_settings)
+        return response.text
     except Exception as e:
-        print(f"❌ 뉴스 검색 중 오류 발생: {e}")
-        return None
+        return f"ERROR: {str(e)}"
 
-def generate_shorts_script(news_content):
-    """
-    Gemini를 사용하여 쇼츠 대본을 작성합니다.
-    """
-    model = genai.GenerativeModel("gemini-1.5-flash")
+def fetch_rss_feed(url, limit=3, days=1):
+    """RSS 피드에서 뉴스 가져오기"""
+    feed = feedparser.parse(url)
+    news_items = []
     
-    today_str = datetime.datetime.now().strftime("%Y년 %m월 %d일")
+    now = datetime.now()
+    cutoff_date = now - timedelta(days=days)
     
+    print(f"🔍 Searching News (Limit: {limit}, Since: {cutoff_date.strftime('%Y-%m-%d')})...")
+
+    count = 0
+    for entry in feed.entries:
+        if count >= limit:
+            break
+            
+        if hasattr(entry, 'published_parsed'):
+            pub_date = datetime.fromtimestamp(mktime(entry.published_parsed))
+            if pub_date < cutoff_date:
+                continue
+        
+        news_items.append(f"- Title: {entry.title}\n- Link: {entry.link}")
+        count += 1
+        
+    return "\n\n".join(news_items)
+
+def generate_english_shorts_script(news_data, topic_keyword):
+    """
+    뉴스 데이터를 바탕으로 영어 쇼츠 대본 생성
+    """
     prompt = f"""
-    Role: 당신은 100만 구독자를 보유한 IT/반도체 전문 유튜버입니다.
-    Task: 아래 제공된 '오늘의 반도체 뉴스' 3가지를 바탕으로 YouTube Shorts 대본을 작성해줘.
-    
-    [오늘의 뉴스 데이터]
-    {news_content}
-    
-    [대본 작성 규칙]
-    1. **길이:** 사람이 말했을 때 정확히 50초~55초 분량이 되도록 작성할 것.
-    2. **구조:**
-       - **Hook (0-5초):** 시청자의 주의를 확 끄는 강렬한 첫 마디 (예: "오늘 반도체 시장, 이 소식 놓치면 손해입니다!")
-       - **Body (5-45초):** 3가지 뉴스를 핵심만 요약해서 빠르게 전달. 어려운 용어는 쉽게 풀어설명.
-       - **Outro (45-60초):** 간단한 투자 인사이트 한 줄 + "구독과 좋아요" 유도.
-    3. **톤앤매너:** 빠르고, 명확하고, 에너지 넘치게. (존댓말 사용: ~습니다, ~해요)
-    4. **형식:** 아래 형식을 반드시 지켜줘.
-    
-    ---
-    (제목: 흥미로운 제목)
-    
-    [화면: 역동적인 반도체 관련 영상]
-    (자막: 핵심 키워드)
-    내레이션: "..."
-    
-    [화면: 첫 번째 뉴스 관련 자료화면]
-    (자막: 뉴스 1 요약)
-    내레이션: "..."
-    
-    ... (나머지 뉴스) ...
-    
-    [화면: 채널 로고]
-    내레이션: "..."
-    ---
-    """
-    
-    response = model.generate_content(prompt)
-    return response.text
+    Role: You are a professional Tech News YouTuber with 1M subscribers.
+    Task: Create a **60-second YouTube Shorts script** in **ENGLISH** based on the news below.
+    Topic: {topic_keyword}
 
-def save_script_to_file(script):
+    [TODAY'S NEWS]
+    {news_data}
+
+    [SCRIPT REQUIREMENTS]
+    1. **Language**: 100% Natural, Native English.
+    2. **Structure**:
+       - **Hook (0-5s)**: Grab attention immediately.
+       - **Body (5-50s)**: Summarize key points.
+       - **Outro (50-60s)**: Insight + Call to Action.
+    3. **Tone**: Energetic, Fast-paced.
+    4. **Formatting**: Use [Visual Note] and (Narration).
     """
-    대본을 txt 파일로 저장합니다.
-    """
-    today_str = datetime.datetime.now().strftime("%Y-%m-%d")
-    filename = f"scripts/script_{today_str}.txt"
-    
-    # 폴더가 없으면 생성
-    os.makedirs("scripts", exist_ok=True)
-    
-    with open(filename, "w", encoding="utf-8") as f:
-        f.write(script)
-    
-    print(f"📂 대본이 저장되었습니다: {filename}")
+    return get_gemini_response(prompt)
 
 if __name__ == "__main__":
-    print("🔍 오늘의 반도체 뉴스를 검색합니다...")
-    news_data = fetch_latest_news(TOPIC_QUERY, n=NEWS_COUNT)
+    # =================================================
+    # [설정] 주제별 검색어 및 파일명 키워드 정의
+    # 나중에 여기만 바꾸면 다른 주제도 가능!
+    TOPIC_KEYWORD = "semicon" # 파일명에 들어갈 짧은 키워드 (예: semicon, ai, ev)
+    SEARCH_QUERY = "semiconductor+industry+AI+chip+market+trend"
+    # =================================================
+
+    rss_url = f"https://news.google.com/rss/search?q={SEARCH_QUERY}+when:1d&hl=en-US&gl=US&ceid=US:en"
     
-    if news_data:
-        print("🤖 쇼츠 대본을 작성 중입니다...")
-        script = generate_shorts_script(news_data)
+    print(f"📰 Fetching News for Topic: {TOPIC_KEYWORD}...")
+    
+    news_content = fetch_rss_feed(rss_url, limit=3, days=1)
+    
+    if news_content:
+        print("✅ News Fetched. Generating Script...")
         
-        print("\n" + "="*50)
+        script = generate_english_shorts_script(news_content, TOPIC_KEYWORD)
+        
+        print("\n🎬 Generated Shorts Script:\n")
         print(script)
-        print("="*50 + "\n")
         
-        save_script_to_file(script)
+        # [수정됨] 파일명 포맷: YYMMDD_주제_script.txt
+        today_str = datetime.now().strftime("%y%m%d") # 240206 형태로 변환
+        filename = f"scripts/{today_str}_{TOPIC_KEYWORD}_script.txt"
+        
+        os.makedirs("scripts", exist_ok=True)
+        
+        with open(filename, "w", encoding="utf-8") as f:
+            f.write(script)
+        print(f"\n📂 Script saved to: {filename}")
+        
     else:
-        print("뉴스 데이터를 가져오지 못해 종료합니다.")
+        print("⚠️ No recent news found.")
