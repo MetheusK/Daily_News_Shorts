@@ -28,7 +28,7 @@ def get_gemini_response(prompt_text):
     try:
         model = genai.GenerativeModel(MODEL_NAME)
     except:
-        model = genai.GenerativeModel('gemini-1.5-flash')
+        model = genai.GenerativeModel('gemini-2.5-flash-lite')
 
     safety_settings = {
         HarmCategory.HARM_CATEGORY_HARASSMENT: HarmBlockThreshold.BLOCK_NONE,
