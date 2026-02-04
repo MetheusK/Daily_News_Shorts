@@ -163,7 +163,9 @@ if __name__ == "__main__":
             print(json.dumps(script_data, indent=2))
             
             # [수정됨] 파일명 포맷: YYMMDD_주제_script.txt
-            today_str = datetime.now().strftime("%y%m%d") # 240206 형태로 변환
+            # GitHub Actions (UTC) -> US EST (UTC-5) 변환
+            us_now = datetime.utcnow() - timedelta(hours=5)
+            today_str = us_now.strftime("%y%m%d") # 240206 형태로 변환
             filename = f"scripts/{today_str}_{TOPIC_KEYWORD}_script.json"
             
             os.makedirs("scripts", exist_ok=True)

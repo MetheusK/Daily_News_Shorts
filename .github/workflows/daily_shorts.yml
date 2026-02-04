@@ -3,9 +3,9 @@ name: Daily Shorts Script Generator
 # 실행 조건 설정
 on:
   schedule:
-    # 매일 한국 시간 오전 7시 실행 (UTC 기준 22:00)
+    # 매일 미국 동부 시간 오전 7시 실행 (UTC 12:00)
     # * * * * * 형식: 분 시 일 월 요일 (UTC)
-    - cron: '0 22 * * *'
+    - cron: '0 12 * * *'
     
   workflow_dispatch: # Actions 탭에서 수동으로 버튼 눌러서 실행 가능
 
@@ -34,6 +34,11 @@ jobs:
       run: |
         sudo apt-get update
         sudo apt-get install -y imagemagick
+        # [Fix] ImageMagick Policy Error for TextClip (security policy blocks @ path)
+        # sed command to allow read/write permissions in policy.xml
+        if [ -f /etc/ImageMagick-6/policy.xml ]; then
+          sudo sed -i 's/none/read,write/g' /etc/ImageMagick-6/policy.xml
+        fi
         python -m pip install --upgrade pip
         pip install feedparser google-generativeai
         pip install moviepy edge-tts requests google-auth google-auth-oauthlib google-api-python-client
@@ -60,9 +65,20 @@ jobs:
         # scripts 폴더에 새로 생긴 파일들을 스테이징 영역에 추가
         git add scripts/
         
-        # 커밋 메시지 작성 (날짜 포함)
+        # 커밋 메시지 작성 (날짜 포함 - 미국 시간 기준)
         # || echo ... 부분은 변경 사항이 없을 때 에러가 나지 않도록 방어하는 코드
-        git commit -m "🤖 Daily Shorts Script Generated [$(date +'%Y-%m-%d')]" || echo "No changes to commit"
+        git commit -m "🤖 Daily Shorts Script Generated [$(TZ=America/New_York date +'%Y-%m-%d')]" || echo "No changes to commit"
         
         # 원격 저장소로 푸시
         git push
+
+    # 6. 생성된 비디오 및 로그 아티팩트 업로드 (디버깅용)
+    - name: Upload Debug Artifacts
+      if: always() # 스크립트 에러가 나도 실행되도록 설정
+      uses: actions/upload-artifact@v4
+      with:
+        name: generated-shorts-and-logs
+        path: |
+          final_generated_shorts.mp4
+          scripts/
+          temp_assets/
