@@ -12,7 +12,7 @@ socket.setdefaulttimeout(60)
 
 # ==========================================
 # [설정] 모델 이름
-MODEL_NAME = 'gemini-1.5-flash' 
+MODEL_NAME = 'gemini-2.5-flash' 
 # ==========================================
 
 # 환경 변수 로드
