@@ -40,7 +40,7 @@ jobs:
           sudo sed -i 's/none/read,write/g' /etc/ImageMagick-6/policy.xml
         fi
         python -m pip install --upgrade pip
-        pip install feedparser google-generativeai
+        pip install feedparser google-generativeai google-genai
         pip install moviepy edge-tts requests google-auth google-auth-oauthlib google-api-python-client
 
     # 4. 파이썬 스크립트 실행 (대본 생성)

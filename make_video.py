@@ -9,9 +9,17 @@ import requests
 import random
 import re
 import json
+import textwrap
 from moviepy import VideoFileClip, AudioFileClip, TextClip, CompositeVideoClip, concatenate_videoclips, vfx
-# from moviepy.config import change_settings
 import edge_tts
+
+# ... (Configuration section remains same)
+
+
+from dotenv import load_dotenv
+
+# Load environment variables from .env file (for local testing)
+load_dotenv(r"C:\Coding\Python\.env")
 
 # ==========================================
 # [Configuration]
@@ -44,7 +52,8 @@ class VideoGenerator:
     async def generate_audio_segment(self, text, segment_id):
         """Generates audio for a single sentence and returns the filepath."""
         output_file = os.path.join(self.output_dir, f"audio_{segment_id}.mp3")
-        communicate = edge_tts.Communicate(text, VOICE_NAME)
+        # [User Request] Speed increased by 20%
+        communicate = edge_tts.Communicate(text, VOICE_NAME, rate="+20%")
         await communicate.save(output_file)
         return output_file
 
@@ -119,24 +128,34 @@ class VideoGenerator:
         return "technology" # Fallback
 
     def create_subtitle_clip(self, text, duration):
-        """Creates a TextClip for the subtitle."""
-        # Note: TextClip requires ImageMagick installed and configured.
+        """Creates a TextClip for the subtitle with manual wrapping."""
         try:
-            # Wrap text manually if needed, or rely on 'method="caption"'
+            # [User Fix] Bigger Font + Manual Wrapping
+            # Font Size 60 -> Approx 30px width per char.
+            # Safe width 800px / 30px = ~26 chars.
+            # We use 25 chars to be safe.
+            import textwrap
+            wrapped_text = textwrap.fill(text, width=25)
+            
+            # [Fix] Add a newline character at the end to act as "Bottom Padding".
+            # This prevents characters like 'g', 'y', 'j' from being cut off at the bottom.
+            wrapped_text += "\n " 
+            
+            # Use TextClip without fixed size to allow auto-sizing
             txt_clip = TextClip(
-                text=text, 
-                font_size=50, 
+                text=wrapped_text, 
+                font_size=60, 
                 color='white', 
                 stroke_color='black', 
-                stroke_width=2,
-                size=(int(VIDEO_WIDTH * 0.7), int(VIDEO_HEIGHT * 0.5)), # Explicit height to prevent bottom cropping
-                method='caption' 
-                # align='center' 
+                stroke_width=3, # Thicker stroke for visibility
+                # font='Arial-Bold' # REMOVED: Caused error on Windows
             )
+            
+            # Center on screen
             txt_clip = txt_clip.with_position(('center', 'center')).with_duration(duration)
             return txt_clip
         except Exception as e:
-            print(f"⚠️ Failed to create TextClip (ImageMagick issue?): {e}")
+            print(f"⚠️ Failed to create TextClip: {e}")
             return None
 
     def process_segment(self, segment_data, segment_id):

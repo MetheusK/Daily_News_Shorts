@@ -1,29 +1,33 @@
 {
-  "title": "Semicon News Flash",
+  "title": "Semiconductor Shakedown: SK Growth, EDA Boom & AI Jitters!",
   "segments": [
     {
-      "text": "South Korea's semiconductor market is gearing up for significant expansion, with growth drivers pushing forecasts to 2034.",
-      "keyword": "microchip factory"
+      "text": "South Korea's semiconductor market is projected for significant growth through 2034, solidifying its role as a global powerhouse in chip manufacturing.",
+      "keyword": "semiconductor factory"
     },
     {
-      "text": "This powerhouse region will continue influencing global tech supply chains, especially with surging demand for advanced memory and logic chips.",
+      "text": "This expansion is driven by robust demand for advanced memory and logic chips, fueling innovation across AI, automotive, and 5G sectors.",
+      "keyword": "server racks"
+    },
+    {
+      "text": "Powering this advancement, the Electronic Design Automation, or EDA, market is set to explode, reaching an estimated 35.3 billion US dollars.",
+      "keyword": "digital circuit design"
+    },
+    {
+      "text": "EDA software is critical; it’s the virtual blueprint allowing engineers to design increasingly complex and powerful microchips at lightning speed.",
+      "keyword": "engineer designing chip"
+    },
+    {
+      "text": "However, the landscape isn't entirely smooth. Applied Materials, a giant in chip equipment, saw its stock slide 6%.",
+      "keyword": "stock market chart"
+    },
+    {
+      "text": "This drop signals investor caution, tied to broader 'AI jitters' and potential slowdowns in chip tool orders, especially as the market anticipates shifts in AI compute demand.",
+      "keyword": "robot arm manufacturing"
+    },
+    {
+      "text": "Wall Street is closely watching earnings, with concerns about the pace of AI infrastructure build-out impacting immediate capital expenditures from chipmakers.",
       "keyword": "data center"
-    },
-    {
-      "text": "Meanwhile, investors face a critical choice between semiconductor titans Taiwan Semiconductor (TSMC) and Broadcom.",
-      "keyword": "stock chart"
-    },
-    {
-      "text": "Both companies are battling for dominance in high-performance computing and AI chip manufacturing, crucial for future tech innovation.",
-      "keyword": "computer chip"
-    },
-    {
-      "text": "This industry acceleration is underscored by the Electronic Design Automation (EDA) market, projected to hit a staggering US$35.3 billion.",
-      "keyword": "circuit board"
-    },
-    {
-      "text": "This massive growth in EDA tools is vital, enabling the complex design and verification of all next-generation integrated circuits.",
-      "keyword": "3D chip model"
     },
     {
       "text": "If useful, please like and subscribe!",
