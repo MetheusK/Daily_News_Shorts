@@ -1,37 +1,29 @@
 {
-  "title": "Semicon News Flash",
+  "title": "Semicon News: AI, Neuromorphic & SoC Chips",
   "segments": [
     {
-      "text": "The Artificial Intelligence chip market is poised for massive expansion, with new forecasts predicting significant growth and evolving trends through 2030.",
-      "keyword": "AI chip"
-    },
-    {
-      "text": "Expect surging demand for specialized silicon, powering everything from smart devices to advanced robotics.",
-      "keyword": "robot arm"
-    },
-    {
-      "text": "However, MediaTek warns that the AI boom is already straining global chip supply chains, creating immense pressure.",
-      "keyword": "factory assembly line"
-    },
-    {
-      "text": "This intense demand signals imminent price adjustments across the entire semiconductor industry.",
-      "keyword": "price tag"
-    },
-    {
-      "text": "Get ready for shifts in component costs, impacting everything from your next smartphone to enterprise hardware.",
-      "keyword": "using smartphone"
-    },
-    {
-      "text": "Meanwhile, the Data Center Chip Market alone is projected to hit a staggering $37.44 billion by 2026.",
+      "text": "The Artificial Intelligence chip market is experiencing explosive, unparalleled growth, projected to reach an incredible multi-billion dollar valuation and fundamentally transforming industries worldwide.",
       "keyword": "server room"
     },
     {
-      "text": "This massive figure underlines the enormous global investment in high-performance computing infrastructure.",
-      "keyword": "data center"
+      "text": "These advanced processors are the indispensable backbone of next-gen AI innovation, powering everything from complex financial algorithms to cutting-edge medical imaging analysis and fully autonomous vehicle systems.",
+      "keyword": "robot arm"
     },
     {
-      "text": "It's clear: semiconductor demand is accelerating, rapidly reshaping the foundation of modern technology.",
+      "text": "Shifting to the bleeding edge, the global neuromorphic chip market is rapidly architecting the future of cognitive computing by directly emulating the human brain's intricate neural networks.",
+      "keyword": "brain synapse"
+    },
+    {
+      "text": "Expect these bio-inspired chips to deliver unprecedented energy efficiency and parallel processing, unlocking truly intelligent edge AI, advanced robotics, and real-time learning within incredibly compact devices.",
       "keyword": "microchip under microscope"
+    },
+    {
+      "text": "Meanwhile, the foundational System on Chip, or SoC market, continues its robust expansion, proving absolutely indispensable as the integrated powerhouse for virtually all modern consumer electronics.",
+      "keyword": "circuit board"
+    },
+    {
+      "text": "SoCs seamlessly integrate multiple processing units, memory, and specialized accelerators onto a single silicon die, making your smartphones, wearables, and IoT smart home gadgets incredibly powerful and compact. This efficiency drives everyday tech!",
+      "keyword": "using smartphone"
     },
     {
       "text": "If useful, please like and subscribe!",

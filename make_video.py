@@ -9,8 +9,11 @@ import requests
 import random
 import re
 import json
+import shutil
 import textwrap
-from moviepy import VideoFileClip, AudioFileClip, TextClip, CompositeVideoClip, concatenate_videoclips, vfx
+import io
+from PIL import Image
+from moviepy import VideoFileClip, AudioFileClip, TextClip, CompositeVideoClip, concatenate_videoclips, vfx, ColorClip, ImageClip
 import edge_tts
 
 # ... (Configuration section remains same)
@@ -57,44 +60,54 @@ class VideoGenerator:
         await communicate.save(output_file)
         return output_file
 
-    def get_pixabay_video(self, query):
-        """Fetches a stock video url from Pixabay."""
+    def fetch_pixabay_image(self, query, segment_id):
+        """
+        Fetches a relevant image from Pixabay.
+        """
+        output_filename = os.path.join(self.output_dir, f"image_{segment_id}.jpg")
+        
         if not PIXABAY_API_KEY:
-            print("❌ PIXABAY_API_KEY not found.")
-            return None
+            print("      ⚠️ PIXABAY_API_KEY missing. Using random color.")
+            return self.create_random_bg(output_filename)
 
-        # Pixabay Video Search
-        # Docs: https://pixabay.com/api/docs/#api_search_videos
-        url = f"https://pixabay.com/api/videos/?key={PIXABAY_API_KEY}&q={query}&per_page=3"
+        url = f"https://pixabay.com/api/?key={PIXABAY_API_KEY}&q={query}&image_type=photo&orientation=vertical&per_page=3"
         
         try:
-            print(f"      🔎 Searching Pixabay for: '{query}'...")
-            response = requests.get(url)
-            response.raise_for_status()
+            print(f"      🔎 [Pixabay] Searching for: '{query}'...")
+            response = requests.get(url, timeout=10)
             data = response.json()
             
-            hits = data.get("hits", [])
+            hits = data.get('hits', [])
             if hits:
-                # Pick a random video from top 3
-                video = random.choice(hits)
-                # Available sizes: large, medium, small, tiny. Prefer large or medium.
-                # The structure is video['videos']['large']['url']
-                video_variants = video.get("videos", {})
+                # Pick a random one from top 3
+                image_data = random.choice(hits)
+                image_url = image_data.get('largeImageURL') or image_data.get('webformatURL')
                 
-                # Priority: generic large -> medium -> small
-                if "large" in video_variants and video_variants["large"]["url"]:
-                    return video_variants["large"]["url"]
-                elif "medium" in video_variants and video_variants["medium"]["url"]:
-                    return video_variants["medium"]["url"]
-                elif "small" in video_variants and video_variants["small"]["url"]:
-                    return video_variants["small"]["url"]
-                
-            print(f"      ⚠️ No videos found on Pixabay for '{query}'.")
-            return None
+                if image_url:
+                    # Download
+                    img_data = requests.get(image_url).content
+                    with open(output_filename, 'wb') as f:
+                        f.write(img_data)
+                    print(f"      ✅ [Pixabay] Image Downloaded: {output_filename}")
+                    return output_filename
+            
+            print(f"      ⚠️ No images found for '{query}'. Fallback to random color.")
+            return self.create_random_bg(output_filename)
 
         except Exception as e:
-            print(f"      ❌ Error searching Pixabay for '{query}': {e}")
-            return None
+            print(f"      ⚠️ Pixabay Error: {e}")
+            return self.create_random_bg(output_filename)
+
+    def create_random_bg(self, output_filename):
+        # Random dark colors for text readability
+        r = random.randint(10, 50)
+        g = random.randint(10, 50)
+        b = random.randint(30, 80)
+        img = Image.new('RGB', (1080, 1920), color=(r, g, b))
+        img.save(output_filename)
+        return output_filename
+
+
 
     def download_video(self, url, segment_id):
         """Downloads video to temp file."""
@@ -160,62 +173,84 @@ class VideoGenerator:
 
     def process_segment(self, segment_data, segment_id):
         """
-        Processes a single segment:
+        Processes a single segment with Card News Layout:
         1. Load Audio
-        2. Load Video (Loop/Cut)
-        3. Create Subtitle
-        4. Composite
+        2. Generate Image (Flux)
+        3. Create Background (Sky Blue)
+        4. Composite (Image Top, Text Bottom)
         """
         text = segment_data['text']
         audio_path = segment_data['audio_path']
-        video_path = segment_data['video_path']
+        keyword = segment_data.get('keyword', 'technology')
         
         # 1. Audio
         audio_clip = AudioFileClip(audio_path)
         duration = audio_clip.duration
         
-        # 2. Video
-        if video_path and os.path.exists(video_path):
-            video_clip = VideoFileClip(video_path)
-            # Loop if too short
-            if video_clip.duration < duration:
-                # v2: use vfx.Loop instead of loop()
-                video_clip = video_clip.with_effects([vfx.Loop(duration=duration)])
-            else:
-                # v2: subclip -> subclipped
-                video_clip = video_clip.subclipped(0, duration)
-                
-            # Resize/Crop to 9:16
-            
-            # Simple "Cover" logic
-            ratio_w = VIDEO_WIDTH / video_clip.w
-            ratio_h = VIDEO_HEIGHT / video_clip.h
-            scale_factor = max(ratio_w, ratio_h)
-            
-            # v2: resize -> resized
-            video_clip = video_clip.resized(scale_factor)
-            video_clip = video_clip.with_position('center') 
-            
-            # v2: crop -> cropped
-            video_clip = video_clip.cropped(width=VIDEO_WIDTH, height=VIDEO_HEIGHT, x_center=video_clip.w/2, y_center=video_clip.h/2)
-            
-        else:
-            # Fallback black screen or color
-            from moviepy import ColorClip
-            video_clip = ColorClip(size=(VIDEO_WIDTH, VIDEO_HEIGHT), color=(0,0,0)).with_duration(duration)
+        # 2. Key Element: Background (Sky Blue)
+        # Color: SkyBlue (135, 206, 235)
+        bg_clip = ColorClip(size=(VIDEO_WIDTH, VIDEO_HEIGHT), color=(135, 206, 235)).with_duration(duration)
+        clips_to_composite = [bg_clip]
 
-        video_clip = video_clip.with_audio(audio_clip)
-
-        # 3. Subtitle
-        sub_clip = self.create_subtitle_clip(text, duration)
+        # 3. Header: Image Overlay on Dark Blue Background
+        # Dark Blue: #003366 -> (0, 51, 102)
+        header_height = 200
+        header_bg = ColorClip(size=(VIDEO_WIDTH, header_height), color=(0, 51, 102)).with_duration(duration).with_position(('center', 'top'))
         
-        # 4. Composite
-        if sub_clip:
-            final_segment = CompositeVideoClip([video_clip, sub_clip], size=(VIDEO_WIDTH, VIDEO_HEIGHT))
+        header_img_path = os.path.join("assets", "Daily Semicon News.png")
+        if os.path.exists(header_img_path):
+            try:
+                header_img = ImageClip(header_img_path).with_duration(duration)
+                # Resize height to 50% of header height (100px) as requested
+                header_img = header_img.resized(height=int(header_height * 0.5))
+                header_img = header_img.with_position('center')
+                
+                # Composite Header
+                header_combined = CompositeVideoClip([header_bg, header_img], size=(VIDEO_WIDTH, header_height)).with_position(('center', 'top'))
+                clips_to_composite.append(header_combined)
+            except Exception as e:
+                print(f"      ⚠️ Header Image Logic Failed: {e}")
+                clips_to_composite.append(header_bg)
         else:
-            final_segment = video_clip
+            print(f"      ⚠️ Header Image Not Found: {header_img_path}")
+            clips_to_composite.append(header_bg)
+
+        # 4. Image: Square Crop, Centered Vertical
+        image_path = self.fetch_pixabay_image(keyword, segment_id)
+        
+        if image_path and os.path.exists(image_path):
+            img_clip = ImageClip(image_path).with_duration(duration)
             
-        return final_segment
+            # Smart Crop to Square (900x900)
+            img_w, img_h = img_clip.size
+            min_dim = min(img_w, img_h)
+            
+            # [Fix] Use .cropped() (v2 naming) with manual centering
+            # Avoid 'center' arg, calculate top-left (x1, y1)
+            x1 = (img_w - min_dim) / 2
+            y1 = (img_h - min_dim) / 2
+            img_clip = img_clip.cropped(x1=x1, y1=y1, width=min_dim, height=min_dim)
+            
+            img_clip = img_clip.resized(width=900, height=900)
+            
+            # Position: Below Header (Y=200) + Padding
+            img_clip = img_clip.with_position(('center', 350))
+            clips_to_composite.append(img_clip)
+        else:
+             print(f"      ⚠️ Image missing for '{keyword}', using blank.")
+
+        # 5. Subtitle: Bottom Area
+        sub_clip = self.create_subtitle_clip(text, duration)
+        if sub_clip:
+            # Position Text at Bottom
+            sub_clip = sub_clip.with_position(('center', 1350))
+            clips_to_composite.append(sub_clip)
+        
+        # 5. Composite
+        # Ensure we set audio
+        final_clip = CompositeVideoClip(clips_to_composite).with_audio(audio_clip).with_duration(duration)
+        return final_clip
+
 
     async def create_shorts(self, script_data, global_topic):
         print("🚀 Starting Shorts Generation...")
@@ -242,19 +277,15 @@ class VideoGenerator:
                 # Async tasks
                 audio_path = await self.generate_audio_segment(sentence, global_segment_index)
                 
-                # Video Search (Pixabay)
-                search_query = f"{keyword}"
-                video_url = self.get_pixabay_video(search_query)
-                if not video_url:
-                     print(f"      ⚠️ Fallback to global topic: {global_topic}")
-                     video_url = self.get_pixabay_video(global_topic)
-                
-                video_path = self.download_video(video_url, global_segment_index)
+                # [Flux/Card News Update]
+                # We no longer pre-download videos. We pass the KEYWORD to process_segment.
+                # process_segment will generate the Flux image.
                 
                 segments.append({
                     "text": sentence,
                     "audio_path": audio_path,
-                    "video_path": video_path
+                    "keyword": keyword, # Pass keyword for image generation
+                    # "video_path": video_path # REMOVED
                 })
                 global_segment_index += 1
 
