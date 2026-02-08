@@ -115,14 +115,18 @@ def generate_english_shorts_script(news_data, topic_keyword):
     Return a valid JSON object with a "title" and a list of "segments".
     Each segment must have:
     - "text": The narration sentence (Clean English, no scene directions).
-    - "keyword": A single, concrete English search term for Pexels video background.
+    - "image_prompt": A highly detailed, cinematic, photorealistic image description for Pollinations AI (Flux model). 
+       * Describe the scene, lighting, and mood. 
+       * Use keywords like "hyper-realistic", "8k", "cinematic lighting", "shallow depth of field", "dramatic angle".
+       * **CRITICAL**: The image must perfectly match the specific content of the sentence, not just the general topic. 
+       * Avoid text in the image.
     
     Example:
     {{
       "title": "AI News Daily",
       "segments": [
-        {{"text": "Nvidia's new chip creates 3D worlds in milliseconds.", "keyword": "computer chip"}},
-        {{"text": "OpenAI just released a tool that clones voices instantly.", "keyword": "sound wave"}}
+        {{"text": "Nvidia's new chip creates 3D worlds in milliseconds.", "image_prompt": "Close-up of a futuristic glowing green computer chip with complex circuitry, cinematic lighting, 8k resolution, photorealistic, dramatic angle"}},
+        {{"text": "OpenAI just released a tool that clones voices instantly.", "image_prompt": "A sound wave visualization on a digital screen, blue and purple neon colors, high tech interface, macro shot, shallow depth of field"}}
       ]
     }}
     """
@@ -139,7 +143,7 @@ def generate_english_shorts_script(news_data, topic_keyword):
         if "segments" in result:
             result["segments"].append({
                 "text": "If useful, please like and subscribe!", 
-                "keyword": "youtube subscribe"
+                "image_prompt": "Youtube subscribe button, 3d render, neon lighting, dark background, 4k"
             })
             
         return result

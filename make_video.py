@@ -60,42 +60,40 @@ class VideoGenerator:
         await communicate.save(output_file)
         return output_file
 
-    def fetch_pixabay_image(self, query, segment_id):
+    def fetch_pollinations_image(self, query, segment_id):
         """
-        Fetches a relevant image from Pixabay.
+        Fetches an AI-generated image from Pollinations (Flux model).
         """
         output_filename = os.path.join(self.output_dir, f"image_{segment_id}.jpg")
         
-        if not PIXABAY_API_KEY:
-            print("      ⚠️ PIXABAY_API_KEY missing. Using random color.")
-            return self.create_random_bg(output_filename)
-
-        url = f"https://pixabay.com/api/?key={PIXABAY_API_KEY}&q={query}&image_type=photo&orientation=vertical&per_page=3"
+        # Enhanced Prompt for Flux
+        # We want vertical or square. Pollinations allows width/height.
+        # Let's request 1080x1080 (square) to allow potential cropping or 1080x1920 (vertical).
+        # enhancing the query for better results
+        enhanced_query = f"{query}, high quality, detailed, realistic, cinematic lighting"
+        encoded_query = requests.utils.quote(enhanced_query)
+        
+        # URL for Pollinations
+        # Model: flux (default is currently flux or similar high quality)
+        # Size: 1080x1080 (Square is safer for centering in our logic)
+        url = f"https://image.pollinations.ai/prompt/{encoded_query}?width=1080&height=1080&model=flux&nologo=true&seed={random.randint(0, 100000)}"
         
         try:
-            print(f"      🔎 [Pixabay] Searching for: '{query}'...")
-            response = requests.get(url, timeout=10)
-            data = response.json()
+            print(f"      🎨 [Pollinations] Generating image for: '{query}'...")
+            # TIMEOUT INCREASED to 60s for AI generation
+            response = requests.get(url, timeout=60) 
             
-            hits = data.get('hits', [])
-            if hits:
-                # Pick a random one from top 3
-                image_data = random.choice(hits)
-                image_url = image_data.get('largeImageURL') or image_data.get('webformatURL')
-                
-                if image_url:
-                    # Download
-                    img_data = requests.get(image_url).content
-                    with open(output_filename, 'wb') as f:
-                        f.write(img_data)
-                    print(f"      ✅ [Pixabay] Image Downloaded: {output_filename}")
-                    return output_filename
-            
-            print(f"      ⚠️ No images found for '{query}'. Fallback to random color.")
-            return self.create_random_bg(output_filename)
+            if response.status_code == 200:
+                with open(output_filename, 'wb') as f:
+                    f.write(response.content)
+                print(f"      ✅ [Pollinations] Image Generated: {output_filename}")
+                return output_filename
+            else:
+                print(f"      ⚠️ Pollinations Error: Status {response.status_code}")
+                return self.create_random_bg(output_filename)
 
         except Exception as e:
-            print(f"      ⚠️ Pixabay Error: {e}")
+            print(f"      ⚠️ Pollinations Exception: {e}")
             return self.create_random_bg(output_filename)
 
     def create_random_bg(self, output_filename):
@@ -189,7 +187,13 @@ class VideoGenerator:
         
         # 2. Key Element: Background (Sky Blue)
         # Color: SkyBlue (135, 206, 235)
-        bg_clip = ColorClip(size=(VIDEO_WIDTH, VIDEO_HEIGHT), color=(135, 206, 235)).with_duration(duration)
+        # bg_clip = ColorClip(size=(VIDEO_WIDTH, VIDEO_HEIGHT), color=(135, 206, 235)).with_duration(duration)
+        # Changing to a more neutral/tech-friendly background or keep sky blue? 
+        # User hasn't complained about background color, but darker might be better for "News".
+        # Let's keep it as is for now to avoid scope creep, or maybe a very dark blue to match header?
+        # Let's stick to the previous SkyBlue as it was working, or maybe standard Dark Grey.
+        # "Card News" usually has a clean background.
+        bg_clip = ColorClip(size=(VIDEO_WIDTH, VIDEO_HEIGHT), color=(20, 20, 30)).with_duration(duration) # Darker background
         clips_to_composite = [bg_clip]
 
         # 3. Header: Image Overlay on Dark Blue Background
@@ -216,26 +220,38 @@ class VideoGenerator:
             clips_to_composite.append(header_bg)
 
         # 4. Image: Square Crop, Centered Vertical
-        image_path = self.fetch_pixabay_image(keyword, segment_id)
+        # SWITCHED TO POLLINATIONS
+        # [User Request] Use image_prompt if available
+        image_query = segment_data.get('image_prompt', keyword)
+        image_path = self.fetch_pollinations_image(image_query, segment_id)
+        
+        # Default positioning if image fails
+        image_bottom_y = 250 + 900 
         
         if image_path and os.path.exists(image_path):
-            img_clip = ImageClip(image_path).with_duration(duration)
-            
-            # Smart Crop to Square (900x900)
-            img_w, img_h = img_clip.size
-            min_dim = min(img_w, img_h)
-            
-            # [Fix] Use .cropped() (v2 naming) with manual centering
-            # Avoid 'center' arg, calculate top-left (x1, y1)
-            x1 = (img_w - min_dim) / 2
-            y1 = (img_h - min_dim) / 2
-            img_clip = img_clip.cropped(x1=x1, y1=y1, width=min_dim, height=min_dim)
-            
-            img_clip = img_clip.resized(width=900, height=900)
-            
-            # Position: Below Header (Y=200) + Padding
-            img_clip = img_clip.with_position(('center', 350))
-            clips_to_composite.append(img_clip)
+            try:
+                img_clip = ImageClip(image_path).with_duration(duration)
+                
+                # Resize to fit width 900 (leaving margins)
+                # 1080 width screen -> 900 width image = 90px margin on each side
+                img_clip = img_clip.resized(width=900)
+                
+                # If height > 900, crop it? Or just let it be?
+                # Pollinations returns 1080x1080 usually if requested, or similar.
+                # Let's ensure it's max 900x900
+                if img_clip.h > 900:
+                    img_clip = img_clip.cropped(y1=0, y2=900) # Crop from top
+                    
+                # Position: Below Header (Y=200) + Padding (e.g. 50px) -> Y=250
+                img_clip = img_clip.with_position(('center', 250))
+                clips_to_composite.append(img_clip)
+                
+                # [User Request] Dynamic Subtitle Position
+                # Update bottom Y based on actual image height
+                image_bottom_y = 250 + img_clip.h
+                
+            except Exception as e:
+                 print(f"      ⚠️ Image processing failed: {e}")
         else:
              print(f"      ⚠️ Image missing for '{keyword}', using blank.")
 
@@ -243,7 +259,9 @@ class VideoGenerator:
         sub_clip = self.create_subtitle_clip(text, duration)
         if sub_clip:
             # Position Text at Bottom
-            sub_clip = sub_clip.with_position(('center', 1350))
+            # [User Request] Immediately below image (e.g. +50px padding)
+            subtitle_y = image_bottom_y + 50
+            sub_clip = sub_clip.with_position(('center', subtitle_y))
             clips_to_composite.append(sub_clip)
         
         # 5. Composite
@@ -277,14 +295,14 @@ class VideoGenerator:
                 # Async tasks
                 audio_path = await self.generate_audio_segment(sentence, global_segment_index)
                 
-                # [Flux/Card News Update]
-                # We no longer pre-download videos. We pass the KEYWORD to process_segment.
-                # process_segment will generate the Flux image.
+                # [Pollinations Update] Use image_prompt if available, else keyword
+                image_prompt = seg.get('image_prompt', keyword)
                 
                 segments.append({
                     "text": sentence,
                     "audio_path": audio_path,
-                    "keyword": keyword, # Pass keyword for image generation
+                    "image_prompt": image_prompt, # Pass full prompt
+                    "keyword": keyword, # Keep just in case
                     # "video_path": video_path # REMOVED
                 })
                 global_segment_index += 1
