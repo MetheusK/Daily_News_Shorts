@@ -74,8 +74,8 @@ class VideoGenerator:
         # [User Request] Fallback Models (SDXL -> SD 1.5)
         # Using router endpoint for all to avoid 410
         MODELS = [
-            "stabilityai/stable-diffusion-xl-base-1.0",
-            "runwayml/stable-diffusion-v1-5"
+            "runwayml/stable-diffusion-v1-5",
+            "stabilityai/stable-diffusion-xl-base-1.0"
         ]
         
         # Enhanced Prompt
