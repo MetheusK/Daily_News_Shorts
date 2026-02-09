@@ -29,6 +29,7 @@ load_dotenv(r"C:\Coding\Python\.env")
 # ==========================================
 #PEXELS_API_KEY = os.environ.get("PEXELS_API_KEY")
 PIXABAY_API_KEY = os.environ.get("PIXABAY_API_KEY")
+HF_TOKEN = os.environ.get("HF_TOKEN")
 
 VOICE_NAME = "en-US-ChristopherNeural" # options: en-US-AriaNeural, en-US-GuyNeural
 VIDEO_WIDTH = 1080
@@ -60,27 +61,75 @@ class VideoGenerator:
         await communicate.save(output_file)
         return output_file
 
-    def fetch_pollinations_image(self, query, segment_id):
+    def fetch_hf_image(self, query, segment_id):
         """
-        Fetches an AI-generated image from Pollinations (Flux model).
+        Fetches an AI-generated image from Hugging Face Inference API (Flux model).
         """
         output_filename = os.path.join(self.output_dir, f"image_{segment_id}.jpg")
         
-        # Enhanced Prompt for Flux
-        # We want vertical or square. Pollinations allows width/height.
-        # Let's request 1080x1080 (square) to allow potential cropping or 1080x1920 (vertical).
-        # enhancing the query for better results
+        if not HF_TOKEN:
+            print("      ⚠️ HF_TOKEN not found. Using random background.")
+            return self.create_random_bg(output_filename)
+
+        # [User Request] Fallback Models (SDXL -> SD 1.5)
+        # Using router endpoint for all to avoid 410
+        MODELS = [
+            "stabilityai/stable-diffusion-xl-base-1.0",
+            "runwayml/stable-diffusion-v1-5"
+        ]
+        
+        # Enhanced Prompt
+        enhanced_query = f"{query}, high quality, detailed, realistic, cinematic lighting"
+        
+        for model in MODELS:
+            API_URL = f"https://router.huggingface.co/hf-inference/models/{model}"
+            headers = {"Authorization": f"Bearer {HF_TOKEN}"}
+            
+            payload = {
+                "inputs": enhanced_query,
+                "parameters": {
+                    "width": 1024 if "xl" in model else 512, # SDXL supports 1024, SD1.5 512
+                    "height": 1024 if "xl" in model else 512, # Square
+                    "guidance_scale": 7.5,
+                    "num_inference_steps": 25,
+                }
+            }
+
+            try:
+                print(f"      🎨 [Hugging Face] Generating image with {model}...")
+                response = requests.post(API_URL, headers=headers, json=payload, timeout=60)
+                
+                if response.status_code == 200:
+                    with open(output_filename, 'wb') as f:
+                        f.write(response.content)
+                    print(f"      ✅ [Hugging Face] Image Generated ({model}): {output_filename}")
+                    return output_filename
+                else:
+                    print(f"      ⚠️ HF Error ({model}): Status {response.status_code}, {response.text}")
+                    # Continue to next model
+                    
+            except Exception as e:
+                print(f"      ⚠️ HF Exception ({model}): {e}")
+                # Continue to next model
+
+        print("      ❌ All HF models failed. Falling back to Pollinations AI...")
+        return self.fetch_pollinations_image(query, segment_id)
+
+    def fetch_pollinations_image(self, query, segment_id):
+        """
+        Fetches an AI-generated image from Pollinations (Flux model) as a fallback.
+        """
+        output_filename = os.path.join(self.output_dir, f"image_{segment_id}.jpg")
+        
+        # Enhanced Prompt
         enhanced_query = f"{query}, high quality, detailed, realistic, cinematic lighting"
         encoded_query = requests.utils.quote(enhanced_query)
         
-        # URL for Pollinations
-        # Model: flux (default is currently flux or similar high quality)
-        # Size: 1080x1080 (Square is safer for centering in our logic)
+        # URL for Pollinations - Square 1080x1080 for 1:1
         url = f"https://image.pollinations.ai/prompt/{encoded_query}?width=1080&height=1080&model=flux&nologo=true&seed={random.randint(0, 100000)}"
         
         try:
             print(f"      🎨 [Pollinations] Generating image for: '{query}'...")
-            # TIMEOUT INCREASED to 60s for AI generation
             response = requests.get(url, timeout=60) 
             
             if response.status_code == 200:
@@ -220,10 +269,10 @@ class VideoGenerator:
             clips_to_composite.append(header_bg)
 
         # 4. Image: Square Crop, Centered Vertical
-        # SWITCHED TO POLLINATIONS
+        # SWITCHED TO HUGGING FACE
         # [User Request] Use image_prompt if available
         image_query = segment_data.get('image_prompt', keyword)
-        image_path = self.fetch_pollinations_image(image_query, segment_id)
+        image_path = self.fetch_hf_image(image_query, segment_id)
         
         # Default positioning if image fails
         image_bottom_y = 250 + 900 

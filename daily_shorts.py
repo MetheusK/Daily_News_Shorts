@@ -115,7 +115,7 @@ def generate_english_shorts_script(news_data, topic_keyword):
     Return a valid JSON object with a "title" and a list of "segments".
     Each segment must have:
     - "text": The narration sentence (Clean English, no scene directions).
-    - "image_prompt": A highly detailed, cinematic, photorealistic image description for Pollinations AI (Flux model). 
+    - "image_prompt": A highly detailed, cinematic, photorealistic image description for Hugging Face (Flux model). 
        * Describe the scene, lighting, and mood. 
        * Use keywords like "hyper-realistic", "8k", "cinematic lighting", "shallow depth of field", "dramatic angle".
        * **CRITICAL**: The image must perfectly match the specific content of the sentence, not just the general topic. 
