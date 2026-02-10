@@ -1,21 +1,17 @@
 {
-  "title": "Semi-Con Blitz: Texas, AMD, SMIC Updates!",
+  "title": "Chip Market Rockets: TSMC Highs, AI Glass, Texas Tech Boom!",
   "segments": [
     {
-      "text": "Texas is making a massive play to become the global epicenter for semiconductor manufacturing and advanced AI development. This isn't just talk; we're seeing billions in investment, new state-of-the-art fabrication plants rising, and a strategic recruitment drive for top engineering talent, setting the stage for a dramatic economic boom and technological leadership.",
-      "image_prompt": "A wide, hyper-realistic shot of a sprawling, futuristic semiconductor fabrication plant complex at dawn in Texas, sleek glass and steel architecture, a few robotic arms visible assembling components inside, a highway leading to it, 8k, cinematic lighting, shallow depth of field, dramatic wide angle."
+      "text": "TSMC just hit a record stock high following robust sales, solidifying its standing as the world's premier chip foundry. This surge underscores an insatiable global demand, especially for cutting-edge semiconductors powering advanced AI servers, sophisticated data centers, and the newest generation of high-end smartphones. Market confidence is soaring.",
+      "image_prompt": "A hyper-realistic close-up of a TSMC branded silicon wafer under cinematic lighting, showing intricate circuits glowing faintly with blue and gold hues. Shallow depth of field, 8k resolution, dramatic low angle."
     },
     {
-      "text": "This expansion means more secure domestic chip supply chains and a significant boost to AI innovation, from data centers to autonomous vehicles. Texas isn't just building chips; it's building the infrastructure for the next generation of artificial intelligence power, directly impacting industries worldwide.",
-      "image_prompt": "Intricate network of glowing blue data lines connecting digital representations of microchips and server racks, all within a stylized map of Texas, hyper-realistic, 8k, cinematic lighting, dramatic close-up, shallow depth of field."
+      "text": "Shifting gears, Corning Inc. is in the spotlight for its \"Glass Architecture of AI,\" revealing glass's foundational and often overlooked role. Beyond displays, think ultra-thin, high-strength glass substrates for advanced chip packaging, crucial optical interconnects, and high-bandwidth data transmission within massive AI infrastructure. This material innovation is critical for future AI hardware performance.",
+      "image_prompt": "A scientist in a cleanroom, wearing protective gear, meticulously examining a translucent, wafer-thin sheet of advanced glass material with precision tweezers under a powerful microscope, illuminated by cool, scientific lighting. Hyper-realistic, 8k, shallow depth of field."
     },
     {
-      "text": "Shifting gears, expert analysis from intellectia.ai points to a very strong outlook for AMD stock by 2026. Projections include impressive price targets, driven by their relentless innovation in high-performance computing, particularly within the booming AI accelerator market and enterprise data centers.",
-      "image_prompt": "A dynamic 3D rendering of an AMD Ryzen or EPYC processor chip glowing with intricate circuits, juxtaposed against an upward-trending stock market graph on a holographic display, hyper-realistic, 8k, cinematic lighting, shallow depth of field."
-    },
-    {
-      "text": "Meanwhile, SMIC, a major Chinese chip manufacturer, just reported an absolutely massive 60.7% jump in fourth-quarter profit. This staggering growth is a direct result of insatiable global demand for semiconductors, underscoring the critical, ongoing shortage and the relentless pressure on manufacturing capacity worldwide.",
-      "image_prompt": "A hyper-realistic, close-up shot of a complex circuit board with multiple microchips under an industrial microscope, vivid reflections of factory lights, a digital readout showing '60.7% PROFIT' in the background, 8k, cinematic lighting, shallow depth of field, dramatic macro angle."
+      "text": "Finally, Texas is making a monumental push, positioning itself as a national leader in both advanced chip manufacturing and AI innovation. With billions in new federal and private investments, multiple new fabrication plants are set to break ground. This strategic move aims to significantly boost US semiconductor independence, diversify global supply chains, and create thousands of high-tech, high-paying jobs across the state.",
+      "image_prompt": "A wide, sweeping shot of a futuristic semiconductor factory under construction in a vast Texan desert landscape, with multiple robotic cranes lifting steel beams and construction workers in hard hats. The scene is bathed in the warm, golden light of a setting sun. Hyper-realistic, 8k, cinematic lighting, epic scale."
     },
     {
       "text": "If useful, please like and subscribe!",
