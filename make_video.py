@@ -31,13 +31,10 @@ load_dotenv(r"C:\Coding\Python\.env")
 PIXABAY_API_KEY = os.environ.get("PIXABAY_API_KEY")
 HF_TOKEN = os.environ.get("HF_TOKEN")
 CLOUDFLARE_ACCOUNT_ID = os.environ.get("CLOUDFLARE_ACCOUNT_ID")
-CLOUDFLARE_API_TOKEN = os.environ.get("CLOUDFLARE_API_TOKEN") or os.environ.get("CLOUDFLARE_API_KEY")
+CLOUDFLARE_API_KEY = os.environ.get("CLOUDFLARE_API_KEY") or os.environ.get("CLOUDFLARE_API_TOKEN")
 
 VOICE_NAME = "en-US-ChristopherNeural" # options: en-US-AriaNeural, en-US-GuyNeural
 VIDEO_WIDTH = 1080
-VIDEO_HEIGHT = 1920
-VIDEO_HEIGHT = 1920
-FONT_SIZE = 70
 VIDEO_HEIGHT = 1920
 FONT_SIZE = 70
 MAX_SUBTITLE_CHARS = 120 # [User Request] Increased limit for longer subtitles
@@ -75,8 +72,8 @@ class VideoGenerator:
         """
         output_filename = os.path.join(self.output_dir, f"image_{segment_id}.jpg")
         
-        if not CLOUDFLARE_ACCOUNT_ID or not CLOUDFLARE_API_TOKEN or "your-account-id" in CLOUDFLARE_ACCOUNT_ID:
-            # print("      ⚠️ Cloudflare credentials not set. Skipping.")
+        if not CLOUDFLARE_ACCOUNT_ID or not CLOUDFLARE_API_KEY or "your-account-id" in CLOUDFLARE_ACCOUNT_ID:
+            print(f"      ⚠️ Cloudflare credentials not set (ID={bool(CLOUDFLARE_ACCOUNT_ID)}, Key={bool(CLOUDFLARE_API_KEY)}). Skipping.")
             return None
 
         # Build API URL
@@ -87,7 +84,7 @@ class VideoGenerator:
         enhanced_query = f"{query}, high quality, detailed, realistic, cinematic lighting"
         
         headers = {
-            "Authorization": f"Bearer {CLOUDFLARE_API_TOKEN}",
+            "Authorization": f"Bearer {CLOUDFLARE_API_KEY}",
             "Content-Type": "application/json"
         }
         

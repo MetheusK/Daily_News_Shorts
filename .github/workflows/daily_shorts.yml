@@ -54,7 +54,7 @@ jobs:
         YOUTUBE_REFRESH_TOKEN: ${{ secrets.YOUTUBE_REFRESH_TOKEN }}
         # [New] Cloudflare & HF Secrets
         CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-        CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+        CLOUDFLARE_API_KEY: ${{ secrets.CLOUDFLARE_API_KEY }} # [Fix] Using API KEY as requested
         HF_TOKEN: ${{ secrets.HF_TOKEN }}
       # 실행할 파이썬 파일명이 정확해야 합니다. (예: daily_shorts.py)
       run: python daily_shorts.py

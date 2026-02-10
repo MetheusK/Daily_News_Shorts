@@ -15,12 +15,12 @@ def test_cloudflare():
     print("🧪 Testing Cloudflare Image Generation (Direct API)...")
     
     account_id = os.environ.get("CLOUDFLARE_ACCOUNT_ID")
-    api_token = os.environ.get("CLOUDFLARE_API_TOKEN") or os.environ.get("CLOUDFLARE_API_KEY")
+    api_key = os.environ.get("CLOUDFLARE_API_KEY") or os.environ.get("CLOUDFLARE_API_TOKEN")
     
     print(f"   Account ID: {account_id}")
-    print(f"   Token: {'*' * 5} (Hidden)" if api_token else "   Token: Not Set")
+    print(f"   Key: {'*' * 5} (Hidden)" if api_key else "   Key: Not Set")
 
-    if not account_id or not api_token or "your-account-id" in account_id:
+    if not account_id or not api_key or "your-account-id" in account_id:
         print("❌ Cloudflare credentials are still placeholders. Please update .env.")
         return
 
