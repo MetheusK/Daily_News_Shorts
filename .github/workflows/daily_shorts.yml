@@ -16,7 +16,7 @@ permissions:
 jobs:
   generate-and-save:
     runs-on: ubuntu-latest
-    timeout-minutes: 10 # 10분 이상 걸리면 강제 종료 (무한 루프 방지)
+    timeout-minutes: 15 # 10분 이상 걸리면 강제 종료 (무한 루프 방지)
 
     steps:
     # 1. 내 리포지토리의 코드를 가져옴
