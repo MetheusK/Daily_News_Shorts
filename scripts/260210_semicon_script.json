@@ -1,29 +1,21 @@
 {
-  "title": "Semi-Con Short: Texas Rises, Global Tech Surges!",
+  "title": "Semi-Con Blitz: Texas, AMD, SMIC Updates!",
   "segments": [
     {
-      "text": "Texas is rapidly cementing its status as a global powerhouse in semiconductor manufacturing and AI innovation. Major investments are transforming the state into a crucial hub for next-gen chip production.",
-      "image_prompt": "Hyper-realistic, dramatic aerial shot of a massive, pristine semiconductor giga-factory complex in Texas at dawn, intricate network of white buildings under a clear sky, cinematic lighting, 8k, shallow depth of field, photorealistic."
+      "text": "Texas is making a massive play to become the global epicenter for semiconductor manufacturing and advanced AI development. This isn't just talk; we're seeing billions in investment, new state-of-the-art fabrication plants rising, and a strategic recruitment drive for top engineering talent, setting the stage for a dramatic economic boom and technological leadership.",
+      "image_prompt": "A wide, hyper-realistic shot of a sprawling, futuristic semiconductor fabrication plant complex at dawn in Texas, sleek glass and steel architecture, a few robotic arms visible assembling components inside, a highway leading to it, 8k, cinematic lighting, shallow depth of field, dramatic wide angle."
     },
     {
-      "text": "This strategic push promises thousands of high-tech jobs, bolstering domestic supply chains and reducing reliance on overseas fabrication. We're talking billions flowing into advanced research and development, solidifying America's chip independence.",
-      "image_prompt": "Close-up, hyper-realistic shot of a robotic arm precisely placing a polished silicon wafer onto a processing tray inside a sterile cleanroom, brilliant white and silver tones, glowing green lasers, cinematic lighting, 8k, shallow depth of field, photorealistic."
+      "text": "This expansion means more secure domestic chip supply chains and a significant boost to AI innovation, from data centers to autonomous vehicles. Texas isn't just building chips; it's building the infrastructure for the next generation of artificial intelligence power, directly impacting industries worldwide.",
+      "image_prompt": "Intricate network of glowing blue data lines connecting digital representations of microchips and server racks, all within a stylized map of Texas, hyper-realistic, 8k, cinematic lighting, dramatic close-up, shallow depth of field."
     },
     {
-      "text": "Shifting gears, Deloitte’s 2026 Global Hardware and Consumer Tech Industry Outlook forecasts robust growth, driven by pervasive AI integration and advanced connectivity. Expect significant market expansion across smart devices and IoT.",
-      "image_prompt": "A stylized 3D holographic projection of a global network map with glowing data points and lines, surrounding a sleek, futuristic smart home interface showing interconnected devices, blue and green neon light, cinematic lighting, 8k, photorealistic."
+      "text": "Shifting gears, expert analysis from intellectia.ai points to a very strong outlook for AMD stock by 2026. Projections include impressive price targets, driven by their relentless innovation in high-performance computing, particularly within the booming AI accelerator market and enterprise data centers.",
+      "image_prompt": "A dynamic 3D rendering of an AMD Ryzen or EPYC processor chip glowing with intricate circuits, juxtaposed against an upward-trending stock market graph on a holographic display, hyper-realistic, 8k, cinematic lighting, shallow depth of field."
     },
     {
-      "text": "Analysts predict a surge in demand for AI-specific hardware, edge computing solutions, and immersive AR/VR technologies. This translates to accelerated innovation cycles and increased R&D spending globally.",
-      "image_prompt": "A person wearing sleek, futuristic augmented reality glasses interacting with glowing digital overlays in a modern urban park at dusk, data streams floating in the air, hyper-realistic, shallow depth of field, dramatic street lighting, 8k, photorealistic."
-    },
-    {
-      "text": "Meanwhile, TSMC, the world’s largest contract chipmaker, remains a pivotal stock in focus. Its critical role in producing advanced chips for everything from smartphones to data centers makes it a bellwether for the entire tech sector.",
-      "image_prompt": "Extreme close-up, hyper-realistic shot of a highly detailed microchip under a powerful electron microscope, showing intricate nanoscale circuitry with glowing blue and gold pathways, cinematic lighting, 8k, photorealistic, no text."
-    },
-    {
-      "text": "Geopolitical considerations and intense competition continue to place TSMC at the heart of global supply chain discussions, underscoring its immense influence on the future of technology.",
-      "image_prompt": "A stack of gleaming, perfectly cut silicon wafers, highly reflective, resting on a pedestal in a dimly lit high-security cleanroom, server racks humming with blue indicator lights in the background, cinematic lighting, 8k, shallow depth of field, photorealistic."
+      "text": "Meanwhile, SMIC, a major Chinese chip manufacturer, just reported an absolutely massive 60.7% jump in fourth-quarter profit. This staggering growth is a direct result of insatiable global demand for semiconductors, underscoring the critical, ongoing shortage and the relentless pressure on manufacturing capacity worldwide.",
+      "image_prompt": "A hyper-realistic, close-up shot of a complex circuit board with multiple microchips under an industrial microscope, vivid reflections of factory lights, a digital readout showing '60.7% PROFIT' in the background, 8k, cinematic lighting, shallow depth of field, dramatic macro angle."
     },
     {
       "text": "If useful, please like and subscribe!",
