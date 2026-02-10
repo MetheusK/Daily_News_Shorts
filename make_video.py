@@ -30,17 +30,24 @@ load_dotenv(r"C:\Coding\Python\.env")
 #PEXELS_API_KEY = os.environ.get("PEXELS_API_KEY")
 PIXABAY_API_KEY = os.environ.get("PIXABAY_API_KEY")
 HF_TOKEN = os.environ.get("HF_TOKEN")
+CLOUDFLARE_ACCOUNT_ID = os.environ.get("CLOUDFLARE_ACCOUNT_ID")
+CLOUDFLARE_API_TOKEN = os.environ.get("CLOUDFLARE_API_TOKEN") or os.environ.get("CLOUDFLARE_API_KEY")
 
 VOICE_NAME = "en-US-ChristopherNeural" # options: en-US-AriaNeural, en-US-GuyNeural
 VIDEO_WIDTH = 1080
 VIDEO_HEIGHT = 1920
+VIDEO_HEIGHT = 1920
 FONT_SIZE = 70
+VIDEO_HEIGHT = 1920
+FONT_SIZE = 70
+MAX_SUBTITLE_CHARS = 120 # [User Request] Increased limit for longer subtitles
 # ImageMagick path configuration might be needed on Windows
 # change_settings({"IMAGEMAGICK_BINARY": r"C:\Program Files\ImageMagick-7.1.1-Q16-HDRI\magick.exe"})
 
 class VideoGenerator:
     def __init__(self, output_dir="temp_assets"):
         self.output_dir = output_dir
+        self.image_cache = {} # Cache for reusing images across split segments
         
         # Cleanup existing assets to ensure fresh generation
         if os.path.exists(output_dir):
@@ -60,6 +67,88 @@ class VideoGenerator:
         communicate = edge_tts.Communicate(text, VOICE_NAME, rate="+20%")
         await communicate.save(output_file)
         return output_file
+
+    def fetch_cloudflare_image(self, query, segment_id):
+        """
+        Fetches an AI-generated image from Cloudflare Workers AI (Direct API).
+        Model: @cf/black-forest-labs/flux-1-schnell
+        """
+        output_filename = os.path.join(self.output_dir, f"image_{segment_id}.jpg")
+        
+        if not CLOUDFLARE_ACCOUNT_ID or not CLOUDFLARE_API_TOKEN or "your-account-id" in CLOUDFLARE_ACCOUNT_ID:
+            # print("      ⚠️ Cloudflare credentials not set. Skipping.")
+            return None
+
+        # Build API URL
+        # Docs: https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/
+        API_URL = f"https://api.cloudflare.com/client/v4/accounts/{CLOUDFLARE_ACCOUNT_ID}/ai/run/@cf/black-forest-labs/flux-1-schnell"
+
+        # Enhanced Prompt
+        enhanced_query = f"{query}, high quality, detailed, realistic, cinematic lighting"
+        
+        headers = {
+            "Authorization": f"Bearer {CLOUDFLARE_API_TOKEN}",
+            "Content-Type": "application/json"
+        }
+        
+        payload = {
+            "prompt": enhanced_query
+        }
+
+        try:
+            print(f"      🎨 [Cloudflare] Generating image for: '{query}'...")
+            response = requests.post(API_URL, headers=headers, json=payload, timeout=60)
+            
+            if response.status_code == 200:
+                result = response.json()
+                # The direct API returns JSON with "result": {"image": "base64..."}
+                if "result" in result and "image" in result["result"]:
+                    import base64
+                    image_b64 = result["result"]["image"]
+                    image_data = base64.b64decode(image_b64)
+                    
+                    with open(output_filename, 'wb') as f:
+                        f.write(image_data)
+                    print(f"      ✅ [Cloudflare] Image Generated: {output_filename}")
+                    return output_filename
+                else:
+                    print(f"      ⚠️ Cloudflare Response Format Error: {result.keys()}")
+                    return None
+            else:
+                print(f"      ⚠️ Cloudflare Error: Status {response.status_code}, {response.text}")
+                return None
+                
+        except Exception as e:
+            print(f"      ⚠️ Cloudflare Exception: {e}")
+            return None
+
+    def fetch_image_from_providers(self, query, segment_id):
+        """
+        Tries to fetch image from providers in order:
+        1. Cloudflare (Fastest, Free if set up)
+        2. Hugging Face (High Quality, Rate Limits)
+        3. Pollinations (Backup)
+        4. Random Background (Last Resort)
+        """
+        # 1. Cloudflare
+        image_path = self.fetch_cloudflare_image(query, segment_id)
+        if image_path: return image_path
+        
+        # 2. Hugging Face
+        image_path = self.fetch_hf_image(query, segment_id)
+        if image_path: return image_path
+        
+        # 3. Pollinations (fetch_hf_image already falls back to this, but let's make it explicit if HF fails completely)
+        # Actually fetch_hf_image logic currently handles fallback to Pollinations internally.
+        # But we can restructure slightly or just call fetch_hf_image which now acts as "HF -> Pollinations" 
+        # For clarity, let's keep fetch_hf_image as is for now, but rename/refactor later if needed.
+        # Since fetch_hf_image calls fetch_pollinations_image on failure, we just return whatever it gave 
+        # (which might be random bg).
+        
+        # Wait, fetch_hf_image logic:
+        # Tries HF models -> if fails, calls fetch_pollinations_image -> if fails, calls create_random_bg
+        # So we just need to call fetch_hf_image here if Cloudflare fails.
+        return self.fetch_hf_image(query, segment_id)
 
     def fetch_hf_image(self, query, segment_id):
         """
@@ -187,6 +276,33 @@ class VideoGenerator:
             return random.choice(words) # Simple randomness
         return "technology" # Fallback
 
+    def split_text_smartly(self, text, limit=30):
+        """
+        Splits text into chunks respecting the limit, preferring punctuation splits.
+        """
+        if len(text) <= limit:
+            return [text]
+        
+        chunks = []
+        current_chunk = ""
+        words = text.split()
+        
+        for word in words:
+            if len(current_chunk) + len(word) + 1 > limit:
+                if current_chunk:
+                    chunks.append(current_chunk)
+                current_chunk = word
+            else:
+                if current_chunk:
+                    current_chunk += " " + word
+                else:
+                    current_chunk = word
+        
+        if current_chunk:
+            chunks.append(current_chunk)
+            
+        return chunks
+
     def create_subtitle_clip(self, text, duration):
         """Creates a TextClip for the subtitle with manual wrapping."""
         try:
@@ -218,61 +334,66 @@ class VideoGenerator:
             print(f"⚠️ Failed to create TextClip: {e}")
             return None
 
-    def process_segment(self, segment_data, segment_id):
+    def process_segment(self, segment_data, segment_id, duration_override=None):
         """
-        Processes a single segment with Card News Layout:
-        1. Load Audio
-        2. Generate Image (Flux)
-        3. Create Background (Sky Blue)
-        4. Composite (Image Top, Text Bottom)
+        process_segment with Image Caching support for split sentences.
+        If duration_override is provided, use it. Otherwise use audio duration.
         """
         text = segment_data['text']
-        audio_path = segment_data['audio_path']
+        audio_path = segment_data.get('audio_path')
         keyword = segment_data.get('keyword', 'technology')
+        group_id = segment_data.get('group_id') # Identifier for shared image
         
-        # 1. Audio
-        audio_clip = AudioFileClip(audio_path)
-        duration = audio_clip.duration
+        # 1. Duration & Audio
+        if duration_override:
+            duration = duration_override
+            audio_clip = None # Audio handled externally
+        elif audio_path:
+            audio_clip = AudioFileClip(audio_path)
+            duration = audio_clip.duration
+        else:
+            print("⚠️ No audio path or duration override provided.")
+            return None
         
-        # 2. Key Element: Background (Sky Blue)
-        # Color: SkyBlue (135, 206, 235)
-        # bg_clip = ColorClip(size=(VIDEO_WIDTH, VIDEO_HEIGHT), color=(135, 206, 235)).with_duration(duration)
-        # Changing to a more neutral/tech-friendly background or keep sky blue? 
-        # User hasn't complained about background color, but darker might be better for "News".
-        # Let's keep it as is for now to avoid scope creep, or maybe a very dark blue to match header?
-        # Let's stick to the previous SkyBlue as it was working, or maybe standard Dark Grey.
-        # "Card News" usually has a clean background.
-        bg_clip = ColorClip(size=(VIDEO_WIDTH, VIDEO_HEIGHT), color=(20, 20, 30)).with_duration(duration) # Darker background
+        # ... (Background and Header logic remains same) ...
+        
+        # ... (Background and Header logic remains same) ...
+
+        # 2. Key Element: Background (Keep Dark)
+        bg_clip = ColorClip(size=(VIDEO_WIDTH, VIDEO_HEIGHT), color=(20, 20, 30)).with_duration(duration)
         clips_to_composite = [bg_clip]
 
-        # 3. Header: Image Overlay on Dark Blue Background
-        # Dark Blue: #003366 -> (0, 51, 102)
+        # 3. Header
         header_height = 200
         header_bg = ColorClip(size=(VIDEO_WIDTH, header_height), color=(0, 51, 102)).with_duration(duration).with_position(('center', 'top'))
-        
         header_img_path = os.path.join("assets", "Daily Semicon News.png")
         if os.path.exists(header_img_path):
             try:
                 header_img = ImageClip(header_img_path).with_duration(duration)
-                # Resize height to 50% of header height (100px) as requested
                 header_img = header_img.resized(height=int(header_height * 0.5))
                 header_img = header_img.with_position('center')
-                
-                # Composite Header
                 header_combined = CompositeVideoClip([header_bg, header_img], size=(VIDEO_WIDTH, header_height)).with_position(('center', 'top'))
                 clips_to_composite.append(header_combined)
-            except Exception as e:
-                print(f"      ⚠️ Header Image Logic Failed: {e}")
+            except:
                 clips_to_composite.append(header_bg)
         else:
-            print(f"      ⚠️ Header Image Not Found: {header_img_path}")
-            clips_to_composite.append(header_bg)
+             clips_to_composite.append(header_bg)
 
-        # 4. Image: Square Crop, Centered Vertical
-        # SWITCHED TO HUGGING FACE
-        # [User Request] Use image_prompt if available
-        image_query = segment_data.get('image_prompt', keyword)
-        image_path = self.fetch_hf_image(image_query, segment_id)
+        # 4. Image Logic with Cache
+        image_path = None
+        
+        # Check Cache first
+        if group_id and group_id in self.image_cache:
+            image_path = self.image_cache[group_id]
+            # print(f"      ♻️ Reusing image for group {group_id}")
+        else:
+            # Generate New
+            image_query = segment_data.get('image_prompt', keyword)
+            image_path = self.fetch_image_from_providers(image_query, segment_id)
+            
+            # Save to cache if group_id exists
+            if group_id and image_path:
+                self.image_cache[group_id] = image_path
         
         # Default positioning if image fails
         image_bottom_y = 250 + 900 
@@ -280,41 +401,22 @@ class VideoGenerator:
         if image_path and os.path.exists(image_path):
             try:
                 img_clip = ImageClip(image_path).with_duration(duration)
-                
-                # Resize to fit width 900 (leaving margins)
-                # 1080 width screen -> 900 width image = 90px margin on each side
                 img_clip = img_clip.resized(width=900)
-                
-                # If height > 900, crop it? Or just let it be?
-                # Pollinations returns 1080x1080 usually if requested, or similar.
-                # Let's ensure it's max 900x900
                 if img_clip.h > 900:
-                    img_clip = img_clip.cropped(y1=0, y2=900) # Crop from top
-                    
-                # Position: Below Header (Y=200) + Padding (e.g. 50px) -> Y=250
+                    img_clip = img_clip.cropped(y1=0, y2=900)
                 img_clip = img_clip.with_position(('center', 250))
                 clips_to_composite.append(img_clip)
-                
-                # [User Request] Dynamic Subtitle Position
-                # Update bottom Y based on actual image height
                 image_bottom_y = 250 + img_clip.h
-                
             except Exception as e:
                  print(f"      ⚠️ Image processing failed: {e}")
-        else:
-             print(f"      ⚠️ Image missing for '{keyword}', using blank.")
 
-        # 5. Subtitle: Bottom Area
+        # 5. Subtitle: Bottom Area (Logic Reused)
         sub_clip = self.create_subtitle_clip(text, duration)
         if sub_clip:
-            # Position Text at Bottom
-            # [User Request] Immediately below image (e.g. +50px padding)
             subtitle_y = image_bottom_y + 50
             sub_clip = sub_clip.with_position(('center', subtitle_y))
             clips_to_composite.append(sub_clip)
         
-        # 5. Composite
-        # Ensure we set audio
         final_clip = CompositeVideoClip(clips_to_composite).with_audio(audio_clip).with_duration(duration)
         return final_clip
 
@@ -327,6 +429,7 @@ class VideoGenerator:
         segments_data = script_data.get('segments', [])
         
         segments = []
+        clips = [] # [User Request] Ensure clips list is initialized
         global_segment_index = 0
         
         for i, seg in enumerate(segments_data):
@@ -339,29 +442,62 @@ class VideoGenerator:
             sentences = [s.strip() for s in original_text.split('.') if s.strip()]
             
             for sentence in sentences:
-                print(f"   🔹 Processing Segment {global_segment_index+1}: '{keyword}' - {sentence[:20]}...")
+                print(f"   🔹 Processing Sentence {global_segment_index+1}: {sentence[:30]}...")
                 
-                # Async tasks
+                # 1. Generate Audio for ONLY the Sentence
                 audio_path = await self.generate_audio_segment(sentence, global_segment_index)
                 
-                # [Pollinations Update] Use image_prompt if available, else keyword
-                image_prompt = seg.get('image_prompt', keyword)
+                # Check Duration
+                if not os.path.exists(audio_path):
+                    print("      ⚠️ Audio generation failed, skipping.")
+                    continue
+                    
+                full_audio_clip = AudioFileClip(audio_path)
+                full_duration = full_audio_clip.duration
                 
-                segments.append({
-                    "text": sentence,
-                    "audio_path": audio_path,
-                    "image_prompt": image_prompt, # Pass full prompt
-                    "keyword": keyword, # Keep just in case
-                    # "video_path": video_path # REMOVED
-                })
+                # 2. Split Text
+                chunks = self.split_text_smartly(sentence, limit=MAX_SUBTITLE_CHARS)
+                num_chunks = len(chunks)
+                chunk_duration = full_duration / num_chunks
+                
+                sentence_group_id = f"group_{global_segment_index}"
+                sentence_clips = []
+                
+                for chunk_idx, chunk in enumerate(chunks):
+                    # print(f"      🔸 Chunk {chunk_idx+1}/{num_chunks}: {chunk}")
+                    
+                    # Use provided image prompt
+                    image_prompt = seg.get('image_prompt', keyword)
+                    
+                    chunk_data = {
+                        "text": chunk,
+                        # "audio_path": None, # Handled globally for sentence
+                        "image_prompt": image_prompt,
+                        "keyword": keyword,
+                        "group_id": sentence_group_id
+                    }
+                    
+                    # Create visual clip (mute)
+                    chunk_clip = self.process_segment(chunk_data, f"{global_segment_index}_{chunk_idx}", duration_override=chunk_duration)
+                    if chunk_clip:
+                        sentence_clips.append(chunk_clip)
+                
+                if sentence_clips:
+                    # Concatenate visual clips
+                    sentence_visual = concatenate_videoclips(sentence_clips, method="compose")
+                    # Set Audio
+                    sentence_final = sentence_visual.with_audio(full_audio_clip)
+                    clips.append(sentence_final)
+                
                 global_segment_index += 1
 
         # 2. Assemble Video
-        print("🎬 Assembling Video...")
-        clips = []
-        for i, seg in enumerate(segments):
-            clip = self.process_segment(seg, i)
-            clips.append(clip)
+        print("🎬 Assembling Final Video...")
+        # clips list now contains fully formed sentence clips (video + audio)
+        
+        if not clips:
+            print("❌ No clips generated!")
+            return None
             
         final_video = concatenate_videoclips(clips, method="compose")
         
