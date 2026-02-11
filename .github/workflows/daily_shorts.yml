@@ -3,7 +3,7 @@ name: Daily Shorts Script Generator
 # 실행 조건 설정
 on:
   schedule:
-    # 매일 미국 동부 시간 오후 5시 실행 (UTC 22:00)
+    # 매일 미국 동부 시간 오후 6시 실행 (UTC 23:00)
     # * * * * * 형식: 분 시 일 월 요일 (UTC)
     - cron: '0 12 * * *'
     
