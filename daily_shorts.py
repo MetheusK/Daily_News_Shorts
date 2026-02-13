@@ -117,16 +117,23 @@ def generate_english_shorts_script(news_data, topic_keyword):
     - "text": The narration sentence (Clean English, no scene directions).
     - "image_prompt": A highly detailed, cinematic, photorealistic image description for Hugging Face (Flux model). 
        * Describe the scene, lighting, and mood. 
-       * Use keywords like "hyper-realistic", "8k", "cinematic lighting", "shallow depth of field", "dramatic angle".
-       * **CRITICAL**: The image must perfectly match the specific content of the sentence, not just the general topic. 
+       * Use keywords like "wide angle shot" (for pans) or "close up" (for zooms).
+       * **CRITICAL**: The image must perfectly match the specific content of the sentence, not just the general topic.
        * Avoid text in the image.
+    - "camera_effect": Choose ONE of the following valid effects based on the scene context:
+       * "zoom_in": Best for focusing on a specific object, face, or detail. (e.g. "A new chip")
+       * "zoom_out": Best for revealing a larger scene or context. (e.g. "The market is growing")
+       * "pan_right": Best for wide landscapes, factories, or timelines. (e.g. "A sprawling factory")
+       * "pan_left": Alternative for wide scenes.
+       * "static": Use ONLY if the image should be still (e.g. a chart or very simple icon).
     
     Example:
     {{
       "title": "AI News Daily",
       "segments": [
-        {{"text": "Nvidia's new chip creates 3D worlds in milliseconds.", "image_prompt": "Close-up of a futuristic glowing green computer chip with complex circuitry, cinematic lighting, 8k resolution, photorealistic, dramatic angle"}},
-        {{"text": "OpenAI just released a tool that clones voices instantly.", "image_prompt": "A sound wave visualization on a digital screen, blue and purple neon colors, high tech interface, macro shot, shallow depth of field"}}
+        {{"text": "Nvidia's new chip creates 3D worlds in milliseconds.", "image_prompt": "Close-up of a futuristic glowing green computer chip with complex circuitry, cinematic lighting, 8k resolution, photorealistic, dramatic angle", "camera_effect": "zoom_in"}},
+        {{"text": "OpenAI just released a tool that clones voices instantly.", "image_prompt": "A sound wave visualization on a digital screen, blue and purple neon colors, high tech interface, macro shot, shallow depth of field", "camera_effect": "static"}},
+        {{"text": "Factories are being automated at record speeds.", "image_prompt": "Wide angle shot of a massive futuristic robot factory, automated arms moving, clean white aesthetic, cinematic lighting", "camera_effect": "pan_right"}}
       ]
     }}
     """
@@ -210,7 +217,7 @@ if __name__ == "__main__":
                         
                         # [User Request] Cleanup after upload
                         print(f"🗑️ Deleting uploaded video: {generated_video_path}")
-                        os.remove(generated_video_path)
+                        # os.remove(generated_video_path)
                         
                     except Exception as e:
                         print(f"❌ Upload Failed: {e}")
