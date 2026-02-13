@@ -99,7 +99,10 @@ def generate_english_shorts_script(news_data, topic_keyword):
     Topic: {topic_keyword}
 
     [CONSTRAINTS]
-    1. **NO FILLER**: **ABSOLUTELY NO** generic intros ("Welcome back", "Today we talk about") or outros ("Subscribe", "Thanks for watching"). 
+    1. **HOOK IS KING**: The FIRST sentence must be a shocking fact, a question, or a bold statement. Stop the scroll instantly.
+       - BAD: "Today we look at Nvidia."
+       - GOOD: "Nvidia just made more money than the entire country of Russia."
+    2. **NO FILLER**: **ABSOLUTELY NO** generic intros ("Welcome back", "Today we talk about") or outros ("Subscribe", "Thanks for watching"). 
        - **START DIRECTLY** with the first news item.
        - **END IMMEDIATELY** after the last fact.
     2. **High Density**: Focus purely on FACTS, NUMBERS, and IMPACT. Make it feel fast-paced and packed with info.

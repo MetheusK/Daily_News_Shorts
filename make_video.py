@@ -41,12 +41,92 @@ MAX_SUBTITLE_CHARS = 120 # [User Request] Increased limit for longer subtitles
 # ImageMagick path configuration might be needed on Windows
 # change_settings({"IMAGEMAGICK_BINARY": r"C:\Program Files\ImageMagick-7.1.1-Q16-HDRI\magick.exe"})
 
+# [NEW] Font Configuration
+# [NEW] Font Configuration
+FONT_PATH = os.path.join("assets", "Roboto-Black.ttf")
+
+def download_font():
+    """Downloads Roboto-Black font if not exists or invalid."""
+    should_download = False
+    if not os.path.exists(FONT_PATH):
+        should_download = True
+    else:
+        # Check if file is valid (larger than 10KB)
+        if os.path.getsize(FONT_PATH) < 10240:
+            print("⚠️ Existing font file is too small (likely corrupted), re-downloading...")
+            should_download = True
+
+    if should_download:
+        urls = [
+            "https://github.com/google/fonts/raw/main/apache/roboto/static/Roboto-Black.ttf",
+            "https://github.com/google/fonts/raw/main/apache/roboto/Roboto-Black.ttf",
+            "https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmY5fBBc4.ttf"
+        ]
+        
+        headers = {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+        }
+
+        for url in urls:
+            try:
+                print(f"📥 Attempting to download font from: {url}")
+                r = requests.get(url, allow_redirects=True, headers=headers, timeout=10)
+                if r.status_code == 200 and len(r.content) > 10240:
+                    with open(FONT_PATH, 'wb') as f:
+                        f.write(r.content)
+                    print("✅ Font downloaded successfully.")
+                    return
+                else:
+                    print(f"⚠️ Download failed (Status: {r.status_code}, Size: {len(r.content)} bytes)")
+            except Exception as e:
+                print(f"⚠️ Failed to download font from {url}: {e}")
+        
+        
+        print("❌ All font download attempts failed. The script will try to use system fonts.")
+
+# [NEW] Whoosh Sound Download
+WHOOSH_PATH = os.path.join("assets", "whoosh.mp3")
+
+def download_whoosh():
+    """Downloads Whoosh sound effect if not exists."""
+    if os.path.exists(WHOOSH_PATH) and os.path.getsize(WHOOSH_PATH) > 1000:
+        return
+
+    urls = [
+        "https://github.com/sk2k/react-native-sound-demo/raw/master/android/app/src/main/res/raw/whoosh.mp3",
+        "https://github.com/zmxv/react-native-sound/raw/master/android/app/src/main/res/raw/whoosh.mp3",
+        "https://www.soundjay.com/misc/sounds/whoosh-1.mp3", # Fallback
+    ]
+    
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)"
+    }
+
+    for url in urls:
+        try:
+            print(f"📥 Attempting to download Whoosh SFX from: {url}")
+            r = requests.get(url, allow_redirects=True, headers=headers, timeout=10)
+            if r.status_code == 200 and len(r.content) > 1000:
+                with open(WHOOSH_PATH, 'wb') as f:
+                    f.write(r.content)
+                print("✅ Whoosh SFX downloaded successfully.")
+                return
+        except Exception as e:
+            print(f"⚠️ Failed to download Whoosh from {url}: {e}")
+    
+    print("❌ Failed to download Whoosh SFX. Transitions will be silent.")
+
+# Ensure assets exist
+download_font()
+download_whoosh()
+
 class VideoGenerator:
+    _font_warning_shown = False # [NEW] Class-level flag for log suppression
+
     def __init__(self, output_dir="temp_assets"):
         self.output_dir = output_dir
-        self.image_cache = {} # Cache for reusing images across split segments
+        self.image_cache = {} 
         
-        # Cleanup existing assets to ensure fresh generation
         if os.path.exists(output_dir):
             import shutil
             try:
@@ -56,6 +136,160 @@ class VideoGenerator:
                 print(f"⚠️ Warning: Could not fully clean temp dir: {e}")
 
         os.makedirs(output_dir, exist_ok=True)
+
+    # ... (Rest of existing methods) ...
+
+    def create_karaoke_clip(self, text, duration):
+        # ... (Existing implementation) ...
+            # Font Settings
+            font_size = 70 
+            try:
+                font = ImageFont.truetype(FONT_PATH, font_size)
+                font_bold = ImageFont.truetype(FONT_PATH, font_size)
+            except:
+                if not VideoGenerator._font_warning_shown: # [NEW] Suppress generic log
+                    print("⚠️ Failed to load Roboto-Black.ttf, using default.")
+                    VideoGenerator._font_warning_shown = True
+                font = ImageFont.load_default()
+                font_bold = font
+            
+            # ... (Rest of existing implementation) ...
+
+    async def create_shorts(self, script_data, global_topic):
+        print("🚀 Starting Shorts Generation...")
+        
+        segments_data = script_data.get('segments', [])
+        segments = []
+        clips = [] 
+        global_segment_index = 0
+        
+        # [NEW] Whoosh Sound Loading
+        whoosh_clip = None
+        if os.path.exists(WHOOSH_PATH):
+            try:
+                whoosh_clip = AudioFileClip(WHOOSH_PATH)
+                # Ensure it's not too loud
+                whoosh_clip = whoosh_clip.with_volume_scaled(0.4)
+            except Exception as e:
+                print(f"⚠️ Failed to load Whoosh SFX: {e}")
+
+        for i, seg in enumerate(segments_data):
+            # ... (Existing Loop Logic) ...
+            original_text = seg['text']
+            keyword = seg.get('keyword') or global_topic
+            sentences = [s.strip() for s in original_text.split('.') if s.strip()]
+            
+            for sentence in sentences:
+                print(f"   🔹 Processing Sentence {global_segment_index+1}: {sentence[:30]}...")
+                
+                # ... (Audio Generation) ...
+                audio_path = await self.generate_audio_segment(sentence, global_segment_index)
+                if not os.path.exists(audio_path): continue
+                    
+                full_audio_clip = AudioFileClip(audio_path)
+                full_duration = full_audio_clip.duration
+                
+                # ... (Chunking Logic) ...
+                chunks = self.split_text_by_words(sentence, max_chars=25)
+                num_chunks = len(chunks)
+                chunk_duration = full_duration / num_chunks
+                
+                sentence_group_id = f"group_{global_segment_index}"
+                sentence_clips = []
+                current_time_offset = 0 
+                
+                for chunk_idx, chunk in enumerate(chunks):
+                    # ... (Process Segment) ...
+                    image_prompt = seg.get('image_prompt', keyword)
+                    camera_effect = seg.get('camera_effect', 'static')
+                    
+                    chunk_data = {
+                        "text": chunk,
+                        "image_prompt": image_prompt,
+                        "keyword": keyword,
+                        "group_id": sentence_group_id,
+                        "camera_effect": camera_effect,
+                        "time_offset": current_time_offset,
+                        "total_duration": full_duration
+                    }
+                    
+                    chunk_clip = self.process_segment(chunk_data, f"{global_segment_index}_{chunk_idx}", duration_override=chunk_duration)
+                    if chunk_clip:
+                        # [NEW] Crossfade Logic (Visual Only)
+                        # We apply FadeIn to the VISUAL part of the clip
+                        # But we must be careful not to mess up the Concatenation
+                        # moviepy's crossfadein extends the clip duration, which desyncs audio.
+                        # Instead, we just use CrossFadeIn effect which fades FROM black or previous?
+                        # Actually vfx.CrossFadeIn creates a transition.
+                        # For simple implementation: Just use FadeIn(0.2) for a soft start?
+                        # Real Crossfade requires overlapping in concatenate_videoclips(padding=-0.5).
+                        
+                        # Let's use simple FadeIn for now to accept smoothness without complex overlapping sync issues
+                        # chunk_clip = chunk_clip.with_effects([vfx.FadeIn(0.2)])
+                        sentence_clips.append(chunk_clip)
+                        
+                    current_time_offset += chunk_duration
+                
+                if sentence_clips:
+                    sentence_visual = concatenate_videoclips(sentence_clips, method="compose")
+                    sentence_final = sentence_visual.with_audio(full_audio_clip)
+                    
+                    # [NEW] Apply Audio-Visual Transition Effect to the SENTENCE clip
+                    # 1. Visual Fade In (0.3s)
+                    sentence_final = sentence_final.with_effects([vfx.FadeIn(0.3)])
+                    
+                    # 2. Add Whoosh at the beginning (Mixed Audio)
+                    if whoosh_clip and global_segment_index > 0: # Skip first segment
+                        # Mix whoosh with voice
+                        # We need to make sure whoosh doesn't overpower or cut off
+                        # Create CompositeAudioClip
+                        start_whoosh = whoosh_clip
+                        # If whoosh is longer than sentence, cut it
+                        if start_whoosh.duration > sentence_final.duration:
+                             start_whoosh = start_whoosh.subclipped(0, sentence_final.duration)
+                        
+                        new_audio = CompositeAudioClip([sentence_final.audio, start_whoosh])
+                        sentence_final = sentence_final.with_audio(new_audio)
+
+                    clips.append(sentence_final)
+                
+                global_segment_index += 1
+
+        print("🎬 Assembling Final Video...")
+        if not clips: return None
+            
+        # [NEW] video crossfade overlap using padding
+        # padding=-0.3 means 0.3s overlap. 
+        # But we must ensure audio is not overlapped for TTS!
+        # Concatenate using "compose" with padding overlaps visual AND audio.
+        # We want separate concatenation?
+        # Visual: Overlap. Audio: Sequential.
+        # This is hard in MoviePy 1 line.
+        
+        # Simplified approach: Just FadeIn (already added above) + Sequential Concatenation.
+        # Trying to overlap audio (TTS) is bad. 
+        # So we stick to: FadeIn on each clip + Whoosh sound.
+        # This creates a "Fade to Black then Fade In" feel or just "Fade In over previous"?
+        # Actually FadeIn fades from Black.
+        # To Crossfade, we need `crossfadein` on the clip.
+        # Let's try `crossfadein(0.3)` on each clip.
+        
+        final_video = concatenate_videoclips(clips, method="compose", padding=-0.2) # Slight visual overlap?
+        # Warning: Padding overlaps AUDIO too. TTS will overlap.
+        # We must disable padding or handle audio separately.
+        
+        # Correct approach for TTS Sync:
+        # Sequential Audio (No overlap).
+        # Visuals: Can overlap if we detach audio, process visuals, then reattach.
+        # But `clips` have audio already.
+        
+        # Compromise: No padding key in concat. Just FadeIn on clips (done above).
+        # This creates a "Dip to Color/Black" effect if not careful, 
+        # but with `compose` it might just layer.
+        # Let's stick to standard concat for now to ensure Audio Sync is perfect.
+        final_video = concatenate_videoclips(clips, method="compose") 
+
+        # ... (BGM Logic) ...
 
     async def generate_audio_segment(self, text, segment_id):
         """Generates audio for a single sentence and returns the filepath."""
@@ -449,11 +683,16 @@ class VideoGenerator:
             
             # Font Settings
             font_size = 70 # Slightly smaller to be safe
+            # Font Settings
+            font_size = 70 # Slightly smaller to be safe
             try:
-                # Windows standard font
-                font = ImageFont.truetype("arial.ttf", font_size)
-                font_bold = ImageFont.truetype("arialbd.ttf", font_size) 
+                # Use downloaded Google Font
+                font = ImageFont.truetype(FONT_PATH, font_size)
+                font_bold = ImageFont.truetype(FONT_PATH, font_size) # Roboto Black is already bold
             except:
+                if not VideoGenerator._font_warning_shown:
+                    print("⚠️ Failed to load Roboto-Black.ttf, using default.")
+                    VideoGenerator._font_warning_shown = True
                 font = ImageFont.load_default()
                 font_bold = font
             
@@ -687,6 +926,16 @@ class VideoGenerator:
         clips = [] # [User Request] Ensure clips list is initialized
         global_segment_index = 0
         
+        # [NEW] Whoosh Sound Loading
+        whoosh_clip = None
+        if os.path.exists(WHOOSH_PATH):
+            try:
+                whoosh_clip = AudioFileClip(WHOOSH_PATH)
+                # Ensure it's not too loud
+                whoosh_clip = whoosh_clip.with_volume_scaled(0.4)
+            except Exception as e:
+                print(f"⚠️ Failed to load Whoosh SFX: {e}")
+
         for i, seg in enumerate(segments_data):
             original_text = seg['text']
             keyword = seg.get('keyword') or global_topic
@@ -755,6 +1004,26 @@ class VideoGenerator:
                     sentence_visual = concatenate_videoclips(sentence_clips, method="compose")
                     # Set Audio
                     sentence_final = sentence_visual.with_audio(full_audio_clip)
+
+                    # [NEW] Apply Audio-Visual Transition Effect to the SENTENCE clip
+                    # 1. Visual Fade In (0.5s) - Soft transition
+                    sentence_final = sentence_final.with_effects([vfx.FadeIn(0.5)])
+                    
+                    # 2. Add Whoosh at the beginning (Mixed Audio)
+                    if whoosh_clip and global_segment_index > 0: # Skip first segment
+                        try:
+                            # Mix whoosh with voice
+                            # Create CompositeAudioClip
+                            start_whoosh = whoosh_clip
+                            # If whoosh is longer than sentence, cut it
+                            if start_whoosh.duration > sentence_final.duration:
+                                start_whoosh = start_whoosh.subclipped(0, sentence_final.duration)
+                            
+                            new_audio = CompositeAudioClip([sentence_final.audio, start_whoosh])
+                            sentence_final = sentence_final.with_audio(new_audio)
+                        except Exception as ex:
+                            print(f"      ⚠️ Failed to mix whoosh: {ex}")
+
                     clips.append(sentence_final)
                 
                 global_segment_index += 1
