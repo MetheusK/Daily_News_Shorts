@@ -1,34 +1,44 @@
 {
-  "title": "Semiconductors: The Unstoppable Tech Force",
+  "title": "Semicon Showdown: AI Fuels a Global Race",
   "segments": [
     {
-      "text": "Arizona isn't just a desert anymore; it's rapidly transforming into the world's next semiconductor powerhouse, reshaping global tech maps!",
-      "image_prompt": "Wide aerial shot of a vast, modern semiconductor fabrication plant under construction in a desert landscape at sunrise, cranes active, clean architectural design, cinematic lighting, photorealistic, 8k.",
-      "camera_effect": "pan_right"
-    },
-    {
-      "text": "This 'Silicon Desert' phenomenon involves billions in investment, bringing state-of-the-art fabrication plants online, and creating thousands of high-paying jobs, securing critical chip supply chains domestically.",
-      "image_prompt": "Close-up of a worker in a pristine cleanroom environment, wearing full PPE, inspecting a polished silicon wafer on a robotic arm, futuristic glowing equipment, blue and white lighting, extreme detail, photorealistic, 8k.",
+      "text": "AI isn't just growing; it's igniting a 'giga-cycle' in semiconductors so powerful, one company just surged 11% on record earnings!",
+      "image_prompt": "A dramatic, glowing neural network pulsating with vibrant blue and purple data streams, intricately overlaid on a complex, advanced circuit board. Cinematic lighting, wide shot, 8k resolution, photorealistic, shallow depth of field.",
       "camera_effect": "zoom_in"
     },
     {
-      "text": "And the demand? It’s simply explosive! Companies like Trio-Tech just reported an astounding 82% surge in sales, demonstrating the sheer velocity of this market.",
-      "image_prompt": "Dynamic digital bar graph showing an 82% increase, rendered with glowing circuit board patterns and high-tech interface elements, dark background, cinematic lighting, high resolution, 8k.",
-      "camera_effect": "zoom_in"
-    },
-    {
-      "text": "This massive jump isn't random; it's directly fueled by the insatiable appetite for cutting-edge AI processors powering giant data centers and advanced chips essential for the booming electric vehicle revolution.",
-      "image_prompt": "Split screen: Left side shows rows of glowing server racks in a futuristic data center, right side shows a sleek electric car charging at a futuristic station, neon accents, cinematic, photorealistic, 8k.",
+      "text": "Applied Materials, crucial for chip manufacturing, reported record Q1 2026 earnings, fueled by this bullish AI outlook.",
+      "image_prompt": "A pristine, high-tech semiconductor fabrication plant interior. Massive, gleaming industrial equipment with precision robotic arms working on silicon wafers in a clean room environment. Cinematic lighting, wide angle shot, 8k, photorealistic.",
       "camera_effect": "pan_right"
     },
     {
-      "text": "While whispers of a 2026 stock market crash persist, data suggests otherwise, with the resilient, high-growth semiconductor sector acting as a powerful stabilizer.",
-      "image_prompt": "Abstract visualization of a stable stock market graph with a gentle green uptrend, microchip schematics subtly integrated into the background, bright, optimistic lighting, cinematic, 8k, no text.",
-      "camera_effect": "static"
+      "text": "This isn't just about one company; it’s a clear signal: the insatiable demand for AI processors is translating into massive profits for the entire chip ecosystem.",
+      "image_prompt": "A vast, futuristic server farm stretching into the distance. Rows upon rows of glowing blue and green data center racks, with intricate cabling snaking throughout. Cool industrial aesthetic, wide angle, 8k, photorealistic.",
+      "camera_effect": "zoom_out"
     },
     {
-      "text": "The strategic importance and economic muscle of these tiny microchips are driving unprecedented investment and innovation, securing our technological future amidst global shifts.",
-      "image_prompt": "Extreme close-up of a complex microchip, illuminated with vibrant blue and green colors, tiny etched pathways glowing, bokeh background of a bustling smart city skyline at night, futuristic, photorealistic, 8k.",
+      "text": "And at the heart of much of this lies TSMC, the world's leading contract chip manufacturer.",
+      "image_prompt": "Extreme close-up of a perfectly formed, highly reflective silicon wafer, intricate microchip patterns visible, held gently by a gloved hand in a sterile clean room. High detail, shallow depth of field, photorealistic, cinematic lighting.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "Analysts are bullish, projecting significant growth for TSMC's stock over the next five years, driven by its cutting-edge 3nm and 2nm technology.",
+      "image_prompt": "A dynamic stock market ticker displaying green upward trends and the TSMC logo, superimposed over a blurred background of a bustling modern financial district at sunset. High contrast, cinematic, photorealistic.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "This global chip race is also sparking a 'Silicon Desert' awakening! Arizona is rapidly emerging as a massive US semiconductor hub.",
+      "image_prompt": "A sprawling desert landscape featuring several modern, futuristic semiconductor factory buildings under construction. Cranes and heavy machinery are visible under a vibrant sunset sky. Wide angle drone shot, 8k, photorealistic.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "Billions are being invested in new fabs there, bolstering supply chain resilience and creating thousands of high-tech jobs.",
+      "image_prompt": "A diverse group of engineers and technicians, wearing clean room attire, collaboratively examining complex schematics on large holographic displays inside a high-tech facility. Bright, professional lighting, wide shot, photorealistic.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "From Arizona's deserts to Taiwan's mega-fabs, the AI boom is transforming the global semiconductor landscape at an unprecedented speed.",
+      "image_prompt": "An aerial wide shot, digitally rendered, seamlessly blending a modern semiconductor factory in a desert landscape with another massive, high-tech fabrication plant in an industrial Asian setting, connected by glowing data pathways. Cinematic, high detail, photorealistic.",
       "camera_effect": "zoom_out"
     },
     {
