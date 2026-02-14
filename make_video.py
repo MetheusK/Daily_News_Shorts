@@ -496,9 +496,13 @@ class VideoGenerator:
             target_w = 810 # 3:4 Image Width
             target_h = 1080 # 3:4 Image Height
             
+            target_h = 1080 # 3:4 Image Height
+            
             # Positioning in 1920px tall video
             # Center Y = 960. Top = 960 - 540 = 420.
-            pos_y = 420
+            # [User Request] Move UP to close gap with banner.
+            # Let's try 300.
+            pos_y = 300
             
             # Normalize effect_type
             effect_type = effect_type.lower().strip() if effect_type else 'static'
@@ -884,19 +888,21 @@ class VideoGenerator:
             if group_id and image_path:
                 self.image_cache[group_id] = image_path
         
+        
         # Default positioning if image fails
-        image_bottom_y = 420 + 1080 
+        # [User Request] Moved image up to 300.
+        image_bottom_y = 300 + 1080 
         
         if image_path and os.path.exists(image_path):
             try:
                 # [NEW] Apply Ken Burns Effect with Offset
                 img_clip = self.apply_ken_burns(image_path, camera_effect, duration, time_offset)
                 
-                # img_clip is already positioned at ('center', 250) and sized to ~900x900
+                # img_clip is already positioned at ('center', 300) and sized to ~810x1080
                 clips_to_composite.append(img_clip)
                 
                 # Assume height is 1080 for subtitle positioning
-                image_bottom_y = 420 + 1080 
+                image_bottom_y = 300 + 1080 
             except Exception as e:
                  print(f"      ⚠️ Image processing failed: {e}")
 
@@ -1085,9 +1091,10 @@ class VideoGenerator:
                     # [USER REQUEST] Only for topic change (Segment > 0)
                     if whoosh_clip and i > 0 and sentence_idx == 0: 
                         try:
+                            
                             # Mix whoosh with voice
                             # Create CompositeAudioClip
-                            start_whoosh = whoosh_clip.with_volume_scaled(0.3) # Adjust volume
+                            start_whoosh = whoosh_clip.with_volume_scaled(0.8) # Adjust volume (User requested louder)
                             # If whoosh is longer than sentence, cut it
                             if start_whoosh.duration > sentence_final.duration:
                                 start_whoosh = start_whoosh.subclipped(0, sentence_final.duration)

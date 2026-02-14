@@ -1,55 +1,60 @@
 {
-  "title": "Silicon Gold Rush: AI Fuels Unprecedented Chip Boom",
+  "title": "SemiCon Dominance: Arizona, TSMC & Trio-Tech Surge!",
   "segments": [
     {
-      "text": "Did you know a desert state is battling for global semiconductor supremacy?",
-      "image_prompt": "Wide angle shot of a sprawling, futuristic semiconductor fabrication plant glowing under a deep blue desert twilight, multiple construction cranes visible, steam gently rising from vents, cinematic lighting, 8k resolution, photorealistic",
+      "text": "Forget Silicon Valley! The next battleground for global chip dominance is heating up in the *Arizona desert*!",
+      "image_prompt": "A dramatic wide shot of a futuristic semiconductor factory rising out of a vast, golden desert landscape under a clear blue sky, sun-drenched, photorealistic, cinematic, 8k.",
       "camera_effect": "pan_right"
     },
     {
-      "text": "Arizona, once just 'The Copper State,' is now the 'Silicon Desert,' attracting billions in investment from major chipmakers.",
-      "image_prompt": "Close-up of a construction worker in a hard hat, with blueprints of a complex semiconductor factory in hand, pointing towards a vast desert landscape with mountains in the background, golden hour light, highly detailed, photorealistic",
+      "text": "This 'Silicon Desert' is transforming, attracting billions in investment and thousands of high-tech jobs.",
+      "image_prompt": "A massive construction site in an arid, sandy desert environment, with multiple towering cranes, heavy machinery, and partially built modern factory structures, bright daylight, wide angle shot, cinematic, photorealistic.",
       "camera_effect": "zoom_in"
     },
     {
-      "text": "This isn't just about microchips; it’s about 10,000 new high-tech jobs and securing America's critical chip supply chain.",
-      "image_prompt": "Diverse group of engineers and technicians in pristine cleanroom suits collaboratively working on advanced semiconductor manufacturing equipment, bright sterile environment, intricate machinery, cinematic",
+      "text": "New fabrication plants and R&D hubs are redefining US chip manufacturing, building a robust new ecosystem.",
+      "image_prompt": "Close-up on a sterile cleanroom environment with technicians in full white bunny suits working meticulously around glowing, advanced semiconductor fabrication machinery, precision tools, bright fluorescent lighting, photorealistic.",
       "camera_effect": "pan_left"
     },
     {
-      "text": "And who's at the heart of this global chip game? Taiwan Semiconductor Manufacturing Company, or TSMC.",
-      "image_prompt": "Macro shot of a highly intricate, glowing microchip with numerous golden contacts and circuit lines, sitting on a reflective blue silicon wafer, subtle light flares, studio lighting, extreme detail, photorealistic",
-      "camera_effect": "zoom_in"
-    },
-    {
-      "text": "Analysts are predicting a massive surge for TSMC stock in the next five years, fueled by relentless AI demand.",
-      "image_prompt": "Dynamic 3D stock market graph showing a steep upward trend in vibrant green, overlaid with subtle holographic images of neural networks and server racks in a blurred background, futuristic financial interface, 8k",
-      "camera_effect": "pan_right"
-    },
-    {
-      "text": "This isn't just a trend; it's the 'AI Giga-Cycle' – a monumental shift driving record growth across the entire semiconductor ecosystem.",
-      "image_prompt": "Abstract representation of a massive data center server room, rows of blinking lights and intricate cables, glowing blue and purple, signifying immense processing power and data flow, wide angle, high-tech",
+      "text": "A major player driving this boom? None other than TSMC, investing massively in these new facilities.",
+      "image_prompt": "An aerial drone shot of a sprawling, highly advanced TSMC factory complex with multiple large, futuristic buildings and extensive infrastructure, located in a desert region, under a clear blue sky, wide angle, photorealistic.",
       "camera_effect": "zoom_out"
     },
     {
-      "text": "Case in point: Applied Materials just crushed Q1 2026 earnings, surging 11% on their bullish AI outlook.",
-      "image_prompt": "Close-up on a financial news screen displaying 'Applied Materials +11% Q1 Earnings' in bold green text, with a blurred background of traders actively working on a bustling stock exchange floor, high energy, photorealistic",
-      "camera_effect": "static"
-    },
-    {
-      "text": "They're the unsung heroes, providing the crucial equipment that builds nearly every advanced chip on the planet.",
-      "image_prompt": "Robotic arm with extreme precision, delicately placing a tiny component onto a semiconductor wafer inside a pristine, futuristic factory setting, sharp focus on the delicate operation, shallow depth of field, cinematic",
+      "text": "Analysts are buzzing: where will TSMC stock be in just five years? Projections are staggering.",
+      "image_prompt": "A dynamic, holographic stock chart displaying a rapidly ascending green line with 'TSMC' projected next to it, against a dark, futuristic digital interface background, focusing on the upward trend, cinematic, 8k.",
       "camera_effect": "zoom_in"
     },
     {
-      "text": "From desert factories to Wall Street gains, the AI revolution is reshaping geopolitics and igniting an unprecedented boom in semiconductor technology.",
-      "image_prompt": "Split screen: Left side shows a wide shot of a futuristic desert chip factory under construction, while the right side displays a rapidly scrolling digital financial ticker with green arrows, reflecting growth, dynamic contrast",
+      "text": "Powering everything from your smartphone to advanced AI servers, TSMC's foundry dominance is irreplaceable.",
+      "image_prompt": "Split screen. Left: A person's hand holding a sleek, modern smartphone displaying a vibrant interface. Right: A row of glowing, powerful data center servers with blinking blue and green lights, in a dark, cool server room, both sides photorealistic, cinematic.",
       "camera_effect": "static"
     },
     {
-      "text": "Get ready, because the silicon gold rush is just getting started!",
-      "image_prompt": "A single, perfectly polished and reflective silicon wafer, slowly spinning and catching bright studio lights, filling the entire frame, symbolizing immense value and potential, macro shot, photorealistic",
+      "text": "With demand for cutting-edge chips exploding, expect continued market leadership and significant returns for investors.",
+      "image_prompt": "Extreme close-up of a complex, futuristic microchip under a powerful electron microscope, intricate gold and silver circuits glowing faintly, sharp focus on the silicon die, shallow depth of field, high contrast, photorealistic, 8k.",
       "camera_effect": "zoom_in"
+    },
+    {
+      "text": "But it's not just the giants making headlines. Smaller, agile players are also skyrocketing.",
+      "image_prompt": "A small, precise robotic arm quickly and delicately placing a tiny surface-mount component onto a green circuit board, bright LED task lighting, close-up, industrial workshop background, photorealistic.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "Take Trio-Tech International: their sales just surged an incredible 82%!",
+      "image_prompt": "A vibrant digital financial dashboard displaying a large, bold '82%' in bright green, with an upward-pointing arrow and other positive growth metrics, sleek, modern UI design, close-up, dynamic, photorealistic.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "The secret? Their strategic focus on crucial AI and Electric Vehicle chips.",
+      "image_prompt": "Split screen. Left: A sleek, modern electric car, charging with a glowing blue light, in a futuristic charging station. Right: A visual representation of a complex artificial intelligence neural network, glowing lines connecting nodes on a dark background, both photorealistic, cinematic.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "As AI powers more devices and EVs dominate roads, companies like Trio-Tech are riding a massive wave of innovation and demand.",
+      "image_prompt": "A dynamic wide angle shot of a bustling, futuristic smart city street at dusk, filled with sleek, autonomously driving electric vehicles, bright city lights, people using advanced transparent screens on their smartphones, cinematic, photorealistic.",
+      "camera_effect": "pan_left"
     },
     {
       "text": "If useful, please like and subscribe!",
