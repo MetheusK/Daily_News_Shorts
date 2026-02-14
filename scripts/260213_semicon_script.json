@@ -1,45 +1,45 @@
 {
-  "title": "Silicon Gold Rush: Arizona, TSMC & AI's Chip Boom!",
+  "title": "Silicon Surge: AI Fuels Arizona's Chip Boom!",
   "segments": [
     {
-      "text": "Forget oil! The new gold is silicon, and it's turning deserts into boomtowns, literally reshaping global economies.",
-      "image_prompt": "Wide shot of a vast, golden desert landscape transforming into a high-tech industrial park with gleaming, modern semiconductor factories under construction, cranes actively moving, vibrant sunset lighting, photorealistic, cinematic.",
+      "text": "Forget the gold rush, we're in a silicon rush! Arizona is cementing its status as the 'Silicon Desert,' attracting billions in semiconductor investments.",
+      "image_prompt": "Wide aerial shot of a vast, arid desert landscape with multiple futuristic chip manufacturing plants under construction, cranes silhouetted against a vibrant sunset sky, golden hour, 8k resolution, photorealistic",
       "camera_effect": "pan_right"
     },
     {
-      "text": "Arizona is leading this charge, becoming a 'Silicon Desert' with billions in investments pouring into cutting-edge chip manufacturing facilities.",
-      "image_prompt": "Aerial view of a sprawling, futuristic semiconductor fabrication plant complex in the Arizona desert, featuring clean architectural lines, vast arrays of solar panels, and distant desert mountains, bright daytime, crisp detail, photorealistic.",
-      "camera_effect": "zoom_out"
-    },
-    {
-      "text": "This isn't just about microchips; it’s a strategic move to onshore critical supply chains, bolstering national security and creating thousands of high-paying jobs on American soil.",
-      "image_prompt": "Close-up of a skilled engineer in a pristine white cleanroom suit meticulously inspecting a large silicon wafer under bright, sterile lights, with advanced robotic arms performing precise tasks in the background, high-tech environment, photorealistic.",
+      "text": "Major players like TSMC and Intel are pouring capital into state-of-the-art fabs, creating thousands of high-tech jobs and boosting local economies.",
+      "image_prompt": "Close-up of a construction site worker wearing a hard hat, looking intently at a digital tablet displaying complex factory blueprints, a massive, partially built semiconductor factory looms in the blurred background, industrial lighting, cinematic, 8k",
       "camera_effect": "zoom_in"
     },
     {
-      "text": "And at the undeniable heart of this global silicon race is TSMC, the undisputed king of advanced chip fabrication.",
-      "image_prompt": "Dynamic shot of the TSMC logo projected with powerful blue and white light onto a detailed, futuristic microchip design, glowing circuitry lines, dark, reflective background, high contrast, photorealistic.",
+      "text": "This makes the question of 'Where will TSMC stock be in 5 years?' even more critical, as their growth directly reflects global demand for cutting-edge chips.",
+      "image_prompt": "Dynamic stock market graph with a prominent upward trend, overlaid with shimmering binary code and holographic data streams, a glowing microchip symbol at the center of the screen, deep blues and greens, high-tech interface, 8k, photorealistic",
       "camera_effect": "static"
     },
     {
-      "text": "Analysts predict a staggering trajectory for TSMC stock over the next five years, propelled by insatiable demand for advanced chips powering everything from your smartphone to AI supercomputers.",
-      "image_prompt": "Complex animated stock market chart displaying a sharp upward trend for TSMC, overlaid with holographic digital representations of interconnected microchips and high-speed data streams, dark, abstract high-tech background, cinematic.",
+      "text": "Analysts predict continued upward trends, driven by the insatiable appetite for AI, IoT, and high-performance computing across industries.",
+      "image_prompt": "A montage of diverse futuristic scenes: a sleek autonomous vehicle driving on a smart city street, a doctor using an AI diagnostic tool, and a robot arm assembling components in a clean factory, all seamlessly integrated, bright daylight, wide angle, 8k",
       "camera_effect": "pan_right"
     },
     {
-      "text": "The AI 'Giga-Cycle' is officially erupting, fueling unprecedented growth for foundational companies like Applied Materials.",
-      "image_prompt": "Dynamic shot of a massive, futuristic data center with endless rows of glowing server racks, interwoven with sleek, AI-powered robot arms meticulously working on components, illuminated by intense blue and purple neon lighting, cinematic, photorealistic.",
-      "camera_effect": "pan_left"
-    },
-    {
-      "text": "They just surged an incredible 11% on record Q1 2026 earnings, reporting an exceptionally bullish outlook specifically tied to accelerating global AI demand.",
-      "image_prompt": "Close-up of a highly sophisticated semiconductor manufacturing machine in operation, showcasing intricate gears, precise laser beams, and tiny microchips being produced on an assembly line, industrial cleanroom setting, dramatic focused lighting, photorealistic.",
+      "text": "The AI Giga-Cycle isn't just hype; Applied Materials just SURGED 11% after announcing record Q1 2026 earnings, massively exceeding expectations.",
+      "image_prompt": "A bold, upward-pointing financial arrow piercing through a digital screen displaying live stock tickers and graphs, with the number '11%' prominently highlighted, contrasting red and green colors, data streams in the background, 8k, dramatic lighting",
       "camera_effect": "zoom_in"
     },
     {
-      "text": "This surge means more powerful, efficient chips, exponentially faster AI development, and a tech landscape transforming at an unbelievable pace before our eyes.",
-      "image_prompt": "Fast-paced montage of rapidly changing visuals: an intricate neural network visualization, a sleek self-driving car navigating a bustling city street, a medical robot performing surgery, and a person interacting with an advanced AI interface; all representing advanced AI applications, bright, futuristic, photorealistic.",
-      "camera_effect": "pan_right"
+      "text": "This massive jump confirms robust spending on semiconductor manufacturing equipment, fueling the next generation of powerful AI processors.",
+      "image_prompt": "Wide shot of a sterile cleanroom factory floor, advanced robotic arms precisely handling delicate silicon wafers under bright, pristine lighting, technicians in full hazmat suits observe from a control panel in the distance, 8k, photorealistic",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "The relentless demand for faster, smarter AI means companies investing in the foundational tech are set for explosive growth and strategic dominance.",
+      "image_prompt": "A complex, interconnected network of glowing microchips forming a futuristic, brain-like structure, holographic data flowing between them, set against a dark, abstract background with neon blue and purple light trails, 8k, cinematic",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "The global race for AI leadership is a chip race, and these players are just accelerating.",
+      "image_prompt": "A stylized illustration of multiple, diverse hands reaching simultaneously for a central, brightly glowing silicon wafer, symbolizing intense competition and rapid innovation, dramatic high-contrast lighting, abstract, 8k",
+      "camera_effect": "static"
     },
     {
       "text": "If useful, please like and subscribe!",
