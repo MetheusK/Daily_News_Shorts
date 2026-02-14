@@ -946,18 +946,45 @@ class VideoGenerator:
         clips = [] # [User Request] Ensure clips list is initialized
         global_segment_index = 0
         
-        # [NEW] Generate Thumbnail (0.1s)
+        # [NEW] Generate Viral Hook (1.5s + Narration)
         try:
-            video_title = script_data.get('title', 'Daily News')
-            thumb_prompt_text = script_data.get('thumbnail_prompt') # Extract from JSON
+            # Support both 'hook_plan' and legacy 'hook'
+            hook_data = script_data.get('hook_plan') or script_data.get('hook')
             
-            # Extract main topic from global_topic or title
-            thumb_clip = self.create_thumbnail(global_topic, video_title, thumbnail_prompt=thumb_prompt_text)
-            if thumb_clip:
-                clips.append(thumb_clip)
-                print("✅ Thumbnail added to start of video.")
+            if hook_data:
+                # [NEW] Generate Hook Audio if narration exists
+                hook_audio_path = None
+                narration_text = hook_data.get('narration')
+                if narration_text:
+                    print(f"🎤 Generating Hook Narration: '{narration_text}'")
+                    # Use a fast, aggressive voice for hook if available, or just speed up the standard one
+                    # reusing generate_audio_segment but saving to specific file
+                    # We can reuse the same voice (en-US-AndrewNeural) but maybe faster?
+                    # For now, let's just use the standard generate method manually to control filename
+                    
+                    safe_filename = "hook_narration"
+                    hook_audio_path = os.path.join(self.output_dir, f"{safe_filename}.mp3")
+                    
+                    # Communicate with EDGE-TTS
+                    voice = "en-US-AndrewNeural"
+                    rate = "+10%" # Slightly faster for urgency
+                    
+                    communicate = edge_tts.Communicate(narration_text, voice, rate=rate)
+                    await communicate.save(hook_audio_path)
+                    
+                    if not os.path.exists(hook_audio_path):
+                        print("⚠️ Hook audio generation failed.")
+                        hook_audio_path = None
+                    else:
+                        print(f"✅ Hook Audio ready: {hook_audio_path}")
+
+                hook_clip = self.create_hook_clip(hook_data, audio_path=hook_audio_path)
+                
+                if hook_clip:
+                    clips.append(hook_clip)
+                    print("✅ Viral Hook added to start of video.")
         except Exception as e:
-            print(f"⚠️ Thumbnail integration failed: {e}")
+            print(f"⚠️ Hook integration failed: {e}")
 
         # [NEW] Whoosh Sound Loading
         whoosh_clip = None
@@ -1127,8 +1154,35 @@ class VideoGenerator:
 
         # 2. Assemble Video
         print("🎬 Assembling Final Video...")
-        # clips list now contains fully formed sentence clips (video + audio)
+        # clips list now contains Hook + Sentence Clips
         
+        # [NEW] Add Thumbnail at the END (0.1s)
+        try:
+            video_title = script_data.get('title', 'Daily News')
+            
+            # Support both 'thumbnail_plan' and legacy 'thumbnail_prompt'
+            thumb_data = script_data.get('thumbnail_plan')
+            
+            if thumb_data:
+                thumb_prompt_text = thumb_data.get('image_description')
+                thumb_text_overlay = thumb_data.get('thumbnail_text')
+            else:
+                thumb_prompt_text = script_data.get('thumbnail_prompt')
+                thumb_text_overlay = None
+
+            thumb_clip = self.create_thumbnail(
+                global_topic, 
+                video_title, 
+                thumbnail_prompt=thumb_prompt_text,
+                thumbnail_text=thumb_text_overlay
+            )
+            
+            if thumb_clip:
+                clips.append(thumb_clip)
+                print("✅ Thumbnail added to END of video.")
+        except Exception as e:
+             print(f"⚠️ Thumbnail integration failed: {e}")
+
         if not clips:
             print("❌ No clips generated!")
             return None
@@ -1169,9 +1223,117 @@ class VideoGenerator:
         print(f"🎉 Video Saved: {output_filename}")
         return output_filename
 
-    def create_thumbnail(self, topic, title_text, thumbnail_prompt=None):
+    def create_hook_clip(self, hook_data, audio_path=None):
+        """Creates a viral hook clip with massive text overlay and optional audio."""
+        print("🪝 Creating Viral Hook Clip...")
+        
+        try:
+            # Support both old 'hook' and new 'hook_plan' keys
+            text_overlay = hook_data.get('overlay_text') or hook_data.get('text_overlay', 'WARNING')
+            text_overlay = text_overlay.upper()
+            
+            image_prompt = hook_data.get('image_description') or hook_data.get('image_prompt', 'dark cinematic background')
+            
+            mood_color = hook_data.get('mood_color', 'red').lower()
+            
+            # 1. Fetch Background
+            # Force high contrast, no text
+            full_prompt = f"{image_prompt}, high contrast, cinematic, no text, vertical, 9:16 aspect ratio"
+            bg_path = self.fetch_image_from_providers(full_prompt, "hook_bg", 1080, 1920)
+            
+            if not bg_path or not os.path.exists(bg_path):
+                print("⚠️ Hook background fetch failed. Skipping hook.")
+                return None
+                
+            # 2. Process with PIL
+            with Image.open(bg_path) as img:
+                img = img.convert("RGB")
+                img = img.resize((1080, 1920), Image.Resampling.LANCZOS)
+                
+                # 3. Dimming (30% opacity)
+                overlay = Image.new('RGBA', img.size, (0, 0, 0, int(255 * 0.3)))
+                img = img.convert("RGBA")
+                img = Image.alpha_composite(img, overlay)
+                img = img.convert("RGB")
+                
+                # 4. Draw Massive Text
+                draw = ImageDraw.Draw(img)
+                
+                # Determine Color
+                if 'green' in mood_color:
+                    text_color = '#39FF14' # Neon Green
+                else:
+                    text_color = '#FF0000' # Red
+                
+                # Font - Massive
+                font_size = 180 
+                font = None
+                try:
+                    font = ImageFont.truetype(FONT_PATH, font_size)
+                except:
+                    font = ImageFont.load_default()
+                
+                # Centered Text with Stroke
+                lines = textwrap.wrap(text_overlay, width=10)
+                
+                # Calculate height
+                total_h = 0
+                line_heights = []
+                for line in lines:
+                    bbox = draw.textbbox((0, 0), line, font=font)
+                    h = bbox[3] - bbox[1]
+                    line_heights.append(h)
+                    total_h += h
+                
+                spacing = 20
+                if len(lines) > 1: total_h += (len(lines)-1) * spacing
+                
+                start_y = (1920 - total_h) // 2
+                current_y = start_y
+                
+                for i, line in enumerate(lines):
+                    bbox = draw.textbbox((0, 0), line, font=font)
+                    w = bbox[2] - bbox[0]
+                    start_x = (1080 - w) // 2
+                    
+                    # Thick Stroke
+                    draw.text((start_x, current_y), line, font=font, fill=text_color, stroke_width=15, stroke_fill="black")
+                    current_y += line_heights[i] + spacing
+                
+                # 5. Save
+                hook_path = os.path.join(self.output_dir, "final_hook.png")
+                img.save(hook_path)
+                print(f"✅ Hook Image saved: {hook_path}")
+                
+            # 6. Return Clip
+            # Handle Duration based on Audio
+            duration = 1.5 # Default minimum
+            audio_clip = None
+            
+            if audio_path and os.path.exists(audio_path):
+                audio_clip = AudioFileClip(audio_path)
+                duration = max(1.5, audio_clip.duration)
+                print(f"   🔊 Hook Audio Duration: {duration:.2f}s")
+            
+            # Add Zoom In effect for dynamism
+            clip = ImageClip(hook_path).with_duration(duration)
+            clip = clip.with_effects([vfx.Resize(lambda t: 1 + 0.05 * t)]) # Slight zoom
+            clip = CompositeVideoClip([clip.with_position("center")], size=(1080, 1920))
+            
+            if audio_clip:
+                clip = clip.with_audio(audio_clip)
+            
+            return clip
+            
+        except Exception as e:
+            print(f"⚠️ Hook creation failed: {e}")
+            return None
+
+    def create_thumbnail(self, topic, title_text, thumbnail_prompt=None, thumbnail_text=None):
         """Creates a high-quality thumbnail with text overlay."""
-        print(f"🖼️ Creating Thumbnail for '{title_text}'...")
+        # Use specific thumbnail text if provided, else fall back to video title
+        final_text = thumbnail_text if thumbnail_text else title_text
+        print(f"🖼️ Creating Thumbnail for '{final_text}'...")
         
         # 1. Fetch Background Image
         if thumbnail_prompt:
@@ -1234,7 +1396,7 @@ class VideoGenerator:
                     font = ImageFont.load_default()
                     print("⚠️ Loading default font for thumbnail.")
 
-                text = title_text.upper()
+                text = final_text.upper()
                 
                 # Wrap Text
                 margin = 100

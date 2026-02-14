@@ -93,49 +93,92 @@ def generate_english_shorts_script(news_data, topic_keyword):
     뉴스 데이터를 바탕으로 영어 쇼츠 대본 생성
     """
     prompt = f"""
-    Role: You are a professional Tech News YouTuber with 1M subscribers.
-    Task: Create a **60-second YouTube Shorts script** in **ENGLISH** based on the news below.
+    Role: You are a **"HYBRID" Content Creator**.
+    - **Part 1 (The Hook):** A Viral Strategist (Panic/Shock).
+    - **Part 2 (The Body):** A Professional Tech Reporter (Facts/Depth).
     
+    Task: Create a Script & Visual Plan for a YouTube Short based on the news below.
+
     Topic: {topic_keyword}
 
-    [CONSTRAINTS]
-    1. **HOOK IS KING**: The FIRST sentence must be a shocking fact, a question, or a bold statement. Stop the scroll instantly.
-       - BAD: "Today we look at Nvidia."
-       - GOOD: "Nvidia just made more money than the entire country of Russia."
-    2. **NO FILLER**: **ABSOLUTELY NO** generic intros ("Welcome back", "Today we talk about") or outros ("Subscribe", "Thanks for watching"). 
-       - **START DIRECTLY** with the first news item.
-       - **END IMMEDIATELY** after the last fact.
-    2. **High Density**: Focus purely on FACTS, NUMBERS, and IMPACT. Make it feel fast-paced and packed with info.
-    3. **Total Word Count**: Target **180 - 200 WORDS** (Approx 20% longer). Deep dive into implications.
-    4. **Visual Keywords**: Must be **CONCRETE, VISUAL NOUNS** that exist in stock footage libraries (Pixabay/Pexels).
-       - BAD: "future of ai", "market trend", "complex algorithm"
-       - GOOD: "robot arm", "server room", "crowded street", "using smartphone", "microchip under microscope"
+    [CRITICAL RULE: THE HYBRID STRUCTURE]
+    You must follow this exact tonal shift:
+
+    **1. THE HOOK (0s - 3s)**
+    - **Persona**: Viral Alarmist.
+    - **Goal**: Stop the scroll with "Threat" or "Contrarian" shock.
+    - **Tone**: Extreme, Urgent, Emotional. 
+    - **Strategy**: Choose THREAT ("YOUR PHONE IS SPYING") or CONTRARIAN ("STOP BUYING NVIDIA").
+
+    **2. THE BODY (3s - 60s)**
+    - **Persona**: Professional BBC/Bloomberg Tech Reporter.
+    - **Goal**: Retain the viewer with high-density value.
+    - **Tone**: **CALM, FACTUAL, ANALYTICAL.**
+    - **Instruction**: "Immediately drop the sensationalism. Do not use 'clickbait' language here. Focus purely on what happened, the numbers, and the heavy implications."
+    - **Visuals**: Concrete, technical, clear.
+    - **LENGTH RULE**: The body MUST contain **5-6 Segments**.
+    - **WORD COUNT**: Each segment must be **20-25 WORDS**. Total script must be around **130-150 words**.
+    - **DENSITY RULE**: "High Information Density" means **Numbers/Names/Dates**. Explain the "Why" and "How" in detail but keep it brief.
+
+    [HUMAN ELEMENT RULES - TECHNICAL & CINEMATIC]
+
+    [HUMAN ELEMENT RULES - TECHNICAL & CINEMATIC]
+    To avoid NSFW filters, you must follow these rules for ALL image prompts (Hook, Thumbnail, and Segments):
+    1. **Eyes**: Use eyes ONLY in a technical context. Use terms like 'cybernetic', 'reflecting data', 'glowing iris', or 'through smart glasses'. NEVER use 'panicked', 'terror', 'bloody', or 'crying'.
+    2. **Expressions**: Focus on 'Intense focus', 'Wonder', 'Serious thought', or 'Determination'. Avoid extreme negative emotions like screaming or terror.
+    3. **Lighting**: Use 'Cinematic lighting', 'Cyberpunk neon', 'Dramatic side lighting' to make the person look like a movie character, not a real victim.
+    4. **No Gore/Violence**: NO blood, NO weapons, NO dead bodies, NO physical harm. Use "digital corruption", "glitch effects", or "red warning lights" to convey danger instead.
+
+    [VISUAL REQUIREMENT]
+    - The "text_overlay" must be **HUGE**, **BOLD**, and **2-4 WORDS MAX**.
+    - It must fill the screen.
 
     [TODAY'S NEWS]
     {news_data}
 
-    [OUTPUT FORMAT]
-    Return a valid JSON object with a "title", a "thumbnail_prompt", and a list of "segments".
+    [CORE DEFINITION: HOOK VS THUMBNAIL]
     
-    1. "title": The video title (Hook).
-    2. "thumbnail_prompt": A highly detailed, clickable, visually shocking image description for the thumbnail background.
-       * Must perfectly match the "Hook" of the title.
-       * High contrast, cinematic lighting, photorealistic.
-       * NO TEXT in the image description.
-       * Example: "Extreme close-up of a burning computer chip, sparks flying, dark background, cinematic lighting"
+    **HOOK (The Video Intro)**: This is the first 1.5 - 3 seconds of the actual video file. It must be high-energy, fast-paced, and focus on keeping the viewer from scrolling.
     
-    3. "segments": A list of segments.
-    Each segment must have:
-    - "text": The narration sentence.
-    - "image_prompt": Image description for this sentence.
-    - "camera_effect": Camera movement.
+    **THUMBNAIL (The Static Cover)**: This is a separate image file used for the YouTube feed/search results. It must be high-contrast, clean, and focus on getting the initial click.
+    
+    [HOOK NARRATION RULE]
+    The narration in hook_plan must be a "Stop-the-Scroll" sentence. It should be more aggressive and emotional than the regular segments. Use words like "Warning", "Lies", "Crisis", or "Secret".
+
+    [OUTPUT FORMAT - JSON ONLY]
+    Return a valid JSON object.
+    {{
+      "hook_plan": {{
+        "overlay_text": "Massive 2-3 word text to be shown INSIDE the video (e.g., 'STOP CODING!') - UPPERCASE ONLY",
+        "narration": "A SHOCKING 1-sentence statement for audio (e.g., 'The AI bubble just popped, and your portfolio is in danger!')", 
+        "image_description": "A dynamic, fast-paced image prompt for the video's start. (Action-oriented). FOLLOW HUMAN ELEMENT RULES.",
+        "mood_color": "The dominant color for video overlays (red/neon_green/yellow)"
+      }},
+      "thumbnail_plan": {{
+        "thumbnail_text": "2-3 word punchy text for the STATIC thumbnail (e.g., 'AI IS DEAD?') - UPPERCASE ONLY",
+        "image_description": "A clean, high-contrast, cinematic background for the static cover. (Clear & Sharp). FOLLOW HUMAN ELEMENT RULES.",
+        "reasoning": "Explain why this thumbnail will get clicks vs the hook."
+      }},
+      "title": "The Shorts Title",
+      "segments": [ ... (Same as before) ... ]
+    }}
     
     Example:
     {{
-      "title": "AI News Daily",
-      "thumbnail_prompt": "A glowing blue artificial brain inside a glass jar, dark laboratory background, 8k resolution, cinematic",
+      "hook_plan": {{
+        "overlay_text": "YOUR PHONE IS SPYING",
+        "narration": "Stop what you are doing! Your phone is secretly recording everything you say.",
+        "image_description": "Extreme close-up of a camera lens reflecting a scared eye, digital glitch effects, red warning lights",
+        "mood_color": "red"
+      }},
+      "thumbnail_plan": {{
+        "thumbnail_text": "DELETE THIS APP",
+        "image_description": "A hand holding a smartphone with a red 'X' on the screen, dark background, cinematic lighting",
+        "reasoning": "Direct command + Mystery creates high CTR."
+      }},
+      "title": "Smartphone Privacy Alert",
       "segments": [
-        {{"text": "Nvidia's new chip creates 3D worlds in milliseconds.", "image_prompt": "Close-up of a futuristic glowing green computer chip...", "camera_effect": "zoom_in"}},
+        {{"text": "A new report shows that 90% of apps track your location.", "image_prompt": "Digital map of city with tracking dots...", "camera_effect": "static"}},
         ...
       ]
     }}
