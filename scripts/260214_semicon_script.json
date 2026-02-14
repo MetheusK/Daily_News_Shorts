@@ -1,46 +1,36 @@
 {
-  "hook_plan": {
-    "overlay_text": "AI IS A TRAP",
-    "narration": "Warning! The AI stock craze is a dangerous trap, and you could lose everything!",
-    "image_description": "Extreme close-up of a person with intense focus looking at a glowing holographic stock chart, reflecting jagged red lines in their cybernetic eyes, cinematic lighting, digital corruption effects.",
-    "mood_color": "red"
-  },
-  "thumbnail_plan": {
-    "thumbnail_text": "AI STOCK WARNING",
-    "image_description": "A stark, high-contrast image of a single, powerful AI semiconductor chip with a subtle red glow, set against a dark, futuristic background, cinematic lighting, clean and sharp focus.",
-    "reasoning": "This thumbnail creates urgency and intrigue by hinting at danger in AI investments, focusing on the core technology (semiconductors) rather than human emotion, to maximize clicks."
-  },
-  "title": "AI Stocks: Hype or Crash? What You MUST Know!",
+  "title": "AI Gold Rush: Deserts Reshaped, Trillions Made!",
+  "thumbnail_prompt": "Extreme close-up, photorealistic image of a golden microchip reflecting a vast desert landscape with futuristic factories and a rapidly rising stock market graph in its circuits. High contrast, cinematic lighting, dramatic shadows, 8k resolution, photorealistic.",
   "segments": [
     {
-      "text": "While some highlight 5 top AI stocks for February, the broader market presents complex signals. Investors need caution amidst rapid growth and shifting tech landscapes.",
-      "image_prompt": "Close-up of a digital stock ticker displaying green up arrows and red down arrows, reflected in smart glasses on a person with serious thought. Dramatic side lighting.",
-      "camera_effect": "static"
+      "text": "The AI gold rush isn't just a digital phenomenon; it's literally reshaping deserts and fueling unprecedented stock surges – blink and you'll miss the next trillion-dollar opportunity!",
+      "image_prompt": "Drone shot of vast, arid desert landscape suddenly transitioning to a massive, bustling construction site with cranes and foundational structures for a high-tech factory.",
+      "camera_effect": "drone_shot_rising"
     },
     {
-      "text": "Analysts project potential market volatility. Data suggests a possible stock market correction or crash by 2026, challenging current investor optimism and long-term stability.",
-      "image_prompt": "Data visualization showing a downward trend line, overlaid with a digital clock counting down, reflecting in a determined cybernetic eye. Cyberpunk neon lighting.",
-      "camera_effect": "slow zoom out"
+      "text": "February saw AI stocks absolutely exploding, with major investment firms identifying top picks poised for exponential growth, pushing several tech giants into record-breaking market cap territories.",
+      "image_prompt": "Dynamic, fast-paced animation of an upward trending stock market graph on a sleek digital display, bright green arrows rapidly moving upwards, reflecting on a futuristic glass panel.",
+      "camera_effect": "pan_right_and_zoom_in"
     },
     {
-      "text": "Beyond traditional stocks, 'DeepSnitch AI' signals a new crypto trend. Its real AI utility aims to differentiate it from speculative tokens, offering practical applications.",
-      "image_prompt": "Abstract representation of a blockchain network with glowing nodes and a central 'AI' symbol, viewed through a digital lens on a person with wonder. Cinematic lighting.",
-      "camera_effect": "pan left"
+      "text": "But the real-world transformation? Arizona is rapidly becoming the 'Silicon Desert,' attracting billions in investment for cutting-edge semiconductor mega-fabs, promising thousands of high-tech jobs.",
+      "image_prompt": "Dramatic aerial view of a colossal, sprawling semiconductor factory under construction in a sun-drenched desert environment, surrounded by heavy machinery and active work crews.",
+      "camera_effect": "wide_dolly_zoom"
     },
     {
-      "text": "The AI surge heavily relies on semiconductor innovation. Companies like NVIDIA, AMD, and Intel are foundational, powering advancements in machine learning infrastructure globally.",
-      "image_prompt": "Macro shot of a silicon wafer with intricate, glowing circuits, dramatic side lighting. A hand with a technical cybernetic glove points with intense focus.",
-      "camera_effect": "static"
+      "text": "This isn't just about local economics; it's a strategic national imperative to secure America's critical microchip supply chain, mitigating global reliance and bolstering domestic tech independence.",
+      "image_prompt": "Extreme close-up of a perfectly etched silicon wafer being carefully handled by gloved hands in a pristine cleanroom, with a subtle, stylized American flag reflection in the background.",
+      "camera_effect": "slow_push_in"
     },
     {
-      "text": "Navigating this landscape requires balancing AI's immense potential with market realities. Due diligence on both established tech giants and emerging utility projects is crucial.",
-      "image_prompt": "A split screen: one side showing a vibrant digital city (potential), the other side showing subtle data glitches (reality). A person with a thoughtful expression watching.",
-      "camera_effect": "static"
+      "text": "At the absolute core of this intensifying global chip saga is TSMC, the Taiwanese manufacturing titan, whose future valuation dictates the pace of AI innovation worldwide.",
+      "image_prompt": "Intricate network of glowing micro-circuits visible under a powerful microscope, then a quick, seamless cut to a minimalist, digital render of the TSMC logo emerging from the circuits.",
+      "camera_effect": "macro_zoom_out_then_cut"
     },
     {
-      "text": "Successful investment strategies will depend on understanding core AI technologies, market cycles, and identifying genuine utility versus mere hype. Stay informed for future growth.",
-      "image_prompt": "A holographic globe rotating with data streams, a person's glowing iris reflecting complex algorithms. Intense focus, cybernetic elements, cyberpunk lighting.",
-      "camera_effect": "slow zoom in"
+      "text": "Industry analysts project TSMC's stock could surge dramatically within the next five years, fueled by insatiable global AI demand and its indispensable, near-monopoly role in advanced chip production.",
+      "image_prompt": "Hyper-realistic 3D rendering of a futuristic city skyline powered by glowing data streams and interconnected smart infrastructure, with a prominent, stylized microchip floating majestically above it, representing global connectivity.",
+      "camera_effect": "cinematic_arc_shot_around_city"
     },
     {
       "text": "If useful, please like and subscribe!",
