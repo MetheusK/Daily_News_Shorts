@@ -277,12 +277,35 @@ class VideoGenerator:
         # ... (BGM Logic) ...
 
     async def generate_audio_segment(self, text, segment_id):
-        """Generates audio for a single sentence and returns the filepath."""
+        """Generates audio and returns path + word timings."""
         output_file = os.path.join(self.output_dir, f"audio_{segment_id}.mp3")
-        # [User Request] Speed increased by 20%
-        communicate = edge_tts.Communicate(text, VOICE_NAME, rate="+20%")
-        await communicate.save(output_file)
-        return output_file
+        
+        # Use edge-tts with WordBoundary
+        # VOICE is defined globally as "en-US-ChristopherNeural" (or similar)
+        # Note: We need to ensure we use the same voice
+        voice = "en-US-ChristopherNeural" 
+        communicate = edge_tts.Communicate(text, voice, boundary="WordBoundary")
+        
+        word_events = []
+        
+        try:
+            with open(output_file, "wb") as f:
+                async for chunk in communicate.stream():
+                    if chunk["type"] == "audio":
+                        f.write(chunk["data"])
+                    elif chunk["type"] == "WordBoundary":
+                        # chunk structure: {'offset': 123, 'duration': 123, 'text': 'word'}
+                        # Units are 100ns (1e-7). Divide by 10,000,000 to get seconds.
+                        evt = {
+                            "text": chunk["text"],
+                            "start": chunk["offset"] / 10_000_000,
+                            "duration": chunk["duration"] / 10_000_000
+                        }
+                        word_events.append(evt)
+            return output_file, word_events
+        except Exception as e:
+            print(f"      ⚠️ TTS Generation failed: {e}")
+            return None, []
 
     def fetch_cloudflare_image(self, query, segment_id, width=1024, height=1024):
         """
@@ -958,52 +981,114 @@ class VideoGenerator:
                 print(f"   🔹 Processing Sentence {global_segment_index+1}: {sentence[:30]}...")
                 
                 # 1. Generate Audio for ONLY the Sentence
-                audio_path = await self.generate_audio_segment(sentence, global_segment_index)
+                audio_path, word_events = await self.generate_audio_segment(sentence, global_segment_index)
                 
                 # Check Duration
-                if not os.path.exists(audio_path):
+                if not audio_path or not os.path.exists(audio_path):
                     print("      ⚠️ Audio generation failed, skipping.")
                     continue
                     
                 full_audio_clip = AudioFileClip(audio_path)
                 full_duration = full_audio_clip.duration
                 
-                # 2. Split Text (Karaoke Style: Max 25 chars per line)
-                # User request: "Alphabet unit max"
-                chunks = self.split_text_by_words(sentence, max_chars=25)
-                num_chunks = len(chunks)
-                chunk_duration = full_duration / num_chunks
+                # 2. Group Words into Chunks (Karaoke Style)
+                # We use the words from TTS (word_events) to ensure sync.
+                # Note: TTS text might differ slightly (normalization), but it matches audio.
                 
+                chunks = []
+                current_chunk_words = []
+                current_len = 0
+                max_chars = 25
+                
+                # Helper to flush current chunk
+                def flush_chunk():
+                    nonlocal current_chunk_words, current_len
+                    if not current_chunk_words: return
+                    
+                    # Determine start time (start of first word)
+                    start_t = current_chunk_words[0]['start']
+                    
+                    # Text for subtitle
+                    text_str = " ".join([w['text'] for w in current_chunk_words])
+                    
+                    chunks.append({
+                        "text": text_str,
+                        "start": start_t,
+                        "words": current_chunk_words # Keep raw data just in case
+                    })
+                    current_chunk_words = []
+                    current_len = 0
+
+                if not word_events:
+                    # Fallback if no events (e.g. silence or error)
+                    # Use simple split
+                    raw_chunks = self.split_text_by_words(sentence, max_chars)
+                    chunk_duration = full_duration / len(raw_chunks) if raw_chunks else 1
+                    for idx, txt in enumerate(raw_chunks):
+                        chunks.append({
+                            "text": txt,
+                            "start": idx * chunk_duration,
+                            "duration_override": chunk_duration 
+                        })
+                else:
+                    for evt in word_events:
+                        w_len = len(evt['text'])
+                        if current_len + w_len + 1 > max_chars and current_chunk_words:
+                            flush_chunk()
+                        
+                        current_chunk_words.append(evt)
+                        current_len += w_len + 1
+                    flush_chunk() # Flush remaining
+
+                    # Calculate Durations based on NEXT chunk start
+                    for idx, chunk in enumerate(chunks):
+                        if idx < len(chunks) - 1:
+                            # End at start of next chunk
+                            end_t = chunks[idx+1]['start']
+                        else:
+                            # Last chunk ends at full audio duration
+                            end_t = full_duration
+                        
+                        # Ensure duration is positive
+                        dur = end_t - chunk['start']
+                        if dur <= 0: dur = 0.1 # Safety
+                        chunk['duration_override'] = dur
+
                 sentence_group_id = f"group_{global_segment_index}"
                 sentence_clips = []
-                
                 
                 # [Fix] Reset time offset for each new sentence group
                 # Actually, chunks are sequential parts of ONE sentence.
                 # So offset should accumulate.
                 current_time_offset = 0 # Track time for this sentence
                 
-                for chunk_idx, chunk in enumerate(chunks):
-                    # print(f"      🔸 Chunk {chunk_idx+1}/{num_chunks}: {chunk}")
+                for chunk_idx, chunk_info in enumerate(chunks):
+                    chunk_text = chunk_info['text']
+                    chunk_duration = chunk_info.get('duration_override')
                     
+                    # Validate duration
+                    if chunk_duration is None:
+                        # Should not happen with new logic, but safe fallback
+                        chunk_duration = 1.0
+
                     # Use provided image prompt
                     image_prompt = seg.get('image_prompt', keyword)
                     camera_effect = seg.get('camera_effect', 'static') # Extract here
                     
                     chunk_data = {
-                        "text": chunk,
-                        # "audio_path": None, # Handled globally for sentence
+                        "text": chunk_text,
                         "image_prompt": image_prompt,
                         "keyword": keyword,
                         "group_id": sentence_group_id,
                         "camera_effect": camera_effect, # Pass down
                         "time_offset": current_time_offset, # Pass down
-                        "total_duration": full_duration # Pass down the total duration of the sentence
+                        "total_duration": full_duration 
                     }
                     
                     # Create visual clip (mute)
                     chunk_clip = self.process_segment(chunk_data, f"{global_segment_index}_{chunk_idx}", duration_override=chunk_duration)
                     if chunk_clip:
+                        # [NEW] Crossfade Logic (Visual Only)
                         sentence_clips.append(chunk_clip)
                         
                     current_time_offset += chunk_duration # Increment offset
