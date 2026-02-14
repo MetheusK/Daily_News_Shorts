@@ -70,36 +70,14 @@ def download_font():
     print(f"⚠️ Font not found at {FONT_PATH}. Please ensure 'Roboto-Bold.ttf' is in 'assets/Roboto/static/' or 'assets/'.")
 
 # [NEW] Whoosh Sound Download
-WHOOSH_PATH = os.path.join("assets", "whoosh.mp3")
+WHOOSH_PATH = os.path.join("assets", "Whoosh_4.mp3")
 
 def download_whoosh():
-    """Downloads Whoosh sound effect if not exists."""
-    if os.path.exists(WHOOSH_PATH) and os.path.getsize(WHOOSH_PATH) > 1000:
-        return
-
-    urls = [
-        "https://github.com/sk2k/react-native-sound-demo/raw/master/android/app/src/main/res/raw/whoosh.mp3",
-        "https://github.com/zmxv/react-native-sound/raw/master/android/app/src/main/res/raw/whoosh.mp3",
-        "https://www.soundjay.com/misc/sounds/whoosh-1.mp3", # Fallback
-    ]
-    
-    headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)"
-    }
-
-    for url in urls:
-        try:
-            print(f"📥 Attempting to download Whoosh SFX from: {url}")
-            r = requests.get(url, allow_redirects=True, headers=headers, timeout=10)
-            if r.status_code == 200 and len(r.content) > 1000:
-                with open(WHOOSH_PATH, 'wb') as f:
-                    f.write(r.content)
-                print("✅ Whoosh SFX downloaded successfully.")
-                return
-        except Exception as e:
-            print(f"⚠️ Failed to download Whoosh from {url}: {e}")
-    
-    print("❌ Failed to download Whoosh SFX. Transitions will be silent.")
+    """Checks if Whoosh sound exists."""
+    if not os.path.exists(WHOOSH_PATH):
+        print(f"⚠️ Whoosh sound not found at {WHOOSH_PATH}")
+    else: 
+        print(f"✅ Found Whoosh sound: {WHOOSH_PATH}")
 
 # Ensure assets exist
 download_font()
@@ -1104,11 +1082,12 @@ class VideoGenerator:
                     sentence_final = sentence_final.with_effects([vfx.FadeIn(0.5)])
                     
                     # 2. Add Whoosh at the beginning (Mixed Audio)
-                    if whoosh_clip and global_segment_index > 0: # Skip first segment
+                    # [USER REQUEST] Only for topic change (Segment > 0)
+                    if whoosh_clip and i > 0 and sentence_idx == 0: 
                         try:
                             # Mix whoosh with voice
                             # Create CompositeAudioClip
-                            start_whoosh = whoosh_clip
+                            start_whoosh = whoosh_clip.with_volume_scaled(0.3) # Adjust volume
                             # If whoosh is longer than sentence, cut it
                             if start_whoosh.duration > sentence_final.duration:
                                 start_whoosh = start_whoosh.subclipped(0, sentence_final.duration)
