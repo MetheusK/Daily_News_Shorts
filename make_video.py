@@ -43,46 +43,31 @@ MAX_SUBTITLE_CHARS = 120 # [User Request] Increased limit for longer subtitles
 
 # [NEW] Font Configuration
 # [NEW] Font Configuration
-FONT_PATH = os.path.join("assets", "Roboto-Black.ttf")
+# User provided font in assets/Roboto/static/Roboto-Bold.ttf
+FONT_PATH = os.path.join("assets", "Roboto", "static", "Roboto-Bold.ttf")
 
 def download_font():
-    """Downloads Roboto-Black font if not exists or invalid."""
-    should_download = False
-    if not os.path.exists(FONT_PATH):
-        should_download = True
-    else:
-        # Check if file is valid (larger than 10KB)
-        if os.path.getsize(FONT_PATH) < 10240:
-            print("⚠️ Existing font file is too small (likely corrupted), re-downloading...")
-            should_download = True
+    """Checks if Roboto-Bold font exists."""
+    global FONT_PATH
+    
+    # Check Default Path
+    if os.path.exists(FONT_PATH):
+        print(f"✅ Found font: {FONT_PATH}")
+        return
 
-    if should_download:
-        urls = [
-            "https://github.com/google/fonts/raw/main/apache/roboto/static/Roboto-Black.ttf",
-            "https://github.com/google/fonts/raw/main/apache/roboto/Roboto-Black.ttf",
-            "https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmY5fBBc4.ttf"
-        ]
-        
-        headers = {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
-        }
+    # Check Alternates
+    alternates = [
+        os.path.join("assets", "Roboto-Bold.ttf"),
+        os.path.join("assets", "Roboto", "Roboto-Bold.ttf"),
+    ]
+    
+    for alt in alternates:
+        if os.path.exists(alt):
+             FONT_PATH = alt
+             print(f"✅ Found font in alternate location: {FONT_PATH}")
+             return
 
-        for url in urls:
-            try:
-                print(f"📥 Attempting to download font from: {url}")
-                r = requests.get(url, allow_redirects=True, headers=headers, timeout=10)
-                if r.status_code == 200 and len(r.content) > 10240:
-                    with open(FONT_PATH, 'wb') as f:
-                        f.write(r.content)
-                    print("✅ Font downloaded successfully.")
-                    return
-                else:
-                    print(f"⚠️ Download failed (Status: {r.status_code}, Size: {len(r.content)} bytes)")
-            except Exception as e:
-                print(f"⚠️ Failed to download font from {url}: {e}")
-        
-        
-        print("❌ All font download attempts failed. The script will try to use system fonts.")
+    print(f"⚠️ Font not found at {FONT_PATH}. Please ensure 'Roboto-Bold.ttf' is in 'assets/Roboto/static/' or 'assets/'.")
 
 # [NEW] Whoosh Sound Download
 WHOOSH_PATH = os.path.join("assets", "whoosh.mp3")
@@ -684,17 +669,41 @@ class VideoGenerator:
             # Font Settings
             font_size = 70 # Slightly smaller to be safe
             # Font Settings
-            font_size = 70 # Slightly smaller to be safe
+            font_size = 70 
+            font = None
+            font_bold = None
+
+            # 1. Try Custom Font (Roboto-Black)
             try:
-                # Use downloaded Google Font
                 font = ImageFont.truetype(FONT_PATH, font_size)
-                font_bold = ImageFont.truetype(FONT_PATH, font_size) # Roboto Black is already bold
-            except:
+                font_bold = ImageFont.truetype(FONT_PATH, font_size)
+            except Exception as e:
                 if not VideoGenerator._font_warning_shown:
-                    print("⚠️ Failed to load Roboto-Black.ttf, using default.")
+                    print(f"⚠️ Failed to load {FONT_PATH}: {e}")
+            
+            # 2. Try System Fonts (Windows/Linux) if custom failed
+            if font is None:
+                system_fonts = ["arial.ttf", "Arial.ttf", "DejaVuSans-Bold.ttf", "liberation-sans"]
+                for sys_font in system_fonts:
+                    try:
+                        font = ImageFont.truetype(sys_font, font_size)
+                        font_bold = ImageFont.truetype(sys_font, font_size) # Use same or bold var if known
+                        if not VideoGenerator._font_warning_shown:
+                            print(f"ℹ️ Using fallback font: {sys_font}")
+                        break
+                    except:
+                        continue
+            
+            # 3. Last Resort (Tiny Default)
+            if font is None:
+                if not VideoGenerator._font_warning_shown:
+                    print("⚠️ All font loads failed. Using tiny default font.")
                     VideoGenerator._font_warning_shown = True
                 font = ImageFont.load_default()
-                font_bold = font
+                font_bold = font # Default font doesn't scale, so it will be tiny!
+            else:
+                 # Reset warning flag if we found a good font so we don't spam for next clips if successful
+                 pass
             
             # Canvas Size
             W, H = VIDEO_WIDTH, 200
