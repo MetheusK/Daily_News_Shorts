@@ -955,7 +955,7 @@ class VideoGenerator:
             # Simple split by period is requested.
             sentences = [s.strip() for s in original_text.split('.') if s.strip()]
             
-            for sentence in sentences:
+            for sentence_idx, sentence in enumerate(sentences):
                 print(f"   🔹 Processing Sentence {global_segment_index+1}: {sentence[:30]}...")
                 
                 # 1. Generate Audio for ONLY the Sentence

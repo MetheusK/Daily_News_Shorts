@@ -1,45 +1,45 @@
 {
-  "title": "Silicon Surge: AI Fuels Arizona's Chip Boom!",
+  "title": "Semiconductor Surge: Arizona, TSMC & AI Chips",
   "segments": [
     {
-      "text": "Forget the gold rush, we're in a silicon rush! Arizona is cementing its status as the 'Silicon Desert,' attracting billions in semiconductor investments.",
-      "image_prompt": "Wide aerial shot of a vast, arid desert landscape with multiple futuristic chip manufacturing plants under construction, cranes silhouetted against a vibrant sunset sky, golden hour, 8k resolution, photorealistic",
-      "camera_effect": "pan_right"
-    },
-    {
-      "text": "Major players like TSMC and Intel are pouring capital into state-of-the-art fabs, creating thousands of high-tech jobs and boosting local economies.",
-      "image_prompt": "Close-up of a construction site worker wearing a hard hat, looking intently at a digital tablet displaying complex factory blueprints, a massive, partially built semiconductor factory looms in the blurred background, industrial lighting, cinematic, 8k",
-      "camera_effect": "zoom_in"
-    },
-    {
-      "text": "This makes the question of 'Where will TSMC stock be in 5 years?' even more critical, as their growth directly reflects global demand for cutting-edge chips.",
-      "image_prompt": "Dynamic stock market graph with a prominent upward trend, overlaid with shimmering binary code and holographic data streams, a glowing microchip symbol at the center of the screen, deep blues and greens, high-tech interface, 8k, photorealistic",
-      "camera_effect": "static"
-    },
-    {
-      "text": "Analysts predict continued upward trends, driven by the insatiable appetite for AI, IoT, and high-performance computing across industries.",
-      "image_prompt": "A montage of diverse futuristic scenes: a sleek autonomous vehicle driving on a smart city street, a doctor using an AI diagnostic tool, and a robot arm assembling components in a clean factory, all seamlessly integrated, bright daylight, wide angle, 8k",
-      "camera_effect": "pan_right"
-    },
-    {
-      "text": "The AI Giga-Cycle isn't just hype; Applied Materials just SURGED 11% after announcing record Q1 2026 earnings, massively exceeding expectations.",
-      "image_prompt": "A bold, upward-pointing financial arrow piercing through a digital screen displaying live stock tickers and graphs, with the number '11%' prominently highlighted, contrasting red and green colors, data streams in the background, 8k, dramatic lighting",
-      "camera_effect": "zoom_in"
-    },
-    {
-      "text": "This massive jump confirms robust spending on semiconductor manufacturing equipment, fueling the next generation of powerful AI processors.",
-      "image_prompt": "Wide shot of a sterile cleanroom factory floor, advanced robotic arms precisely handling delicate silicon wafers under bright, pristine lighting, technicians in full hazmat suits observe from a control panel in the distance, 8k, photorealistic",
-      "camera_effect": "pan_left"
-    },
-    {
-      "text": "The relentless demand for faster, smarter AI means companies investing in the foundational tech are set for explosive growth and strategic dominance.",
-      "image_prompt": "A complex, interconnected network of glowing microchips forming a futuristic, brain-like structure, holographic data flowing between them, set against a dark, abstract background with neon blue and purple light trails, 8k, cinematic",
+      "text": "America's desert just became the new battleground for global chip dominance, drawing billions in investment!",
+      "image_prompt": "Wide angle drone shot of a vast, golden desert landscape at sunset, with a colossal, futuristic semiconductor factory subtly glowing in the distance. Cinematic, dramatic lighting, photorealistic, 8k.",
       "camera_effect": "zoom_out"
     },
     {
-      "text": "The global race for AI leadership is a chip race, and these players are just accelerating.",
-      "image_prompt": "A stylized illustration of multiple, diverse hands reaching simultaneously for a central, brightly glowing silicon wafer, symbolizing intense competition and rapid innovation, dramatic high-contrast lighting, abstract, 8k",
+      "text": "The 'Silicon Desert' is rising! Arizona is now ground zero for a massive semiconductor boom, securing America's chip supply chain.",
+      "image_prompt": "Medium shot, modern cleanroom worker in full bunny suit, carefully handling a silicon wafer, sterile environment, bright white lights, shallow depth of field, photorealistic, cinematic.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "TSMC and Intel alone are pouring over $60 billion into advanced chip manufacturing, creating thousands of high-tech jobs.",
+      "image_prompt": "Dynamic wide shot of a massive construction site at dusk, colossal cranes silhouetted against an orange sky, partially built futuristic factory structures, vibrant construction lights, hundreds of workers in hard hats moving on site. Photorealistic, dramatic.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "But what about the titan? TSMC, the world's leading chip foundry, is forecast for explosive growth, with analysts eyeing a massive stock surge over five years.",
+      "image_prompt": "Intricate 3D stock market graph showing a steep upward trend, green lines against a dark, futuristic data center background with server racks glowing blue. Digital interface elements, highly detailed, cinematic. No text.",
       "camera_effect": "static"
+    },
+    {
+      "text": "Their cutting-edge fabs are the backbone for nearly every AI accelerator and advanced processor, making them indispensable to tech's future.",
+      "image_prompt": "Extreme close-up macro shot of a densely packed, glowing microchip on a printed circuit board, with intricate golden connections and microscopic components visible. Deep blue and purple ambient lighting, high tech aesthetic, photorealistic, 8k.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "And the impact is real, right now. Trio-Tech, a semiconductor test equipment provider, just saw sales skyrocket by an incredible 82%!",
+      "image_prompt": "Modern digital display showing a stylized bar chart with a dominant, tall green bar indicating 82% growth. Abstract data visualization, sleek interface, dark background, photorealistic. No text.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "This massive leap is directly fueled by insatiable demand for chips powering next-gen AI systems and the rapidly expanding EV market.",
+      "image_prompt": "Split screen: Left side shows a sleek, futuristic autonomous electric car driving on a glowing smart highway at night; Right side shows a highly advanced robotic arm precisely placing a tiny component onto a circuit board in a sterile lab. Cinematic, neon accents, photorealistic, 8k.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "From data centers to autonomous vehicles, semiconductors are accelerating everything. Get ready, the chip revolution is just beginning!",
+      "image_prompt": "Wide angle drone shot soaring over a hyper-connected, futuristic smart city at night, with towering data centers glowing with blue light, countless electric vehicles moving on multi-level roads, and subtle holographic displays in the sky. Cinematic, sprawling scale, photorealistic, 8k.",
+      "camera_effect": "zoom_out"
     },
     {
       "text": "If useful, please like and subscribe!",
