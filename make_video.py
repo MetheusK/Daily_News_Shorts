@@ -12,7 +12,7 @@ import json
 import shutil
 import textwrap
 import io
-from PIL import Image
+from PIL import Image, ImageDraw, ImageFont
 from moviepy import VideoFileClip, AudioFileClip, TextClip, CompositeVideoClip, concatenate_videoclips, vfx, ColorClip, ImageClip, CompositeAudioClip, afx
 import edge_tts
 
@@ -390,9 +390,13 @@ class VideoGenerator:
             use_height = height
             
             if "v1-5" in model:
-                # SD 1.5 prefers 512x512
-                use_width = 512
-                use_height = 512
+                # SD 1.5 prefers 512x512 but can do 512x768 (Vertical)
+                if width < height:
+                    use_width = 512
+                    use_height = 910 # Approx 9:16
+                else:
+                    use_width = 512
+                    use_height = 512
             
             payload = {
                 "inputs": enhanced_query,
@@ -942,6 +946,19 @@ class VideoGenerator:
         clips = [] # [User Request] Ensure clips list is initialized
         global_segment_index = 0
         
+        # [NEW] Generate Thumbnail (0.1s)
+        try:
+            video_title = script_data.get('title', 'Daily News')
+            thumb_prompt_text = script_data.get('thumbnail_prompt') # Extract from JSON
+            
+            # Extract main topic from global_topic or title
+            thumb_clip = self.create_thumbnail(global_topic, video_title, thumbnail_prompt=thumb_prompt_text)
+            if thumb_clip:
+                clips.append(thumb_clip)
+                print("✅ Thumbnail added to start of video.")
+        except Exception as e:
+            print(f"⚠️ Thumbnail integration failed: {e}")
+
         # [NEW] Whoosh Sound Loading
         whoosh_clip = None
         if os.path.exists(WHOOSH_PATH):
@@ -1151,6 +1168,147 @@ class VideoGenerator:
         
         print(f"🎉 Video Saved: {output_filename}")
         return output_filename
+
+    def create_thumbnail(self, topic, title_text, thumbnail_prompt=None):
+        """Creates a high-quality thumbnail with text overlay."""
+        print(f"🖼️ Creating Thumbnail for '{title_text}'...")
+        
+        # 1. Fetch Background Image
+        if thumbnail_prompt:
+             # Use the specific prompt from LLM
+             thumb_prompt = f"{thumbnail_prompt}, no text, vertical, 9:16 aspect ratio"
+             print(f"   Using LLM Thumbnail Prompt: {thumbnail_prompt}")
+        else:
+             # Fallback to generic
+             thumb_prompt = f"{topic}, cinematic background, dark atmosphere, high contrast, 8k, no text, vertical, 9:16 aspect ratio"
+        
+        # Use existing method to fetch
+        bg_path = self.fetch_image_from_providers(thumb_prompt, "thumbnail", 1080, 1920)
+        
+        if not bg_path or not os.path.exists(bg_path):
+            print("⚠️ Thumbnail background fetch failed. Skipping thumbnail.")
+            return None
+
+        try:
+            # 2. Process Image with PIL
+            with Image.open(bg_path) as img:
+                img = img.convert("RGB")
+                
+                # Resize/Crop to exact 1080x1920
+                img_ratio = img.width / img.height
+                tgt_ratio = 1080 / 1920
+                
+                if img_ratio > tgt_ratio:
+                    # Too wide
+                    new_height = 1920
+                    new_width = int(new_height * img_ratio)
+                    img = img.resize((new_width, new_height), Image.Resampling.LANCZOS)
+                    # Center Crop X
+                    left = (new_width - 1080) // 2
+                    img = img.crop((left, 0, left + 1080, 1920))
+                else:
+                    # Too tall
+                    new_width = 1080
+                    new_height = int(new_width / img_ratio)
+                    img = img.resize((new_width, new_height), Image.Resampling.LANCZOS)
+                    # Center Crop Y
+                    top = (new_height - 1920) // 2
+                    img = img.crop((0, top, 1080, top + 1920))
+                
+                # 3. Add Dimming Layer (40% opacity black)
+                overlay = Image.new('RGBA', img.size, (0, 0, 0, int(255 * 0.4))) 
+                img = img.convert("RGBA")
+                img = Image.alpha_composite(img, overlay)
+                img = img.convert("RGB")
+                
+                # 4. Draw Text
+                draw = ImageDraw.Draw(img)
+                
+                # Font Setup
+                font_path = FONT_PATH 
+                font_size = 120 # Large font for title
+                
+                try:
+                    font = ImageFont.truetype(font_path, font_size)
+                except:
+                    font = ImageFont.load_default()
+                    print("⚠️ Loading default font for thumbnail.")
+
+                text = title_text.upper()
+                
+                # Wrap Text
+                margin = 100
+                max_width = 1080 - (margin * 2)
+                
+                lines = []
+                words = text.split()
+                current_line = []
+                
+                for word in words:
+                    test_line = ' '.join(current_line + [word])
+                    bbox = draw.textbbox((0, 0), test_line, font=font)
+                    w = bbox[2] - bbox[0]
+                    if w <= max_width:
+                        current_line.append(word)
+                    else:
+                        if current_line:
+                            lines.append(' '.join(current_line))
+                            current_line = [word]
+                        else:
+                            # Word itself is too long, just add it
+                            lines.append(word)
+                            current_line = []
+                            
+                if current_line:
+                    lines.append(' '.join(current_line))
+                
+                # Calculate Total Height to Center
+                line_heights = []
+                total_text_height = 0
+                for line in lines:
+                    bbox = draw.textbbox((0, 0), line, font=font)
+                    h = bbox[3] - bbox[1]
+                    # Add some vertical spacing
+                    line_heights.append(h)
+                    total_text_height += h
+                
+                # Spacing between lines
+                line_spacing = 30
+                if len(lines) > 1:
+                    total_text_height += (len(lines) - 1) * line_spacing
+
+                start_y = (1920 - total_text_height) // 2
+                
+                # Draw Lines
+                current_y = start_y
+                for i, line in enumerate(lines):
+                    # Center X
+                    bbox = draw.textbbox((0, 0), line, font=font)
+                    text_w = bbox[2] - bbox[0]
+                    text_h = bbox[3] - bbox[1] # Actual height of letters
+                    
+                    start_x = (1080 - text_w) // 2
+                    
+                    # Draw Stroke (Black)
+                    stroke_width = 10
+                    draw.text((start_x, current_y), line, font=font, fill="#FFD700", stroke_width=stroke_width, stroke_fill="black")
+                    
+                    current_y += line_heights[i] + line_spacing
+                
+                # 5. Save
+                thumb_path = os.path.join(self.output_dir, "final_thumbnail.png")
+                img.save(thumb_path)
+                print(f"✅ Thumbnail saved to {thumb_path}")
+                
+                # 6. Return Clip
+                clip = ImageClip(thumb_path).with_duration(0.1)
+                return clip
+                
+        except Exception as e:
+            print(f"⚠️ Thumbnail generation failed: {e}")
+            import traceback
+            traceback.print_exc()
+            return None
 
 if __name__ == "__main__":
     # Test Payload
