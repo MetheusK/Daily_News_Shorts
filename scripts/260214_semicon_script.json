@@ -1,46 +1,46 @@
 {
   "hook_plan": {
-    "overlay_text": "AI STOCKS ARE A TRAP",
-    "narration": "Stop investing now! The AI stock market is a ticking time bomb, and a massive crash is imminent!",
-    "image_description": "A close-up of a person's face with intense focus, their cybernetic eyes reflecting rapidly glitching financial data. Red warning lights flash dramatically from the side, with digital corruption effects spreading across the screen.",
+    "overlay_text": "AI STOCKS CRASH?",
+    "narration": "Stop everything! Experts are secretly dumping AI stocks. Are you about to lose it all?",
+    "image_description": "A close-up of a stock market graph plummeting dramatically, overlaid with digital glitch effects and sharp red warning lights. A figure in the foreground, seen from behind, has 'cybernetic' eyes reflecting the falling data with intense focus, under dramatic side lighting.",
     "mood_color": "red"
   },
   "thumbnail_plan": {
-    "thumbnail_text": "IS AI OVERPRICED?",
-    "image_description": "A person with a serious, thoughtful expression, framed by dramatic cinematic lighting. Behind them, a crisp, high-contrast futuristic stock chart shows volatile price movements, with subtle glowing lines indicating data flow.",
-    "reasoning": "The question 'IS AI OVERPRICED?' creates immediate intrigue and curiosity, prompting a click to find the answer. The serious expression and clear chart hint at a deep, analytical discussion, contrasting with the Hook's panic."
+    "thumbnail_text": "AI STOCKS: SELL?",
+    "image_description": "A clean, high-contrast shot of a human hand, with a serious and determined expression reflected in smart glasses, hovering over a holographic 'SELL' button on a futuristic trading terminal. The background is a blurred, calm, data-rich environment with cinematic lighting.",
+    "reasoning": "The question in the text immediately sparks curiosity, while the 'serious thought' visual suggests a critical decision, driving clicks for urgent information."
   },
-  "title": "AI Stock Surge: Reality or Risk?",
+  "title": "AI Stocks: February's Big Gamble?",
   "segments": [
     {
-      "text": "AI stocks surged significantly in January, fueled by strong Q4 results from tech giants like Microsoft and Google. Investor optimism is high for semiconductors.",
-      "image_prompt": "A digital stock market interface showing a clear upward trend, overlaid with subtle network connections. Glowing lines connect various tech company logos.",
-      "camera_effect": "zoom_in_slow"
+      "text": "Recent reports highlight top AI stocks for February, including Nvidia and Broadcom, amidst significant market volatility and ambitious growth projections.",
+      "image_prompt": "Abstract digital representation of a stock chart rising, with prominent company logos (Nvidia, Broadcom) subtly integrated, under cyberpunk neon lighting.",
+      "camera_effect": "zoom_out"
     },
     {
-      "text": "Motley Fool identifies five top AI stocks for February, citing robust demand for cloud computing and advanced chip designs. These include established and emerging players.",
-      "image_prompt": "A holographic display showcasing five distinct company logos (representing AI stocks), surrounded by dynamic data streams and a digital cloud icon.",
-      "camera_effect": "pan_left_slow"
+      "text": "Broadcom's stock (NASDAQ: AVGO) gained 112% over 12 months. Analysts forecast continued growth into 2030, driven by insatiable AI infrastructure demand.",
+      "image_prompt": "Broadcom's logo integrated into a futuristic server rack, glowing blue data lines animating across the hardware. A 'glowing iris' reflects the server lights.",
+      "camera_effect": "dolly_in"
     },
     {
-      "text": "Broadcom (NASDAQ: AVGO) received optimistic forecasts, with projections extending to 2030. Analysts expect continued growth in its semiconductor and software segments.",
-      "image_prompt": "A detailed 3D render of a Broadcom semiconductor chip with subtle internal glowing circuits. In the background, a minimalist, upward-sloping stock graph with future projections highlighted.",
-      "camera_effect": "dolly_zoom_out"
+      "text": "Forecasts predict AVGO could reach $1,500 by 2026 and potentially $2,000 by 2030, propelled by its essential semiconductor and enterprise software solutions.",
+      "image_prompt": "A holographic projection displaying stock tickers and positive growth arrows, reflected vividly in a serious investor's smart glasses. Cinematic lighting.",
+      "camera_effect": "static"
     },
     {
-      "text": "This sustained growth is fundamentally driven by surging global demand for high-performance semiconductors. These chips are critical for advanced AI models and data centers.",
-      "image_prompt": "An intricate macro shot of a glowing microchip at the center of a bustling, futuristic data center. Server racks extend into the distance, emitting soft blue light.",
-      "camera_effect": "tilt_up_slow"
+      "text": "This surge in semiconductor demand directly fuels AI's expansion. Data centers and advanced computing require immense processing power, driving revenue for chipmakers.",
+      "image_prompt": "Inside a vast, illuminated data center with server racks stretching into the distance. A 'cybernetic' eye is focused on a glowing terminal screen.",
+      "camera_effect": "pan_left"
     },
     {
-      "text": "However, risks exist. Potential headwinds include persistent supply chain constraints and increasing regulatory scrutiny in key global technology markets.",
-      "image_prompt": "A person with a determined expression, wearing smart glasses reflecting red digital warning signs. Behind them, abstract broken chain links and a digital globe with 'regulation' text.",
-      "camera_effect": "static_close_up"
+      "text": "AI's foundational technology relies heavily on these chips. Companies are heavily investing in robust infrastructure, making these component suppliers critical market players.",
+      "image_prompt": "Microscopic view of a complex semiconductor chip, intricate pathways glowing with digital energy. The chip pulsates with a subtle red warning light, cinematic lighting.",
+      "camera_effect": "zoom_in"
     },
     {
-      "text": "Investors should consider long-term innovation cycles and diversify, balancing high growth potential with inherent market volatility for sustained returns.",
-      "image_prompt": "A complex, diversified financial portfolio displayed on a transparent screen. A person's hand gestures towards various segments, showing thoughtful analysis under cinematic lighting.",
-      "camera_effect": "pan_right_slow"
+      "text": "While valuations are high, sustained innovation and global AI adoption could underpin long-term growth for these essential technology providers, defying short-term fears.",
+      "image_prompt": "Futuristic city skyline at dawn, overlaid with abstract network connections. A figure with an expression of 'determination' looks out, reflecting data in their eyes.",
+      "camera_effect": "crane_shot"
     },
     {
       "text": "If useful, please like and subscribe!",
