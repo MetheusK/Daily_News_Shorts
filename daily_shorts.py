@@ -166,6 +166,12 @@ def generate_english_shorts_script(news_data, topic_keyword, mode="General_IT"):
     **HOOK (The Video Intro)**: This is the first 1.5 - 3 seconds of the actual video file. It must be high-energy, fast-paced, and focus on keeping the viewer from scrolling.
     
     **THUMBNAIL (The Static Cover)**: This is a separate image file used for the YouTube feed/search results. It must be high-contrast, clean, and focus on getting the initial click.
+
+    [THUMBNAIL VISUAL RULE]
+    - **SUBJECT**: Prioritize **OBJECTS** over humans (e.g., Glowing Chips, Server Racks, Holographic Data, Robot Hands, Smartphones).
+    - **AVOID**: Do not use generic "shocked face" humans unless absolutely necessary for the story.
+    - **STYLE**: 3D Render, Cyberpunk, Hyper-realistic, 8k resolution.
+    - **COMPOSITION**: Center the object, use dramatic backlighting.
     
     [HOOK NARRATION RULE]
     The narration in hook_plan must be a "Stop-the-Scroll" sentence. It should be more aggressive and emotional than the regular segments. Use words like "Warning", "Lies", "Crisis", or "Secret".
