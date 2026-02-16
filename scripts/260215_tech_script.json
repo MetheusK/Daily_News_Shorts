@@ -1,0 +1,56 @@
+{
+  "hook_plan": {
+    "overlay_text": "SAFETY WARNING!",
+    "narration": "Warning! Elon Musk just revealed a shocking truth about safety at Tesla, SpaceX, and xAI!",
+    "image_description": "Extreme close-up of a digital dashboard in a futuristic vehicle, a determined eye visible through a reflection in a smart glass lens, glitching red warning indicators on the screen. Cinematic lighting, cyberpunk style.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "NO SAFETY TEAM?",
+    "image_description": "A serious, focused male face (generic tech CEO type) looking slightly off-camera, with abstract digital schematics and a subtle rocket launch graphic in the background. Cinematic lighting with blue and silver tones, conveying determination.",
+    "reasoning": "The controversial question in the text directly addresses the core news, while the focused, serious tech leader image creates intrigue about the implication, prompting a click."
+  },
+  "title": "Elon Musk's Bold Safety Strategy",
+  "segments": [
+    {
+      "text_overlay": "MUSK'S STRATEGY",
+      "text": "Elon Musk stated Tesla, SpaceX, and xAI lack traditional 'dedicated safety teams.' He explained that safety is an integral responsibility for *everyone* at his companies.",
+      "image_prompt": "A diverse group of engineers (serious, focused expressions, some wearing smart glasses reflecting code) collaborating around a holographic display showing complex design schematics.",
+      "camera_effect": "Zoom out slightly"
+    },
+    {
+      "text_overlay": "EMBEDDED SAFETY",
+      "text": "Musk believes a separate team can create a 'them vs. us' mentality, hindering swift issue resolution. He prefers safety built directly into development cycles.",
+      "image_prompt": "Overlay of a technical flowchart showing continuous integration and testing loops, with 'safety checkpoints' highlighted in glowing green within different development stages.",
+      "camera_effect": "Panning across the flowchart"
+    },
+    {
+      "text_overlay": "AUTOPILOT IMPACT",
+      "text": "For Tesla's Autopilot, this means AI engineers are directly accountable for system safety. Software updates are released rapidly, emphasizing continuous improvement cycles.",
+      "image_prompt": "A detailed view of a futuristic car dashboard, showing AI diagnostics and real-time sensor data, with a reflection of a glowing cybernetic eye on the screen, indicating user interaction.",
+      "camera_effect": "Close-up, then subtle pull back"
+    },
+    {
+      "text_overlay": "ROCKET INTEGRITY",
+      "text": "SpaceX missions demand extreme reliability. Safety is paramount from design to launch, with all teams conducting rigorous internal reviews and simulations constantly.",
+      "image_prompt": "Engineers in a mission control room, intensely focused on large screens displaying rocket telemetry and launch sequences, their expressions showing deep concentration. Dramatic side lighting.",
+      "camera_effect": "Slow pan across the control room"
+    },
+    {
+      "text_overlay": "AI ETHICS FIRST",
+      "text": "For xAI, this integrated approach extends to ethical AI development. Every developer considers potential societal impact and safeguards from the outset of the project.",
+      "image_prompt": "Abstract digital representation of neural networks, with glowing nodes indicating ethical considerations, a serious and thoughtful person's profile in the foreground, illuminated by blue light.",
+      "camera_effect": "Smooth zoom into the neural network"
+    },
+    {
+      "text_overlay": "INDUSTRY SHIFT?",
+      "text": "This unique structure challenges traditional corporate safety models. Its effectiveness could influence how other major tech firms manage risk and responsibility moving forward.",
+      "image_prompt": "A stylized, futuristic cityscape with major tech company logos subtly integrated into the architecture, digital arrows pointing between them, implying interconnected influence. Cyberpunk aesthetic.",
+      "camera_effect": "Rotating view of the cityscape"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Youtube subscribe button, 3d render, neon lighting, dark background, 4k"
+    }
+  ]
+}

@@ -1,36 +1,46 @@
 {
-  "title": "AI Gold Rush: Deserts Reshaped, Trillions Made!",
-  "thumbnail_prompt": "Extreme close-up, photorealistic image of a golden microchip reflecting a vast desert landscape with futuristic factories and a rapidly rising stock market graph in its circuits. High contrast, cinematic lighting, dramatic shadows, 8k resolution, photorealistic.",
+  "hook_plan": {
+    "overlay_text": "AI STOCKS CRASH?",
+    "narration": "Stop everything! Experts are secretly dumping AI stocks. Are you about to lose it all?",
+    "image_description": "A close-up of a stock market graph plummeting dramatically, overlaid with digital glitch effects and sharp red warning lights. A figure in the foreground, seen from behind, has 'cybernetic' eyes reflecting the falling data with intense focus, under dramatic side lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI STOCKS: SELL?",
+    "image_description": "A clean, high-contrast shot of a human hand, with a serious and determined expression reflected in smart glasses, hovering over a holographic 'SELL' button on a futuristic trading terminal. The background is a blurred, calm, data-rich environment with cinematic lighting.",
+    "reasoning": "The question in the text immediately sparks curiosity, while the 'serious thought' visual suggests a critical decision, driving clicks for urgent information."
+  },
+  "title": "AI Stocks: February's Big Gamble?",
   "segments": [
     {
-      "text": "The AI gold rush isn't just a digital phenomenon; it's literally reshaping deserts and fueling unprecedented stock surges – blink and you'll miss the next trillion-dollar opportunity!",
-      "image_prompt": "Drone shot of vast, arid desert landscape suddenly transitioning to a massive, bustling construction site with cranes and foundational structures for a high-tech factory.",
-      "camera_effect": "drone_shot_rising"
+      "text": "Recent reports highlight top AI stocks for February, including Nvidia and Broadcom, amidst significant market volatility and ambitious growth projections.",
+      "image_prompt": "Abstract digital representation of a stock chart rising, with prominent company logos (Nvidia, Broadcom) subtly integrated, under cyberpunk neon lighting.",
+      "camera_effect": "zoom_out"
     },
     {
-      "text": "February saw AI stocks absolutely exploding, with major investment firms identifying top picks poised for exponential growth, pushing several tech giants into record-breaking market cap territories.",
-      "image_prompt": "Dynamic, fast-paced animation of an upward trending stock market graph on a sleek digital display, bright green arrows rapidly moving upwards, reflecting on a futuristic glass panel.",
-      "camera_effect": "pan_right_and_zoom_in"
+      "text": "Broadcom's stock (NASDAQ: AVGO) gained 112% over 12 months. Analysts forecast continued growth into 2030, driven by insatiable AI infrastructure demand.",
+      "image_prompt": "Broadcom's logo integrated into a futuristic server rack, glowing blue data lines animating across the hardware. A 'glowing iris' reflects the server lights.",
+      "camera_effect": "dolly_in"
     },
     {
-      "text": "But the real-world transformation? Arizona is rapidly becoming the 'Silicon Desert,' attracting billions in investment for cutting-edge semiconductor mega-fabs, promising thousands of high-tech jobs.",
-      "image_prompt": "Dramatic aerial view of a colossal, sprawling semiconductor factory under construction in a sun-drenched desert environment, surrounded by heavy machinery and active work crews.",
-      "camera_effect": "wide_dolly_zoom"
+      "text": "Forecasts predict AVGO could reach $1,500 by 2026 and potentially $2,000 by 2030, propelled by its essential semiconductor and enterprise software solutions.",
+      "image_prompt": "A holographic projection displaying stock tickers and positive growth arrows, reflected vividly in a serious investor's smart glasses. Cinematic lighting.",
+      "camera_effect": "static"
     },
     {
-      "text": "This isn't just about local economics; it's a strategic national imperative to secure America's critical microchip supply chain, mitigating global reliance and bolstering domestic tech independence.",
-      "image_prompt": "Extreme close-up of a perfectly etched silicon wafer being carefully handled by gloved hands in a pristine cleanroom, with a subtle, stylized American flag reflection in the background.",
-      "camera_effect": "slow_push_in"
+      "text": "This surge in semiconductor demand directly fuels AI's expansion. Data centers and advanced computing require immense processing power, driving revenue for chipmakers.",
+      "image_prompt": "Inside a vast, illuminated data center with server racks stretching into the distance. A 'cybernetic' eye is focused on a glowing terminal screen.",
+      "camera_effect": "pan_left"
     },
     {
-      "text": "At the absolute core of this intensifying global chip saga is TSMC, the Taiwanese manufacturing titan, whose future valuation dictates the pace of AI innovation worldwide.",
-      "image_prompt": "Intricate network of glowing micro-circuits visible under a powerful microscope, then a quick, seamless cut to a minimalist, digital render of the TSMC logo emerging from the circuits.",
-      "camera_effect": "macro_zoom_out_then_cut"
+      "text": "AI's foundational technology relies heavily on these chips. Companies are heavily investing in robust infrastructure, making these component suppliers critical market players.",
+      "image_prompt": "Microscopic view of a complex semiconductor chip, intricate pathways glowing with digital energy. The chip pulsates with a subtle red warning light, cinematic lighting.",
+      "camera_effect": "zoom_in"
     },
     {
-      "text": "Industry analysts project TSMC's stock could surge dramatically within the next five years, fueled by insatiable global AI demand and its indispensable, near-monopoly role in advanced chip production.",
-      "image_prompt": "Hyper-realistic 3D rendering of a futuristic city skyline powered by glowing data streams and interconnected smart infrastructure, with a prominent, stylized microchip floating majestically above it, representing global connectivity.",
-      "camera_effect": "cinematic_arc_shot_around_city"
+      "text": "While valuations are high, sustained innovation and global AI adoption could underpin long-term growth for these essential technology providers, defying short-term fears.",
+      "image_prompt": "Futuristic city skyline at dawn, overlaid with abstract network connections. A figure with an expression of 'determination' looks out, reflecting data in their eyes.",
+      "camera_effect": "crane_shot"
     },
     {
       "text": "If useful, please like and subscribe!",

@@ -88,30 +88,57 @@ def fetch_rss_feed(url, limit=3, days=1):
         
     return "\n\n".join(news_items)
 
-def generate_english_shorts_script(news_data, topic_keyword):
+def generate_english_shorts_script(news_data, topic_keyword, mode="General_IT"):
     """
-    뉴스 데이터를 바탕으로 영어 쇼츠 대본 생성
+    뉴스 데이터를 바탕으로 영어 쇼츠 대본 생성 (Dual Mode)
     """
-    prompt = f"""
-    Role: You are a **"HYBRID" Content Creator**.
-    - **Part 1 (The Hook):** A Viral Strategist (Panic/Shock).
-    - **Part 2 (The Body):** A Professional Tech Reporter (Facts/Depth).
     
+    # ---------------------------------------------------------
+    # [모드별 프롬프트 설정]
+    # ---------------------------------------------------------
+    if mode == "Semicon":
+        system_role = 'You are a **"Semiconductor Industry Analyst"**.'
+        tone_instruction = """
+        - **Focus**: Business, Stock Market, Manufacturing Yields, Supply Chain.
+        - **Target**: Investors, Engineers, Industry Insiders.
+        - **Tone**: Serious, Insightful, Data-driven. NO "Wow!" or "Amazing!"
+        - **Keywords**: Wafer, CAPEX, Yield, HBM, GPU, Valuation.
+        """
+        hook_instruction = 'Hook must appeal to **Investors and Engineers** (e.g., "Stock Alert", "Yield Shock", "Market Crash").'
+        
+    else: # General_IT
+        system_role = 'You are a **"Viral Tech Trend Hunter"**.'
+        tone_instruction = """
+        - **Focus**: User Experience, New Features, "Wow" Factor, Daily Life Impact.
+        - **Target**: General Public, Students, Early Adopters.
+        - **Tone**: Energetic, Fast-paced, Excited.
+        - **Constraint**: **DO NOT** mention complex specs or manufacturing processes unless necessary.
+        """
+        hook_instruction = 'Hook must appeal to **General Public** (e.g., "Your phone just changed", "AI is scary", "Must Watch").'
+
+    prompt = f"""
+    Role: {system_role}
     Task: Create a Script & Visual Plan for a YouTube Short based on the news below.
 
     Topic: {topic_keyword}
+    Mode: {mode}
+
+    [TONE & STYLE]
+    {tone_instruction}
+
+    [HOOK STRATEGY]
+    {hook_instruction}
 
     [CRITICAL RULE: THE HYBRID STRUCTURE]
     You must follow this exact tonal shift:
 
     **1. THE HOOK (0s - 3s)**
-    - **Persona**: Viral Alarmist.
-    - **Goal**: Stop the scroll with "Threat" or "Contrarian" shock.
-    - **Tone**: Extreme, Urgent, Emotional. 
-    - **Strategy**: Choose THREAT ("YOUR PHONE IS SPYING") or CONTRARIAN ("STOP BUYING NVIDIA").
+    - **Persona**: Viral Alarmist (aligned with Mode).
+    - **Goal**: Stop the scroll immediately.
+    - **Audio**: "Stop-the-Scroll" narration (Aggressive/Urgent).
 
     **2. THE BODY (3s - 60s)**
-    - **Persona**: Professional BBC/Bloomberg Tech Reporter.
+    - **Persona**: {system_role}
     - **Goal**: Retain the viewer with high-density value.
     - **Tone**: **CALM, FACTUAL, ANALYTICAL.**
     - **Instruction**: "Immediately drop the sensationalism. Do not use 'clickbait' language here. Focus purely on what happened, the numbers, and the heavy implications."
@@ -119,8 +146,6 @@ def generate_english_shorts_script(news_data, topic_keyword):
     - **LENGTH RULE**: The body MUST contain **5-6 Segments**.
     - **WORD COUNT**: Each segment must be **20-25 WORDS**. Total script must be around **130-150 words**.
     - **DENSITY RULE**: "High Information Density" means **Numbers/Names/Dates**. Explain the "Why" and "How" in detail but keep it brief.
-
-    [HUMAN ELEMENT RULES - TECHNICAL & CINEMATIC]
 
     [HUMAN ELEMENT RULES - TECHNICAL & CINEMATIC]
     To avoid NSFW filters, you must follow these rules for ALL image prompts (Hook, Thumbnail, and Segments):
@@ -205,24 +230,52 @@ def generate_english_shorts_script(news_data, topic_keyword):
         print(f"📜 Raw Response Text:\n{response_text}") # Debugging info
         return None
 
+def get_topic_by_time():
+    """시간대에 따라 주제와 모드를 결정하는 함수"""
+    current_hour = datetime.utcnow().hour
+    
+    # CASE 1: UTC 10시~13시 사이 (한국 저녁 7시~10시) -> 미국 아침
+    # [Semicon Mode]
+    if 10 <= current_hour <= 13:
+        print(f"⏰ Current UTC: {current_hour}h -> [MODE: SEMICON Analyst] Activated")
+        return {
+            "keyword": "semicon",
+            "search_query": "semiconductor+industry+AI+chip+market+trend+nvidia+tsmc+samsung",
+            "mode": "Semicon"
+        }
+        
+    # CASE 2: 그 외 시간 (주로 UTC 22시~01시 / 한국 아침) -> 미국 저녁
+    # [General IT Mode]
+    else:
+        print(f"⏰ Current UTC: {current_hour}h -> [MODE: IT TREND Hunter] Activated")
+        return {
+            "keyword": "tech",
+            "search_query": "latest+tech+news+iphone+ai+tesla+google+gadgets",
+            "mode": "General_IT"
+        }
+
 if __name__ == "__main__":
     # =================================================
-    # [설정] 주제별 검색어 및 파일명 키워드 정의
-    # 나중에 여기만 바꾸면 다른 주제도 가능!
-    TOPIC_KEYWORD = "semicon" # 파일명에 들어갈 짧은 키워드 (예: semicon, ai, ev)
-    SEARCH_QUERY = "semiconductor+industry+AI+chip+market+trend"
+    # [설정] 시간 기반 자동 실행
     # =================================================
+    
+    # 1. Get Config based on Time
+    target_config = get_topic_by_time()
+    
+    TOPIC_KEYWORD = target_config["keyword"]
+    SEARCH_QUERY = target_config["search_query"]
+    MODE = target_config["mode"]
 
     rss_url = f"https://news.google.com/rss/search?q={SEARCH_QUERY}+when:1d&hl=en-US&gl=US&ceid=US:en"
     
-    print(f"📰 Fetching News for Topic: {TOPIC_KEYWORD}...")
+    print(f"📰 Fetching News for Topic: {TOPIC_KEYWORD} (Mode: {MODE})...")
     
     news_content = fetch_rss_feed(rss_url, limit=3, days=1)
     
     if news_content:
-        print("✅ News Fetched. Generating Script...")
+        print(f"✅ News Fetched. Generating Script for {MODE}...")
         
-        script_data = generate_english_shorts_script(news_content, TOPIC_KEYWORD)
+        script_data = generate_english_shorts_script(news_content, TOPIC_KEYWORD, mode=MODE)
         
         if script_data:
             print("\n🎬 Generated Shorts Script Data:\n")

@@ -1,0 +1,50 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI PRICE SHOCK",
+    "narration": "Warning: AI's explosive growth is secretly making your next smartphone cost WAY more!",
+    "image_description": "Extreme close-up of a high-end smartphone screen displaying a rapidly increasing price tag with digital glitch effects and red warning lights, reflecting in a cybernetic eye. Cinematic lighting, urgent mood.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "CHIPFLATION RISK",
+    "image_description": "A person in intense focus, wearing smart glasses that reflect a digital graph showing rising prices and a stylized microchip. Cyberpunk neon lighting, high contrast, clean background.",
+    "reasoning": "The term 'Chipflation' is new and intriguing, sparking curiosity. The image conveys technological impact and financial concern through a focused, analytical lens, appealing to viewers seeking depth."
+  },
+  "title": "AI Chips: Why Your Next Phone Just Got More Expensive",
+  "segments": [
+    {
+      "text": "The AI boom, driven by LLMs like GPT-4, demands unprecedented computing power. This surge creates a critical supply crunch for high-end semiconductors globally.",
+      "image_prompt": "Intricate diagram of an AI neural network on a chip, complex data flowing through cybernetic circuitry. Focus on details and advanced tech. Cinematic lighting.",
+      "camera_effect": "zoom_in_pan_out"
+    },
+    {
+      "text": "This intense AI chip demand redirects manufacturing capacity, leading to shortages for other devices. Expect smartphone prices to rise significantly due to restricted supply.",
+      "image_prompt": "A hand holding a modern smartphone with a subtle digital price tag overlay increasing. Data streams reflecting in a glowing iris behind smart glasses. Dramatic side lighting.",
+      "camera_effect": "static_with_overlay_animation"
+    },
+    {
+      "text": "NVIDIA dominates this landscape, with its A100 and H100 GPUs becoming essential for AI development. Analysts predict continued market leadership and strong stock performance.",
+      "image_prompt": "NVIDIA logo superimposed over a glowing, advanced GPU, surrounded by data streams. A person with an expression of intense focus observing the chip. Cyberpunk neon lighting.",
+      "camera_effect": "dolly_zoom_on_chip"
+    },
+    {
+      "text": "While Intel competes with new AI accelerators, it faces an uphill battle against NVIDIA's established ecosystem. Investment focus is shifting heavily towards AI-centric chipmakers.",
+      "image_prompt": "Split screen: One side shows a determined CEO (Intel) with schematic blueprints; the other, a glowing NVIDIA GPU with intricate details. Digital comparison graphs in background. Cinematic lighting.",
+      "camera_effect": "horizontal_split_wipe"
+    },
+    {
+      "text": "This AI-fueled chip shortage is a major economic driver, impacting tech leadership and driving massive investments. The industry predicts a multi-year supply constraint.",
+      "image_prompt": "Stylized global map with highlighted semiconductor manufacturing hubs, data lines connecting them, reflecting in smart glasses. A serious thought expression on the person's face. Dramatic lighting.",
+      "camera_effect": "map_pan_and_highlight"
+    },
+    {
+      "text": "AI will redefine tech leadership, making chip design crucial. Companies heavily invested in AI hardware, like NVIDIA, are positioned for sustained long-term growth.",
+      "image_prompt": "Futuristic cityscape with holographic projections of AI interfaces and data. A person with a serious and determined expression observing this future tech. Cinematic lighting.",
+      "camera_effect": "slow_zoom_out_reveal"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Youtube subscribe button, 3d render, neon lighting, dark background, 4k"
+    }
+  ]
+}
