@@ -240,7 +240,7 @@ def get_topic_by_time():
     """시간대에 따라 주제와 모드를 결정하는 함수"""
     current_hour = datetime.utcnow().hour
     
-    # CASE 1: UTC 22시 ~ 00시 (KST 07시 ~ 09시)
+    # CASE 1: UTC 22시 ~ 00시 (KST 07시 ~ 09시 / EST 17시 ~ 19시)
     # [Semicon Mode] - 미국 장 마감 직후/한국 출근 시간
     if current_hour >= 22 or current_hour == 0:
         print(f"⏰ Current UTC: {current_hour}h -> [MODE: SEMICON Analyst] Activated")
@@ -250,8 +250,8 @@ def get_topic_by_time():
             "mode": "Semicon"
         }
         
-    # CASE 2: UTC 01시 ~ 03시 (KST 10시 ~ 12시)
-    # [General IT Mode] - 한국 점심/휴식 시간
+    # CASE 2: UTC 01시 ~ 03시 (KST 10시 ~ 12시 / EST 20시 ~ 22시)
+    # [General IT Mode] - 미국 취침 전/한국 점심 시간
     else:
         print(f"⏰ Current UTC: {current_hour}h -> [MODE: IT TREND Hunter] Activated")
         return {
