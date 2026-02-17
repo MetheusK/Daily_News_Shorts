@@ -1,0 +1,50 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI BUBBLE ALERT",
+    "narration": "Is the AI-driven semiconductor rally a bubble? Market indicators hint at dangerous overvaluation!",
+    "image_description": "A close-up of an intense analyst's face viewed through smart glasses, reflecting digital data streams and urgent red warning lights, with subtle glitch effects. Cinematic lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "TSMC DOMINANCE?",
+    "image_description": "A clean, high-contrast image featuring a large, intricate microchip diagram subtly blended with an abstract AI neural network pattern. A focused engineer observes through cybernetic smart glasses. Dramatic side lighting.",
+    "reasoning": "This thumbnail uses a question about TSMC's dominance, a key industry player, combined with AI imagery to immediately grab the attention of investors and engineers, encouraging a click to understand the underlying analysis."
+  },
+  "title": "AI Chip Stocks: Unpacking the Hype",
+  "segments": [
+    {
+      "text": "AI drives unprecedented demand for advanced semiconductors. This redefines CAPEX priorities, impacting wafer fabrication and critical material supply chain efficiency.",
+      "image_prompt": "Abstract digital representation of AI neural networks flowing into a complex microchip design, seen through cybernetic eyes reflecting data streams. Cinematic lighting, intense focus.",
+      "camera_effect": "slow_zoom_in"
+    },
+    {
+      "text": "TSMC's $3 Trillion blueprint solidifies its foundry leadership, especially in HBM and GPU production crucial for AI acceleration. This valuation reflects market dominance.",
+      "image_prompt": "A holographic projection of TSMC's logo above a detailed 3D model of a cutting-edge HBM stack. A serious engineer observes the projection through smart glasses. Cinematic lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Despite valuation concerns, key players supplying advanced packaging and specialty materials remain robust. Diversified portfolios target critical supply chain enablers for stability.",
+      "image_prompt": "A digital stock chart showing upward trends, overlaid with abstract supply chain network lines connecting various semiconductor components. A focused professional. Cyberpunk neon lighting.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "The push for smaller nodes and HBM integration presents significant manufacturing yield challenges. Optimizing complex fabrication processes is paramount for profitability and scale.",
+      "image_prompt": "Macro view of a silicon wafer undergoing inspection, showing intricate circuits, with some areas highlighted in a subtle digital warning red. Determined engineer looking at a screen. Dramatic side lighting.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "While AI drives immense growth, monitoring inventory levels and demand sustainability is critical. A market shift could impact CAPEX deployment and revenue projections.",
+      "image_prompt": "A futuristic control room interface displaying various market indicators and projections, with a slight 'glitch' effect on a demand curve. Intense focus in a cybernetic eye. Cyberpunk neon lighting.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "Investors must scrutinize current valuations against long-term growth trajectories. Sustainable innovation, not just hype, will define the next wave of industry leaders.",
+      "image_prompt": "A conceptual digital balance scale; one side with 'INNOVATION' represented by a glowing microchip, the other with 'VALUATION' as a soaring stock graph. Dramatic lighting, serious thought expression.",
+      "camera_effect": "slow_zoom_in"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Youtube subscribe button, 3d render, neon lighting, dark background, 4k"
+    }
+  ]
+}
