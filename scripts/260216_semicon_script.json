@@ -1,0 +1,50 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI STOCK ALERT!",
+    "narration": "Ignore this AI valuation warning at your portfolio's peril!",
+    "image_description": "Close-up of a diverse investor's cybernetic eyes, reflecting complex stock market charts with a sharp red downturn, digital glitch overlay, dramatic neon green lighting from below, conveying intense focus and serious thought, cyberpunk aesthetic.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI CHIP SHIFT",
+    "image_description": "A focused semiconductor engineer, wearing smart glasses reflecting complex wafer patterns, stands in a futuristic, sterile cleanroom environment. Cinematic lighting with deep blue and silver tones highlights intense concentration and technological advancement.",
+    "reasoning": "This thumbnail text is concise and emphasizes the core shift in the industry due to AI, appealing directly to engineers and investors interested in fundamental changes. The image is professional, high-contrast, and technical, drawing attention without sensationalism, implying deep industry insight into a critical sector."
+  },
+  "title": "Semiconductor's AI Valuation Battle",
+  "segments": [
+    {
+      "text": "AI now dictates tech leadership. GPU and HBM demand reshape CAPEX priorities, shifting focus to advanced packaging. This impacts future market share.",
+      "image_prompt": "Futuristic data center server racks glowing with blue light, with abstract representations of GPU and HBM chips interconnected, dynamic data streams flowing, cinematic lighting, dramatic side lighting.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "Applied Materials (AMAT) shows robust Q2 earnings, exceeding guidance. AI growth outlook is strong, driving positive valuation adjustments. Expect further growth.",
+      "image_prompt": "A digital screen displaying AMAT stock chart with an upward trend, overlaid with a graphic of a semiconductor manufacturing plant. A person's hand with glowing data wristband points to the screen. Intense focus.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "Semiconductor CAPEX is heavily rerouting to AI infrastructure, particularly for logic and memory, impacting equipment market dynamics significantly. This is a strategic move.",
+      "image_prompt": "Abstract representation of capital expenditure flow, visualized as neon green energy lines connecting various factory machinery and wafer production lines. High-tech, clean, industrial environment.",
+      "camera_effect": "dolly_zoom"
+    },
+    {
+      "text": "High-volume HBM production demands stringent wafer quality and process yield. Manufacturers face increasing technical complexity, driving R&D intensity. Yields are critical.",
+      "image_prompt": "Extreme close-up of a silicon wafer undergoing inspection, with microscopic details highlighted. Digital overlays show 'Yield: 98.7%' and complex circuit patterns. Technical, precise focus.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "AI integration will sustain long-term demand across the supply chain, fostering strategic investment in key component manufacturers and material providers globally.",
+      "image_prompt": "A global map with glowing lines connecting various semiconductor manufacturing hubs and research facilities, symbolizing supply chain integration. Cyberpunk neon lighting, serious thought reflected in an unseen cybernetic eye.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "Future valuations hinge on execution, R&D breakthroughs, and efficient CAPEX deployment for next-gen AI accelerators. Market vigilance is paramount for investors.",
+      "image_prompt": "A professional analyst, seen through smart glasses reflecting complex financial data and AI chip schematics, in a dimly lit, high-tech office. Intense focus, dramatic side lighting.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Youtube subscribe button, 3d render, neon lighting, dark background, 4k"
+    }
+  ]
+}

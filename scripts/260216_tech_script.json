@@ -1,0 +1,50 @@
+{
+  "hook_plan": {
+    "overlay_text": "IPHONE KILLED TESLA?",
+    "narration": "Stop everything! A shocking report claims your iPhone update just cost Tesla millions!",
+    "image_description": "Close-up of a person's intense face, eyes glowing with data streams, reflecting a blurred iPhone screen and a futuristic car emblem. Digital glitch effects across the screen, dramatic red warning lights. Cyberpunk neon lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "TESLA'S IPHONE PROBLEM",
+    "image_description": "A sleek, futuristic Tesla dashboard displaying a blank map screen, with a glowing, almost cybernetic hand holding an iPhone reflecting an 'X' symbol. Cinematic lighting, deep contrast.",
+    "reasoning": "Highlights the specific car brand (Tesla) and the device (iPhone) with a clear 'problem' indicator (blank map/X), creating immediate curiosity and relevance for both car and phone users."
+  },
+  "title": "Your iPhone Update Unexpectedly Hurt Tesla Sales?!",
+  "segments": [
+    {
+      "text": "New reports link Tesla's recent sales slump directly to Apple's iOS 26 software adoption rates. Analysts indicate significant market impact.",
+      "image_prompt": "A digital representation of sales charts dramatically dropping, overlaid with an iPhone icon and a subtle Tesla logo, all rendered with sharp, technical graphics and cinematic lighting.",
+      "camera_effect": "dynamic zoom out"
+    },
+    {
+      "text": "The delay in Tesla's highly anticipated CarPlay rollout is a key factor. Integration issues emerged due to new iOS 26 Map changes.",
+      "image_prompt": "A futuristic car dashboard screen showing a 'loading' or 'error' message for Apple CarPlay, with abstract digital map elements in the background. Focused, technical display.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "iOS 26 introduced architectural shifts in Apple Maps. This demanded extensive re-development for seamless third-party integration, specifically impacting CarPlay compatibility.",
+      "image_prompt": "A holographic display showing complex, evolving digital map data structures with glowing nodes and lines, representing architectural changes. A cybernetic hand points to a specific point of change.",
+      "camera_effect": "pan right"
+    },
+    {
+      "text": "Mark Gurman, a respected tech analyst, confirmed the specific delays. Slower iOS 26 adoption meant fewer compatible iPhones were ready for advanced CarPlay features.",
+      "image_prompt": "A profile shot of a person with intense focus, through smart glasses, analyzing data streams related to iOS adoption rates and car integration. Cinematic lighting, deep blue tones.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "The delay frustrates potential Tesla buyers awaiting CarPlay integration, directly impacting purchasing decisions. This significantly dampened market demand, a clear user experience miss.",
+      "image_prompt": "A person looking thoughtfully at a Tesla vehicle, holding an iPhone, with a subtle overlay of a disappointed facial expression, rendered as a digital projection. Cyberpunk neon lighting.",
+      "camera_effect": "dolly zoom"
+    },
+    {
+      "text": "Tesla must now expedite integration or offer alternatives. Apple may need to streamline future developer transitions for iOS updates, highlighting complex tech ecosystem challenges.",
+      "image_prompt": "A split screen showing a futuristic workshop with engineers working on a Tesla interface on one side, and an abstract representation of Apple's iOS developer portal on the other. Both sides show determined focus.",
+      "camera_effect": "pan left"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Youtube subscribe button, 3d render, neon lighting, dark background, 4k"
+    }
+  ]
+}
