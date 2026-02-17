@@ -1,46 +1,46 @@
 {
   "hook_plan": {
-    "overlay_text": "AI BUBBLE ALERT",
-    "narration": "Is the AI-driven semiconductor rally a bubble? Market indicators hint at dangerous overvaluation!",
-    "image_description": "A close-up of an intense analyst's face viewed through smart glasses, reflecting digital data streams and urgent red warning lights, with subtle glitch effects. Cinematic lighting.",
+    "overlay_text": "CHIP MARKET SHOCK",
+    "narration": "Don't believe the hype! The semiconductor market faces hidden supply chain risks no one is talking about.",
+    "image_description": "A cybernetically enhanced trader with glowing iris reflecting distorted stock charts, intense focus. Red warning lights flash across the screen. Cinematic lighting, cyberpunk style.",
     "mood_color": "red"
   },
   "thumbnail_plan": {
-    "thumbnail_text": "TSMC DOMINANCE?",
-    "image_description": "A clean, high-contrast image featuring a large, intricate microchip diagram subtly blended with an abstract AI neural network pattern. A focused engineer observes through cybernetic smart glasses. Dramatic side lighting.",
-    "reasoning": "This thumbnail uses a question about TSMC's dominance, a key industry player, combined with AI imagery to immediately grab the attention of investors and engineers, encouraging a click to understand the underlying analysis."
+    "thumbnail_text": "CHIP STOCKS: SELL?",
+    "image_description": "A complex 3D render of a futuristic AI chip with glowing HBM stacks, centered on a dark server rack. Digital data streams flow around it. Dramatic backlighting, 8k resolution, cyberpunk style.",
+    "reasoning": "The provocative question 'SELL?' combined with a powerful, hyper-realistic AI chip image creates immediate intrigue and urgency for investors, inviting a click to understand the market outlook."
   },
-  "title": "AI Chip Stocks: Unpacking the Hype",
+  "title": "Semicon Market Update: NVDA, AMAT, Intel AI Gambits",
   "segments": [
     {
-      "text": "AI drives unprecedented demand for advanced semiconductors. This redefines CAPEX priorities, impacting wafer fabrication and critical material supply chain efficiency.",
-      "image_prompt": "Abstract digital representation of AI neural networks flowing into a complex microchip design, seen through cybernetic eyes reflecting data streams. Cinematic lighting, intense focus.",
-      "camera_effect": "slow_zoom_in"
+      "text": "Nvidia (NVDA) reports robust growth, mitigating supply disruption risks. High demand for their HBM-equipped GPUs drives strong Q1 outlook, affirming market leadership. Valuation remains key.",
+      "image_prompt": "A holographic display showing Nvidia's stock chart with an upward trend, overlayed with a detailed 3D render of an HBM GPU chip. An analyst's hand points to key data points. Intense focus.",
+      "camera_effect": "zoom_in"
     },
     {
-      "text": "TSMC's $3 Trillion blueprint solidifies its foundry leadership, especially in HBM and GPU production crucial for AI acceleration. This valuation reflects market dominance.",
-      "image_prompt": "A holographic projection of TSMC's logo above a detailed 3D model of a cutting-edge HBM stack. A serious engineer observes the projection through smart glasses. Cinematic lighting.",
-      "camera_effect": "static"
-    },
-    {
-      "text": "Despite valuation concerns, key players supplying advanced packaging and specialty materials remain robust. Diversified portfolios target critical supply chain enablers for stability.",
-      "image_prompt": "A digital stock chart showing upward trends, overlaid with abstract supply chain network lines connecting various semiconductor components. A focused professional. Cyberpunk neon lighting.",
+      "text": "Applied Materials (AMAT) surged on a Q1 beat, positioning itself as the 'AI Giga-Cycle' architect. Equipment CAPEX is crucial for future wafer production and technological advancement.",
+      "image_prompt": "A high-tech fabrication lab. Robot arms meticulously placing a silicon wafer onto a processing tool, with digital metrics displayed on surrounding screens. Cinematic lighting.",
       "camera_effect": "pan_right"
     },
     {
-      "text": "The push for smaller nodes and HBM integration presents significant manufacturing yield challenges. Optimizing complex fabrication processes is paramount for profitability and scale.",
-      "image_prompt": "Macro view of a silicon wafer undergoing inspection, showing intricate circuits, with some areas highlighted in a subtle digital warning red. Determined engineer looking at a screen. Dramatic side lighting.",
+      "text": "Intel's 'Redemption Arc' includes a significant AI and foundry gambit. Their investment in advanced manufacturing aims to regain market share, boosting capacity and yield potential.",
+      "image_prompt": "A blueprint overlay of Intel's new fabrication plant design, with glowing lines highlighting key areas. A determined engineer in smart glasses reviews complex data on a transparent screen.",
+      "camera_effect": "dolly_zoom"
+    },
+    {
+      "text": "Despite initial hook concerns, key players like Nvidia demonstrate strong supply chain resilience. Strategic partnerships and diversified sourcing minimize future disruption risks effectively.",
+      "image_prompt": "A global digital map displaying interconnected supply routes, with green nodes indicating efficient flow and minimal red warning signals. Data reflections on a smooth surface.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Manufacturing yields remain critical. Sustained CAPEX by industry leaders directly impacts output quality and efficiency, crucial for meeting high-performance chip demand and profit margins.",
+      "image_prompt": "Extreme close-up of a perfectly etched silicon wafer under a microscope, with digital readouts of 'Yield: 98.7%'. Focused light highlights intricate circuit details.",
       "camera_effect": "zoom_out"
     },
     {
-      "text": "While AI drives immense growth, monitoring inventory levels and demand sustainability is critical. A market shift could impact CAPEX deployment and revenue projections.",
-      "image_prompt": "A futuristic control room interface displaying various market indicators and projections, with a slight 'glitch' effect on a demand curve. Intense focus in a cybernetic eye. Cyberpunk neon lighting.",
+      "text": "Investors should monitor CAPEX trends and HBM advancements. The AI-driven semiconductor cycle shows robust momentum, favoring companies with strong manufacturing and intellectual property.",
+      "image_prompt": "A holographic projection of a financial analyst's hand interacting with a dynamic stock portfolio, showing semiconductor sector growth metrics. Serious, thoughtful expression.",
       "camera_effect": "pan_left"
-    },
-    {
-      "text": "Investors must scrutinize current valuations against long-term growth trajectories. Sustainable innovation, not just hype, will define the next wave of industry leaders.",
-      "image_prompt": "A conceptual digital balance scale; one side with 'INNOVATION' represented by a glowing microchip, the other with 'VALUATION' as a soaring stock graph. Dramatic lighting, serious thought expression.",
-      "camera_effect": "slow_zoom_in"
     },
     {
       "text": "If useful, please like and subscribe!",
