@@ -278,6 +278,14 @@ if __name__ == "__main__":
     
     news_content = fetch_rss_feed(rss_url, limit=3, days=1)
     
+    # [Fallback Logic] If 'tech' yields no results, try 'IT'
+    if not news_content and TOPIC_KEYWORD == "tech":
+        print("⚠️ No news found for 'tech'. Retrying with keyword 'IT'...")
+        TOPIC_KEYWORD = "IT"
+        SEARCH_QUERY = "IT+industry+news+technology+trends"
+        rss_url = f"https://news.google.com/rss/search?q={SEARCH_QUERY}+when:1d&hl=en-US&gl=US&ceid=US:en"
+        news_content = fetch_rss_feed(rss_url, limit=3, days=1)
+
     if news_content:
         print(f"✅ News Fetched. Generating Script for {MODE}...")
         
