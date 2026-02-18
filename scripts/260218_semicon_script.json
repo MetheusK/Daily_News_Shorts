@@ -1,0 +1,56 @@
+{
+  "hook_plan": {
+    "overlay_text": "NVDA DOMINANCE ENDS?",
+    "narration": "Stock Alert! A new prediction just revealed Nvidia's AI leadership is in jeopardy by 2026!",
+    "image_description": "Close-up of a human eye, cybernetic enhancements reflecting rapidly scrolling stock charts and a prominent red 'downward arrow' data overlay, dramatic side lighting, intense focus.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "NEXT AI KING?",
+    "image_description": "A hyper-realistic 3D render of a glowing, futuristic AI processor chip, centered on a dark, reflective surface with subtle cyberpunk neon backlighting, displaying a holographic stock chart overlay. No humans.",
+    "reasoning": "The 'Next AI King?' question directly addresses the news, creating curiosity for investors about who could challenge Nvidia. The futuristic chip and holographic chart clearly signal the semiconductor and AI focus, appealing to both target audiences without needing human faces."
+  },
+  "title": "AI Stock Set to Outperform Nvidia: Analyst Breakdown",
+  "segments": [
+    {
+      "text": "Market analysts forecast a dark-horse AI stock could surpass Nvidia's valuation by 2026, signaling a significant shift in GPU leadership.",
+      "image_prompt": "A digital representation of two stock market valuation curves, one (Nvidia) flattening while another (unknown AI stock) sharply rises, observed through smart glasses with data reflecting in the lens.",
+      "camera_effect": "static",
+      "text_overlay": "VALUATION SHIFT"
+    },
+    {
+      "text": "This projection hinges on advanced HBM integration and optimized custom AI architectures, driving critical performance gains beyond current benchmarks.",
+      "image_prompt": "Close-up on a high-bandwidth memory (HBM) stack integrated onto an AI processor, with glowing data lines flowing, hyper-realistic, cybernetic feel.",
+      "camera_effect": "static",
+      "text_overlay": "HBM INNOVATION"
+    },
+    {
+      "text": "Simultaneously, ASML is predicted to soar through 2026, benefiting immensely from increased global CAPEX in advanced semiconductor manufacturing.",
+      "image_prompt": "A majestic view of an ASML EUV lithography machine's internal components, glowing with blue and purple neon lights, intricate details highlighting precision.",
+      "camera_effect": "static",
+      "text_overlay": "ASML CAPEX SURGE"
+    },
+    {
+      "text": "Their leading-edge lithography tools are indispensable for achieving high wafer yields crucial for next-generation chip production efficiency.",
+      "image_prompt": "A pristine silicon wafer under a digital microscope, showing perfectly etched circuit patterns with a futuristic laser beam pinpointing a defect-free area, emphasizing yield.",
+      "camera_effect": "static",
+      "text_overlay": "WAFER YIELD CRITICAL"
+    },
+    {
+      "text": "These converging trends present strategic investment opportunities across the semiconductor supply chain, impacting both AI hardware and critical equipment.",
+      "image_prompt": "A complex holographic interface showing interconnected global supply chain routes for semiconductors, with highlighted data points for 'GPU' and 'EUV', focused through an analyst's determined gaze.",
+      "camera_effect": "static",
+      "text_overlay": "INVESTOR INSIGHT"
+    },
+    {
+      "text": "Monitor evolving AI chip advancements and CAPEX spending patterns closely to identify future market leaders and avoid investment pitfalls.",
+      "image_prompt": "A stylized digital dashboard with real-time stock tickers and manufacturing data, reflected in the eyes of a focused individual wearing sleek, transparent smart glasses, cinematic lighting.",
+      "camera_effect": "static",
+      "text_overlay": "FUTURE OUTLOOK"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Youtube subscribe button, 3d render, neon lighting, dark background, 4k"
+    }
+  ]
+}
