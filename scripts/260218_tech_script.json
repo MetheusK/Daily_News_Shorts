@@ -1,0 +1,50 @@
+{
+  "hook_plan": {
+    "overlay_text": "YOUR REALITY CHANGES",
+    "narration": "WARNING: Apple is secretly building AI that will change how you see the world forever!",
+    "image_description": "Close-up of a human eye with a glowing, cybernetic iris reflecting abstract data streams and augmented reality interfaces. Intense focus expression. Cinematic lighting, with subtle digital glitch effects around the edges, neon green mood.",
+    "mood_color": "neon_green"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "APPLE'S SECRET AI",
+    "image_description": "A sleek, minimalist AI chip (glowing blue/green, 3D render, hyper-realistic, 8k resolution) embedded into the frame of futuristic smart glasses. Centered composition against a dark, dramatic cyberpunk background with subtle backlighting.",
+    "reasoning": "Highlights Apple's involvement and 'Secret AI' creates intrigue. The futuristic smart glasses hint at the product type without full disclosure, appealing to both tech enthusiasts and the general public, prioritizing objects for a clean, high-contrast look."
+  },
+  "title": "Apple's Reality-Bending AI Devices!",
+  "segments": [
+    {
+      "text": "Apple is reportedly developing three new AI-driven hardware gadgets. This directly challenges Meta and Snap, targeting their established AR/VR and social media territories, signaling a major market shift.",
+      "image_prompt": "A stylized Apple logo casting a long, digital shadow over blurred Meta Quest and Snap Spectacles devices. Cyberpunk aesthetic, dramatic side lighting.",
+      "camera_effect": "Zoom out slightly"
+    },
+    {
+      "text": "These devices are rumored to leverage generative AI, focusing on real-time vision processing and contextual awareness. This could redefine how users interact with digital information in physical spaces.",
+      "image_prompt": "A transparent holographic interface overlaying a busy city street, displaying real-time data points and object recognition. A human hand, depicted in a technical, almost cybernetic style, reaches out to interact.",
+      "camera_effect": "Pan across the holographic interface"
+    },
+    {
+      "text": "Industry analysts suggest devices could include smart glasses, enhanced AirPods with integrated cameras, or a novel mixed-reality wearable. Patents indicate advanced sensor integration for immersive experiences.",
+      "image_prompt": "Three distinct futuristic AI gadgets: sleek smart glasses, AirPods with a subtle camera lens, and a compact mixed-reality wrist device, rendered in 3D with glowing accents on a dark background.",
+      "camera_effect": "Quick cuts between the three devices"
+    },
+    {
+      "text": "Apple's entry intensifies competition, potentially accelerating innovation in the AI hardware space. Meta's Quest and Snap's Spectacles face a formidable new contender, forcing strategic re-evaluations.",
+      "image_prompt": "A digital arena where a glowing Apple logo entity stands against shadowy, abstract figures representing Meta and Snap, with electric arcs symbolizing competition. Intense, dramatic lighting.",
+      "camera_effect": "Dolly in on the Apple logo entity"
+    },
+    {
+      "text": "Imagine AI-powered assistants proactively identifying objects, translating languages instantly, or overlaying digital data seamlessly. This promises a profoundly intuitive and integrated daily technological experience.",
+      "image_prompt": "A person (seen from behind, wearing smart glasses reflecting data streams) walking through a vibrant market, with holographic translations and product information appearing seamlessly in their vision.",
+      "camera_effect": "Smooth tracking shot from the person's POV"
+    },
+    {
+      "text": "This initiative by Apple highlights a significant pivot towards embedded AI in daily life, moving beyond smartphones. Expect personal computing to evolve into highly personalized, pervasive intelligence.",
+      "image_prompt": "A network of interconnected glowing nodes representing AI intelligence, spreading from a central, abstract Apple-like core into various aspects of daily life, shown as digital symbols. Cinematic lighting.",
+      "camera_effect": "Cinematic upward sweep"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Youtube subscribe button, 3d render, neon lighting, dark background, 4k"
+    }
+  ]
+}
