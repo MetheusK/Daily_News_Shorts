@@ -147,7 +147,7 @@ def generate_english_shorts_script(news_data, topic_keyword, mode="General_IT"):
     - **WORD COUNT**: Each segment must be **20-25 WORDS**. Total script must be around **130-150 words**.
     - **DENSITY RULE**: "High Information Density" means **Numbers/Names/Dates**. Explain the "Why" and "How" in detail but keep it brief.
     - **ENDPOINT**: The LAST segment MUST be exactly:
-      `{"text": "If useful, please like and subscribe!", "image_prompt": "Subscribe", "keyword": "Subscribe"}`
+      `{{"text": "If useful, please like and subscribe!", "image_prompt": "Subscribe", "keyword": "Subscribe"}}`
 
     [HUMAN ELEMENT RULES - TECHNICAL & CINEMATIC]
     To avoid NSFW filters, you must follow these rules for ALL image prompts (Hook, Thumbnail, and Segments):
