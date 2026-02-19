@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "CAPEX SHOCK!",
+    "narration": "A colossal shift is underway in semiconductor manufacturing, secretly impacting your portfolio right now!",
+    "image_description": "A determined semiconductor analyst's face, partially obscured by holographic data streams of microchips and yield percentages, glowing cybernetic eyes reflecting red warning lights, dramatic side lighting. Digital corruption effects on screen.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "TSMC'S $100B BET",
+    "image_description": "Hyper-realistic 3D render of a glowing, intricate microchip at the center, with futuristic server racks in the background. Cyberpunk neon lighting, dramatic backlighting, 8k resolution. Focus on intricate circuitry details and power lines.",
+    "reasoning": "This thumbnail prominently displays the key company (TSMC) and the massive investment ($100B), appealing directly to investors. The glowing, detailed chip also draws in engineers, creating broad click appeal."
+  },
+  "title": "Semiconductor Investment Shock: TSMC's $100B Shift",
+  "segments": [
+    {
+      "text": "TSMC announced a landmark US trade agreement, pledging $100 billion for expansion. This commitment underscores immense future demand.",
+      "image_prompt": "TSMC factory silhouette against a US flag, superimposed with a '+$100B' digital overlay. Cinematic lighting, focused on scale and financial commitment.",
+      "camera_effect": "zoom_out_slow"
+    },
+    {
+      "text": "This massive CAPEX targets advanced node production, critical for AI/HPC GPUs. Global wafer capacity is set to surge.",
+      "image_prompt": "An extreme close-up of a silicon wafer, with glowing AI chip and GPU designs etched on it. A robot arm carefully places it. Cyberpunk blue lighting.",
+      "camera_effect": "pan_left_slow"
+    },
+    {
+      "text": "The expansion addresses rising HBM demand, with major fabs pushing for higher manufacturing yields. Supply chain resilience is a key objective.",
+      "image_prompt": "Holographic projection of an HBM memory stack, with real-time yield percentage data overlaying a complex factory floor, green warning lights indicating optimal performance. An engineer's hand points with intense focus.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Geopolitical dynamics are driving diversification. TSMC's US deal de-risks concentrated production, crucial for national tech security.",
+      "image_prompt": "Digital map showing global trade routes and manufacturing hubs, with a glowing line connecting Taiwan to the US, red warning signals fading to green. Data reflecting in cybernetic eyes.",
+      "camera_effect": "zoom_in_slow"
+    },
+    {
+      "text": "Concurrently, Qualcomm is betting on India for global auto chips, highlighting new market growth and regional manufacturing strategy shifts.",
+      "image_prompt": "A futuristic autonomous vehicle's dashboard, displaying embedded Qualcomm chips. Overlay of a digital map of India. Determination in a human's serious thought.",
+      "camera_effect": "pan_right_slow"
+    },
+    {
+      "text": "This significant CAPEX signals strong long-term demand.",
+      "image_prompt": "Close-up of a semiconductor engineer's hands, typing on a holographic keyboard, complex schematics and financial charts reflecting in glowing smart glasses, focused determination.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
