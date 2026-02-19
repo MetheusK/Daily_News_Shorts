@@ -259,10 +259,10 @@ class VideoGenerator:
         output_file = os.path.join(self.output_dir, f"audio_{segment_id}.mp3")
         
         # Use edge-tts with WordBoundary
-        # VOICE is defined globally as "en-US-ChristopherNeural" (or similar)
-        # Note: We need to ensure we use the same voice
-        voice = "en-US-ChristopherNeural" 
-        communicate = edge_tts.Communicate(text, voice, boundary="WordBoundary")
+        # [User Request] Switch to Energetic Voice (Andrew) for Body too
+        voice = "en-US-AndrewNeural" 
+        rate = "+10%" # Body speed +10%
+        communicate = edge_tts.Communicate(text, voice, rate=rate, boundary="WordBoundary")
         
         word_events = []
         
@@ -842,7 +842,7 @@ class VideoGenerator:
         # 3. Header
         header_height = 200
         header_bg = ColorClip(size=(VIDEO_WIDTH, header_height), color=(0, 51, 102)).with_duration(duration).with_position(('center', 'top'))
-        header_img_path = os.path.join("assets", "Daily Semicon News.png")
+        header_img_path = os.path.join("assets", "Daily Tech Chips.png")
         if os.path.exists(header_img_path):
             try:
                 header_img = ImageClip(header_img_path).with_duration(duration)
@@ -862,6 +862,15 @@ class VideoGenerator:
         if group_id and group_id in self.image_cache:
             image_path = self.image_cache[group_id]
             # print(f"      ♻️ Reusing image for group {group_id}")
+            
+        elif keyword == "Subscribe":
+             # [NEW] Static Subscribe Image
+             image_path = os.path.join("assets", "Subscribe.png")
+             print(f"      🔔 Using Static Subscribe Image: {image_path}")
+             # Clear text so no subtitle is generated
+             segment_data['text'] = "" 
+             text = ""
+             
         else:
             # Generate New
             image_query = segment_data.get('image_prompt', keyword)
@@ -967,7 +976,7 @@ class VideoGenerator:
                     
                     # Communicate with EDGE-TTS
                     voice = "en-US-AndrewNeural"
-                    rate = "+10%" # Slightly faster for urgency
+                    rate = "+15%" # Hook speed +15%
                     
                     communicate = edge_tts.Communicate(narration_text, voice, rate=rate)
                     await communicate.save(hook_audio_path)

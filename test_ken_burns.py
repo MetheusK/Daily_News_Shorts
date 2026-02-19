@@ -210,7 +210,7 @@ def create_layout_clip(ken_burns_clip, subtitle_text, duration):
     
     # Try loading header image
     header_items = [header_bg]
-    header_img_path = os.path.join("assets", "Daily Semicon News.png")
+    header_img_path = os.path.join("assets", "Daily Tech Chips.png")
     if os.path.exists(header_img_path):
         header_img = ImageClip(header_img_path).with_duration(duration)
         header_img = header_img.resized(height=int(header_height * 0.5))
