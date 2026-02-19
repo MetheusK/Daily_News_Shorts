@@ -1,51 +1,55 @@
 {
   "hook_plan": {
-    "overlay_text": "FUTURE IS HERE!",
-    "narration": "WARNING! Your everyday world is about to fundamentally change with these explosive new tech trends emerging right now!",
-    "image_description": "Extreme close-up of a person with glowing cybernetic eyes, reflecting rapid data streams. Digital corruption lines glitch across the screen, bathed in dramatic red warning lights and cyberpunk neon. Intense focus expression.",
-    "mood_color": "red"
+    "overlay_text": "METAL REVOLUTION",
+    "narration": "Warning! Your future products are being printed, not built traditionally! This changes everything!",
+    "image_description": "Close-up of a robot arm precisely extruding glowing molten metal, sparks flying, cinematic lighting, reflecting data in a cybernetic eye with intense focus.",
+    "mood_color": "neon_green"
   },
   "thumbnail_plan": {
-    "thumbnail_text": "TECH IS REAL",
-    "image_description": "A hyper-realistic 3D render of a futuristic hand wearing a sleek, metallic glove, interacting with a holographic projection of a smart city interface. Glowing data streams emanate from the hand. Cyberpunk style, 8k resolution, dramatic backlighting, centered object.",
-    "reasoning": "This thumbnail uses a clear, high-contrast visual focusing on a futuristic object (the hand and hologram) which is more engaging than a generic 'shocked face'. The text 'TECH IS REAL' is punchy and creates intrigue, hinting at impactful new technologies without giving away specifics, driving clicks."
+    "thumbnail_text": "FACTORIES REINVENTED",
+    "image_description": "Hyper-realistic 3D render of a futuristic metal 3D printer, glowing blue energy core, extruding molten metal, dark industrial background, dramatic backlighting, 8k resolution, centered.",
+    "reasoning": "This thumbnail features a captivating, futuristic object (metal 3D printer) with a bold, intriguing statement, immediately creating curiosity about industrial transformation and technological advancement."
   },
-  "title": "New Tech Trends: Your Future is Now!",
+  "title": "Metal 3D Printing: The NEXT Manufacturing Revolution",
   "segments": [
     {
-      "text": "Major analysts like Ad Age report several emerging trends actively shaping consumer experiences, brand interactions, and future commerce strategies across global markets. This is happening now.",
-      "image_prompt": "A sleek, modern conference room with multiple holographic charts displaying upward technology trend lines and abstract data visualizations. Cyberpunk lighting.",
-      "camera_effect": "dolly_zoom"
+      "text": "AM Pioneers just unveiled their cutting-edge Technology Center, revolutionizing metal additive manufacturing capabilities. This innovation hub is now fully operational, signaling a massive shift.",
+      "image_prompt": "Detailed 3D render of a futuristic metal 3D printer in action, glowing blue lasers, precise layer formation, sleek industrial design, cinematic lighting.",
+      "keyword": "Metal 3D Printing"
     },
     {
-      "text": "Valo Motion spotlights seven key trends for active indoor entertainment by 2026, including immersive hybrid-play and advanced smart gamification for enhanced social engagement. Get ready to play smarter.",
-      "image_prompt": "A futuristic indoor entertainment center. People, displaying wonder and intense focus, interact with glowing holographic games and projected light paths on the floor. Cinematic lighting.",
-      "camera_effect": "smooth_pan_left"
+      "text": "It’s essentially 3D printing for metal, creating incredibly strong, complex parts layer-by-layer. This dramatically reduces waste and enables designs once deemed impossible.",
+      "image_prompt": "Holographic schematic of a complex metal part being built layer by layer, glowing digital lines, cyberpunk aesthetic, reflecting data in a glowing iris.",
+      "keyword": "Additive Manufacturing"
     },
     {
-      "text": "These trends mean smarter, more interactive physical spaces. Imagine augmented reality overlays in gyms or personalized gaming experiences adapting dynamically to your real-time movements. The world becomes your game.",
-      "image_prompt": "A person wearing sleek smart glasses, a 'glowing iris' reflecting vibrant AR data. They are engaged in a virtual fitness activity within a clean, modern gym setting. Intense focus expression.",
-      "camera_effect": "close_up_zoom"
+      "text": "Industries like aerospace and medical already leverage this for custom, high-performance components. Expect lighter, stronger products, reaching consumers faster and efficiently.",
+      "image_prompt": "Image of a sleek, lightweight drone frame made of intricate metal 3D printed parts, dramatic side lighting, showcasing its advanced structure with an intense focus.",
+      "keyword": "Aerospace Medical"
     },
     {
-      "text": "Simultaneously, AM Pioneers' new Technology Center open house demonstrates groundbreaking advancements in metal additive manufacturing, revolutionizing industrial production efficiency and product innovation significantly.",
-      "image_prompt": "A robotic arm precisely creating a complex metal part through 3D printing (additive manufacturing). Blue laser lights illuminate the process, showing intricate detail. Intense focus on the technology.",
-      "camera_effect": "tracking_shot"
+      "text": "This democratizes high-tech manufacturing, offering small businesses unprecedented prototyping speed and custom production. It fosters rapid innovation cycles globally.",
+      "image_prompt": "A diverse group of individuals in a modern workspace collaboratively designing a product on holographic displays, expressions of intense focus and determination, cinematic lighting.",
+      "keyword": "Small Business Tech"
     },
     {
-      "text": "This industrial shift enables rapid prototyping and unprecedented customization. Soon, you could design unique products and have them 3D printed locally, faster than ever, transforming consumer goods.",
-      "image_prompt": "A digital blueprint of a custom product seamlessly transforming into a physical, newly 3D-printed object. Glowing data streams connect the digital and physical forms. Cinematic lighting.",
-      "camera_effect": "morphing_effect"
+      "text": "Beyond speed, metal additive manufacturing dramatically reduces material waste compared to traditional methods. This leads to more sustainable, cost-effective production globally.",
+      "image_prompt": "Abstract visual representing reduced waste and energy, glowing 'eco-friendly' icon amidst digital gears, with 'digital corruption' subtly highlighting old methods.",
+      "keyword": "Sustainability"
     },
     {
-      "text": "From personalized entertainment to custom manufacturing, these converging technologies promise a deeply integrated, experience-driven future, fundamentally altering daily interaction and global commerce in profound ways.",
-      "image_prompt": "A seamless montage of various futuristic tech: a holographic menu, a smart home interface, a worker with AR glasses, all subtly connected by glowing data lines against a clean, technical background.",
-      "camera_effect": "wide_shot_slow_reveal"
+      "text": "These emerging trends are rapidly reshaping global supply chains and product development. Prepare for a future where personalized, high-performance items become the new standard.",
+      "image_prompt": "Visionary cityscape with automated factories and delivery drones, metallic sheen, 8k resolution, cinematic lighting, dramatic side lighting.",
+      "keyword": "Future Trends"
     },
     {
       "text": "If useful, please like and subscribe!",
       "image_prompt": "Subscribe",
       "keyword": "Subscribe"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Youtube subscribe button, 3d render, neon lighting, dark background, 4k"
     }
   ]
 }
