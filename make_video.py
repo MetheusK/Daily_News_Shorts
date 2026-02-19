@@ -845,8 +845,37 @@ class VideoGenerator:
         header_img_path = os.path.join("assets", "Daily Tech Chips.png")
         if os.path.exists(header_img_path):
             try:
-                header_img = ImageClip(header_img_path).with_duration(duration)
-                header_img = header_img.resized(height=int(header_height * 0.5))
+                # [User Request] Auto-Crop and Maximize Logo Size
+                with Image.open(header_img_path) as pil_img:
+                    pil_img = pil_img.convert("RGBA")
+                    # Auto-Crop Transparent Borders
+                    bbox = pil_img.getbbox()
+                    if bbox:
+                        pil_img = pil_img.crop(bbox)
+                    
+                    # Calculate Best Fit Dimensions
+                    # Target Height: 85% of Header Height (200 * 0.85 = 170)
+                    # Target Width:  90% of Video Width (1080 * 0.9 = 972)
+                    
+                    target_h = int(header_height * 0.85)
+                    target_w = int(VIDEO_WIDTH * 0.9)
+                    
+                    img_w, img_h = pil_img.size
+                    ratio = min(target_w / img_w, target_h / img_h)
+                    
+                    new_w = int(img_w * ratio)
+                    new_h = int(img_h * ratio)
+                    
+                    pil_img = pil_img.resize((new_w, new_h), Image.Resampling.LANCZOS)
+                    
+                    # Convert to ImageClip by saving temporarily or byte stream?
+                    # Since ImageClip accepts a path or numpy array.
+                    # Easier to save temp or convert to array.
+                    # Let's use numpy array conversion for speed.
+                    import numpy as np
+                    img_array = np.array(pil_img)
+                    header_img = ImageClip(img_array).with_duration(duration)
+                
                 header_img = header_img.with_position('center')
                 header_combined = CompositeVideoClip([header_bg, header_img], size=(VIDEO_WIDTH, header_height)).with_position(('center', 'top'))
                 clips_to_composite.append(header_combined)

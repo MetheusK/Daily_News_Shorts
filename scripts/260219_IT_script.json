@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "FUTURE IS HERE!",
+    "narration": "WARNING! Your everyday world is about to fundamentally change with these explosive new tech trends emerging right now!",
+    "image_description": "Extreme close-up of a person with glowing cybernetic eyes, reflecting rapid data streams. Digital corruption lines glitch across the screen, bathed in dramatic red warning lights and cyberpunk neon. Intense focus expression.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "TECH IS REAL",
+    "image_description": "A hyper-realistic 3D render of a futuristic hand wearing a sleek, metallic glove, interacting with a holographic projection of a smart city interface. Glowing data streams emanate from the hand. Cyberpunk style, 8k resolution, dramatic backlighting, centered object.",
+    "reasoning": "This thumbnail uses a clear, high-contrast visual focusing on a futuristic object (the hand and hologram) which is more engaging than a generic 'shocked face'. The text 'TECH IS REAL' is punchy and creates intrigue, hinting at impactful new technologies without giving away specifics, driving clicks."
+  },
+  "title": "New Tech Trends: Your Future is Now!",
+  "segments": [
+    {
+      "text": "Major analysts like Ad Age report several emerging trends actively shaping consumer experiences, brand interactions, and future commerce strategies across global markets. This is happening now.",
+      "image_prompt": "A sleek, modern conference room with multiple holographic charts displaying upward technology trend lines and abstract data visualizations. Cyberpunk lighting.",
+      "camera_effect": "dolly_zoom"
+    },
+    {
+      "text": "Valo Motion spotlights seven key trends for active indoor entertainment by 2026, including immersive hybrid-play and advanced smart gamification for enhanced social engagement. Get ready to play smarter.",
+      "image_prompt": "A futuristic indoor entertainment center. People, displaying wonder and intense focus, interact with glowing holographic games and projected light paths on the floor. Cinematic lighting.",
+      "camera_effect": "smooth_pan_left"
+    },
+    {
+      "text": "These trends mean smarter, more interactive physical spaces. Imagine augmented reality overlays in gyms or personalized gaming experiences adapting dynamically to your real-time movements. The world becomes your game.",
+      "image_prompt": "A person wearing sleek smart glasses, a 'glowing iris' reflecting vibrant AR data. They are engaged in a virtual fitness activity within a clean, modern gym setting. Intense focus expression.",
+      "camera_effect": "close_up_zoom"
+    },
+    {
+      "text": "Simultaneously, AM Pioneers' new Technology Center open house demonstrates groundbreaking advancements in metal additive manufacturing, revolutionizing industrial production efficiency and product innovation significantly.",
+      "image_prompt": "A robotic arm precisely creating a complex metal part through 3D printing (additive manufacturing). Blue laser lights illuminate the process, showing intricate detail. Intense focus on the technology.",
+      "camera_effect": "tracking_shot"
+    },
+    {
+      "text": "This industrial shift enables rapid prototyping and unprecedented customization. Soon, you could design unique products and have them 3D printed locally, faster than ever, transforming consumer goods.",
+      "image_prompt": "A digital blueprint of a custom product seamlessly transforming into a physical, newly 3D-printed object. Glowing data streams connect the digital and physical forms. Cinematic lighting.",
+      "camera_effect": "morphing_effect"
+    },
+    {
+      "text": "From personalized entertainment to custom manufacturing, these converging technologies promise a deeply integrated, experience-driven future, fundamentally altering daily interaction and global commerce in profound ways.",
+      "image_prompt": "A seamless montage of various futuristic tech: a holographic menu, a smart home interface, a worker with AR glasses, all subtly connected by glowing data lines against a clean, technical background.",
+      "camera_effect": "wide_shot_slow_reveal"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}

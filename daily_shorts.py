@@ -142,12 +142,13 @@ def generate_english_shorts_script(news_data, topic_keyword, mode="General_IT"):
     - **Goal**: Retain the viewer with high-density value.
     - **Tone**: **CALM, FACTUAL, ANALYTICAL.**
     - **Instruction**: "Immediately drop the sensationalism. Do not use 'clickbait' language here. Focus purely on what happened, the numbers, and the heavy implications."
+    - **CRITICAL**: DO NOT add a 'Conclusion' or 'Outro' segment. The script must end abruptly after the last data point. The system will handle the outro.
     - **Visuals**: Concrete, technical, clear.
     - **LENGTH RULE**: The body MUST contain **5-6 Segments**.
     - **WORD COUNT**: Each segment must be **20-25 WORDS**. Total script must be around **130-150 words**.
     - **DENSITY RULE**: "High Information Density" means **Numbers/Names/Dates**. Explain the "Why" and "How" in detail but keep it brief.
     - **ENDPOINT**: The LAST segment MUST be exactly:
-      `{{"text": "If useful, please like and subscribe!", "image_prompt": "Subscribe", "keyword": "Subscribe"}}`
+
 
     [HUMAN ELEMENT RULES - TECHNICAL & CINEMATIC]
     To avoid NSFW filters, you must follow these rules for ALL image prompts (Hook, Thumbnail, and Segments):
@@ -225,11 +226,20 @@ def generate_english_shorts_script(news_data, topic_keyword, mode="General_IT"):
         json_text = re.sub(r'```json\s*|\s*```', '', response_text).strip()
         result = json.loads(json_text)
         
-        # [User Request] Add mandatory short outro
+        # [User Request] Deduplicate and Force Static Outro
         if "segments" in result:
+            # 1. Remove any LLM-generated segments that look like an outro
+            result["segments"] = [
+                s for s in result["segments"] 
+                if "subscribe" not in s.get("text", "").lower() 
+                and "subscribe" not in s.get("keyword", "").lower()
+            ]
+            
+            # 2. Append the ONE true static outro
             result["segments"].append({
                 "text": "If useful, please like and subscribe!", 
-                "image_prompt": "Youtube subscribe button, 3d render, neon lighting, dark background, 4k"
+                "image_prompt": "Subscribe", # Triggers static image in make_video.py
+                "keyword": "Subscribe"       # Triggers static image in make_video.py
             })
             
         return result
