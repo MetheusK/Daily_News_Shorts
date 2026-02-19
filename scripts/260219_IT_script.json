@@ -1,0 +1,55 @@
+{
+  "hook_plan": {
+    "overlay_text": "METAL REVOLUTION",
+    "narration": "Warning! Your future products are being printed, not built traditionally! This changes everything!",
+    "image_description": "Close-up of a robot arm precisely extruding glowing molten metal, sparks flying, cinematic lighting, reflecting data in a cybernetic eye with intense focus.",
+    "mood_color": "neon_green"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "FACTORIES REINVENTED",
+    "image_description": "Hyper-realistic 3D render of a futuristic metal 3D printer, glowing blue energy core, extruding molten metal, dark industrial background, dramatic backlighting, 8k resolution, centered.",
+    "reasoning": "This thumbnail features a captivating, futuristic object (metal 3D printer) with a bold, intriguing statement, immediately creating curiosity about industrial transformation and technological advancement."
+  },
+  "title": "Metal 3D Printing: The NEXT Manufacturing Revolution",
+  "segments": [
+    {
+      "text": "AM Pioneers just unveiled their cutting-edge Technology Center, revolutionizing metal additive manufacturing capabilities. This innovation hub is now fully operational, signaling a massive shift.",
+      "image_prompt": "Detailed 3D render of a futuristic metal 3D printer in action, glowing blue lasers, precise layer formation, sleek industrial design, cinematic lighting.",
+      "keyword": "Metal 3D Printing"
+    },
+    {
+      "text": "It’s essentially 3D printing for metal, creating incredibly strong, complex parts layer-by-layer. This dramatically reduces waste and enables designs once deemed impossible.",
+      "image_prompt": "Holographic schematic of a complex metal part being built layer by layer, glowing digital lines, cyberpunk aesthetic, reflecting data in a glowing iris.",
+      "keyword": "Additive Manufacturing"
+    },
+    {
+      "text": "Industries like aerospace and medical already leverage this for custom, high-performance components. Expect lighter, stronger products, reaching consumers faster and efficiently.",
+      "image_prompt": "Image of a sleek, lightweight drone frame made of intricate metal 3D printed parts, dramatic side lighting, showcasing its advanced structure with an intense focus.",
+      "keyword": "Aerospace Medical"
+    },
+    {
+      "text": "This democratizes high-tech manufacturing, offering small businesses unprecedented prototyping speed and custom production. It fosters rapid innovation cycles globally.",
+      "image_prompt": "A diverse group of individuals in a modern workspace collaboratively designing a product on holographic displays, expressions of intense focus and determination, cinematic lighting.",
+      "keyword": "Small Business Tech"
+    },
+    {
+      "text": "Beyond speed, metal additive manufacturing dramatically reduces material waste compared to traditional methods. This leads to more sustainable, cost-effective production globally.",
+      "image_prompt": "Abstract visual representing reduced waste and energy, glowing 'eco-friendly' icon amidst digital gears, with 'digital corruption' subtly highlighting old methods.",
+      "keyword": "Sustainability"
+    },
+    {
+      "text": "These emerging trends are rapidly reshaping global supply chains and product development. Prepare for a future where personalized, high-performance items become the new standard.",
+      "image_prompt": "Visionary cityscape with automated factories and delivery drones, metallic sheen, 8k resolution, cinematic lighting, dramatic side lighting.",
+      "keyword": "Future Trends"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Youtube subscribe button, 3d render, neon lighting, dark background, 4k"
+    }
+  ]
+}
