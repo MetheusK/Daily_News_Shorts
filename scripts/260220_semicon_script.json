@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "YIELD CRISIS ALERT",
+    "narration": "Attention investors! A silent crisis in chip manufacturing yields could crash your AI portfolio overnight.",
+    "image_description": "Extreme close-up of a human eye with digital data reflecting on the iris, surrounded by red warning lights and subtle digital corruption, intense focus, cinematic lighting, cyberpunk neon.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI CHIP SHOCK",
+    "image_description": "Hyper-realistic 3D render of a futuristic HBM chip stack undergoing hybrid bonding, glowing blue interconnects, dramatic backlighting, server racks in a blurred background, 8k resolution, centered object.",
+    "reasoning": "This thumbnail uses a clear, visually striking object (HBM chip) related to the core topic, combined with urgent text, appealing to both engineers and investors without relying on human expressions for initial click-through."
+  },
+  "title": "Semiconductor Alert: Hybrid Bonding & AI Yields",
+  "segments": [
+    {
+      "text": "Samsung and Hanwha are aggressively targeting hybrid bonding, a critical advanced packaging technology essential for next-generation AI chips, aiming for higher performance.",
+      "image_prompt": "Detailed 3D rendering of hybrid bonding process on a wafer, microscopic view, precision robotics, cleanroom environment, high-tech, cinematic lighting.",
+      "text_overlay": "HYBRID BONDING",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "This innovation directly impacts HBM memory and GPU manufacturing. It enables denser chip stacking, crucial for boosting bandwidth and power efficiency in AI compute.",
+      "image_prompt": "Cutaway diagram of an HBM stack showing multiple dies bonded together, with digital data flowing, analytical interface, crisp blue and green highlights.",
+      "text_overlay": "HBM BOOST",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "Advanced packaging is increasingly seen as a major bottleneck. Improved hybrid bonding yields are paramount for scaling AI chip production and reducing manufacturing costs significantly.",
+      "image_prompt": "Technical schematic overlay of a wafer showing varying yield rates, glowing red areas for defects, analytical data points, focused engineer reviewing data through smart glasses.",
+      "text_overlay": "YIELD CRITICAL",
+      "camera_effect": "static"
+    },
+    {
+      "text": "The market reflects this trend; Cadence Design Systems just reported strong Q4 earnings, driven by robust demand for its crucial AI chip design automation tools.",
+      "image_prompt": "Holographic projection of Cadence EDA software interface with complex chip designs, a hand pointing to a specific simulation, data reflections on screen, cybernetic style.",
+      "text_overlay": "CADENCE POWER",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "This signals substantial future CAPEX. Semiconductor giants will invest heavily in advanced packaging facilities and equipment to meet escalating AI chip demand.",
+      "image_prompt": "Massive semiconductor fabrication facility interior, advanced machinery, robotic arms moving wafers, dramatic industrial lighting, focused determination on a supervisor's face (through smart glasses).",
+      "text_overlay": "CAPEX SURGE",
+      "camera_effect": "dolly_out"
+    },
+    {
+      "text": "This critical packaging development directly impacts future CAPEX, HBM yield rates, and overall GPU valuation significantly across the entire semiconductor industry.",
+      "image_prompt": "Dynamic infographic showing upward arrows for CAPEX and GPU valuation, downward arrow for yield challenges transforming to upward, abstract data visualization, serious thought on a person's face (reflecting data), cinematic lighting.",
+      "text_overlay": "MARKET IMPACT",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
