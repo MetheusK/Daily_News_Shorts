@@ -1054,9 +1054,13 @@ class VideoGenerator:
                 print(f"⚠️ Failed to load Whoosh SFX: {e}")
 
         for i, seg in enumerate(segments_data):
-            original_text = seg['text']
+            original_text = seg.get('text', '').strip()
             keyword = seg.get('keyword') or global_topic
             
+            if not original_text and keyword != "Subscribe":
+                print(f"⚠️ Skipping segment {i} due to missing text.")
+                continue
+
             # [User Request] Split by period for better subtitles
             # Split by . ! ? but keep the delimiter if possible, or just split by period.
             # Simple split by period is requested.
