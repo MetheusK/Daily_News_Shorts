@@ -1,55 +1,57 @@
 {
   "hook_plan": {
-    "overlay_text": "METAL REVOLUTION",
-    "narration": "Warning! Your future products are being printed, not built traditionally! This changes everything!",
-    "image_description": "Close-up of a robot arm precisely extruding glowing molten metal, sparks flying, cinematic lighting, reflecting data in a cybernetic eye with intense focus.",
-    "mood_color": "neon_green"
+    "overlay_text": "YOUR SLEEP IS CHANGING",
+    "narration": "Warning! Big Tech isn't just watching, they're now redesigning how you sleep, forever.",
+    "image_description": "Extreme close-up of a person's face with 'cybernetic' eyes reflecting glowing sleep data, surrounded by digital glitch effects and red warning lights, dramatic side lighting.",
+    "mood_color": "red"
   },
   "thumbnail_plan": {
-    "thumbnail_text": "FACTORIES REINVENTED",
-    "image_description": "Hyper-realistic 3D render of a futuristic metal 3D printer, glowing blue energy core, extruding molten metal, dark industrial background, dramatic backlighting, 8k resolution, centered.",
-    "reasoning": "This thumbnail features a captivating, futuristic object (metal 3D printer) with a bold, intriguing statement, immediately creating curiosity about industrial transformation and technological advancement."
+    "thumbnail_text": "SLEEP REVOLUTION",
+    "image_description": "A hyper-realistic 3D render of a sleek, futuristic sleep-tracking device (e.g., a stylized headband or a wrist-worn gadget) emitting a subtle, warm glow, centered on a dark, minimalist background with dramatic backlighting, 8k resolution.",
+    "reasoning": "The image of a revolutionary sleep device directly appeals to curiosity about new tech. The text 'SLEEP REVOLUTION' creates intrigue and promises significant change, encouraging clicks by suggesting a major innovation in an everyday activity."
   },
-  "title": "Metal 3D Printing: The NEXT Manufacturing Revolution",
+  "title": "Big Tech's Secret Sleep Takeover: What You Need To Know",
   "segments": [
     {
-      "text": "AM Pioneers just unveiled their cutting-edge Technology Center, revolutionizing metal additive manufacturing capabilities. This innovation hub is now fully operational, signaling a massive shift.",
-      "image_prompt": "Detailed 3D render of a futuristic metal 3D printer in action, glowing blue lasers, precise layer formation, sleek industrial design, cinematic lighting.",
-      "keyword": "Metal 3D Printing"
+      "text_overlay": "SLEEP TECH BOOM",
+      "narration": "The global sleep aid market projects substantial growth, targeting $160 billion by 2030, driven by advanced technologies and health focus.",
+      "image_description": "Holographic projection of a steeply rising market graph against a dark background, showcasing '160 Billion USD' data, cyberpunk style, concrete, technical.",
+      "camera_effect": "zoom_in_on_data"
     },
     {
-      "text": "It’s essentially 3D printing for metal, creating incredibly strong, complex parts layer-by-layer. This dramatically reduces waste and enables designs once deemed impossible.",
-      "image_prompt": "Holographic schematic of a complex metal part being built layer by layer, glowing digital lines, cyberpunk aesthetic, reflecting data in a glowing iris.",
-      "keyword": "Additive Manufacturing"
+      "text_overlay": "BIG TECH'S SLEEP",
+      "narration": "Tech giants Alphabet and Apple are heavily investing, integrating advanced sensors and AI into smart wearables for personalized sleep data.",
+      "image_description": "Sleek, futuristic smartwatch on a wrist, displaying glowing sleep metrics (REM, deep), a subtle Apple/Google logo glinting, cinematic lighting.",
+      "camera_effect": "slow_pan_to_watch"
     },
     {
-      "text": "Industries like aerospace and medical already leverage this for custom, high-performance components. Expect lighter, stronger products, reaching consumers faster and efficiently.",
-      "image_prompt": "Image of a sleek, lightweight drone frame made of intricate metal 3D printed parts, dramatic side lighting, showcasing its advanced structure with an intense focus.",
-      "keyword": "Aerospace Medical"
+      "text_overlay": "SMARTER RECOVERY",
+      "narration": "Innovations offer non-invasive monitoring, intelligent environmental control, and personalized insights, moving beyond basic sleep tracking.",
+      "image_description": "Smart bedroom setting where ambient lighting and temperature subtly adjust, a tablet showing 'personalized sleep plan,' futuristic UI elements, clear.",
+      "camera_effect": "dolly_out_reveal_room"
     },
     {
-      "text": "This democratizes high-tech manufacturing, offering small businesses unprecedented prototyping speed and custom production. It fosters rapid innovation cycles globally.",
-      "image_prompt": "A diverse group of individuals in a modern workspace collaboratively designing a product on holographic displays, expressions of intense focus and determination, cinematic lighting.",
-      "keyword": "Small Business Tech"
+      "text_overlay": "HEALTHCARE EVOLVES",
+      "narration": "Traditional leaders like Philips, ResMed, and Fisher & Paykel also innovate, offering medical-grade devices for critical conditions.",
+      "image_description": "Close-up of a futuristic, clean medical sleep device with a glowing interface, displaying health data (e.g., airflow, oxygen saturation), technical, concrete.",
+      "camera_effect": "static_reveal_details"
     },
     {
-      "text": "Beyond speed, metal additive manufacturing dramatically reduces material waste compared to traditional methods. This leads to more sustainable, cost-effective production globally.",
-      "image_prompt": "Abstract visual representing reduced waste and energy, glowing 'eco-friendly' icon amidst digital gears, with 'digital corruption' subtly highlighting old methods.",
-      "keyword": "Sustainability"
+      "text_overlay": "OPTIMIZED LIFE",
+      "narration": "The focus shifts to proactive health management, using predictive analytics to optimize individual sleep cycles for overall well-being.",
+      "image_description": "A person with an 'expression of wonder and determination' waking up in a minimalist, tech-integrated bedroom, subtle data streams visualized around them, cinematic lighting.",
+      "camera_effect": "smooth_reveal_person"
     },
     {
-      "text": "These emerging trends are rapidly reshaping global supply chains and product development. Prepare for a future where personalized, high-performance items become the new standard.",
-      "image_prompt": "Visionary cityscape with automated factories and delivery drones, metallic sheen, 8k resolution, cinematic lighting, dramatic side lighting.",
-      "keyword": "Future Trends"
+      "text_overlay": "GLOBAL WELL-BEING",
+      "narration": "Rising global awareness of sleep disorders and stress fuels this market expansion, improving millions' quality of life.",
+      "image_description": "Abstract visualization of global population segments, some with 'red warning lights' for stress, transitioning to 'green' with tech solutions, digital corruption effects.",
+      "camera_effect": "glitch_transition_focus"
     },
     {
       "text": "If useful, please like and subscribe!",
       "image_prompt": "Subscribe",
       "keyword": "Subscribe"
-    },
-    {
-      "text": "If useful, please like and subscribe!",
-      "image_prompt": "Youtube subscribe button, 3d render, neon lighting, dark background, 4k"
     }
   ]
 }
