@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "YOUR SLEEP IS WATCHED",
+    "narration": "Warning: Tech giants are entering your bedroom, and your sleep data is their next big frontier!",
+    "image_description": "Extreme close-up of a human eye with a subtle cybernetic glow, reflecting a futuristic sleep tracker screen with data patterns. Dramatic side lighting, intense focus expression. Red warning lights subtly in the background, digital glitch effect on screen. Cinematic lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "SLEEP TECH BOOM",
+    "image_description": "A sleek, minimalist 3D render of a futuristic smart pillow or wearable device (like a smart ring) glowing with subtle data streams. The object is centered on a clean, dark surface with dramatic backlighting. Hyper-realistic, 8k resolution, cyberpunk aesthetic.",
+    "reasoning": "This thumbnail prioritizes a high-tech object, signaling innovation in sleep. The clean, 3D render with glowing elements creates curiosity and a 'wow' factor, making it highly clickable without sensationalizing."
+  },
+  "title": "Future Sleep: How Tech Giants are Redefining Rest",
+  "segments": [
+    {
+      "text": "The global sleep aids market is now projected for substantial growth, reaching billions by 2030. This expansion is driven by innovative health technology.",
+      "image_prompt": "Infographic showing an upward trend line for 'Sleep Tech Market Value' with a futuristic, holographic graph overlay. Cinematic lighting, digital aesthetic.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "Tech giants Apple and Alphabet, with Philips and ResMed, are heavily investing. Their focus: advanced, consumer-centric sleep innovations for widespread adoption.",
+      "image_prompt": "Logos of Apple, Alphabet (Google), Philips, and ResMed digitally integrated into a glowing circuit board design. 8k render, hyper-realistic, dramatic backlighting.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "Innovations include AI-driven smart wearables, advanced CPAP devices, and non-invasive sensors. These precisely gather real-time biometric sleep data for analysis.",
+      "image_prompt": "A sleek, futuristic smart ring or wristband glowing with data streams, next to a detailed diagram of brain waves. Hyper-realistic, 3D render, cyberpunk neon lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Enhanced devices analyze individual sleep patterns, providing personalized insights. Users gain actionable data to proactively improve sleep quality and overall health.",
+      "image_prompt": "A person's profile outline with holographic data overlays showing sleep stages and metrics, viewed through smart glasses. Intense focus, cinematic lighting.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "This trend blurs health and consumer tech, promising improved public health outcomes. Personalized sleep management becomes widely accessible globally.",
+      "image_prompt": "A stylized human silhouette connected by glowing lines to various smart devices (phone, watch, bed sensor), forming an integrated health network. 3D render, dramatic lighting.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "This shift signals a profound transformation.",
+      "image_prompt": "A single, glowing microchip symbolizing innovation, surrounded by subtle, fast-moving data streams. 3D render, hyper-realistic, dramatic lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
