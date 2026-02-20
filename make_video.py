@@ -878,11 +878,16 @@ class VideoGenerator:
                 
                 header_img = header_img.with_position('center')
                 header_combined = CompositeVideoClip([header_bg, header_img], size=(VIDEO_WIDTH, header_height)).with_position(('center', 'top'))
-                clips_to_composite.append(header_combined)
+                
+                # [User Request] Skip Header for Subscribe Segment
+                if keyword != "Subscribe":
+                    clips_to_composite.append(header_combined)
             except:
-                clips_to_composite.append(header_bg)
+                if keyword != "Subscribe":
+                    clips_to_composite.append(header_bg)
         else:
-             clips_to_composite.append(header_bg)
+             if keyword != "Subscribe":
+                 clips_to_composite.append(header_bg)
 
         # 4. Image Logic with Cache
         image_path = None
@@ -899,6 +904,20 @@ class VideoGenerator:
              # Clear text so no subtitle is generated
              segment_data['text'] = "" 
              text = ""
+             
+             # [NEW] Full Screen Override for Subscribe
+             if os.path.exists(image_path):
+                img_clip = ImageClip(image_path).with_duration(duration)
+                img_clip = img_clip.resized(height=VIDEO_HEIGHT) # Fit Height
+                if img_clip.w < VIDEO_WIDTH:
+                    img_clip = img_clip.resized(width=VIDEO_WIDTH) # Fit Width if needed
+                
+                # Center it
+                img_clip = img_clip.with_position('center')
+                clips_to_composite.append(img_clip)
+                
+                # Skip Ken Burns
+                image_path = None # Prevent falling into Ken Burns block
              
         else:
             # Generate New
