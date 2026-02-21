@@ -1,0 +1,56 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI CHIP SHOCK",
+    "narration": "Attention investors! The AI chip market is entering a critical phase, and you need to understand this now!",
+    "image_description": "A cybernetically enhanced human eye with a glowing iris, reflecting a rapidly scrolling stream of stock tickers and intricate circuit board patterns. Intense red and blue neon lighting from a control panel. Digital glitch effect overlay. Cinematic lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI CHIP BOOM",
+    "image_description": "Hyper-realistic 3D render of a glowing, intricately designed AI GPU chip at the core of a futuristic server rack. Wires and holographic data streams emanate from it. Dramatic dark background with subtle blue backlighting, 8k resolution, cyberpunk aesthetic.",
+    "reasoning": "The thumbnail focuses on a visually compelling, high-tech object (AI GPU) directly relevant to the 'boom' concept, avoiding human expressions to emphasize the technology and investment opportunity. 'AI CHIP BOOM' is punchy and appeals to investors."
+  },
+  "title": "AI Chip Boom: TSMC, ASML, Broadcom - Investor Alert",
+  "segments": [
+    {
+      "text": "AI spending surges, confirming a significant shift in the semiconductor market. TSMC and Broadcom emerge as key beneficiaries from the custom AI chip boom, driving industry valuation.",
+      "text_overlay": "AI SPENDING SURGE",
+      "image_description": "A holographic display showing a rapidly rising bar graph titled 'AI Spending' with a stylized world map background. A professional analyst with intense focus, cybernetic glasses reflecting data, observes the screen. Cinematic lighting.",
+      "camera_effect": "zoom_in_on_graph"
+    },
+    {
+      "text": "TSMC is positioned to gain substantially from this AI acceleration. Their advanced wafer production capacity and CAPEX investments are critical for high-performance GPU manufacturing.",
+      "text_overlay": "TSMC DOMINATES",
+      "image_description": "Close-up of a perfectly stacked pile of polished silicon wafers, with a subtle glow from within. In the background, automated robotic arms are moving in a cleanroom. Dark, industrial lighting. Focus on material quality.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Broadcom's custom AI chip designs are powering major data centers. This strategic alignment boosts their valuation, securing essential market share in the AI hardware ecosystem.",
+      "text_overlay": "BROADCOM'S EDGE",
+      "image_description": "A complex server room, with racks of glowing blue-lit servers. A schematic overlay shows data flow between interconnected custom AI chips. A silhouette of an engineer in intense thought, illuminated by screen light. Cyberpunk neon."
+    },
+    {
+      "text": "ASML's EUV lithography tools remain indispensable. They enable the high-yield production of next-gen HBM and advanced GPU architectures, crucial for AI at scale.",
+      "text_overlay": "ASML IS KEY",
+      "image_description": "A detailed render of an ASML EUV machine interior, with laser beams precisely etching patterns onto a wafer. Focus on the intricate mechanics and precision. Bright, technical lighting. Cybernetic hands reaching in (non-human).",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "This concentrated demand stresses the advanced semiconductor supply chain. Investors must monitor wafer fabrication capacity and equipment lead times for future growth indicators.",
+      "text_overlay": "SUPPLY CHAIN STRESS",
+      "image_description": "A complex digital supply chain visualization, with red warning indicators flashing on certain nodes representing wafer fabs. A focused analyst with glowing iris reflecting the warning, hand gesturing towards the screen. Dramatic side lighting.",
+      "camera_effect": "dolly_zoom_out"
+    },
+    {
+      "text": "Overall industry CAPEX projections will climb. The valuation of these core players now reflects their indispensable role in the escalating global AI infrastructure build-out.",
+      "text_overlay": "CAPEX PROJECTIONS",
+      "image_description": "A conceptual image of towering data centers stretching into the horizon, connected by beams of light. A holographic projection of escalating CAPEX numbers floats in the foreground. Focused, determined engineer observing the projection.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
