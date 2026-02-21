@@ -1,46 +1,46 @@
 {
   "hook_plan": {
-    "overlay_text": "YOUR SLEEP IS WATCHED",
-    "narration": "Warning: Tech giants are entering your bedroom, and your sleep data is their next big frontier!",
-    "image_description": "Extreme close-up of a human eye with a subtle cybernetic glow, reflecting a futuristic sleep tracker screen with data patterns. Dramatic side lighting, intense focus expression. Red warning lights subtly in the background, digital glitch effect on screen. Cinematic lighting.",
-    "mood_color": "red"
+    "overlay_text": "YOUR WORLD IS SOFTWARIZED!",
+    "narration": "Warning! Your digital world is being silently reprogrammed right now, without you knowing how!",
+    "image_description": "Extreme close-up of a human eye with a glowing, cybernetic iris reflecting streams of green and blue binary code. The background is a fast-paced, glitching data network, cinematic lighting, red warning lights pulsating.",
+    "mood_color": "neon_green"
   },
   "thumbnail_plan": {
-    "thumbnail_text": "SLEEP TECH BOOM",
-    "image_description": "A sleek, minimalist 3D render of a futuristic smart pillow or wearable device (like a smart ring) glowing with subtle data streams. The object is centered on a clean, dark surface with dramatic backlighting. Hyper-realistic, 8k resolution, cyberpunk aesthetic.",
-    "reasoning": "This thumbnail prioritizes a high-tech object, signaling innovation in sleep. The clean, 3D render with glowing elements creates curiosity and a 'wow' factor, making it highly clickable without sensationalizing."
+    "thumbnail_text": "SOFTWARE CONTROLS ALL",
+    "image_description": "A hyper-realistic 3D render of a central glowing processor chip at the heart of a complex, abstract network of data streams and server racks. The composition is futuristic and cyberpunk, with dramatic purple and blue backlighting, 8k resolution.",
+    "reasoning": "This thumbnail uses a powerful, central object (the chip/network) to represent the abstract concept of software control. The 'Software Controls All' text is direct and intriguing, promising a deep dive into how technology shapes our world, appealing to early adopters without relying on generic 'shocked faces'."
   },
-  "title": "Future Sleep: How Tech Giants are Redefining Rest",
+  "title": "Software-Defined World: The Invisible Revolution",
   "segments": [
     {
-      "text": "The global sleep aids market is now projected for substantial growth, reaching billions by 2030. This expansion is driven by innovative health technology.",
-      "image_prompt": "Infographic showing an upward trend line for 'Sleep Tech Market Value' with a futuristic, holographic graph overlay. Cinematic lighting, digital aesthetic.",
+      "text": "What is Software-defined Anything (SDx)? It virtualizes infrastructure, managing hardware through software layers. This enhances flexibility and control across all systems.",
+      "image_prompt": "Abstract visual showing a transparent software layer overlaying physical server racks and network cables, with data flow indicated by glowing lines. Cinematic lighting, concrete, technical visuals.",
       "camera_effect": "zoom_in"
     },
     {
-      "text": "Tech giants Apple and Alphabet, with Philips and ResMed, are heavily investing. Their focus: advanced, consumer-centric sleep innovations for widespread adoption.",
-      "image_prompt": "Logos of Apple, Alphabet (Google), Philips, and ResMed digitally integrated into a glowing circuit board design. 8k render, hyper-realistic, dramatic backlighting.",
+      "text": "SDx simplifies complex IT environments significantly. Businesses gain agility, cost efficiency, and scalability, allowing rapid adaptation to evolving market demands and user needs.",
+      "image_prompt": "Clean infographic showing simplified network architecture with 'before and after' panels, highlighting reduced complexity and increased speed. Use clear, factual data visualizations.",
       "camera_effect": "pan_right"
     },
     {
-      "text": "Innovations include AI-driven smart wearables, advanced CPAP devices, and non-invasive sensors. These precisely gather real-time biometric sleep data for analysis.",
-      "image_prompt": "A sleek, futuristic smart ring or wristband glowing with data streams, next to a detailed diagram of brain waves. Hyper-realistic, 3D render, cyberpunk neon lighting.",
+      "text": "The Software-defined Anything market is projected for massive growth, reaching hundreds of billions by 2029. This indicates widespread industry adoption and significant investment globally.",
+      "image_prompt": "Dynamic 3D bar graph showing steep market growth for SDx technology from current year to 2029, with 'Billions' clearly visible. Emphasize numerical data, concrete, clear.",
       "camera_effect": "static"
     },
     {
-      "text": "Enhanced devices analyze individual sleep patterns, providing personalized insights. Users gain actionable data to proactively improve sleep quality and overall health.",
-      "image_prompt": "A person's profile outline with holographic data overlays showing sleep stages and metrics, viewed through smart glasses. Intense focus, cinematic lighting.",
+      "text": "Small businesses benefit significantly from SDx, accessing enterprise-level IT features without huge hardware investments. This effectively levels the tech playing field for everyone.",
+      "image_prompt": "A focused small business owner, looking intently at a tablet displaying real-time data visualizations, reflecting determination. Cinematic side lighting, through smart glasses effect on eyes.",
       "camera_effect": "zoom_out"
     },
     {
-      "text": "This trend blurs health and consumer tech, promising improved public health outcomes. Personalized sleep management becomes widely accessible globally.",
-      "image_prompt": "A stylized human silhouette connected by glowing lines to various smart devices (phone, watch, bed sensor), forming an integrated health network. 3D render, dramatic lighting.",
+      "text": "Banks are rapidly adopting SDx for secure, agile operations. It allows faster deployment of new services, vastly improving customer experience and robust fraud detection capabilities.",
+      "image_prompt": "A cybernetic hand interacting with a holographic display showing secure financial data and network connections. Emphasize intense focus in the hand's action, glowing iris reflecting data.",
       "camera_effect": "pan_left"
     },
     {
-      "text": "This shift signals a profound transformation.",
-      "image_prompt": "A single, glowing microchip symbolizing innovation, surrounded by subtle, fast-moving data streams. 3D render, hyper-realistic, dramatic lighting.",
-      "camera_effect": "static"
+      "text": "This trend means your devices, networks, and even data centers will soon be entirely governed by intelligent, adaptable software rules.",
+      "image_prompt": "Visual of interconnected, glowing data streams forming a global network or city grid. Abstract but clear representation of pervasive software control.",
+      "camera_effect": "zoom_in"
     },
     {
       "text": "If useful, please like and subscribe!",
