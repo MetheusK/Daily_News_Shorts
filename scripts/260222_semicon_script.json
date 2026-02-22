@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI STOCK CRASH!",
+    "narration": "Stop! Jensen Huang just revealed a critical AI memory shift impacting every semiconductor investor.",
+    "image_description": "A determined CEO's cybernetic eye reflecting a flickering red stock market crash graph, digital corruption effect, red warning lights, cinematic lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "HBM SHORTAGE?",
+    "image_description": "Hyper-realistic 3D render of a single, glowing HBM chip stack placed centrally on a dark, reflective surface, surrounded by subtle blue and purple neon light, 8k resolution.",
+    "reasoning": "Presents a critical industry question about a key component (HBM) in a visually striking, high-contrast manner, appealing to both engineers and investors by highlighting a potential supply bottleneck."
+  },
+  "title": "Nvidia's HBM SHOCK: Investor Alert!",
+  "segments": [
+    {
+      "text": "Nvidia CEO Jensen Huang confirmed escalating AI memory needs during his Taiwan visit, signaling sustained GPU demand growth.",
+      "image_prompt": "A serious-faced CEO with cybernetic-enhanced smart glasses, reviewing holographic wafer schematics, dramatic side lighting, focused expression.",
+      "text_overlay": "HBM DEMAND SOARS"
+    },
+    {
+      "text": "This surge specifically targets High Bandwidth Memory (HBM), essential for next-gen AI accelerators like Nvidia's Blackwell series.",
+      "image_prompt": "Extreme close-up of interconnected High Bandwidth Memory (HBM) stacks on an advanced GPU package, glowing data lines, 8k resolution.",
+      "text_overlay": "HBM IS KEY"
+    },
+    {
+      "text": "Huang also endorsed TSMC's global expansion, critical for meeting high-volume, advanced packaging requirements for AI chips.",
+      "image_prompt": "Panoramic view inside a futuristic semiconductor fabrication plant (fab), robotic arms in motion, with a translucent global map overlay showing expansion nodes, cinematic lighting.",
+      "text_overlay": "TSMC EXPANDS"
+    },
+    {
+      "text": "TSMC's projected CAPEX will heavily factor into 2024-2025 chip production, influencing overall supply chain stability and costs.",
+      "image_prompt": "Abstract data visualization showing rising capital expenditure (CAPEX) graphs projected onto a digital financial interface, reflecting data in a glowing iris, serious thought expression.",
+      "text_overlay": "CAPEX IMPACT"
+    },
+    {
+      "text": "Market analysts are reassessing AI stock valuations, anticipating increased investment in HBM production and foundry capacity.",
+      "image_prompt": "Dynamic stock market charts overlaid with semiconductor chip icons, digital glitches indicating market volatility, through a data analyst's smart glasses, intense focus expression.",
+      "text_overlay": "VALUATION SHIFT"
+    },
+    {
+      "text": "This signals rising HBM CAPEX, impacting 2025 GPU valuation forecasts.",
+      "image_prompt": "Close-up of a next-generation GPU with integrated HBM, numerical '2025' data streams flowing across its surface, deep blue and purple neon lighting, 8k resolution.",
+      "text_overlay": "GPU FORECAST"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
