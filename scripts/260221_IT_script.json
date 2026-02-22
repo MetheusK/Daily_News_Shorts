@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "WRONG FOCUS!",
+    "narration": "Everyone's panicking about AI and crypto, but you're missing the real story unfolding right now!",
+    "image_description": "Close-up of a human eye, pupils reflecting distorted digital code and glitched AI interfaces, intense focus, cinematic lighting, cyberpunk neon colors, dramatic side lighting.",
+    "mood_color": "neon_green"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "BEYOND AI",
+    "image_description": "A central, glowing, hyper-realistic 3D render of a futuristic server rack with pulsing data lights, surrounded by holographic data streams, 8k resolution, dramatic backlighting, cyberpunk aesthetic.",
+    "reasoning": "Highlights a hidden truth ('Beyond AI') and uses a visually striking, high-tech object to pique curiosity for anyone interested in AI/tech beyond the hype."
+  },
+  "title": "Beyond AI & Crypto: The REAL Tech Trends",
+  "segments": [
+    {
+      "text": "While AI and crypto dominate headlines, a critical, underlying tech evolution quietly reshapes our digital future. This foundational shift deserves closer attention now.",
+      "image_prompt": "Abstract glowing neural network dissolving into a stable, powerful data center architecture, cinematic lighting, dramatic side lighting.",
+      "camera_effect": "dynamic_transition",
+      "text_overlay": "QUIET REVOLUTION"
+    },
+    {
+      "text": "Major developments in data center infrastructure are truly enabling these 'next-gen' technologies. Alberta's IIOSC project is a prime example of this often-overlooked progress.",
+      "image_prompt": "Overhead shot of a massive, modern data center, pristine and highly organized, with subtle energy glows, reflecting data on surfaces, intense focus.",
+      "camera_effect": "zoom_in",
+      "text_overlay": "DATA POWERHOUSE"
+    },
+    {
+      "text": "These facilities provide the raw processing power and secure environments essential for AI models, blockchain networks, and massive data analytics operations globally, ensuring system stability.",
+      "image_prompt": "Animated diagram showing data flowing rapidly between abstract representations of AI models and blockchain symbols within a secure server environment, glowing iris effect.",
+      "camera_effect": "panning",
+      "text_overlay": "CORE STABILITY"
+    },
+    {
+      "text": "Analysts forecast significant market expansion, like the Sealing Rings Market reaching multi-billion dollar figures by 2035. This signals vast industrial infrastructure growth.",
+      "image_prompt": "Infographic displaying growth curves and large monetary figures, transitioning into a vast, futuristic factory interior with automated processes, determination expression.",
+      "camera_effect": "static",
+      "text_overlay": "BILLION DOLLAR SHIFT"
+    },
+    {
+      "text": "Significant investment is now targeting these foundational IT sectors. This ensures necessary stability and scalability for future technological advancements, extending beyond current trends.",
+      "image_prompt": "Holographic projection of investment charts overlaid on a global network map, with glowing nodes representing data centers, cybernetic eyes reflecting data.",
+      "camera_effect": "zoom_out",
+      "text_overlay": "FUTURE INVESTMENT"
+    },
+    {
+      "text": "True tech trajectory understanding means looking past viral trends. Focus on the robust, often hidden, infrastructure that powers everything. This groundwork defines tomorrow's innovations.",
+      "image_prompt": "A complex, interwoven digital web representing global connectivity, with a focus on powerful central nodes, seen through smart glasses, intense focus.",
+      "camera_effect": "static",
+      "text_overlay": "HIDDEN POWER"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
