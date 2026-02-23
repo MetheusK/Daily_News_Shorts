@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "NEW TECH TRAP",
+    "narration": "STOP! A new wave of gadgets is here, silently shifting your daily digital life, and you're not ready.",
+    "image_description": "Cybernetically enhanced hand reaching for a glowing holographic smartphone displaying complex data streams, dramatic red and blue neon lighting. A serious, focused face with data reflecting in its cybernetic eye.",
+    "mood_color": "neon_green"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "GADGET OVERLOAD",
+    "image_description": "A hyper-realistic 3D render of multiple sleek, futuristic smartphones, tablets, and smartwatches stacked on top of each other, glowing with intricate internal circuitry visible. Cyberpunk city background, dramatic blue and purple backlighting, 8k resolution.",
+    "reasoning": "The phrase 'GADGET OVERLOAD' paired with a visually striking image of numerous devices immediately conveys the core message of abundance and potential dilemma, enticing clicks from those interested in new tech or feeling overwhelmed."
+  },
+  "title": "New Gadgets: The Hidden Impact",
+  "segments": [
+    {
+      "text": "Major manufacturers released 250+ new devices globally last quarter. This rapid pace dictates consumer upgrade cycles, impacting both innovation and spending.",
+      "image_prompt": "A sleek, modern factory line with robotic arms assembling a glowing smartphone component, dynamic camera angle, cinematic lighting.",
+      "text_overlay": "250+ DEVICES",
+      "camera_effect": "dynamic_pan"
+    },
+    {
+      "text": "AI features integrate deeply, boosting device efficiency by 30%. From smarter cameras to predictive text, AI reshapes daily interaction, becoming indispensable for users.",
+      "image_prompt": "A person wearing smart glasses, with a glowing green UI reflecting in their cybernetic eye, overlaying digital information on their real-world view, cyberpunk neon lighting.",
+      "text_overlay": "AI BOOSTS 30%",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "Latest displays boast 120Hz refresh rates and peak brightness over 1500 nits. This provides unparalleled visual fluidity and clarity for content consumption and creation.",
+      "image_prompt": "Extreme close-up of a vibrant OLED screen displaying a stunning, ultra-smooth animation, showing individual pixels glowing intensely, hyper-realistic.",
+      "text_overlay": "120HZ, 1500 NITS",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Battery capacities grew 15%, paired with 100W+ fast charging. Devices now last longer, recharging fully in under 20 minutes, drastically cutting user downtime.",
+      "image_prompt": "A glowing battery icon on a smartphone screen, with lightning bolts indicating ultra-fast charging, dramatic blue and white light emanating from the phone, 3D render.",
+      "text_overlay": "100W+ CHARGING",
+      "camera_effect": "quick_cut"
+    },
+    {
+      "text": "Cross-device integration allows 80% seamless file transfer and task handoffs. This ecosystem approach locks users into brands, enhancing productivity across all gadgets.",
+      "image_prompt": "Multiple devices (phone, tablet, laptop) displaying connected screens with data flowing between them, represented by glowing digital lines, cyberpunk aesthetic.",
+      "text_overlay": "SEAMLESS ECOSYSTEM",
+      "camera_effect": "dolly_zoom"
+    },
+    {
+      "text": "Consumers upgrade devices every 18-24 months. This consistent innovation cycle compels users to consider new features, driving significant market growth and tech adoption.",
+      "image_prompt": "A timeline graphic on a holographic display, showing '2023 -> 2024 -> 2025' with new device icons appearing rapidly. A determined person with intense focus looking at the display, dramatic side lighting.",
+      "text_overlay": "UPGRADE CYCLE 18 MONTHS",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
