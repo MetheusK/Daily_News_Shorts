@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "FOUNDRY SHIFT",
+    "narration": "Market sentiment around Samsung's foundry was wrong! A major profit surge is about to reshape the semiconductor landscape.",
+    "image_description": "A human figure with cybernetic eyes reflecting complex data streams, looking intensely at a holographic projection of a wafer, with glitch effects and red warning lights transforming into green profit indicators. Cinematic lighting, cyberpunk neon.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "SAMSUNG REBOUND",
+    "image_description": "A hyper-realistic 3D render of an advanced semiconductor wafer, center-focused, with intricate glowing circuit patterns. Digital data lines flow upwards. Dramatic backlighting, 8k resolution, cyberpunk aesthetic.",
+    "reasoning": "Highlights the core positive news (rebound) directly with a visually striking, technical object (wafer), creating intrigue for investors and engineers."
+  },
+  "title": "Samsung Foundry's Q4 Profit Shock!",
+  "segments": [
+    {
+      "text_overlay": "SAMSUNG FOUNDRY STRUGGLED",
+      "narration": "Samsung's foundry business faced significant deficits, with market analysts projecting continued struggles through 2023. This impacted investor confidence.",
+      "image_prompt": "A semiconductor engineer, viewed through smart glasses showing negative financial graphs, deeply focused on a malfunctioning circuit board. Dramatic side lighting, intense focus.",
+      "camera_effect": "static"
+    },
+    {
+      "text_overlay": "Q4 PROFIT SURGE",
+      "narration": "New reports confirm Samsung Foundry is set to achieve profitability in Q4. This marks a critical turnaround for their crucial semiconductor division.",
+      "image_prompt": "A screen displaying an upward-trending profit graph over a background of advanced semiconductor manufacturing equipment, reflecting in the determined eyes of an analyst. Cinematic lighting, glowing iris.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text_overlay": "HBM DEMAND DRIVES",
+      "narration": "This shift is largely driven by surging demand for High Bandwidth Memory (HBM) and advanced packaging solutions, crucial for AI GPUs.",
+      "image_prompt": "A visualization of interconnected HBM stacks and a powerful AI GPU chip, with glowing data pathways. A hand, gloved like a cleanroom worker, points to it, viewed from an angle that shows focus and precision. Cyberpunk neon.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text_overlay": "YIELD BOOSTED",
+      "narration": "Improved manufacturing yields on advanced nodes, particularly for 3nm and 4nm processes, have significantly contributed to margin recovery and efficiency.",
+      "image_prompt": "A macro shot of a silicon wafer under inspection, with highlighted areas showing successful defect-free chips. A cybernetic hand with glowing fingertips gestures over the wafer, reflecting data. Cinematic lighting.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text_overlay": "CAPEX IMPACT",
+      "narration": "Consistent CAPEX investments in leading-edge technology and capacity expansion are now translating into tangible financial returns, validating long-term strategies.",
+      "image_prompt": "A complex factory floor with robotic arms installing new semiconductor manufacturing equipment. A determined industry leader with reflecting data in their eyes oversees the operation. Dramatic side lighting, sense of scale.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text_overlay": "VALUATION SHIFT",
+      "narration": "This positive development impacts Samsung's overall valuation, potentially signaling a more competitive landscape against rivals like TSMC in the foundry space.",
+      "image_prompt": "A holographic display showing Samsung's stock valuation increasing, juxtaposed against subtle competing company logos fading in the background. An analyst with glowing iris focuses intently on the data. Cyberpunk aesthetic.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
