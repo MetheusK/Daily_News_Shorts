@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI CONTROLS ALL",
+    "narration": "WARNING: AI isn't just a tool anymore; it's silently reshaping your entire world!",
+    "image_description": "Extreme close-up of a human eye with a cybernetic overlay, reflecting a complex AI neural network interface. Cinematic lighting, deep blues and reds. Intense focus, not panic.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "FUTURE IS AI",
+    "image_description": "A stylized 3D render of a glowing, intricate AI chip at the center of a futuristic server room, with holographic data streams flowing around it. Cyberpunk aesthetic, dramatic backlighting, 8k resolution.",
+    "reasoning": "This thumbnail visually represents the power and complexity of AI, using an object-centric, high-contrast, and futuristic style to evoke curiosity and a sense of 'what's coming' without relying on a human face."
+  },
+  "title": "AI Trends Changing YOUR Daily Life FOREVER!",
+  "segments": [
+    {
+      "text_overlay": "AI EXPLOSION",
+      "text": "The Artificial Intelligence sector shows unprecedented growth. Analysts predict a market value exceeding $1.3 trillion by 2032, a 38% annual growth rate. This impacts daily tech.",
+      "image_prompt": "Dynamic infographic displaying an exponential growth curve for the AI market, with glowing numerical data and a cybernetic backdrop. Clear, technical visuals.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text_overlay": "NEW AI FRONTIER",
+      "text": "Generative AI, notably OpenAI's GPT series, leads current trends. Its profound impact on content creation, software development, and customer service expands.",
+      "image_prompt": "Abstract digital art depicting generative AI creating diverse content, such as flowing text, evolving images, and code snippets on a holographic interface. Concrete and futuristic.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text_overlay": "YOUR SMART LIFE",
+      "text": "AI integration into everyday devices, from smart assistants to home automation, makes technology intuitive. Users experience personalized interactions and improved efficiency.",
+      "image_prompt": "Diverse hands interacting with various smart devices (smartphone, smart speaker, smart home display), all with subtle glowing AI interfaces. Focus on user experience, not faces.",
+      "camera_effect": "static"
+    },
+    {
+      "text_overlay": "TECH GIANTS LEAD",
+      "text": "Major tech giants, including NVIDIA and Google, heavily invest in AI infrastructure. Their R&D drives innovation, shaping future artificial intelligence development.",
+      "image_prompt": "Futuristic server racks with glowing blue data lights, a prominent NVIDIA logo faintly visible on a server blade, surrounded by complex digital data streams. Technical and clear.",
+      "camera_effect": "tracking_shot"
+    },
+    {
+      "text_overlay": "ETHICS ARE CRITICAL",
+      "text": "As AI capabilities grow, ethical considerations become paramount. Discussions around data privacy, bias, and responsible deployment shape future development guidelines.",
+      "image_prompt": "A futuristic, stylized board meeting or conference room, holographic projections displaying data flow and ethical frameworks. People are shown with intense focus, not distress.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text_overlay": "DATA POWER",
+      "text": "Current AI acceleration is fueled by vast data and advanced processing power. This allows models to learn faster, performing complex tasks with unprecedented accuracy.",
+      "image_prompt": "Abstract representation of massive data streams flowing into a glowing central AI core, surrounded by energetic neural network patterns. Focus on the 'how' through visuals.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
