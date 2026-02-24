@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "CHIP SUPPLY SHOCK",
+    "narration": "Warning! The silent crisis in Taiwan's chip industry could crash global tech markets and your investments!",
+    "image_description": "An intense, close-up shot of a cybernetic eye reflecting a volatile digital map of Taiwan. Red warning lights flash rapidly around abstract factory silhouettes. Digital corruption and glitch effects emphasize danger. Cinematic lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "TAIWAN CHIP RISK",
+    "image_description": "A hyper-realistic 3D render of a gleaming semiconductor wafer, centrally composed, with a visible, intricate crack spiderwebbing across its surface. Dramatic backlighting. Cyberpunk aesthetic, 8k resolution.",
+    "reasoning": "The cracked wafer visually symbolizes fragility and risk within the core semiconductor component, appealing directly to industry professionals and investors about potential supply chain disruption without relying on human expressions."
+  },
+  "title": "Semiconductor Seismic Shift: Taiwan Risk Meets 1nm Breakthrough",
+  "segments": [
+    {
+      "text": "The New York Times highlights Taiwan's critical 90% share in advanced chip manufacturing, posing significant global supply chain risks to investors and engineers.",
+      "image_prompt": "An aerial view of a futuristic, sprawling chip fabrication plant (fab) in Taiwan under dramatic cinematic lighting. Holographic data projections hover above the facilities, reflecting supply chain routes.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "This geopolitical vulnerability impacts everything from GPUs to data centers, creating immense uncertainty for tech CAPEX planning and future product availability forecasts.",
+      "image_prompt": "A high-density server rack with critical status lights, some flickering red. In the background, a digital globe displays interconnected, but partially broken, global supply lines. Focus on intense data flow.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "Meanwhile, Nvidia unveiled the 1nm 'Feynman' architecture at GTC 2026, signaling the next frontier in processing power and architectural innovation for AI solutions.",
+      "image_prompt": "A sleek, stylized 1nm chip blueprint or 3D render, glowing neon blue lines on a dark background. Abstract futuristic circuitry, with a subtle 'GTC 2026' watermark. High-tech aesthetic.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "Achieving 1nm requires unprecedented CAPEX investment in EUV lithography and confronts extreme yield challenges, impacting profitability and critical time-to-market schedules.",
+      "image_prompt": "A highly complex EUV lithography machine bathed in dramatic side lighting, showing intricate components and intense laser light. A human engineer, eyes reflecting data through smart glasses, intensely observes readouts.",
+      "camera_effect": "dolly_zoom"
+    },
+    {
+      "text": "Samsung and SK hynix are pushing HBM4, critical for next-gen AI accelerators. Integrating this advanced memory demands specialized packaging and flawless wafer production yields.",
+      "image_prompt": "A detailed cross-section diagram of an HBM stack integrated with a GPU, rendered with transparency to show internal connections and layers. Glowing data streams visually represent high-speed transfer.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "The race for advanced nodes and specialized memory intensifies, with successful execution defining future market leadership. Future valuations hinge on this technological leap.",
+      "image_prompt": "A sleek, holographic stock chart displaying an upward trend, overlaid with abstract, intricate circuit board patterns. A determined individual, partially obscured by smart glasses reflecting the chart, intently analyzing data, cinematic lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
