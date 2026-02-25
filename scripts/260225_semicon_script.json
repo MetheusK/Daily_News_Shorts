@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "SEMI STOCK ALERT",
+    "narration": "WARNING: The AI semiconductor sector is on the brink of unprecedented volatility this earnings season!",
+    "image_description": "An intense close-up of a human eye reflecting rapidly changing stock tickers and digital graphs, with subtle glitch effects and red warning lights emanating from data streams. Cinematic lighting, serious expression.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "NVIDIA: THE TRUTH",
+    "image_description": "A hyper-realistic 3D render of an advanced AI GPU chip, centrally placed on a dark, high-tech server rack. Holographic data streams in neon blue and green swirl around it. Dramatic backlighting, 8k resolution.",
+    "reasoning": "The 'NVIDIA: THE TRUTH' text creates immediate intrigue for investors and industry followers ahead of crucial earnings. The powerful visual of an AI GPU emphasizes the core topic, guaranteeing high click-through rates."
+  },
+  "title": "AI Chip Market: $100B Deals & Nvidia Impact",
+  "segments": [
+    {
+      "text": "Meta's $100B AMD AI chip deal signals robust enterprise demand. This investment significantly lifts Korean semiconductor suppliers, especially for critical HBM components.",
+      "image_prompt": "A futuristic data center glowing with blue light, a holographic representation of a $100 billion deal handshake connecting Meta and AMD logos, with data flowing towards a map of South Korea. Cinematic lighting.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "European tech stocks brace for Nvidia's earnings, a crucial determinant for market sentiment. Investor focus remains on GPU demand trends and future AI sector valuations.",
+      "image_prompt": "A digital stock market interface showing a volatile graph with an Nvidia logo at its peak, surrounded by European city skylines in the background. A 'stock alert' icon flashes in neon green. Cyberpunk lighting.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "Lam Research maintains over $5 billion revenue, driven by escalating foundry demand. This indicates significant CAPEX expansions for advanced wafer processing capabilities globally.",
+      "image_prompt": "A robotic arm precisely manipulating a large silicon wafer inside a cleanroom environment, overlaid with numerical data showing '5 Billion+' and CAPEX spending trends. Focused, intense lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "High-Bandwidth Memory (HBM) is critical for AI GPUs, pushing packaging and wafer yield improvements. This directly impacts manufacturing efficiency across the entire supply chain.",
+      "image_prompt": "Extreme close-up of intricate HBM stacks on an advanced semiconductor package, with tiny, glowing digital readouts indicating 'Yield: 98.7%'. Precision engineering focus. Dramatic side lighting.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "Aggressive CAPEX by leading foundries is essential to meet this demand surge. Equipment suppliers like Lam Research benefit directly from these substantial investment cycles.",
+      "image_prompt": "Animated bar graph showing projected CAPEX growth for major foundries (TSMC, Samsung, Intel), with digital pipelines connecting to a stylized representation of Lam Research's logo. Data-driven visuals.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "Expect sustained CAPEX and HBM demand to fuel leading-edge foundry growth, impacting future GPU valuations.",
+      "image_prompt": "A holographic projection of a rapidly ascending valuation graph integrated with complex GPU architectural diagrams. Glowing data streams flow upwards, signifying growth. Cybernetic blue and green hues.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
