@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "FUTURE IS HERE",
+    "narration": "WARNING! The future of tech is happening NOW, and it's about to change EVERYTHING you know!",
+    "image_description": "Dynamic shot of a stylized human eye, cybernetic, reflecting fast-moving data streams and glowing lines. Digital glitch effects, dramatic red warning lights, cinematic lighting, intense focus.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "TECH EXPLOSION",
+    "image_description": "Hyper-realistic 3D render of a glowing, intricate microchip at the center of a swirling vortex of holographic data, dark background, dramatic blue and purple backlighting, 8k resolution, cyberpunk style.",
+    "reasoning": "This thumbnail uses a powerful object (microchip) and a visually striking concept (vortex, explosion) combined with bold text to evoke immediate curiosity about rapid technological advancement, driving clicks."
+  },
+  "title": "2024 Tech Trends: The AI & Health Revolution",
+  "segments": [
+    {
+      "text": "2024 marks a pivotal year for technological evolution, with Artificial Intelligence at its core, fundamentally reshaping diverse industries and user interactions globally.",
+      "image_prompt": "Animated data visualization flowing into a futuristic city skyline, cinematic lighting, high-contrast, 8k resolution.",
+      "camera_effect": "dynamic_pan"
+    },
+    {
+      "text": "Artificial Intelligence's influence extends far beyond theoretical concepts, now actively powering advanced analytics, predictive modeling, and automation solutions across multiple critical sectors.",
+      "image_prompt": "Abstract neural network glowing with blue and green lines, reflecting data patterns, subtle digital corruption, dramatic side lighting.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "In health tech, AI innovations are leading to personalized medicine, proactive disease prevention, and real-time diagnostic tools, significantly improving patient outcomes and care delivery.",
+      "image_prompt": "Holographic display of a human body scan with intricate data overlays, cybernetic hands interacting with it, user with intense focus, cinematic lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Daily life experiences are transforming. AI integration enhances user interfaces, offering more intuitive controls and personalized assistant functions, streamlining tasks for greater efficiency.",
+      "image_prompt": "Smart glasses reflecting holographic data projections of daily tasks, user with an expression of wonder and determination, cyberpunk neon lighting.",
+      "camera_effect": "dolly_zoom"
+    },
+    {
+      "text": "These advancements are fueled by sophisticated data processing algorithms. AI leverages vast datasets to anticipate user needs and optimize system performance with unprecedented accuracy.",
+      "image_prompt": "Rows of glowing server racks, complex data streams visualized as neon pathways, digital energy flowing, dramatic lighting.",
+      "camera_effect": "tracking_shot"
+    },
+    {
+      "text": "These trends indicate a significant shift in daily human-computer interaction, marking a new era of personalized, proactive technological assistance.",
+      "image_prompt": "A stylized human hand reaching towards a glowing abstract data sphere, digital energy flowing around it, determined expression, cinematic lighting.",
+      "camera_effect": "slow_push"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
