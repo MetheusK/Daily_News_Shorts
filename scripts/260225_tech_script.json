@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "ROBOTAXI FAKEOUT!",
+    "narration": "Warning! The robotaxi revolution? It's a shocking lie, and your safety is at stake!",
+    "image_description": "A blurred street scene with a sleek, futuristic autonomous car in the foreground. In the background, a person's cybernetic eye glows red, reflecting digital warning signals. Cinematic lighting, digital corruption overlay.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "ROBOTAXI BUSTED",
+    "image_description": "A hyper-realistic 3D render of a futuristic robotaxi (Waymo/Tesla concept) with a shattered holographic display showing an error message and a small, almost hidden, human hand on a steering wheel. Dark, dramatic backlighting, cyberpunk style.",
+    "reasoning": "The text 'ROBOTAXI BUSTED' creates immediate intrigue and suggests a major expose. The visual of a damaged futuristic car with a subtly revealed human element directly implies a hidden truth about autonomy, maximizing click-through rate."
+  },
+  "title": "Robotaxi 'Autonomy' Exposed: The Human Secret",
+  "segments": [
+    {
+      "text": "US government documents now confirm human operators remain \"critical\" for both Waymo and Tesla's \"fully autonomous\" robotaxi fleets.",
+      "image_prompt": "A digital document with 'CRITICAL HUMAN INTERVENTION' highlighted in neon green, overlayed on a futuristic city street background. Cinematic lighting.",
+      "camera_effect": "static, then slow zoom on highlighted text"
+    },
+    {
+      "text": "Waymo, operating in Phoenix, San Francisco, and Los Angeles, relies on remote human assistance for complex scenarios over 500,000 times annually.",
+      "image_prompt": "Split screen: one side shows a Waymo car navigating a city street. The other shows a person (back of head, intense focus) at a control station with multiple screens. Cyberpunk neon lighting.",
+      "camera_effect": "pan left-right across split screen"
+    },
+    {
+      "text": "Tesla's Full Self-Driving (FSD) beta, used by over 400,000 drivers, requires constant human supervision, especially for \"edge cases.\"",
+      "image_prompt": "Close-up of a Tesla dashboard displaying FSD visuals, with a holographic layer showing data streams and subtle red warning indicators. A driver's hands are lightly on the wheel, reflecting data.",
+      "camera_effect": "subtle camera push-in"
+    },
+    {
+      "text": "Remote human support helps these vehicles navigate construction zones, unexpected obstacles, or unclear road markings to ensure safety.",
+      "image_prompt": "A dynamic digital map showing autonomous vehicles, with red lines indicating areas of human intervention. Glowing data nodes. Cinematic lighting.",
+      "camera_effect": "slow rotation around the map"
+    },
+    {
+      "text": "This disclosure highlights a gap between public perception of \"level 5 autonomy\" and the operational reality requiring significant human oversight.",
+      "image_prompt": "Two abstract, intertwining gears: one labeled 'EXPECTATION' (smooth, futuristic), the other 'REALITY' (jagged, with a human-like hand subtly reaching in). Dramatic side lighting.",
+      "camera_effect": "cross-fade between the two gears"
+    },
+    {
+      "text": "The documents suggest full unsupervised autonomy is still years away, with human-AI collaboration defining the immediate future of transport.",
+      "image_prompt": "A futuristic cityscape at dusk. A smart glass reflection of a person's eyes (intense focus) overlaid with flowing data streams and a digital 'roadmap' extending into the future. Cyberpunk neon.",
+      "camera_effect": "dolly out to reveal the cityscape"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
