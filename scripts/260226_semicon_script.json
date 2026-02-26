@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "TSMC COMPETITION",
+    "narration": "A silent war for chip dominance just erupted, threatening TSMC's future margins and your portfolio!",
+    "image_description": "A cybernetic eye with a glowing blue iris reflecting a complex wafer schematic, glitching data patterns, urgent red warning lights flashing on the side of the face, dramatic side lighting, intense focus.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "CHINA'S 7NM?",
+    "image_description": "Hyper-realistic 8K rendering of a glowing 7nm wafer, partially obscured by a digital data overlay with subtle Chinese characters, dramatic blue and red cyberpunk lighting, centralized composition, hyper-detailed.",
+    "reasoning": "Highlights a key industry challenge with a clear, technical visual, immediately prompting curiosity about the competitive landscape and technological threat for investors and engineers."
+  },
+  "title": "TSMC's AI Bet: China's 7nm Challenge",
+  "segments": [
+    {
+      "text": "TSMC projects 60% AI chip revenue CAGR through 2029, driven by advanced HBM and GPU demand. This significant growth underpins its future valuation targets.",
+      "image_prompt": "Holographic projection of a growth chart with '60% CAGR' text, showing AI chips (GPUs, HBM stacks) glowing brightly, in a futuristic data center setting, cinematic lighting.",
+      "text_overlay": "TSMC AI BOOM"
+    },
+    {
+      "text": "Achieving this growth requires massive CAPEX. Sustaining high yield rates on leading-edge wafers, especially for complex AI accelerators, remains critical for profitability.",
+      "image_prompt": "Industrial cleanroom robot arm precisely placing a silicon wafer onto a processing machine, illuminated by dramatic blue and white light, focusing on the yield process, intense focus, technical.",
+      "text_overlay": "YIELD IS KEY"
+    },
+    {
+      "text": "Concurrently, China dramatically expands its domestic 7nm wafer capacity, intensifying competition. This move directly challenges Samsung Electronics and TSMC’s market share.",
+      "image_prompt": "Abstract representation of a 7nm semiconductor pattern with digital data streams flowing through it, overlaid with subtle Chinese characters, indicating rapid technological advancement, cyberpunk neon lighting.",
+      "text_overlay": "CHINA 7NM"
+    },
+    {
+      "text": "This surge impacts the global semiconductor supply chain, potentially leading to pricing pressures and shifts in manufacturing allocation. Geopolitical considerations heighten supply chain risks.",
+      "image_prompt": "Interconnected network of glowing supply chain lines linking global factories and data centers, with certain nodes flickering red, symbolizing potential disruptions, dramatic side lighting.",
+      "text_overlay": "SUPPLY CHAIN SHIFT"
+    },
+    {
+      "text": "Investors must assess TSMC's ability to maintain its technological lead and manage geopolitical risks. Valuation models for 2026 depend heavily on execution and competitive dynamics.",
+      "image_prompt": "Stock market tickers and data graphs overlaid on a complex circuit board, a human hand through smart glasses pointing to a fluctuating valuation metric, serious thought, cinematic lighting.",
+      "text_overlay": "INVESTOR DILEMMA"
+    },
+    {
+      "text": "The true cost of this technological race will soon impact market capitalization.",
+      "image_prompt": "A cybernetic hand manipulating holographic data displaying financial metrics and wafer schematics, digital corruption effect spreading across the screen, dramatic lighting, reflecting data.",
+      "text_overlay": "MARKET CAPITALIZATION"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
