@@ -1,0 +1,46 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI SHOCKWAVE",
+    "narration": "Attention Investors! A critical semiconductor shift is happening NOW that will reshape AI chip valuations!",
+    "image_description": "Extreme close-up of a human eye, cybernetic, reflecting glitched stock market data and red warning lights, dramatic side lighting, digital corruption effects, intense focus.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "TSMC JAPAN",
+    "image_description": "3D render of a futuristic wafer fab building with Japanese architectural elements, glowing production lines visible through transparent walls, hyper-realistic, 8k resolution, dramatic backlighting, focus on advanced machinery.",
+    "reasoning": "Highlights a major industry player (TSMC) and location (Japan), indicating significant news for investors and engineers interested in manufacturing shifts, without human faces."
+  },
+  "title": "TSMC's Japan Play: AI Chip Market Reshaped",
+  "segments": [
+    {
+      "text": "TSMC is significantly expanding AI chip production capacity into Japan, marking a crucial strategic move for global supply chain diversification and resilience.",
+      "image_prompt": "Futuristic semiconductor manufacturing facility interior, robotic arms precisely placing wafers onto production lines, glowing blue data streams flowing across the scene, cinematic lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "This CAPEX injection aims to mitigate geopolitical risks and leverage Japan's robust material suppliers, bolstering manufacturing yield and regional stability.",
+      "image_prompt": "Holographic 3D map of Japan with a highlighted region (e.g., Kumamoto), digital supply chain routes glowing neon green, superimposed with abstract data analysis, cyberpunk aesthetic, dramatic side lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "The primary focus remains on advanced logic for high-bandwidth memory (HBM) and powerful GPUs, critical components driving the exploding AI market demand.",
+      "image_prompt": "Extreme close-up macro shot of a powerful GPU with integrated HBM stacks, intricate gold traces glowing subtly, reflecting digital code, dramatic side lighting, 8k resolution.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "This expansion signals TSMC’s confidence in sustained AI growth, impacting competitor valuations and shifting market share dynamics significantly over the next few years.",
+      "image_prompt": "Dynamic stock market interface displaying real-time semiconductor stock movements, TSMC's line prominent and rising, overlaid with abstract valuation metrics and glowing data points, dark background, cinematic lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Investors should observe CAPEX deployment, projected wafer output, and long-term yield consistency. These metrics are vital for assessing future semiconductor stock performance.",
+      "image_prompt": "Stylized silicon wafer with intricate circuit patterns, a digital overlay showing CAPEX figures and yield percentages (e.g., '92.5% Yield'), reflecting glowing data, seen through smart glasses, intense focus, cyberpunk neon lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
