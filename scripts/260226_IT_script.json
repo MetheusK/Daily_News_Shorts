@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "BUSINESS REVOLUTION!",
+    "narration": "Warning! The way businesses operate is about to change forever, and you won't believe how!",
+    "image_description": "Extreme close-up of a cybernetic eye reflecting abstract data visualizations and digital glitches, glowing neon green light, intense focus.",
+    "mood_color": "neon_green"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "NEXT-GEN BUSINESS",
+    "image_description": "3D render of a complex, glowing neural network diagram interconnected with abstract business icons (gears, data points, arrows) in a dark, hyper-realistic cyberpunk style. Central object focus, 8k resolution.",
+    "reasoning": "The clear, intriguing image of a futuristic business network combined with a direct, uppercase text will immediately convey the topic and pique curiosity about future trends, driving clicks."
+  },
+  "title": "Next-Gen Business Tech Unpacked!",
+  "segments": [
+    {
+      "text": "Verizon Connect's 2026 report highlights critical shifts in fleet management technology, profoundly impacting logistics and global supply chains now.",
+      "image_prompt": "Holographic dashboard displaying fleet routes and real-time truck locations on a stylized digital map, cinematic lighting, no human figures.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "Key drivers include AI, IoT for real-time data, and powerful predictive analytics, enhancing operational efficiency and proactive decision-making across all industries.",
+      "image_prompt": "Interconnected glowing data streams flowing between abstract icons of AI brains, smart sensors (IoT), and analytical charts, cyberpunk style, no human figures.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "Ad Age reports brands and agencies leverage these trends, especially AI, for hyper-personalized customer engagement and targeted ad campaigns, boosting ROI significantly.",
+      "image_prompt": "Digital human avatar with an expression of intense focus interacting with a holographic advertisement displaying personalized content, dramatic side lighting.",
+      "camera_effect": "slow_zoom"
+    },
+    {
+      "text": "Digital Commerce 360 emphasizes data-driven insights as paramount for modern B2B strategy. Businesses are investing heavily to gain crucial competitive advantage.",
+      "image_prompt": "Abstract representation of large datasets being analyzed on multiple screens, glowing charts, a person's hands blurred in the foreground, intense focus, cinematic lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "This tech revolutionizes user experience, offering streamlined operations, automated workflows, and enhanced security across B2B platforms, simplifying complex tasks quickly.",
+      "image_prompt": "A seamless user interface on a tablet, showcasing an automated logistics dashboard, clean lines, cybernetic reflection of data in the screen, no human figures.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "The future of business technology is here. What are your thoughts?",
+      "image_prompt": "Futuristic cityscape at dawn, interconnected data lines flowing between buildings, clean and optimistic feel, cinematic lighting, no human figures.",
+      "camera_effect": "dolly_out"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
