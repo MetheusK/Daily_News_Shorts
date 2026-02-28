@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI STOCK ALERT",
+    "narration": "WARNING! A silent AI stock revolution is exploding, but most investors are missing the critical signs!",
+    "image_description": "A close-up of a human eye with cybernetic enhancements, reflecting a rapidly scrolling stock ticker, surrounded by digital corruption and neon red warning lights. Cinematic lighting, intense focus.",
+    "mood_color": "neon_red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "CHIP MARKET EXPLODES",
+    "image_description": "Hyper-realistic 8K 3D render of a glowing, intricate AI processor chip at the center, surrounded by holographic data streams and abstract digital circuits, dramatically backlit with cyberpunk neon colors. Dark, reflective surface.",
+    "reasoning": "Combines a powerful visual of core technology (AI chip) with an urgent, strong headline, appealing to both tech enthusiasts and investors by hinting at major market movements and future potential."
+  },
+  "title": "Semiconductor Giants Soar: Investor Alert",
+  "segments": [
+    {
+      "text": "TSMC just declared a 28% dividend increase, driven by a robust 38% revenue growth. This signals strong foundry demand and market confidence.",
+      "text_overlay": "TSMC DIVIDEND SURGE",
+      "image_prompt": "Holographic financial charts depicting a sharp upward trend, with the TSMC logo subtly integrated. A glowing upward arrow. Cinematic lighting.",
+      "camera_effect": "zoom_in_on_chart"
+    },
+    {
+      "text": "This performance effectively reframes prior geopolitical risks, emphasizing Taiwan's critical role in high-end wafer manufacturing and global supply chains.",
+      "text_overlay": "GEOPOLITICAL SHIFT",
+      "image_prompt": "A stylized world map with Taiwan glowing brightly, interconnected supply chain lines emanating from it. Digital data flow overlay. Serious, analytical tone.",
+      "camera_effect": "pan_across_map"
+    },
+    {
+      "text": "Analyst predictions forecast Broadcom reaching a staggering $3 trillion valuation by late 2027. This highlights massive confidence in their strategic portfolio.",
+      "text_overlay": "BROADCOM $3T FORECAST",
+      "image_prompt": "A futuristic digital display projecting 'BROADCOM $3 TRILLION BY 2027' with a soaring valuation graph. A stylized Broadcom chip icon. Cyberpunk aesthetic.",
+      "camera_effect": "static_with_glitch_overlay"
+    },
+    {
+      "text": "Key drivers include their dominance in enterprise software, networking, and custom AI silicon solutions, essential for next-gen data centers and CAPEX cycles.",
+      "text_overlay": "AI SILICON DRIVERS",
+      "image_prompt": "Rows of glowing server racks with data flowing rapidly between them. A prominent, high-performance GPU chip at the forefront. Dramatic side lighting.",
+      "camera_effect": "dolly_through_server_rack"
+    },
+    {
+      "text": "Meanwhile, an under-the-radar AI stock has already seen a 50% increase in 2026. This exemplifies the rapid valuation shifts in targeted AI plays.",
+      "text_overlay": "AI STOCK EXPLOSION",
+      "image_prompt": "An abstract, rapidly ascending stock chart, with a hidden, glowing AI chip icon emerging from the data. Fast, dynamic lines of growth. Neon green accents.",
+      "camera_effect": "fast_zoom_out"
+    },
+    {
+      "text": "Valuation metrics indicate further significant growth potential ahead.",
+      "text_overlay": "GROWTH POTENTIAL",
+      "image_prompt": "A complex network of glowing data points converging towards a bright, distant horizon. A focused analyst's hands interacting with a holographic display showing future projections. Cinematic lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
