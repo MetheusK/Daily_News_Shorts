@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "APPLE'S SECRET",
+    "narration": "Warning! Apple is secretly holding out on you, and it's costing you incredible new tech!",
+    "image_description": "A person's cybernetic eye reflecting abstract holographic data patterns, looking intently at a glowing, partially revealed technology symbol. Dramatic red and blue neon lighting, digital glitch effects around the edges.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "SAMSUNG WINS",
+    "image_description": "A sleek, hyper-realistic 3D render of a futuristic Samsung foldable phone partially open, displaying glowing holographic elements, positioned centrally next to a vibrant, edge-lit smart monitor. Dark, dramatic cyberpunk background with subtle 8k resolution details.",
+    "reasoning": "The contrast between 'Samsung Wins' and the implied 'Apple's Secret' creates immediate curiosity. Prioritizing modern Samsung objects clearly communicates the topic while avoiding generic human reactions, increasing click-through rates."
+  },
+  "title": "5 Samsung Gadgets Apple Can't Match!",
+  "segments": [
+    {
+      "text_overlay": "FOLDABLE FUTURE",
+      "narration": "Samsung's Z Fold and Z Flip redefine phone design. Offering dynamic multitasking, productivity, and portability, over 10 million units shipped by 2022 highlight its market impact.",
+      "image_prompt": "A Samsung Z Fold phone dramatically unfolding, displaying vibrant, busy multitasking apps, with futuristic digital lines flowing across the screen.",
+      "camera_effect": "dynamic_zoom"
+    },
+    {
+      "text_overlay": "MONITORS EVOLVED",
+      "narration": "Samsung's Smart Monitors integrate Tizen OS, enabling PC-less streaming, DeX connectivity, and IoT control. This creates a versatile entertainment and productivity hub for users.",
+      "image_prompt": "A sleek Samsung Smart Monitor displaying a streaming service interface, surrounded by smart home icons, with a user's intense focus reflecting in the screen.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text_overlay": "NEVER LOSE IT",
+      "narration": "Samsung SmartTag+ offers precise UWB location tracking for lost items, integrating seamlessly with SmartThings Find. Locate valuables even offline, enhancing daily security and peace of mind.",
+      "image_prompt": "A small, glowing Samsung SmartTag attached to a set of keys, emitting blue UWB signal lines, against a subtly blurred background of a modern living room.",
+      "camera_effect": "tracking_shot"
+    },
+    {
+      "text_overlay": "TV GAMING REVOLUTION",
+      "narration": "Samsung's Gaming Hub transforms TVs into gaming powerhouses. Get direct access to Xbox Game Pass and NVIDIA GeForce NOW. Stream hundreds of games instantly, no console needed.",
+      "image_prompt": "A Samsung smart TV screen brightly displaying a high-fidelity video game, with a wireless controller floating in the foreground, cinematic lighting.",
+      "camera_effect": "zoom_in_slow"
+    },
+    {
+      "text_overlay": "SMART KITCHEN HUB",
+      "narration": "The Family Hub refrigerator is your kitchen command center. Manage groceries, plan meals, stream music, and share photos. It truly redefines smart home integration and convenience.",
+      "image_prompt": "A futuristic Samsung Family Hub refrigerator screen displaying a digital grocery list and a family photo collage, integrated with a holographic recipe book, in a modern kitchen.",
+      "camera_effect": "smooth_reveal"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
