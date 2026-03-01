@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "BUYING WRONG PHONE?",
+    "narration": "Warning! Most phone reviews you read are missing critical data, impacting your daily tech experience!",
+    "image_description": "Extreme close-up of a smartphone screen displaying a complex data error, with a glowing red warning symbol. A 'cybernetic eye' with reflecting data overlays is visible in the background, lit by dramatic, low-key lighting with glitch effects.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "PHONE REVIEW TRUTH",
+    "image_description": "A sleek, futuristic smartphone centered on a glowing, analytical testing platform in a dark, high-tech lab. Holographic data graphs and performance metrics surround the phone. Hyper-realistic 3D render, 8k resolution, with dramatic blue and purple backlighting.",
+    "reasoning": "The direct, punchy text 'PHONE REVIEW TRUTH' immediately creates intrigue. The high-contrast, visually stunning image of a smartphone undergoing advanced analysis suggests hidden insights and objective data, compelling users to click for revelations beyond standard marketing."
+  },
+  "title": "STOP! You're Buying The Wrong Phone!",
+  "segments": [
+    {
+      "text": "PCMag's lab tests provide unbiased smartphone insights, going beyond marketing claims. They evaluate battery life, screen quality, and camera performance in controlled environments.",
+      "image_prompt": "A futuristic lab setting with a smartphone on a sophisticated testing rig, surrounded by holographic data projections showing metrics and graphs. Focus on intense focus and cinematic lighting.",
+      "camera_effect": "dynamic_pan"
+    },
+    {
+      "text": "These independent reviews reveal true battery stamina, crucial for daily use. Unlike simple claims, real-world tests show actual hours of video playback and talk time, impacting your day.",
+      "image_prompt": "A smartphone screen displaying clear battery life graphs and digital clock counters showing extended usage hours. A cybernetic hand points to the data, with dramatic side lighting.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "Camera lab evaluations use standard charts and diverse lighting conditions. This ensures accurate assessments of detail, color fidelity, and low-light capability, directly impacting your memories.",
+      "image_prompt": "A close-up of a smartphone camera lens capturing a test chart, with digital grid overlays and light trails. A glowing iris reflecting the test scene is visible in the corner, showing serious thought.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Performance benchmarks, like Geekbench scores, quantify processing power. This directly affects app loading times, gaming smoothness, and overall device responsiveness, defining user experience.",
+      "image_prompt": "A smartphone screen clearly displaying 'Geekbench Score' results, with abstract digital lines representing data flow and speed. A person wearing smart glasses with a determined expression observes.",
+      "camera_effect": "fast_zoom"
+    },
+    {
+      "text": "Screen lab tests measure brightness, color accuracy, and refresh rates. These factors drastically improve content consumption, outdoor visibility, and eye comfort during long sessions.",
+      "image_prompt": "An extreme close-up of a smartphone display showing vibrant, accurate colors and crisp text, with a digital overlay indicating refresh rate numbers (e.g., 120Hz). Cinematic neon lighting.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "PCMag's data helps consumers make informed decisions, ensuring devices meet real-world demands for connectivity, durability, and essential feature reliability, empowering your tech choices.",
+      "image_prompt": "A person thoughtfully interacting with a sleek smartphone, with abstract data streams and glowing lines representing connectivity and reliability flowing around the device. Dramatic side lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
