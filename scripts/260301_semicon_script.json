@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "TSMC: AI RUSH",
+    "narration": "Critical investor alert! TSMC's AI boom signals an industry shift you cannot ignore!",
+    "image_description": "A close-up of a human eye with a glowing, cybernetic iris reflecting volatile stock market graphs and data streams, bathed in dramatic red and neon blue light. Intense focus. Cinematic lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "TSMC: AI POWER",
+    "image_description": "A hyper-realistic 3D render of a gleaming, intricate AI chip at the core of a futuristic server rack, emitting a powerful blue glow. Holographic data projections surround it in a dark, high-tech environment. 8k resolution.",
+    "reasoning": "The image clearly showcases the 'AI chip' and 'power' themes, which are central to TSMC's news. The dramatic lighting and futuristic aesthetic create a high-contrast, attention-grabbing visual that implies high-stakes technology and investor opportunity, encouraging a click more than a simple graph."
+  },
+  "title": "TSMC's AI Boom: Investor Alert!",
+  "segments": [
+    {
+      "text": "TSMC projects a 60% AI chip revenue Compound Annual Growth Rate through 2029, signaling aggressive expansion in high-performance computing demand.",
+      "image_prompt": "Holographic projection of a rapidly ascending revenue chart overlaid on a spinning, reflective semiconductor wafer. Cinematic lighting, deep blues and purples.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "This significant growth is fueled by unprecedented demand for advanced HBM memory and high-performance GPUs, vital for scaling global AI infrastructure.",
+      "image_prompt": "Extreme close-up of intricately interconnected HBM stacks on a GPU board, with glowing data lines representing flow. Focus on technical detail.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "TSMC reported 38% revenue growth and an impressive 28% dividend increase, demonstrating robust financial health and bolstering investor confidence.",
+      "image_prompt": "Digital display showing dynamic, ascending revenue graphs and a prominent, rising dividend icon. Serious focus in a cybernetic eye reflecting financial data.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Such strong performance re-evaluates geopolitical risks, highlighting the irreplaceable strategic value of TSMC's advanced wafer fabrication capabilities globally.",
+      "image_prompt": "A sophisticated world map displaying glowing lines connecting TSMC's global facilities, with subtle green 'stability' indicators. Determination in an engineer's expression through smart glasses.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "Achieving this 60% AI CAGR will demand substantial CAPEX investment in next-generation fabs and maintaining industry-leading manufacturing yields for cutting-edge processes.",
+      "image_prompt": "High-angle shot of a pristine cleanroom, robotic arms precisely manipulating semiconductor wafers. Cyberpunk neon lighting, emphasizing precision and scale.",
+      "camera_effect": "tracking_shot"
+    },
+    {
+      "text": "Investors must analyze TSMC's long-term valuation, considering ongoing CAPEX cycles, capacity expansion, and the evolving competitive landscape for future growth.",
+      "image_prompt": "Complex financial models and valuation metrics displayed on a transparent, holographic screen. Gloved robotic hands pointing to key data points with intense focus.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
