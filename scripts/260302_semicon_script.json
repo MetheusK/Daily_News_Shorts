@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI STOCK ALERT",
+    "narration": "WARNING: The AI stock market is about to rewrite your portfolio's future!",
+    "image_description": "A close-up of a cybernetically enhanced human eye, glowing red iris reflecting rapidly changing stock charts, digital corruption effects, dramatic cyberpunk neon lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI WAR HEATS UP",
+    "image_description": "A hyper-realistic 3D render of a glowing, intricate AI processor chip at the center, with digital circuit lines extending into the background. Dramatic dark background with blue and orange cybernetic light streams. 8k resolution.",
+    "reasoning": "The glowing AI chip signifies the core of the market debate, while 'AI WAR HEATS UP' creates intrigue and urgency, compelling investors and engineers to click."
+  },
+  "title": "Nvidia vs. TSMC: The AI Stock Battleground",
+  "segments": [
+    {
+      "text": "TSMC projects 60% AI chip revenue CAGR through 2029, signaling robust demand. Their advanced manufacturing role is critical in the supply chain.",
+      "image_prompt": "Holographic projection of a rising revenue graph with '60% CAGR' text overlay, in a clean, high-tech control room with focused engineers through smart glasses.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Nvidia, dominant AI GPU designer, holds high valuation. Accelerating HBM and computational demands reinforce their formidable market position.",
+      "image_prompt": "Dynamic visual of interconnected GPU clusters, glowing HBM modules, and complex data streams. Intense focus of a data analyst's eyes reflecting code.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "Trade tensions reinforce Nvidia and TSMC's strategic grip on global AI infrastructure. This limits competition and secures their vital market shares.",
+      "image_prompt": "Abstract representation of global supply chains with digital lines converging on a stylized AI chip, against a backdrop of geopolitical map with digital borders, cinematic lighting.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "Investors weigh Nvidia's design prowess against TSMC's manufacturing yield and CAPEX deployment. Both are crucial for future AI capacity.",
+      "image_prompt": "Split screen: Left side shows a detailed silicon wafer being inspected (high yield focus), right side shows financial charts overlaying a server rack. Serious thought expression on a technical expert.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "TSMC's significant CAPEX in 3nm and 2nm nodes is vital. It ensures high wafer yields, meeting unprecedented demand for next-gen AI.",
+      "image_prompt": "Automated robotic arms precisely placing components on a 3nm/2nm wafer, with digital readouts of 'CAPEX' and 'YIELD' in a cleanroom environment, dramatic side lighting.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "This valuation divergence demands careful investor consideration, impacting future CAPEX decisions and market leadership.",
+      "image_prompt": "Close-up on a digital screen displaying a diverging stock chart (Nvidia vs TSMC), reflecting in the intense, focused eyes of a human analyst, surrounded by data streams and red warning lights.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
