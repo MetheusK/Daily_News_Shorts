@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "YOUR FUTURE DECIDED",
+    "narration": "A hidden war for your digital future is unfolding! Major tech forces are shaping everything you'll touch next.",
+    "image_description": "A close-up of a person with glowing cybernetic eyes, reflecting complex data streams. Their expression is intense focus. Cyberpunk neon lighting with digital glitch effects. FOLLOW HUMAN ELEMENT RULES.",
+    "mood_color": "neon_green"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "TECH POWER SHIFT",
+    "image_description": "A hyper-realistic 3D render of a glowing, intricate neural network core, positioned centrally, with ethereal quantum computing elements intertwined. Surrounding holographic financial data projections. Dramatic blue and purple cyberpunk backlighting, 8k resolution.",
+    "reasoning": "This thumbnail visually represents the confluence of AI, quantum, and strategic tech investment, creating a powerful, mysterious image. The central glowing object and bold text signify a major, impactful change, compelling clicks from a general audience and early adopters."
+  },
+  "title": "Strategic Tech: Who's Really Driving Innovation?",
+  "segments": [
+    {
+      "text": "Enterprises increasingly depend on technology service providers for core operations. Strategic partnerships drive digital transformation, enhancing efficiency across 70% of businesses.",
+      "image_prompt": "Stylized infographic showing interconnected enterprise networks and various service provider logos. Data flowing between nodes, clean and technical. No specific human expression needed.",
+      "camera_effect": "zoom_in_on_data_flow"
+    },
+    {
+      "text": "These providers deliver specialized expertise in areas like cloud, cybersecurity, and data analytics. This critical reliance ensures scalability and innovation for 85% of large firms.",
+      "image_prompt": "Futuristic server racks with glowing data lines, overlaid with abstract icons representing cloud computing, cybersecurity shields, and data analytics dashboards. Cinematic lighting.",
+      "camera_effect": "pan_across_servers"
+    },
+    {
+      "text": "ICT Analyst Jeff Kagan emphasizes Analyst Relations are vital for AI vendors. They shape market perception, influencing purchasing decisions for 60% of enterprise tech solutions.",
+      "image_prompt": "A professional-looking male analyst (Jeff Kagan type) in a modern, sleek office, looking thoughtfully at a holographic display of market data. Expression of serious thought, dramatic side lighting. FOLLOW HUMAN ELEMENT RULES.",
+      "camera_effect": "static_close_up"
+    },
+    {
+      "text": "Investment trends through 2026 highlight major capital inflows into AI, quantum computing, and clean tech. These crucial sectors project 15-20% annual growth.",
+      "image_prompt": "Dynamic bar chart showing rising investment in AI, Quantum, and Clean Tech, rendered as glowing, futuristic interfaces. Financial graphs overlaying a cityscape. Clean tech elements visible.",
+      "camera_effect": "dynamic_graph_animation"
+    },
+    {
+      "text": "Significant funding drives rapid advancements in these critical technologies. By 2026, their combined market share could exceed $5 trillion globally, reshaping industries.",
+      "image_prompt": "Holographic projection of a world map with glowing points representing major tech hubs and investment flows. Abstract digital lines connecting them. Futuristic data visualization.",
+      "camera_effect": "orbit_around_world_map"
+    },
+    {
+      "text": "AI-driven decision-making now dominates enterprise strategy discussions.",
+      "image_prompt": "Close-up of a sleek, minimalist desk with a single tablet displaying a complex AI algorithm, making real-time strategic recommendations. Glowing blue light from the screen. Cybernetic feel.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
