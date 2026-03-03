@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI CHANGES EVERYTHING",
+    "narration": "Warning! What if I told you AI isn't just coming, it's already here, transforming your future faster than you can imagine?",
+    "image_description": "Extreme close-up of a person with cybernetic eyes reflecting complex data streams, intense focus, cinematic lighting, digital glitch effects, neon green highlights.",
+    "mood_color": "neon_green"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI REVEALED",
+    "image_description": "A hyper-realistic 3D render of a glowing, intricate neural network encased within a transparent CPU chip, centered with dramatic cyberpunk backlighting and ethereal blue-green light trails, 8k resolution.",
+    "reasoning": "This thumbnail prioritizes an intriguing object (AI brain/chip) over a human, using high-contrast, futuristic visuals. 'AI REVEALED' creates curiosity and promises deep insight, distinct from the hook's alarmist tone, ensuring a high click-through rate."
+  },
+  "title": "Future SHOCK: AI's MASSIVE 2026 Impact!",
+  "segments": [
+    {
+      "text": "Executives now deem AI critical for business, initiating the biggest workforce transformation in a generation. Rapid adoption is accelerating, shaping market trends for 2026.",
+      "image_prompt": "A holographic projection of a dynamic business dashboard with AI metrics, reflecting in a serious executive's smart glasses, cinematic lighting.",
+      "text_overlay": "CRITICAL AI",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "AI profoundly transforms the workforce, shifting job roles, skill demands, and operational efficiency. Experts forecast significant disruption and creation across industries by 2026.",
+      "image_prompt": "Stylized robot hands shaking human hands over a glowing data network, symbolizing collaboration and change, dramatic side lighting.",
+      "text_overlay": "JOB REVOLUTION",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "AI profoundly impacts Life Sciences. Four major trends are transforming research, development, and patient care, pushing innovation beyond regulation for 2026 outcomes.",
+      "image_prompt": "Microscopic view of glowing cells with digital overlays, a scientist with intensely focused eyes observing through a futuristic smart microscope, cyberpunk neon lighting.",
+      "text_overlay": "LIFE SCIENCE AI",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Nexthink's March 19th, 2026 event details AI's convergence with End-user Experience Management, shaping future critical IT strategies. These trends influence industry development.",
+      "image_prompt": "A sleek, modern conference stage with large holographic screens displaying 'Nexthink' and abstract futuristic graphs, dramatic lighting, a determined presenter.",
+      "text_overlay": "NEXHTINK 2026",
+      "camera_effect": "dolly_zoom"
+    },
+    {
+      "text": "Businesses embrace AI for competitive advantage, not just efficiency. Its critical role in decision-making and innovation is undeniable, impacting most market leaders by 2026.",
+      "image_prompt": "A complex neural network glowing brightly, overlaying a person making a decisive gesture, reflecting data in their glowing iris, cinematic lighting.",
+      "text_overlay": "WHY AI IS CRITICAL",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "Organizations failing to embrace AI risk significant operational disadvantages and market erosion.",
+      "image_prompt": "A fragmented digital globe with red warning lights, glitch effects, reflecting in a cybernetic eye with a serious expression, dramatic side lighting.",
+      "text_overlay": "AI IS HERE",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
