@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI CHIP SHOCK",
+    "narration": "WARNING: The AI chip sector faces critical HBM supply challenges threatening NVIDIA's next-gen launches!",
+    "image_description": "Extreme close-up of a human eye with subtle cybernetic implants, reflecting a fractured holographic display of HBM chips and NVIDIA logos. Glitch effects emanate from the reflection, with urgent red warning lights pulsating in the background. Cinematic cyberpunk lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "HBM CRITICAL",
+    "image_description": "Hyper-realistic 8k render of a glowing HBM memory stack seamlessly integrated with a stylized NVIDIA Rubin GPU. The object is centered, surrounded by dramatic dark backlighting with subtle blue and green neon accents, showcasing sharp, high-contrast detail.",
+    "reasoning": "This thumbnail immediately highlights the core critical technologies (HBM, NVIDIA GPU) with a visually striking, technical image. It directly appeals to investors and engineers by signaling a high-stakes situation around crucial hardware, without relying on generic 'shocked' human faces."
+  },
+  "title": "HBM War: NVIDIA's Next Challenge & AI Stock Impact",
+  "segments": [
+    {
+      "text": "SK Hynix commenced HBM4 production for NVIDIA's Rubin AI chips. This move addresses crucial bandwidth and advanced packaging complexities vital for next-generation performance.",
+      "image_prompt": "3D render of an SK Hynix HBM4 stack with intricate advanced packaging visible, circuits shimmering with a cool blue light, highlighting detailed microchips.",
+      "camera_effect": "static",
+      "text_overlay": "HBM4 STARTS"
+    },
+    {
+      "text": "Billionaire Philippe Laffont allocated 20% of his $39 billion hedge fund into three specific AI-focused stocks, indicating strong conviction in current sector valuations.",
+      "image_prompt": "Abstract holographic stock market chart with glowing green ascending lines, overlaid with a silhouetted investor figure in intense focus, their smart glasses reflecting complex data streams. Dramatic side lighting.",
+      "camera_effect": "zoom_in",
+      "text_overlay": "BILLIONAIRE BETS"
+    },
+    {
+      "text": "The HBM market 'battle lines' are intensifying among manufacturers. March data reveals shifting DRAM price directions, directly impacting CAPEX strategies and supply chain stability.",
+      "image_prompt": "A stylized digital map displaying interconnected global semiconductor supply routes. Specific nodes glow with red/blue indicators representing 'battle lines' and shifting HBM manufacturing hubs.",
+      "camera_effect": "pan_left",
+      "text_overlay": "HBM BATTLE"
+    },
+    {
+      "text": "Achieving high HBM4 manufacturing yields remains a critical industry challenge. Complex stacked wafer processes directly influence production efficiency and AI GPU time-to-market metrics.",
+      "image_prompt": "Macro shot of a silicon wafer on an automated inspection platform, with glowing geometric patterns illustrating complex HBM stacking layers. A robotic arm precisely manipulates the wafer.",
+      "camera_effect": "zoom_out",
+      "text_overlay": "YIELD CRITICAL"
+    },
+    {
+      "text": "NVIDIA's Rubin platform significantly relies on HBM4 to resolve bandwidth bottlenecks. This is essential for maintaining market leadership and enabling future AI model scaling capabilities.",
+      "image_prompt": "Holographic projection of an NVIDIA Rubin GPU design, with clearly visible HBM modules glowing with intense data flow. A determined engineer, wearing smart glasses, observes the projection with focused eyes.",
+      "camera_effect": "static",
+      "text_overlay": "NVIDIA RELIES"
+    },
+    {
+      "text": "Investors must rigorously analyze HBM supply forecasts and manufacturer CAPEX plans. These are key forward-looking indicators for stock performance and semiconductor sector growth.",
+      "image_prompt": "Financial data graphs projected onto a sleek glass screen, with a hand pointing to HBM sector growth forecasts. The background shows a modern, subtly lit server room, emphasizing a data-driven environment.",
+      "camera_effect": "pan_right",
+      "text_overlay": "INVESTOR ACTION"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
