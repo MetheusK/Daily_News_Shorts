@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "TSMC WARNING!",
+    "narration": "Market Warning: Your semiconductor investments are ignoring THIS critical industry shift!",
+    "image_description": "A cybernetic eye of an analyst, reflecting glitching stock charts and red warning lights, intense focus, dramatic side lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "TSMC UNCERTAIN?",
+    "image_description": "Hyper-realistic 3D render of a glowing, complex semiconductor wafer with intricate circuits under dramatic cyberpunk neon lighting, centered composition, 8k resolution.",
+    "reasoning": "This thumbnail immediately poses a question about a key industry player (TSMC) while showcasing advanced tech (wafer), appealing directly to investor and engineer curiosity for clicks."
+  },
+  "title": "Semicon Alert: TSMC, EUV & Future Valuation",
+  "segments": [
+    {
+      "text_overlay": "TSMC VALUATION",
+      "text": "Taiwan Semiconductor Manufacturing Co.'s current valuation is under scrutiny as market analysts reassess long-term growth trajectories.",
+      "image_prompt": "A holographic projection of TSMC stock charts overlaid on a subtle map of Taiwan, viewed through smart glasses by an analyst with intense focus, cinematic lighting.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text_overlay": "EUV GROWTH",
+      "text": "The Extreme Ultraviolet (EUV) lithography market is projected for significant growth, essential for next-gen advanced chip fabrication processes.",
+      "image_prompt": "A highly detailed 3D render of an EUV lithography machine's optical system, emitting subtle blue light, hyper-realistic, with data streams reflecting on its surface.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text_overlay": "CAPEX YIELDS",
+      "text": "Increased EUV adoption directly impacts manufacturing yields and requires substantial CAPEX for new fabs, crucial for leading-edge node production.",
+      "image_prompt": "Digital blueprint overlay of a semiconductor fab showing 'yield' metrics and CAPEX figures, with a determined engineer reviewing the data on a translucent screen.",
+      "camera_effect": "static"
+    },
+    {
+      "text_overlay": "CBRAM EDGE",
+      "text": "Conductive Bridging RAM (CBRAM) market is poised for robust expansion, driven by accelerating demand from burgeoning edge computing applications.",
+      "image_prompt": "A microscopic view of CBRAM cells glowing with data, transitioning to a network of interconnected edge devices, cyberpunk aesthetic.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text_overlay": "HBM AI IMPACT",
+      "text": "This memory evolution impacts high-bandwidth memory (HBM) and GPU development, critical for AI, influencing future chip design and valuation.",
+      "image_prompt": "A schematic overlay of HBM stacks and a GPU core, with data flowing, reflecting in the cybernetic eyes of a designer, serious thought expression.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text_overlay": "SUPPLY CHAIN SHIFT",
+      "text": "This shift impacts future CAPEX projections and market valuations across the entire semiconductor supply chain.",
+      "image_prompt": "An abstract representation of a global semiconductor supply chain network, with nodes highlighted in analytical data, digital corruption effects around less stable areas.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
