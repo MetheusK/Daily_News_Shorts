@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "JOBS ARE CHANGING",
+    "narration": "WARNING! Your entire career is about to be redefined by unseen forces!",
+    "image_description": "An extreme close-up of a person's intense, focused face seen through futuristic smart glasses, reflecting lines of glowing code and abstract robotic arm silhouettes, under dramatic cyberpunk neon lighting, with subtle digital corruption effects at the edges. Cinematic lighting.",
+    "mood_color": "yellow"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "WORK IS OVER?",
+    "image_description": "A hyper-realistic 3D render of a sophisticated robotic hand gently clasping a human hand, both hands appear to be made of glowing, intricate circuits and data streams. The background is dark and smoky with dramatic blue backlighting, creating a stark contrast. Centered composition, 8k resolution, cyberpunk style.",
+    "reasoning": "The intriguing question 'WORK IS OVER?' combined with a hyper-realistic, object-focused image of human-robot interaction immediately grabs attention. It hints at the core theme of work transformation without showing a generic 'shocked face', aligning with click-through rate best practices."
+  },
+  "title": "Your Job Just Changed: The Tech Trends Redefining Work!",
+  "segments": [
+    {
+      "text": "The digital revolution is accelerating. New reports confirm unprecedented technological shifts impacting every industry, demanding immediate attention from businesses and professionals globally.",
+      "image_prompt": "A high-speed visual representation of data streams converging into a central processing unit, with a glowing global map overlay. Futuristic blue and white tones dominate, suggesting rapid advancement. Cinematic lighting.",
+      "camera_effect": "tracking_shot",
+      "text_overlay": "RAPID SHIFTS"
+    },
+    {
+      "text": "Robotics is no longer future tech. OpenPR.com highlights a booming industrial robotics sector, projected to grow exponentially, transforming manufacturing and logistics by 2025.",
+      "image_prompt": "A sleek, advanced industrial robot arm precisely assembling microchips on a glowing futuristic assembly line. Intense focus, cinematic lighting highlights the robotic arm's movements.",
+      "camera_effect": "pan_left",
+      "text_overlay": "ROBOTS BOOM"
+    },
+    {
+      "text": "Even tax is getting an AI upgrade. Thomson Reuters reveals four key tax technology trends for 2026, leveraging AI and automation to streamline compliance and analytics processes.",
+      "image_prompt": "Holographic charts and graphs representing complex financial data and tax codes, with a virtual AI assistant's glowing cybernetic eye hovering over them in a minimalist, high-tech office setting. Serious thought depicted by the AI's processing aura.",
+      "camera_effect": "zoom_in",
+      "text_overlay": "TAX AI"
+    },
+    {
+      "text": "IAPP warns: 'Evolve or face being left behind.' Businesses must strategically integrate these advanced technologies, adapting operational models to remain competitive in a shifting market.",
+      "image_prompt": "A digital labyrinth with paths converging and diverging, some illuminated with 'progress' and 'innovation' while others are dark and dead-ended, symbolizing business strategy choices. Dramatic perspective, cyberpunk colors.",
+      "camera_effect": "tilt_down",
+      "text_overlay": "EVOLVE OR DIE"
+    },
+    {
+      "text": "Data governance and privacy become paramount amidst this transformation. New regulations and advanced analytics are crucial for secure, efficient, and ethical technological adoption.",
+      "image_prompt": "A secure, glowing server room with blue and green data racks, intricately shielded by advanced cybersecurity graphic overlays and 'warning' red lights, symbolizing protection and compliance. Intense focus on data integrity.",
+      "camera_effect": "dolly_in",
+      "text_overlay": "DATA IS KEY"
+    },
+    {
+      "text": "These shifts mean businesses must adapt rapidly, or risk irrelevance by 2026. The future of work is digital transformation.",
+      "image_prompt": "A sprawling futuristic city grid, with data flowing like rivers of light, viewed from above, dynamic camera movement",
+      "camera_effect": "dolly_zoom",
+      "text_overlay": "FUTURE OF WORK"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
