@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "LANGUAGE BROKEN",
+    "narration": "Warning! AI just shattered language barriers, fundamentally changing how we communicate!",
+    "image_description": "Extreme close-up of a cybernetic eye reflecting a global data stream, glitching text overlays in multiple languages, dramatic red and blue neon lighting, intense focus expression, cinematic style, reflecting data.",
+    "mood_color": "neon_green"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI TRANSLATES ALL",
+    "image_description": "Hyper-realistic 3D render of a futuristic universal translator device glowing with holographic language symbols, centered on a dark, reflective surface, dramatic backlighting, 8k resolution, cyberpunk aesthetic.",
+    "reasoning": "The 'universal translator' concept is instantly recognizable and futuristic, promising a 'wow' factor without relying on human expressions, perfect for a high-CTR object-focused thumbnail."
+  },
+  "title": "AI's Language Revolution: Instant Global Communication!",
+  "segments": [
+    {
+      "text": "New AI tools offer instant, accurate real-time language translation across devices. This eliminates communication barriers, enabling seamless global interaction for millions.",
+      "image_prompt": "A sleek smartphone displaying simultaneous translation of two different languages side-by-side, digital waves emanating from it, cinematic lighting, ultra-realistic, technical.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "Experience instant voice translation during international calls or text conversion within apps. Daily interactions with diverse languages become effortless, enhancing global travel and education.",
+      "image_prompt": "A person wearing smart glasses, the lens reflecting real-time translated text over a foreign street scene, focus on wonder and clarity, soft cinematic lighting, through smart glasses.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "Businesses now utilize these AI tools for efficient venue sourcing and improved engagement metrics. This technology rapidly expands global reach, accelerating international trade and vital collaboration.",
+      "image_prompt": "Holographic world map with interconnected data lines highlighting trade routes, overlaid with venue sourcing graphics and engagement metrics, digital abstract background, technical focus, glowing.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Tech giants like Google AI, OpenAI, and their models Gemini and ChatGPT are driving intense competition. This accelerates innovation, pushing translation capabilities faster than predicted.",
+      "image_prompt": "Abstract representation of neural networks converging into glowing logos for Google AI and OpenAI, intense data flow, sleek dark background, technical aesthetic.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "Beyond translation, AI trends show advanced multimodal models combining text, image, and speech. Expect comprehensive AI assistance, fundamentally redefining daily digital interactions soon.",
+      "image_prompt": "A dynamic data visualization showing text, image, and audio waveforms merging into a single AI core, cybernetic patterns, blue and purple neon glow, cinematic.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "The rapid integration of AI into essential services reflects increasing computational power and sophisticated neural networks, fundamentally redefining digital interaction and accessibility.",
+      "image_prompt": "Complex, glowing neural network architecture within a high-density server rack, depicting immense computational power, dramatic side lighting, focused and serious, futuristic tech.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
