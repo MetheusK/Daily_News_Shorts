@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "CHIP CRISIS ALERT",
+    "narration": "WARNING! Global conflicts are now threatening the semiconductor industry and your investments!",
+    "image_description": "A frantic digital dashboard displaying critical alerts for energy prices and geopolitical hotspots, reflected in the glowing iris of a cybernetically enhanced human analyst, dramatic red warning lights and glitch effects, cinematic lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "SEMICON VALUATION CRASH?",
+    "image_description": "A hyper-realistic 3D render of a stylized silicon wafer, partially fractured with digital corruption glowing red from the cracks, centered against a dark, dramatic cyberpunk background with subtle neon energy lines, 8k resolution.",
+    "reasoning": "The fractured wafer symbolizes industry vulnerability and valuation risk, combined with a direct question ('CRASH?') to provoke investor curiosity and click-throughs."
+  },
+  "title": "Semiconductor Stock Shock: Geopolitics & Energy Impact!",
+  "segments": [
+    {
+      "text": "Applied Materials (AMAT) faces valuation pressure. Global sector sell-offs stem from escalating energy prices and Iran conflict fears. This directly impacts CAPEX outlooks.",
+      "overlay_text": "AMAT VALUATION SHOCK",
+      "image_prompt": "A digital representation of AMAT stock chart with a sharp downward trend, overlayed with glowing red geopolitical heatmaps and oil barrel icons, serious data reflecting through smart glasses of an analyst, cinematic lighting.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "Energy costs are a critical input for wafer fabrication. Spiking prices inflate operating expenditures, tightening margins across the semiconductor supply chain.",
+      "overlay_text": "ENERGY COSTS SOAR",
+      "image_prompt": "Close-up of a complex silicon wafer glowing with circuit patterns, overlaid with rising energy price graphs and digital financial data, a robot arm reaching towards it, dramatic side lighting.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "Geopolitical instability introduces market volatility. Investor sentiment shifts rapidly, impacting capital allocation and long-term investment in chip manufacturing.",
+      "overlay_text": "GEOPOLITICAL RISK",
+      "image_prompt": "Holographic projection of a global map with flashing red warning zones for conflict, reflected in the eyes of an intensely focused industry expert, digital data streams flowing around them, cyberpunk neon lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Despite sector headwinds, Taiwan Semiconductor (TSM) shows resilience. Its advanced HBM and GPU production remains crucial for AI growth, driving demand.",
+      "overlay_text": "TSMC RESILIENCE",
+      "image_prompt": "Dynamic shot of advanced HBM memory stacks and GPU chips, glowing with internal power, behind a digital display showing TSMC's robust market performance, cinematic blue and purple lighting.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "Taiwan’s semiconductor ecosystem is a modern economic miracle. Strategic geopolitical positioning and high-yield manufacturing solidify its global dominance.",
+      "overlay_text": "TAIWAN'S MIRACLE",
+      "image_prompt": "Futuristic cityscape of Taiwan with data flowing between skyscrapers, representing its high-tech industry, a holographic projection of chip manufacturing lines, determination on an engineer's face, dramatic lighting.",
+      "camera_effect": "tilt_up"
+    },
+    {
+      "text": "Future CAPEX hinges on risk mitigation and stable energy. Investors closely monitor geopolitical developments and their impact on global chip supply.",
+      "overlay_text": "FUTURE CAPEX UNCERTAIN",
+      "image_prompt": "A complex data visualization showing fluctuating global supply chain routes and CAPEX projections, with a human hand pointing at critical data points on a transparent screen, deep blue and orange lighting.",
+      "camera_effect": "fast_cut"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
