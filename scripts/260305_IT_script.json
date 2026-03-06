@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "FUTURE SHOCK!",
+    "narration": "Warning! The tech world is secretly reshaping everything you know, even your future career path!",
+    "image_description": "Extreme close-up of a human eye with a cybernetic glow, reflecting rapidly changing data streams and futuristic job titles, digital glitch effects, dramatic neon-lit backdrop, intense focus expression.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "TECH SHIFT 2026",
+    "image_description": "A hyper-realistic 3D render of a futuristic server rack with glowing blue data streams, a robotic hand interacting with a holographic job board displaying dynamically changing tech roles. Centered composition, dramatic backlighting, 8k resolution, cyberpunk style.",
+    "reasoning": "The object-focused image of a futuristic server and holographic job board, combined with a specific year, creates a sense of cutting-edge technology and immediate relevance to career changes, enticing clicks."
+  },
+  "title": "Massive Tech Shifts: Your Future Jobs in 2026",
+  "segments": [
+    {
+      "text": "The next five years will redefine technology. Experts predict 80% of current digital strategies will be obsolete by 2026, driven by unprecedented innovation and consumer shifts.",
+      "image_prompt": "Dynamic infographic showing rapid tech growth trends against a futuristic city skyline with data flowing upwards, cinematic lighting, 'TECH REDEFINED' overlay text.",
+      "camera_effect": "dynamic_pan_zoom",
+      "text_overlay": "TECH REDEFINED"
+    },
+    {
+      "text": "By 2026, the tech job market will surge, with over 1.5 million new roles. Data scientists, AI specialists, and cybersecurity analysts are projected to lead this significant growth.",
+      "image_prompt": "Holographic projection displaying various job titles with rising graphs, diverse silhouettes of people working with glowing tech interfaces, cinematic lighting, 'NEW JOBS BOOM' overlay text.",
+      "camera_effect": "tracking_shot",
+      "text_overlay": "NEW JOBS BOOM"
+    },
+    {
+      "text": "Roles like Machine Learning Engineers and DevOps Specialists are seeing 30%+ annual growth. Companies need these skills to integrate new AI and automation into their operations faster.",
+      "image_prompt": "Close-up of hands typing on a futuristic transparent keyboard, complex code snippets glowing on multiple screens, intense focus expression, cyberpunk neon lighting, 'AI CAREERS SOAR' overlay text.",
+      "camera_effect": "push_in",
+      "text_overlay": "AI CAREERS SOAR"
+    },
+    {
+      "text": "Precision engineering revolutionizes lab tech, projecting 25% market expansion by 2030. It enables microscopic accuracy for breakthroughs in medicine and diagnostics globally.",
+      "image_prompt": "Microscopic view of intricate nanobots operating within a glowing cell structure, advanced medical equipment in the background, scientist with smart glasses showing data, cinematic lighting, 'MEDICAL REVOLUTION' overlay text.",
+      "camera_effect": "zoom_in",
+      "text_overlay": "MEDICAL REVOLUTION"
+    },
+    {
+      "text": "Brands must adopt AI and AR/VR by 2025. Agencies using predictive analytics report 40% higher ROI, significantly impacting marketing and consumer experiences.",
+      "image_prompt": "Holographic advertisement appearing in a futuristic city street, people interacting seamlessly with AR displays on their smartphones, data analytics dashboard with growth charts, cinematic lighting, 'BRANDS ADAPT NOW' overlay text.",
+      "camera_effect": "crane_shot",
+      "text_overlay": "BRANDS ADAPT NOW"
+    },
+    {
+      "text": "This shift emphasizes data-driven decision-making. Businesses invest billions in real-time insight platforms, creating new demands for analytical talent across all sectors.",
+      "image_prompt": "Abstract representation of big data visualization, glowing nodes and lines connecting, a human silhouette with intense focus on a transparent data screen, dramatic side lighting, 'DATA DRIVES ALL' overlay text.",
+      "camera_effect": "dolly_zoom",
+      "text_overlay": "DATA DRIVES ALL"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
