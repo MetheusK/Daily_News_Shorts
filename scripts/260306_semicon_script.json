@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI CHIP SHOCK",
+    "narration": "Market Alert: The AI Chip boom is hiding a critical truth. Don't miss this crucial data.",
+    "image_description": "Close-up of a human eye, cybernetic, reflecting fast-moving data streams in red and neon green, digital glitch effects, urgent cinematic lighting. Focus on intense, serious thought through smart glasses.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "TSMC AI SURGE",
+    "image_description": "Hyper-realistic 3D render of a glowing, intricate AI chip (GPU architecture visible) at the center of a server rack, surrounded by holographic data streams, dramatic blue and purple backlighting, 8k resolution, centered composition.",
+    "reasoning": "This thumbnail highlights the core subject (TSMC, AI, Chip) with a visually striking, high-tech image that implies massive growth and opportunity, appealing directly to investor curiosity and industry insiders."
+  },
+  "title": "TSMC's AI Chip Boom: Investor Alert!",
+  "segments": [
+    {
+      "text": "Data center spending is projected to surge 32% this year, indicating robust demand for high-performance computing components globally. This growth fuels chip industry CAPEX.",
+      "image_prompt": "A vast server farm with neon blue lighting, holographic data flowing between racks, a faint digital graph trending upwards in the background, cinematic lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "TSMC anticipates an astounding 60% CAGR for its AI chip revenue through 2029. This underscores intense market shifts towards advanced AI silicon demand.",
+      "image_prompt": "A high-precision robotic arm placing a minute wafer onto a glowing substrate in a cleanroom, numerical data overlays indicating '60% CAGR', detailed and focused.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "This surge is driven by critical demand for advanced HBM memory and high-performance GPU wafers. Manufacturing yields and scaling remain paramount for key players.",
+      "image_prompt": "Close-up of interconnected HBM stacks on a GPU die, magnified view, with subtle power flow lines, technical schematics in the background, hyper-detailed.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "Taiwan Semiconductor's stock performance reflects this positive outlook, consistently climbing due to its foundry leadership and strategic AI segment investments.",
+      "image_prompt": "A stock market chart showing an upward trend for 'TSM' ticker, overlaid on a blueprint of a large semiconductor factory, with a subtle digital glowing globe, dramatic lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Sustaining this growth demands significant CAPEX for new fab capacity and R&D. Supply chain resilience is crucial for meeting future demand targets.",
+      "image_prompt": "Engineers in smart glasses intensely reviewing a holographic projection of a wafer production line, showing bottlenecks and potential yield improvements, serious thought expressions, cyberpunk neon lighting.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "For investors, TSMC's valuation merits close scrutiny against its growth trajectory and industry CAPEX cycles.",
+      "image_prompt": "A complex financial graph overlaying a stylized image of a TSMC factory, with critical data points highlighting valuation metrics, dramatic cinematic lighting on factory structures.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
