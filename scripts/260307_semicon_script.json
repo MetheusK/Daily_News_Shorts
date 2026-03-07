@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI STOCK ALERT",
+    "narration": "INVESTORS, PAY ATTENTION! A new AI chip surge is creating an unprecedented market ripple.",
+    "image_description": "A futuristic stock ticker displaying a rapidly rising TSMC stock price, reflected in the cybernetic eyes of a focused investor, digital data streams rushing around, dramatic red and neon_green lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "TSMC: AI POWER",
+    "image_description": "Hyper-realistic 3D render of a glowing, intricate silicon wafer at the center, surrounded by holographic financial data charts and a stylized TSMC logo, dark, dramatic backlighting, 8k resolution.",
+    "reasoning": "Highlights the core company (TSMC) and the driving force (AI Power) with a visually striking, technical image, creating intrigue for investors and industry insiders."
+  },
+  "title": "TSMC AI Surge: Data Center CAPEX & Valuation Shock",
+  "segments": [
+    {
+      "text": "TSMC stock is surging on robust AI chip demand, driven by increasing orders for high-performance GPUs and HBM memory. This signifies strong market confidence.",
+      "image_prompt": "Close-up of an advanced GPU chip with glowing HBM stacks, intricate circuit board details, focused cinematic lighting, reflecting data patterns.",
+      "camera_effect": "static",
+      "text_overlay": "TSMC SURGE"
+    },
+    {
+      "text": "Data center spending is projected to surge by 32% this year. This direct correlation fuels demand for TSMC’s advanced wafer fabrication services globally.",
+      "image_prompt": "Server racks extending into a vast, futuristic data center, glowing blue and green light emanating from server units, holographic data flowing between them.",
+      "camera_effect": "dolly_zoom",
+      "text_overlay": "DATA CENTER BOOM"
+    },
+    {
+      "text": "This surge mandates significant CAPEX expansion for foundries. Securing 3nm and 2nm capacity becomes crucial for NVIDIA, AMD, and other AI leaders.",
+      "image_prompt": "Industrial cleanroom environment with robotic arms meticulously working on silicon wafers, complex machinery in background, dramatic side lighting.",
+      "camera_effect": "pan_right",
+      "text_overlay": "CAPEX EXPANSION"
+    },
+    {
+      "text": "Maintaining high manufacturing yields on these advanced nodes is paramount. Production efficiency directly impacts profitability and market supply for critical AI components.",
+      "image_prompt": "Microscopic view of a perfect silicon crystal lattice, with a glowing green overlay indicating high yield, abstract digital representation, hyper-detailed.",
+      "camera_effect": "zoom_in",
+      "text_overlay": "YIELD CRITICAL"
+    },
+    {
+      "text": "TSMC’s current valuation reflects strong growth expectations within the AI sector. Analysts are re-evaluating long-term projections based on this sustained demand trajectory.",
+      "image_prompt": "Abstract financial graph showing an upward trend, overlayed with holographic numbers and data points, reflecting in the smart glasses of an analyst in intense focus.",
+      "camera_effect": "static",
+      "text_overlay": "VALUATION SHIFT"
+    },
+    {
+      "text": "The valuation shifts reflect investor belief in sustained AI growth despite potential CAPEX volatility.",
+      "image_prompt": "Dynamic abstract visualization of financial data converging around a central point, symbolizing market convergence on AI investments, subtle digital glitch effect to hint at volatility.",
+      "camera_effect": "zoom_out",
+      "text_overlay": "AI GROWTH"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
