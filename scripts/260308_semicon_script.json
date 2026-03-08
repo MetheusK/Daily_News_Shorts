@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "CHIP WAR LOOMS",
+    "narration": "URGENT ALERT: Global tensions are igniting a chip war that could devastate your tech investments!",
+    "image_description": "A cybernetic eye with a glowing iris, reflecting rapidly fluctuating stock market charts overlaid with a digital map showing geopolitical tensions, dramatic cyberpunk neon lighting, digital corruption effects.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI CHIP BATTLE",
+    "image_description": "Hyper-realistic 3D render of a glowing Nvidia H100 GPU chip on the left, facing a detailed TSMC silicon wafer on the right, separated by a dynamic, electric blue energy line, dark industrial background, dramatic backlighting, 8k resolution.",
+    "reasoning": "Visually represents the core conflict between AI innovators and manufacturers, directly referencing key players, generating curiosity for investors and engineers with a clear, high-tech aesthetic."
+  },
+  "title": "Semiconductor Showdown: AI Chips & Export Wars",
+  "segments": [
+    {
+      "text": "Nvidia and TSMC dominate AI chip discourse. Investor focus shifts between GPU innovation and foundry leadership, impacting market cap.",
+      "text_overlay": "AI POWER SHIFT",
+      "image_prompt": "Nvidia H100 GPU chip side-by-side with a polished TSMC silicon wafer, contrasting in a sleek, data-rich server room environment with dramatic side lighting. A serious engineer with smart glasses intently observes data displays.",
+      "camera_effect": "dynamic_pan"
+    },
+    {
+      "text": "New US export controls target advanced AI chips, affecting global supply chains. This policy may necessitate significant adjustments in manufacturing strategies.",
+      "text_overlay": "CHIP RESTRICTIONS",
+      "image_prompt": "Holographic world map highlighting US and Asian manufacturing hubs, with digital 'restriction' lines appearing over advanced chip fabrication plants. A focused individual with glowing-iris eyes studies complex policy data.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "These regulations impact high-end wafer production, driving CAPEX increases for compliant fabs. Yield optimization becomes paramount amidst tighter controls.",
+      "text_overlay": "CAPEX SURGE",
+      "image_prompt": "A close-up of a robotic arm precisely placing a silicon wafer onto a manufacturing line, with glowing red digital warning signals emanating from the wafer's edges, cinematic lighting. An engineer with an expression of intense focus reviews schematics.",
+      "camera_effect": "slow_zoom"
+    },
+    {
+      "text": "Demand for High Bandwidth Memory (HBM) for AI GPUs remains robust. This intensifies the pressure on advanced packaging and supply chain agility.",
+      "text_overlay": "HBM DEMAND EXPLODES",
+      "image_prompt": "Abstract representation of HBM stacks, glowing blue data streams connecting to a stylized GPU core, surrounded by holographic schematics. A determined expert through smart glasses analyzes the data flow.",
+      "camera_effect": "dolly_zoom"
+    },
+    {
+      "text": "Market analysts debate Nvidia's GPU valuation versus TSMC's foundry dominance. Both face unique geopolitical and technological headwinds and tailwinds.",
+      "text_overlay": "VALUATION BATTLE",
+      "image_prompt": "Split screen. Left: A cybernetic hand holds a glowing Nvidia logo with overlaid stock charts. Right: A similar hand holds a TSMC logo with its own stock charts. Both illuminated by cyberpunk neon. A serious analyst with reflecting-data eyes considers both sides.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Analyst consensus shows valuations remain tight for HBM leaders despite CAPEX surges.",
+      "text_overlay": "TIGHT VALUATIONS",
+      "image_prompt": "A complex financial dashboard displaying tight valuation metrics for HBM and GPU stocks, with upward trending CAPEX graphs, set against a backdrop of a high-tech server farm, dramatic side lighting. An industry insider, with determined focus, reviews the projections.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
