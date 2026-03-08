@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "WATER REVOLUTION NOW!",
+    "narration": "WARNING! Your city's water supply is about to be revolutionized by a hidden tech boom you won't believe!",
+    "image_description": "Extreme close-up of a single water drop, shimmering with digital data streams, reflecting an intensely focused cybernetic eye looking through smart glasses. Red warning lights pulse subtly in the background with dramatic side lighting. Cinematic.",
+    "mood_color": "neon_green"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "CLEAN WATER FUTURE",
+    "image_description": "A hyper-realistic 3D render of a futuristic demineralization plant. Sleek silver pipes, glowing blue purification tanks, surrounded by a vibrant green, sustainable landscape. Centered object with dramatic backlighting. 8k resolution.",
+    "reasoning": "This thumbnail highlights the core solution (advanced water tech) with a positive, futuristic vision, enticing clicks with promise rather than alarm, contrasting the hook's urgent tone."
+  },
+  "title": "Future Water Tech: Small Business Revolution?",
+  "segments": [
+    {
+      "text": "The demineralization plant market projects significant growth, reaching new highs by 2035. This surge is fueled by global industrial water reuse mandates, shifting resource paradigms.",
+      "image_prompt": "Modern industrial water treatment facility, sleek design, showing clear water outflow, surrounded by clean energy elements. Cinematic lighting.",
+      "camera_effect": "dolly_zoom",
+      "text_overlay": "GROWTH BY 2035"
+    },
+    {
+      "text": "Demineralization removes salts and impurities, crucial for industrial processes and safe reuse. It reduces freshwater consumption by up to 50% in key sectors like manufacturing and energy.",
+      "image_prompt": "Animated graphic showing water molecules being filtered, with glowing impurities separating into a waste stream and pure water flowing out. Text overlay: 'H2O Pure'.",
+      "camera_effect": "close_up",
+      "text_overlay": "PURE WATER TECH"
+    },
+    {
+      "text": "AI integration revolutionizes these plants, optimizing filtration processes and predicting maintenance needs. This boosts efficiency by 20-30%, slashing operational costs significantly.",
+      "image_prompt": "Control room with large holographic screens displaying real-time data from a water purification plant. A person with intense focus looks through smart glasses at complex data visualizations. Cyberpunk neon lighting.",
+      "camera_effect": "pan_left",
+      "text_overlay": "AI OPTIMIZATION"
+    },
+    {
+      "text": "Small businesses are rapidly adopting modular, AI-driven demineralization solutions. This makes advanced water management accessible, reducing waste and boosting their sustainable practices globally.",
+      "image_prompt": "A compact, modern factory building with a visible, glowing demineralization unit integrated into its structure, representing efficiency. Cinematic lighting, dramatic side lighting.",
+      "camera_effect": "tilt_up",
+      "text_overlay": "SMALL BIZ ADOPTION"
+    },
+    {
+      "text": "Experts forecast this market shift will redefine resource economics. It creates new industries and job opportunities, with a projected global economic impact exceeding billions by 2035.",
+      "image_prompt": "A stylized world map with glowing points indicating demineralization plants, interconnected by data lines, overlaid with rising economic growth graphs. 3D render.",
+      "camera_effect": "zoom_in_slow",
+      "text_overlay": "ECONOMIC RIPPLE"
+    },
+    {
+      "text": "This shift is not just tech, it's foundational for future global sustainability and resource management. Expect profound changes in urban planning and industrial design.",
+      "image_prompt": "Holographic globe overlaid with data streams, showing water purification symbols and clean energy icons. Futuristic urban skyline in the background. Cinematic lighting.",
+      "camera_effect": "zoom_out_slow",
+      "text_overlay": "SUSTAINABLE FUTURE"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
