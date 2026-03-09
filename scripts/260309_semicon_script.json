@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "NVIDIA'S SHOCK",
+    "narration": "Nvidia just made a bombshell decision, impacting global AI GPU supply and shifting critical TSMC capacity!",
+    "image_description": "A cybernetic hand manipulating glowing holographic circuit diagrams of GPUs and wafers. Red warning lights reflect in its advanced optics, intense focus, dramatic side lighting, digital glitch effects.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI SUPPLY SHIFT",
+    "image_description": "A hyper-realistic 3D render of a glowing GPU die, with half of its internal connections visually 'rerouting' to a different, newly illuminated path. Cyberpunk neon blue and red lighting, 8k resolution, centered composition, on a dark, reflective surface.",
+    "reasoning": "The visual metaphor of a 'rerouting' GPU die directly represents Nvidia's capacity shift, appealing to tech-savvy investors and engineers. The high-contrast, object-focused image is designed to stand out and generate curiosity without relying on human expressions."
+  },
+  "title": "Nvidia's AI Shift: TSMC Capacity & Global Risks",
+  "segments": [
+    {
+      "text": "Nvidia halts H200 GPU production for China, reallocating TSMC wafer capacity to the Vera Rubin platform. This prioritizes next-gen AI chips.",
+      "image_prompt": "Close-up of a highly detailed TSMC wafer with distinct HBM stacks, glowing blue lines indicating data flow. Engineer's hands in foreground, wearing smart glasses reflecting data, conveying intense focus.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "The H200 capacity shift from China suggests Nvidia's strategic focus on leading-edge AI inference and training, impacting regional supply dynamics and valuation.",
+      "image_prompt": "Holographic projection of GPU market share graphs, with Nvidia's segment expanding, overlaid on a server rack filled with glowing components. Cyberpunk neon lighting, serious thought expression on a cybernetic face.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "Middle East energy turmoil escalates chip risks. TSMC's massive power consumption for advanced wafer fabrication faces new scrutiny amidst geopolitical instability.",
+      "image_prompt": "A futuristic data center glowing with immense power, overlaid with a digital 'warning' symbol. Red lines indicate power grid stress, a cybernetic eye reflecting the grid, dramatic lighting.",
+      "camera_effect": "dolly_zoom"
+    },
+    {
+      "text": "Bromine supply for DRAM production is under spotlight. Any disruption could impact memory manufacturing yields and global chip supply chains.",
+      "image_prompt": "A stylized graphic representation of a DRAM module, with a molecular structure of Bromine visually integrated and highlighted. Glitch effects around the edges, suggesting instability, determined expression.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "Nvidia is reportedly tapping Groq and boosting Samsung Foundry output. This diversifies inference AI chip manufacturing beyond traditional partners like TSMC.",
+      "image_prompt": "Two robot hands, one holding a Nvidia GPU, the other a Samsung Foundry logo chip, symbolizing collaboration. Data flowing between them as a glowing network, intense focus through data-reflecting optics.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "These strategic capacity shifts, coupled with mounting geopolitical and raw material risks, define a highly volatile CAPEX environment for semiconductor investors.",
+      "image_prompt": "A holographic display showing fluctuating stock market charts with overlaid wafer diagrams and digital corruption effects. Cybernetic eye reflecting the volatile data, serious thought, cinematic lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
