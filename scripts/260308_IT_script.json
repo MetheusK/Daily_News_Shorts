@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI IS HERE",
+    "narration": "WARNING: The AI revolution isn't coming, it's already reshaping industries you rely on!",
+    "image_description": "A close-up of a human eye with a complex, glowing cybernetic iris, reflecting lines of code and data, dramatic neon blue and red lighting, intense focus expression. Cinematic lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI'S NEW ERA",
+    "image_description": "A sleek, minimalist 3D render of a glowing neural network symbol intertwined with a safety shield icon, hyper-realistic, 8k resolution, dramatic blue-purple backlighting. Centered object.",
+    "reasoning": "This thumbnail visually combines the core theme (AI) with a key application (safety) using a modern, high-quality 3D render, creating a sense of innovation and security to attract clicks without generic shock tactics."
+  },
+  "title": "AI Takes Over: Safety, Small Business & Your Future",
+  "segments": [
+    {
+      "text": "Industries globally are undergoing massive transformation, integrating AI technologies at an unprecedented pace. This shift redefines operational efficiency and innovation across sectors.",
+      "image_prompt": "Abstract global network map with glowing data streams, cybernetic hands reaching out, cinematic blue lighting, intense focus expression. High-tech, clean aesthetics.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "Notably, KOHSIA accelerates its shift into the AI-driven safety industry, deploying advanced predictive analytics for critical infrastructure protection and risk management.",
+      "image_prompt": "Futuristic control room with large screens displaying AI-driven predictive models, a prominent KOHSIA logo on a glowing interface, dramatic side lighting, serious thought expression. Technical focus.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "Small businesses adopt AI for improved customer experience, automated tasks, and enhanced data security. This drives competitive advantages, reshaping how enterprises operate daily.",
+      "image_prompt": "Small business owner looking at a holographic dashboard displaying AI insights, data visualizations, smart glasses reflecting data, focused expression, neon office environment. Wonder and focus.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Prominent analyst Jeff Kagan, a voice in wireless, 5G, and AI, highlights their synergy. He predicts deeper AI integration across telecom networks by 2025.",
+      "image_prompt": "A focused digital portrait of Jeff Kagan, surrounded by holographic visualizations of 5G signals and AI data streams, cinematic purple lighting, serious thought expression. Data-rich visual.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "This translates to smarter, safer daily user experiences. Proactive maintenance alerts on smart devices and AI-powered emergency response enhance public safety significantly.",
+      "image_prompt": "A person in a smart home setting, looking at a transparent screen displaying a safety alert, glowing interface, data reflecting in their smart glasses, intense focus. Future tech in daily life.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "AI's continuous evolution in safety and enterprise tech sets new standards for innovation. This demands adaptable skills and continuous learning from the workforce.",
+      "image_prompt": "A diverse group of professionals collaborating around a holographic projection of complex AI algorithms and 3D models, determined expressions, cyberpunk city background, cinematic lighting. Collaborative focus.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
