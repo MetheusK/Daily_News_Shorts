@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI CHATS CHANGED",
+    "narration": "STOP! Your phone's smart replies have been taking over your conversations. But a huge update just gave you back control!",
+    "image_description": "A smartphone screen with glowing, interconnected AI neural network lines behind a chat interface, showing a suggested 'Smart Reply' bubble. A subtle digital glitch effect, reflecting determined eyes in a smart glasses display. Cinematic lighting, cyberpunk neon blue.",
+    "mood_color": "neon_green"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI CHAT CONTROL",
+    "image_description": "A sleek, hyper-realistic 3D render of a smartphone displaying Google Messages. A finger hovers over a 'Smart Reply' bubble with a prominent 'edit' icon. The background is a blurred, stylized network of data streams. Dramatic backlighting, 8k resolution.",
+    "reasoning": "Clearly communicates the core feature (AI, chat, control/edit) using an iconic object (smartphone) and a dynamic interaction, driving curiosity and click-throughs for the general public."
+  },
+  "title": "Google Messages Just Revolutionized Your AI Chats",
+  "segments": [
+    {
+      "text": "Google Messages is rolling out a significant update to its Smart Reply feature, fundamentally changing how users interact with AI-generated text suggestions in daily conversations.",
+      "image_prompt": "Close-up of Google Messages interface with smart reply bubbles highlighted. Focus on text, not person. Holographic data overlays, glowing blue text.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Previously, Smart Replies offered pre-written, quick responses based on message context. These were either sent directly or dismissed, lacking user customization before sending.",
+      "image_prompt": "Animated text bubbles with generic smart replies appearing, then quickly fading. Digital data flow background, subtle red warning lights for 'lack of control'.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "Now, users will soon gain the ability to edit these AI-suggested Smart Replies before sending them. This offers unprecedented flexibility and personalization within the messaging app.",
+      "image_prompt": "A cybernetic hand tapping a 'Smart Reply' bubble, which then expands into an editable text field. Glowing user interface elements, dramatic side lighting.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "This enhancement empowers users with more agency over their communication, ensuring responses accurately reflect their unique tone and specific intentions, avoiding generic AI dialogue.",
+      "image_prompt": "Person's intense focused expression through smart glasses, data reflecting in cybernetic eyes, looking at a personalized message on screen. Cinematic lighting, determined expression.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "The update signifies a broader trend towards user-centric AI design, emphasizing collaborative intelligence where human input refines machine suggestions, improving daily digital interactions.",
+      "image_prompt": "Abstract representation of human hand 'sculpting' or 'refining' glowing AI neural network code on a holographic interface. Cyberpunk neon aesthetic.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "While an exact rollout date remains undisclosed, this feature will be implemented 'soon' for Google Messages users, promising a more intuitive and controlled AI messaging experience.",
+      "image_prompt": "Google Messages logo subtly morphing into an 'edit' icon, glowing. Futuristic digital clock indicating 'soon'. Clean, technical aesthetic.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
