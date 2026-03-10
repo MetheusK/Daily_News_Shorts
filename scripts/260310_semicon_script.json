@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "WAFER CRISIS WARNING",
+    "narration": "Stop scrolling! A hidden wafer supply crisis is brewing, threatening every AI investment you've made!",
+    "image_description": "Extreme close-up of a complex semiconductor wafer with digital glitch effects, neon red warning lights reflecting in cybernetic eyes with intense focus, cinematic lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI CHIP CRUNCH?",
+    "image_description": "Hyper-realistic 3D render of a glowing silicon wafer, partially cracked with circuit lines emanating vibrant light, against a dark, dramatic background. Center composition, hyper-detailed, 8K resolution.",
+    "reasoning": "This thumbnail uses a compelling, technical object (glowing, cracked wafer) with a leading question ('AI CHIP CRUNCH?') to instantly communicate a high-stakes industry challenge, intriguing investors and engineers to click."
+  },
+  "title": "Semiconductor Shock: AI Wafer Demand Explodes - What Investors Need to Know",
+  "segments": [
+    {
+      "text": "Groq is reportedly pressing Samsung Foundry to significantly expand wafer production, highlighting an escalating demand for AI chips. This strains current supply chains.",
+      "image_prompt": "Stylized digital representation of a Groq logo radiating data streams towards a minimalist Samsung factory diagram, with a figure's cybernetic eye in the foreground reflecting the data with intense focus, cinematic lighting.",
+      "text_overlay": "GROQ DEMANDS WAFERS"
+    },
+    {
+      "text": "This urgency signals broader industry strain. Foundries face pressure to boost CAPEX for advanced process nodes, crucial for high-performance AI GPUs and HBM memory.",
+      "image_prompt": "Abstract visualization of capital expenditure flowing into a stylized cleanroom, glowing lines representing data and financial investment, seen through smart glasses reflecting a determined expression, cyberpunk neon lighting.",
+      "text_overlay": "CAPEX PRESSURE RISES"
+    },
+    {
+      "text": "Applied Materials (AMAT) stands to gain significantly. As a key equipment supplier, their tools are essential for scaling up wafer manufacturing and improving yields for advanced AI silicon.",
+      "image_prompt": "Detailed, hyper-realistic shot of a complex semiconductor manufacturing machine (reminiscent of AMAT equipment), with digital readouts and data screens, reflecting serious thought in a glowing iris, dramatic side lighting.",
+      "text_overlay": "AMAT: AI BACKBONE"
+    },
+    {
+      "text": "Meanwhile, Intel's 18A process node aims to reclaim manufacturing leadership. Success in advanced nodes directly impacts their ability to compete in high-valuation AI segments.",
+      "image_prompt": "Holographic projection of Intel's 18A process roadmap, with a figure in a modern cleanroom gazing at it with focused determination, cinematic blue lighting.",
+      "text_overlay": "INTEL'S 18A GAMBIT"
+    },
+    {
+      "text": "Achieving high yields on these advanced wafers is paramount. Low yields directly impact profitability, potentially shifting market valuations and investment strategies across the supply chain.",
+      "image_prompt": "A digital pie chart or bar graph visually depicting fluctuating yield percentages, with digital corruption effect on lower yield segments, accented by red warning lights, a hand analyzing the data on a transparent screen.",
+      "text_overlay": "YIELD: PROFIT KEY"
+    },
+    {
+      "text": "Investors must monitor foundry CAPEX commitments and equipment orders closely. These indicators will define the winners and losers in the rapidly accelerating AI semiconductor race.",
+      "image_prompt": "A dynamic stock ticker overlayed with digital green and red trend lines, reflecting in the glowing iris of a figure observing a large data display with intense focus, dramatic side lighting.",
+      "text_overlay": "INVESTOR ALERT"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
