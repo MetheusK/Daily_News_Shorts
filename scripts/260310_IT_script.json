@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "YOUR DATA EXPOSED!",
+    "narration": "WARNING! Everything you do online is being scanned, and the digital future will shock you!",
+    "image_description": "Close-up of a person's eye, with a complex digital data overlay reflecting in their glowing iris, surrounded by cyberpunk neon lighting and subtle red glitch effects, conveying intense focus and urgency.",
+    "mood_color": "neon_green"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "CYBER FUTURE?",
+    "image_description": "Hyper-realistic 3D render of a massive, glowing server rack with intricate holographic data projections swirling around it, dramatic blue and purple backlighting, 8k resolution, centered composition.",
+    "reasoning": "The object-focused, mysterious question and cyberpunk aesthetic immediately attract tech enthusiasts and general viewers curious about the future."
+  },
+  "title": "The IT Revolution: What You Need to Know NOW!",
+  "segments": [
+    {
+      "text": "IT industry trends are reshaping daily life, impacting how we work and connect. Digital transformation accelerates global change, enhancing user experiences daily.",
+      "image_prompt": "A sleek, minimalist smart home interface projected onto a wall, showing connected devices and a person interacting with it via gesture, cinematic lighting.",
+      "text_overlay": "LIFE CHANGING"
+    },
+    {
+      "text": "By 2026, advanced cybersecurity threats demand urgent attention. Ransomware and data breaches are increasing, putting personal information and businesses at risk.",
+      "image_prompt": "A digital shield icon surrounded by a red warning glow, with binary code falling like rain in the background, conveying serious thought on data security.",
+      "text_overlay": "DANGER AHEAD"
+    },
+    {
+      "text": "AI and automation integrate into every sector, optimizing operations and creating new user experiences. Businesses leverage these for unprecedented efficiency and innovation.",
+      "image_prompt": "A robotic hand gently interacting with a holographic chart displaying growth metrics, with blue and gold cinematic lighting, conveying intense focus on innovation.",
+      "text_overlay": "AI TAKES OVER"
+    },
+    {
+      "text": "Cloud computing continues rapid expansion, becoming the backbone for digital services. Data storage and processing capabilities are scaling, impacting daily life.",
+      "image_prompt": "Massive, interconnected server racks glowing with ethereal blue light, forming a vast digital landscape, hyper-realistic, 8k resolution, conveying serious thought.",
+      "text_overlay": "CLOUD POWER"
+    },
+    {
+      "text": "Edge computing enhances real-time data processing, bringing intelligence closer to devices. This improves speed and reduces latency for critical applications daily.",
+      "image_prompt": "A network of glowing nodes connected by lines, representing data flow from various IoT devices to a central 'edge' hub, dramatic side lighting, conveying wonder.",
+      "text_overlay": "FASTER DATA"
+    },
+    {
+      "text": "Global IT spending to reach $5.3 trillion in 2026, marking a 7.5% annual increase.",
+      "image_prompt": "A futuristic digital dashboard displaying financial growth charts with glowing green lines, a human hand pointing to the highest peak, cinematic lighting, conveying determination.",
+      "text_overlay": "TRILLION DOLLARS"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
