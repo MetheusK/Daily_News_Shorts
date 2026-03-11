@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "FOUNDRY ALERT!",
+    "narration": "Critical foundry shifts are redefining semiconductor power. TSMC's grip is tested, impacting your investments and global supply!",
+    "image_description": "Dynamic shot of a glowing silicon wafer with digital data streams flowing across it, reflecting in cybernetic eyes of a focused engineer through smart glasses, red warning lights flickering. Cinematic lighting, glitch effects.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "HBM WAR ESCALATES",
+    "image_description": "Hyper-realistic 3D render of a glowing HBM (High Bandwidth Memory) stack interconnected with a powerful GPU chip. Dark, metallic background with dramatic blue and purple cyberpunk neon backlighting. Centered, 8k resolution.",
+    "reasoning": "The 'HBM War' phrase implies intense competition and high stakes in a critical tech area, appealing to investors and engineers. The visual of HBM and GPU is iconic for the topic, high-contrast and clean for high click-through rate."
+  },
+  "title": "Semiconductor Shakeup: NVIDIA, Samsung, HBM & Your Portfolio",
+  "segments": [
+    {
+      "text_overlay": "NVIDIA FOUNDRY SHIFT",
+      "narration": "NVIDIA revives RTX 3060 on Samsung's 8nm node. This key foundry shift bypasses TSMC constraints, impacting global GPU supply and market.",
+      "image_prompt": "Close-up of a Samsung 8nm wafer. NVIDIA logo in foreground, with a faint TSMC fab silhouette in the background, cinematic lighting.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text_overlay": "TSMC CONSTRAINT IMPACT",
+      "narration": "This shift addresses TSMC's advanced node capacity limitations. It also serves China market demands amid export restrictions, balancing inventory needs.",
+      "image_prompt": "Complex global supply chain network diagram with red warning lights around a TSMC-labeled node, reflecting data in a focused cybernetic eye.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text_overlay": "SAMSUNG HBM POWER",
+      "narration": "Samsung Electronics solidifies HBM market position. Alliance with AMD's Lisa Su and Lee Jae-yong signals aggressive HBM expansion, reshaping competition.",
+      "image_prompt": "Holographic projection of a detailed HBM (High Bandwidth Memory) stack hovering above a table, with Samsung and AMD logos glowing subtly. Cinematic lighting.",
+      "camera_effect": "rotate_slow"
+    },
+    {
+      "text_overlay": "AMD HBM STRATEGY",
+      "narration": "The AMD partnership strengthens HBM3 and HBM4 development. This ensures future GPU memory supply, directly challenging SK Hynix's market dominance.",
+      "image_prompt": "A high-performance GPU with HBM memory modules clearly visible, overlaid with a competitive bar chart showing Samsung and SK Hynix market share, dramatic side lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text_overlay": "MARKET VALUATION SHIFT",
+      "narration": "These strategic moves impact semiconductor valuations. Investors must analyze CAPEX, manufacturing yields, and HBM demand trends for informed decisions.",
+      "image_prompt": "Stock market ticker displaying semiconductor company symbols, overlaid with a graph showing fluctuating valuations and data points, reflecting in a determined investor's eye through smart glasses.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text_overlay": "SUPPLY CHAIN RESILIENCE",
+      "narration": "Diversifying foundry partners and HBM suppliers enhances global semiconductor supply chain resilience, critical for sustained industry growth and stability.",
+      "image_prompt": "Interconnected glowing semiconductor chips forming a global network. Digital corruption effects on vulnerable points, emphasizing resilience. Cyberpunk neon lighting.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
