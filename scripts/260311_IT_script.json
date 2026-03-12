@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "LEGAL AI SHOCK",
+    "narration": "Warning! Artificial Intelligence is about to reshape justice, impacting your legal future sooner than you think!",
+    "image_description": "Extreme close-up of a cybernetic judge's eye, glowing iris reflecting holographic legal documents and code snippets. Intense focus, dramatic side lighting, digital glitch effect, red warning lights. Cinematic lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI LAW REVOLUTION",
+    "image_description": "A sleek, futuristic legal scale balancing a glowing AI chip on one side and a traditional, minimalist silver gavel on the other. Dark, cyberpunk court background with neon blue accents. 3D Render, hyper-realistic, 8k resolution, dramatic backlighting. Focus on the objects.",
+    "reasoning": "The visual metaphor of AI balancing justice is instantly impactful. 'AI LAW REVOLUTION' is a strong, click-worthy statement, promising significant change without revealing too much."
+  },
+  "title": "AI in Law: The Future of Justice is Here",
+  "segments": [
+    {
+      "text": "ABA TECHSHOW 2026 confirms its focus: AI's pivotal role in legal tech. Leaders gather to shape the future of global legal practices, influencing core operations.",
+      "image_prompt": "Holographic projection of 'ABA TECHSHOW 2026' logo above a conference room with figures engaged in serious thought, cybernetic elements, cinematic lighting.",
+      "text_overlay": "TECHSHOW 2026",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "Key discussions target AI's application for legal research, contract review automation, and predictive analytics. This aims to enhance efficiency, reducing traditional legal workload significantly.",
+      "image_prompt": "Close-up of a lawyer's hand, through smart glasses, interacting with a holographic interface showing automated contract clauses and data graphs. Intense focus, cyberpunk neon lighting.",
+      "text_overlay": "AI AUTOMATION",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "Implications include faster case resolution and improved access to justice for clients. AI tools are becoming indispensable for data analysis, setting new operational standards globally.",
+      "image_prompt": "Stylized graphic of a glowing 'justice scale' with data streams flowing between the pans. Abstract digital representations of legal documents and client profiles. Dramatic side lighting.",
+      "text_overlay": "FASTER JUSTICE",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Legal professionals face new ethical challenges and skill requirements. Advanced AI demands expertise in data privacy, bias detection, and ethical system deployment.",
+      "image_prompt": "Person, serious thought, wearing smart glasses reflecting intricate ethical code lines and warning symbols. Digital corruption effect around the edges of the reflection. Cinematic lighting.",
+      "text_overlay": "ETHICAL AI",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "This shift points to human-AI collaboration defining law. Expect evolving roles for lawyers, focusing on complex strategy and client interaction, beyond basic tasks.",
+      "image_prompt": "Two diverse hands (one human, one subtly robotic/cybernetic) shaking over a glowing holographic world map, representing global legal collaboration. Intense determination expression, dramatic side lighting.",
+      "text_overlay": "AI COLLABORATION",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
