@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI SUPPLY SHOCK",
+    "narration": "Warning! A silent crisis is brewing in AI's core, threatening semiconductor valuations and future supply!",
+    "image_description": "Close-up of a human eye, seen through smart glasses, reflecting rapid-fire data streams and a red warning overlay. Intense focus, digital corruption effects around the edges, dramatic cyberpunk neon lighting. FOLLOW HUMAN ELEMENT RULES.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "HBM YIELD RISK",
+    "image_description": "Hyper-realistic 3D render of a glowing HBM memory stack, slightly fractured or with a subtle glitch effect on one layer, centered against a dark, dramatic background. Cinematic backlighting, 8k resolution. FOLLOW HUMAN ELEMENT RULES.",
+    "reasoning": "This thumbnail visually depicts a critical technical challenge (HBM yield) directly relevant to investors and engineers, using a powerful object-centric image to create high click-through rates."
+  },
+  "title": "AI's Core: AMAT, HBM & China's Tech War",
+  "segments": [
+    {
+      "text": "Applied Materials secures crucial partnerships with Micron and SK Hynix, solidifying its position in high-bandwidth memory (HBM) manufacturing. This highlights critical equipment demand.",
+      "overlay_text": "AMAT HBM LEAD",
+      "image_prompt": "Futuristic cleanroom with advanced semiconductor manufacturing equipment, AMAT branding subtly visible on a wafer processing tool. Cinematic lighting, showing intense focus on precision.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Surging AI demand fuels robust growth for HBM, driving increased CAPEX investments into advanced packaging and fabrication equipment. This is a direct market driver.",
+      "overlay_text": "AI DRIVES CAPEX",
+      "image_prompt": "Holographic financial charts overlaid with detailed 3D renders of GPU chips, digital data streams flowing rapidly. Cyberpunk aesthetic, emphasizing high information density.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "China’s 15th Five-Year Plan targets 2030 AI economy shift, accelerating domestic semiconductor self-reliance amidst persistent supply chain bottlenecks.",
+      "overlay_text": "CHINA'S AI PLAN",
+      "image_prompt": "Stylized map of China glowing with interconnected AI network nodes, subtle silhouettes of advanced manufacturing factories in the background. Dramatic, determined lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "This strategic push by China significantly impacts global equipment markets, potentially boosting domestic suppliers and reshaping long-term CAPEX allocation strategies.",
+      "overlay_text": "GLOBAL SHIFT",
+      "image_prompt": "Close-up of a robotic arm precisely handling a silicon wafer, abstract global market trend lines and data visualizations in the background. High-tech, serious thought atmosphere.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "HBM manufacturing faces inherent yield challenges due to complex stacking and bonding processes. Optimizing these yields is paramount for profitability and scale.",
+      "overlay_text": "HBM YIELD CHALLENGE",
+      "image_prompt": "Extreme macro view of an HBM memory stack, with a faint, digitally-corrupted pixel or trace imperfection highlighted in red. Technical schematic view, glowing details, intense focus.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "The valuation debate now shifts to long-term CAPEX and HBM yield ramp-ups.",
+      "overlay_text": "CAPEX, YIELD FOCUS",
+      "image_prompt": "Dynamic stock market chart in the foreground with abstract, glowing HBM chips in the background, reflecting a precise, analytical focus on growth trajectory. Data-driven, serious tone.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
