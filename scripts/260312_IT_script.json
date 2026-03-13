@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI IS COMING!",
+    "narration": "WARNING: AI isn't just evolving; it's rewriting YOUR future, right now, without you even realizing it!",
+    "image_description": "Extreme close-up of a human eye with a glowing, cybernetic iris reflecting streams of data, digital corruption effects around the edges, urgent red warning lights, intense focus, dramatic side lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI'S NEW ERA",
+    "image_description": "A hyper-realistic 3D render of a glowing, intricate AI neural network chip, centered on a dark, reflective surface. Cyberpunk neon blue and purple backlighting, 8k resolution, clear and sharp focus.",
+    "reasoning": "This thumbnail features a futuristic, object-centric visual that clearly signals 'AI' and 'new tech' in a dramatic, high-quality style, drawing clicks through curiosity and visual appeal rather than sensationalism."
+  },
+  "title": "The AI & Tech Trends Changing EVERYTHING",
+  "segments": [
+    {
+      "text": "Recent data indicates enterprise AI adoption surged 40% this quarter. Businesses integrate AI tools for enhanced efficiency and automated workflows, impacting millions globally.",
+      "image_prompt": "Cybernetic executives in a futuristic office, holographic data reflecting in their smart glasses, intense focus, cinematic lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Generative AI models are revolutionizing content creation. Over 70% of marketing agencies now explore text-to-image and video tools, streamlining campaign development significantly.",
+      "image_prompt": "Digital artist creating AI art on a glowing tablet, data streams reflecting in their eyes, focused expression, cyberpunk neon lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Brands use AI for hyper-personalized customer experiences, boosting engagement 25%. Algorithms analyze billions of daily data points, tailoring everything from ads to product recommendations.",
+      "image_prompt": "Person interacting with a transparent smart display, personalized content glowing, data reflecting on their face, wonder, dramatic side lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Edge AI processing is expanding rapidly, with smart sensors and IoT devices increasing 30% annually. This enables faster, localized data analysis for real-time applications.",
+      "image_prompt": "Network of glowing IoT devices in a sleek smart home, data streams connecting them, abstract visual of data processing, clean design.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Discussions on ethical AI frameworks are intensifying. Governments and tech giants invest heavily in responsible AI development, aiming to mitigate biases and ensure transparency.",
+      "image_prompt": "Abstract data visualization with 'ethical' parameters, a serious researcher with cybernetic eye implants looking at a screen, thoughtful expression, cool blue lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "The AI market is projected to reach $1.8 trillion by 2030, attracting record investments. Tech leaders pour billions into R&D, defining AI as the decade's core technology.",
+      "image_prompt": "Digital graph showing upward trend, futuristic city skyline at night, holographic data streams flowing between buildings, 8k render.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
