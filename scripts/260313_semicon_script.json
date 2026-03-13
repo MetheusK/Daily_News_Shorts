@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI STOCK WARNING",
+    "narration": "Investor alert! A seismic shift in AI chip dominance is unfolding, and your portfolio might not be ready!",
+    "image_description": "A close-up of a digital stock chart plunging downwards, reflected in the glowing iris of an analyst wearing smart glasses, with digital corruption effects and red warning lights flashing. Cinematic lighting, intense focus expression.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "TAIWAN'S AI CROWN",
+    "image_description": "A glowing, intricate 3D render of a futuristic AI chip with circuits forming a subtle outline of Taiwan, positioned prominently on a server rack backdrop. Cyberpunk neon lighting, 8k resolution, centered composition, hyper-realistic detail.",
+    "reasoning": "Highlights Taiwan's specific dominance in AI using a technical object, creating intrigue for investors and engineers without relying on human expressions, aligning with the object-over-human rule."
+  },
+  "title": "AI Chip Race: Taiwan's Dominance & 2026 Forecast",
+  "segments": [
+    {
+      "text": "Taiwan's semiconductor industry now outpaces South Korea, fueled by surging AI-driven investment. This indicates a significant shift in global CAPEX allocation towards Taipei.",
+      "image_prompt": "Dynamic world map with Taiwan prominently highlighted and glowing, showing intricate, flowing investment vectors towards it. Cyberpunk aesthetic, data visualization overlay, serious thought expression in a cybernetic eye.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "NVIDIA's upcoming Feynman chip, potentially unveiled at GTC 2026, spotlights TSMC's critical role. This 3nm class technology is pivotal for next-gen AI.",
+      "image_prompt": "Holographic projection of NVIDIA's Feynman chip schematic, complex circuitry glowing neon blue, held by a robotic hand. Cinematic lighting, precise detail, reflecting data in a glowing iris.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "TSMC's A16 process technology is central, promising enhanced yield and power efficiency for high-performance computing. Wafer production remains key.",
+      "image_prompt": "Close-up of a silicon wafer undergoing automated inspection, with glowing patterns of circuit lines. Reflected in a determined, focused eye through smart glasses. Dramatic side lighting.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "Intense demand for cutting-edge AI GPUs and HBM memory solidifies Taiwan's supply chain. Significant CAPEX fuels advanced foundry expansion for future yields.",
+      "image_prompt": "Intricate, glowing digital representation of a global supply chain network connecting various factories and data centers, centered on Taiwan. Cyberpunk neon lighting, high information density.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "Industry analysts forecast a 2026 explosion in data center demand, positioning specific AI chip stocks for substantial valuation gains.",
+      "image_prompt": "Vast server farm extending into the distance, racks glowing with processing activity. Digital overlay shows increasing data center utilization and projected growth charts. Cinematic lighting, intense focus.",
+      "camera_effect": "dolly_zoom"
+    },
+    {
+      "text": "Valuation shifts anticipate 2026 data center demand, setting new benchmarks for sector growth.",
+      "image_prompt": "Holographic stock chart displaying exponential growth, reflected in a cybernetic eye of an analyst, cinematic lighting, serious thought expression.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
