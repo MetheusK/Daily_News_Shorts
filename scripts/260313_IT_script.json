@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "YOUR HEALTH, AI.",
+    "narration": "Warning! A new AI revolution is secretly changing your health, right now!",
+    "image_description": "Extreme close-up of a human eye with a complex neural network pattern reflecting in the iris, digital data streams flowing across the face, dramatic cyberpunk neon green lighting, intense focus.",
+    "mood_color": "neon_green"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI HEALTH BOOM",
+    "image_description": "3D render of a stylized, glowing DNA double helix intertwined with binary code, set against a backdrop of microscopic cell structures. Hyper-realistic, 8k resolution, dramatic blue and purple backlighting, centered object.",
+    "reasoning": "Combines familiar scientific imagery (DNA) with futuristic tech (AI code), creating intrigue about AI's profound impact on biology and health, compelling clicks from a general audience."
+  },
+  "title": "AI's Secret Health Takeover: What You NEED To Know!",
+  "segments": [
+    {
+      "text": "Artificial intelligence is quietly transforming life sciences. This rapidly expanding market is projected for significant growth, impacting drug discovery and patient care dramatically.",
+      "image_prompt": "Holographic projection of a human body, overlaid with digital data points and neural network connections, in a modern, sterile lab environment with cinematic lighting.",
+      "camera_effect": "dynamic_pan_zoom",
+      "text_overlay": "AI REVOLUTION"
+    },
+    {
+      "text": "Industry analysis forecasts exponential market growth in AI for life sciences from 2026 to 2040. This period will redefine medical research and patient outcomes.",
+      "image_prompt": "Animated graph showing exponential market growth with futuristic data visualizations, subtle green glow. A determined researcher with glowing cybernetic eyes monitors complex data on a transparent screen.",
+      "camera_effect": "static",
+      "text_overlay": "MASSIVE GROWTH"
+    },
+    {
+      "text": "Tech giants like IBM, IQVIA, and Oracle are leading in AI data platforms. Their robust infrastructure empowers this unprecedented wave of medical innovation.",
+      "image_prompt": "Server racks glowing with blue and purple light, representing IBM, IQVIA, Oracle logos subtly integrated into the architecture. Digital data streams flow between them, cinematic lighting.",
+      "camera_effect": "fast_dolly_zoom",
+      "text_overlay": "TECH GIANTS LEAD"
+    },
+    {
+      "text": "Meanwhile, pharmaceutical powerhouses Roche and Pfizer, alongside innovative AI startups, accelerate crucial drug discovery. They're shortening development timelines significantly.",
+      "image_prompt": "Microscopic view of cells with glowing AI interfaces, showing drug compounds interacting. Futuristic lab environment with intense focus, advanced robotics assist scientists with serious thought.",
+      "camera_effect": "slow_zoom_in",
+      "text_overlay": "FASTER CURES"
+    },
+    {
+      "text": "This collaboration speeds up clinical trials and offers new personalized medicine approaches. Patients will benefit from more effective, targeted treatments sooner than ever.",
+      "image_prompt": "Patient receiving personalized AI-driven treatment in a futuristic clinic. Holographic display shows real-time health data, gentle, encouraging atmosphere, dramatic side lighting.",
+      "camera_effect": "static",
+      "text_overlay": "PERSONALIZED MEDICINE"
+    },
+    {
+      "text": "The heavy implications for global health and investment are clear. AI is not just hype; it's rapidly becoming the future of how we heal ourselves.",
+      "image_prompt": "Abstract representation of interconnected global health networks, glowing lines connecting various medical facilities and data points, signifying advancement and collaboration, 8k resolution.",
+      "camera_effect": "cinematic_drone_shot",
+      "text_overlay": "FUTURE OF HEALTH"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
