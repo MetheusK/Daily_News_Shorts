@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI REWRITE SHOCK",
+    "narration": "Warning! Satya Nadella just signaled a fundamental shift. Your tech investments could be unprepared for the coming AI rewrite.",
+    "image_description": "A close-up of a human eye, cybernetically enhanced, reflecting rapidly transforming lines of code with digital glitch effects. Intense focus, dramatic red and blue cyberpunk lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "TSMC'S AI GRIP",
+    "image_description": "A hyper-realistic 3D render of a gleaming silicon wafer with intricate circuit patterns, centered, with a holographic AI brain overlay. Dark, dramatic backlighting, 8k resolution.",
+    "reasoning": "Highlights the key company and the central theme (AI chips) with a strong, technical visual, designed to attract both investors and engineers looking for market insights."
+  },
+  "title": "AI Software Rewrite: TSMC Dominance & Investor Impact",
+  "segments": [
+    {
+      "text": "Satya Nadella confirms: \"Every piece of software is undergoing transformation.\" This signifies a monumental AI-driven rewrite across industries, impacting all digital infrastructure.",
+      "image_prompt": "A cybernetic interface displaying complex code transforming in real-time with glowing lines, reflecting in a pair of smart glasses worn by a focused analyst. Cinematic lighting.",
+      "camera_effect": "static",
+      "text_overlay": "AI SOFTWARE REWRITE"
+    },
+    {
+      "text": "This massive software pivot directly fuels unprecedented demand for high-performance AI hardware. Specifically, advanced GPUs and AI accelerators are now mission-critical for deployment.",
+      "image_prompt": "Rows of advanced server racks glowing with intense blue light, abstract data streams flowing digitally, foregrounded by a determined engineer reviewing schematics through smart glasses. Cyberpunk neon lighting.",
+      "camera_effect": "zoom_in",
+      "text_overlay": "GPU DEMAND SURGE"
+    },
+    {
+      "text": "TSMC stands as the unrivaled bottleneck for this transformation, dominating advanced node manufacturing. Their 3nm and 5nm wafer production is crucial for leading-edge AI chips.",
+      "image_prompt": "An extreme close-up of a highly detailed silicon wafer, showcasing intricate 3nm/5nm patterns. Subtle TSMC branding integrated, with holographic data overlays. Dramatic side lighting.",
+      "camera_effect": "pan_left",
+      "text_overlay": "TSMC BOTTLENECK"
+    },
+    {
+      "text": "Sustaining this demand requires immense CAPEX and maintaining high yields. Any deviation in TSMC's manufacturing efficiency directly impacts global AI supply chains and market valuations.",
+      "image_prompt": "A modern, automated factory floor with robotic arms precisely placing components on a wafer, bathed in a mix of green (yield) and amber (warning) lights. Digital data projections on walls.",
+      "camera_effect": "pan_right",
+      "text_overlay": "YIELD CRITICAL"
+    },
+    {
+      "text": "Furthermore, HBM (High Bandwidth Memory) integration, essential for advanced AI processing, adds pressure. HBM requires specialized packaging, further constraining wafer output and adding complexity.",
+      "image_prompt": "An exploded view diagram of an HBM stack integrated into a GPU chip, with holographic arrows indicating data flow. Blue and purple neon lighting, highly technical aesthetic.",
+      "camera_effect": "zoom_out",
+      "text_overlay": "HBM CONSTRAINTS"
+    },
+    {
+      "text": "Investors must closely monitor TSMC's quarterly reports for CAPEX forecasts and yield updates. These metrics are key indicators for future AI chip supply and sector valuation.",
+      "image_prompt": "A digital stock chart showing fluctuating trends, overlaid with red warning lights and green growth indicators. A hand with a futuristic smart device reflecting investment data. Intense focus expression.",
+      "camera_effect": "static",
+      "text_overlay": "INVESTOR ALERT"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
