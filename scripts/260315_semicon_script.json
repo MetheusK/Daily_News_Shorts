@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "TSMC WARNING",
+    "narration": "URGENT investor alert: A $2 Trillion semiconductor valuation is imminent, and you need to know why now!",
+    "image_description": "A close-up of an investor's face, focused gaze through smart glasses, reflecting complex stock charts and holographic TSMC logos. Dramatic red warning lights flash across the screen with digital glitch effects, cinematic lighting, intense focus.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "TSMC: $2T RISE?",
+    "image_description": "A hyper-realistic 8k render of a glowing silicon wafer, centered composition. Holographic financial growth charts, rendered in neon blue and gold, rise dramatically from the wafer's surface, indicating a significant value increase. Dramatic backlighting. Cyberpunk style.",
+    "reasoning": "Highlights the key company (TSMC) and the significant $2 Trillion valuation target using an iconic semiconductor object, creating immediate intrigue for investors and industry insiders, avoiding human faces for broad appeal and clarity."
+  },
+  "title": "TSMC's $2 Trillion AI Surge: Investor Brief",
+  "segments": [
+    {
+      "text": "TSMC is on the verge of joining the exclusive $2 trillion market capitalization club, a significant milestone driven by unprecedented AI chip demand.",
+      "image_prompt": "A 3D render of the TSMC logo transforming into a graph soaring past a '$2 Trillion' mark, surrounded by digital data streams, cinematic lighting, high contrast.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "This valuation surge is fueled directly by the insatiable need for high-performance GPUs and HBM memory, critical components for advanced AI computations.",
+      "image_prompt": "Close-up of a glowing HBM memory stack next to a powerful GPU chip, with faint neural network connections in the background, hyper-realistic, 8k, cyberpunk neon lighting.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "TSMC's advanced manufacturing capabilities are operating at peak, with immense CAPEX invested in new fabs to meet this escalating global AI supply chain demand.",
+      "image_prompt": "Overhead view of a futuristic semiconductor cleanroom, robotic arms precisely handling silicon wafers, dramatic blue and white lighting, focus on precision, high detail.",
+      "camera_effect": "drone_shot"
+    },
+    {
+      "text": "Yield rates for cutting-edge nodes are crucial; maintaining high yields directly impacts the profitability and availability of these high-demand AI components.",
+      "image_prompt": "A glowing silicon wafer with 3D representations of successful chip yields highlighted in green, juxtaposed with minor 'digital corruption' glitches in red, technical display, dramatic side lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Major AI players like NVIDIA heavily rely on TSMC for their next-generation GPU designs, underscoring TSMC's pivotal role in the entire AI ecosystem.",
+      "image_prompt": "Holographic projection of NVIDIA's logo intertwining with TSMC's logo above a server rack emitting data, reflecting in a cybernetic eye with glowing iris, dramatic lighting, serious thought expression.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "Investors are closely monitoring TSMC's future CAPEX guidance and quarterly earnings to gauge sustained AI growth trajectory and long-term valuation prospects...",
+      "image_prompt": "A financial analyst with intense focus, looking at multiple holographic screens displaying TSMC stock charts and future projections, cyberpunk neon lighting, through smart glasses reflecting data.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
