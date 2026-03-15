@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "TRENDS ARE DEAD",
+    "narration": "STOP! The way you understand future tech trends? It's all a lie, and one futurist just proved it.",
+    "image_description": "A person's face (cybernetic glowing iris, intense focus) looking at a screen filled with glitching holographic trend lines, red warning lights, cinematic lighting, digital corruption effect.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "TREND REPORTS KILLED",
+    "image_description": "A shattered holographic crystal ball with data streams leaking from its cracks, resting on a dark, reflective surface, dramatic side lighting, cyberpunk style, 8k resolution, centered.",
+    "reasoning": "The image of a 'shattered crystal ball' visually represents the end of prediction, creating intrigue. The direct text 'TREND REPORTS KILLED' is provocative and relevant, compelling clicks from anyone interested in future tech."
+  },
+  "title": "🚨 TECH TREND REPORTS ARE DEAD?! What It Means For YOU!",
+  "segments": [
+    {
+      "text": "Fast Company reports a leading futurist, once defining trend forecasts, just declared them obsolete. This challenges years of tech industry predictions.",
+      "image_prompt": "A stylized, deconstructed bar chart showing a downward trend, digital particles breaking apart, clear and technical, cinematic lighting.",
+      "camera_effect": "zoom_in_fast",
+      "text_overlay": "TRENDS END"
+    },
+    {
+      "text": "This expert, a pioneer in identifying shifts since 2008, states rapid change makes long-term trend reports meaningless for innovators today.",
+      "image_prompt": "A futuristic holographic timeline displaying dates (e.g., 2008, 2015, 2024), fast-forwarding, with a serious, thoughtful person (reflecting data) in the background, dramatic side lighting.",
+      "camera_effect": "pan_left",
+      "text_overlay": "NEW REALITY"
+    },
+    {
+      "text": "Traditional five-year forecasts are crushed by the breakneck pace of AI, quantum computing, and biotech. New tech emerges almost weekly.",
+      "image_prompt": "A super-fast montage of evolving tech icons (AI brain, quantum chip, DNA helix), blurred motion effects, displaying rapid innovation, cyberpunk neon lighting.",
+      "camera_effect": "quick_cuts",
+      "text_overlay": "RAPID SHIFT"
+    },
+    {
+      "text": "Instead, the focus shifts to 'micro-trends' and adaptive strategy. It's about agility, not rigid long-term predictions or market analysis.",
+      "image_prompt": "A dynamic, abstract representation of interconnected nodes forming and dissolving quickly, depicting agile networks and adaptability, cinematic lighting.",
+      "camera_effect": "morphing",
+      "text_overlay": "ADAPT OR DIE"
+    },
+    {
+      "text": "For businesses, this means ditching outdated trend reports. Individuals must cultivate immediate insight, understanding, and quick reaction to tech disruptions.",
+      "image_prompt": "A person (intense focus through smart glasses, reflecting data) interacting with a holographic interface showing real-time data feeds, symbolizing immediate insight, dramatic side lighting.",
+      "camera_effect": "dolly_zoom",
+      "text_overlay": "FUTURE NOW"
+    },
+    {
+      "text": "This paradigm shift impacts product development, investment, and daily life choices. The era of static annual tech forecasts is truly over.",
+      "image_prompt": "A shattered digital clock face, representing the end of a temporal measurement system, with glowing fragments and a stark, dark background, cinematic lighting.",
+      "camera_effect": "static",
+      "text_overlay": "THE END?"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
