@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI CHIP WARNING",
+    "narration": "Urgent market alert! Nvidia's AI dominance is reshaping the semiconductor landscape, impacting every investment!",
+    "image_description": "A close-up of a human eye with a glowing, cybernetic iris, reflecting a complex digital network diagram, overlaid with flickering red warning lights and subtle digital corruption effects. Cinematic lighting with a strong cyberpunk neon influence, intense focus.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "NVIDIA'S EMPIRE",
+    "image_description": "Hyper-realistic 3D render of a glowing, advanced Nvidia GPU (e.g., H200 or B200) centrally placed within a sleek, high-tech server rack, bathed in dramatic blue and orange cyberpunk lighting, 8k resolution, extreme detail.",
+    "reasoning": "Highlights Nvidia's product and power with a visually striking, object-focused image. The 'Empire' text combined with the advanced GPU implies dominance and technological superiority, appealing to both engineers and investors seeking to understand market leaders."
+  },
+  "title": "Nvidia's AI Dominance: Market Shift Ahead?",
+  "segments": [
+    {
+      "text": "Nvidia dominates the surging AI market, commanding 90% of GPU sales critical for LLMs. This positions them as a singular, clear AI winner.",
+      "image_prompt": "A high-definition render of multiple AI GPU chips stacked, emitting a powerful digital glow, with abstract data streams flowing around them, set against a dark, futuristic server room, cinematic lighting. Text overlay: NVIDIA RULES AI.",
+      "camera_effect": "tracking_shot",
+      "text_overlay": "NVIDIA RULES AI"
+    },
+    {
+      "text": "They're now integrating AI tools into major foundries like TSMC and Samsung, optimizing wafer fabrication processes for efficiency.",
+      "image_prompt": "A robotic arm with precise manipulators working on a silicon wafer inside a cleanroom, holographic projections of data analytics and yield percentages displayed above, dramatic blue and white lighting, reflecting serious thought. Text overlay: AI OPTIMIZES YIELD.",
+      "camera_effect": "pan_left",
+      "text_overlay": "AI OPTIMIZES YIELD"
+    },
+    {
+      "text": "This directly targets yield improvements, crucial for HBM production and high-demand AI accelerators. Supply chain stability is the objective.",
+      "image_prompt": "A close-up of HBM memory modules integrated onto an advanced AI accelerator board, glowing data pathways highlighting connections, with an engineer's cybernetic eye reflecting complex schematics in the foreground, intense focus. Text overlay: BOOSTING HBM YIELD.",
+      "camera_effect": "zoom_in",
+      "text_overlay": "BOOSTING HBM YIELD"
+    },
+    {
+      "text": "Market demand for these advanced chips remains insatiable. Customers are 'begging for chips,' indicating significant backlogs and sustained pressure.",
+      "image_prompt": "A visual representation of a digital supply chain network, with nodes representing factories and data packets representing chips, experiencing 'digital congestion' or 'red warning lights' at a critical hub, conveying high demand. Text overlay: CHIP DEMAND SOARS.",
+      "camera_effect": "pan_right",
+      "text_overlay": "CHIP DEMAND SOARS"
+    },
+    {
+      "text": "This strong demand fuels massive CAPEX cycles across the industry. Firms like TSMC are committing billions to expand foundry capacity.",
+      "image_prompt": "A futuristic rendition of a semiconductor foundry under construction, massive cranes and automated machinery, with holographic financial charts projecting upward growth, dramatic scale and lighting, reflecting determination. Text overlay: BILLION-DOLLAR CAPEX.",
+      "camera_effect": "static",
+      "text_overlay": "BILLION-DOLLAR CAPEX"
+    },
+    {
+      "text": "This valuation shift impacts future CAPEX decisions across the entire foundry sector. Expect volatility.",
+      "image_prompt": "An analytical professional with smart glasses reflecting financial data, focused gaze, dramatic cinematic lighting, cyberpunk neon elements, digital stock charts overlayed.",
+      "camera_effect": "zoom_out",
+      "text_overlay": "MARKET VOLATILITY"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
