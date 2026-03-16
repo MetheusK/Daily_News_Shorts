@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI IS HERE",
+    "narration": "Warning! The future of AI and smart displays isn't just coming, it's already here, completely changing how you live!",
+    "image_description": "Close-up of a human eye reflecting abstract digital data streams, with a subtle cybernetic glow in the iris, surrounded by neon green and dark blue cinematic lighting, expressing intense focus, with digital glitch effects at the edges.",
+    "mood_color": "neon_green"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "SMART WORLD NOW",
+    "image_description": "3D render of a hyper-realistic, glowing AI processor chip at the center, surrounded by intricate holographic data projections and network lines in a dark, cyberpunk-styled server room. Dramatic backlighting from neon blue and purple.",
+    "reasoning": "The 'SMART WORLD NOW' text combined with a visually stunning, futuristic AI chip immediately conveys cutting-edge technology and urgency, compelling clicks by promising insight into a rapidly evolving future, without needing a human face."
+  },
+  "title": "AI & Smart Displays: Your Future Is Now!",
+  "segments": [
+    {
+      "text": "ISLE 2026 just unveiled radical shifts in smart display technology. Expect seamless, integrated visual systems shaping daily user interaction and environments globally.",
+      "image_prompt": "A futuristic transparent smart display interface showing dynamic data visualizations, in a minimalist, high-tech room, with cinematic lighting emphasizing depth and clarity.",
+      "camera_effect": "dynamic_pan_left"
+    },
+    {
+      "text": "These innovations aren't just screens; they're integrated systems. Imagine smart homes, offices, and cities communicating through advanced interfaces by 2026.",
+      "image_prompt": "A person's hand interacting with multiple interconnected holographic smart devices and data streams in an integrated home environment, dramatic side lighting, focused expression.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "Meanwhile, Nvidia's surging market value highlights intense demand for AI infrastructure. Their GPUs are foundational for these next-gen smart systems and displays.",
+      "image_prompt": "A hyper-realistic 8K render of a powerful Nvidia GPU chip, glowing with internal energy, partially submerged in a complex circuit board, surrounded by abstract, flowing data paths, dramatic side lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "This isn't just about chips; it's about the AI they power. Complex algorithms are now driving smarter displays and richer, intuitive system integration.",
+      "image_prompt": "Abstract representation of a complex AI neural network in action, with bright, interconnected nodes and glowing data pathways in blue and purple neon, against a dark, dynamic background.",
+      "camera_effect": "rotating_view"
+    },
+    {
+      "text": "AI's practical reach is expanding. Educational platforms are now adopting AI tools and templates, enhancing learning experiences through personalized adaptive content.",
+      "image_prompt": "A student wearing sleek smart glasses (cybernetic style) with data reflecting on the lenses, intensely focused on a holographic educational display, dramatic side lighting highlighting their determined expression.",
+      "camera_effect": "zoom_out_slow"
+    },
+    {
+      "text": "The convergence of powerful AI and advanced displays is redefining interaction. This marks a new era where technology seamlessly adapts to human needs.",
+      "image_prompt": "A futuristic city skyline at dawn, with holographic interfaces and smart display projections integrated seamlessly into buildings and public spaces, subtle data reflections, expressing wonder.",
+      "camera_effect": "dolly_zoom"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
