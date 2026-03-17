@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "HBM ALERT!",
+    "narration": "WARNING: Your HBM stock strategy is dangerously outdated!",
+    "image_description": "Close-up of a digital stock chart with aggressive red glitch effects, reflecting in a cybernetic investor's glowing iris through smart glasses, urgent red warning lights flashing. Dramatic side lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "HBM SUPER",
+    "image_description": "3D render of a hyper-realistic HBM (High Bandwidth Memory) stack on a printed circuit board, glowing with blue data lines, centered composition, dramatic backlighting, 8k resolution. No human element.",
+    "reasoning": "Highlights the key technology (HBM) and suggests market excitement ('SUPER') to attract investors and tech enthusiasts, without relying on human expressions."
+  },
+  "title": "HBM Supercycle: Investor's Urgent Briefing",
+  "segments": [
+    {
+      "text": "HBM demand drives memory valuations. Micron, Samsung, SK Hynix lead in GPU integration. This battle defines the coming memory supercycle.",
+      "image_prompt": "3D render of multiple HBM stacks integrated onto a GPU substrate, glowing blue data lines indicating high bandwidth, hyper-realistic, 8k.",
+      "camera_effect": "zoom_in",
+      "text_overlay": "HBM DEMAND"
+    },
+    {
+      "text": "Infineon urges Europe: invest in large, automated fabs. This CAPEX shift is vital for supply chain resilience and global semiconductor competitiveness.",
+      "image_prompt": "Futuristic, highly automated semiconductor cleanroom, robotic arms precisely handling glowing silicon wafers, neon blue lighting, cinematic.",
+      "camera_effect": "pan_left",
+      "text_overlay": "EU FAB CAPEX"
+    },
+    {
+      "text": "Automated fabs are crucial for maximizing yield rates. New manufacturing processes inherently face yield challenges, impacting profitability and production capacity.",
+      "image_prompt": "Extreme close-up of a perfectly patterned silicon wafer, with a holographic overlay displaying complex yield data and defect analysis. High contrast.",
+      "camera_effect": "static",
+      "text_overlay": "YIELD CRITICAL"
+    },
+    {
+      "text": "Analysts project robust microchip stock growth through 2026. Focus AI-driven GPU development and advanced packaging solutions for long-term valuation gains.",
+      "image_prompt": "Digital stock market graph superimposed over a circuit board, vibrant green upward trends, data streams flowing, cinematic lighting, 8k.",
+      "camera_effect": "zoom_out",
+      "text_overlay": "2026 OUTLOOK"
+    },
+    {
+      "text": "Taiwan remains central to the memory supercycle, especially HBM component production. Its manufacturing dominance impacts global supply chains and strategic technology access.",
+      "image_prompt": "Stylized holographic map of Taiwan glowing with energy, digital data streams emanating, connecting to global chip factories and data centers. Cyberpunk aesthetic.",
+      "camera_effect": "pan_right",
+      "text_overlay": "TAIWAN HUB"
+    },
+    {
+      "text": "Strategic investments in advanced wafer technology and HBM capacity will dictate future market leadership and investor returns.",
+      "image_prompt": "A focused engineer with cybernetic eyes reflecting complex data, deep in thought, in a futuristic R&D lab. Serious thought expression, dramatic side lighting.",
+      "camera_effect": "static",
+      "text_overlay": "FUTURE LEADERSHIP"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
