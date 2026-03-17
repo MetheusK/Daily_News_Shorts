@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "2026 TECH SHOCK!",
+    "narration": "Warning: The tech world is about to change EVERYTHING you know about your job and money by 2026!",
+    "image_description": "Extreme close-up of a cybernetic eye reflecting rapidly changing digital data streams, with red warning lights and glitch effects, dramatic side lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "FUTURE TECH SHIFT",
+    "image_description": "Hyper-realistic 3D render of a glowing, intricate neural network forming a future city skyline, with holographic data projections of financial graphs and job market trends. Centered, dramatic backlighting, 8k resolution.",
+    "reasoning": "This thumbnail uses a compelling, futuristic object (neural network + holographic data) to represent the core theme (tech trends, jobs, investment) in a visually striking and high-contrast way, drawing curiosity about the 'shift' mentioned."
+  },
+  "title": "2026 Tech Forecast: Jobs, Laws & Investments Explained!",
+  "segments": [
+    {
+      "text": "TechMagazines forecasts a 30% shift in tech recruitment by 2026. Demand for AI/ML skills will surge, redefining traditional IT roles.",
+      "image_prompt": "Digital display showing futuristic job growth curves with glowing nodes for 'AI' and 'ML' skills. Cinematic lighting, cyberpunk neon.",
+      "camera_effect": "panning over a futuristic job board"
+    },
+    {
+      "text": "Cybersecurity, data ethics, and cloud architecture roles are projected to grow 25% annually. Companies prioritize adaptability and continuous learning.",
+      "image_prompt": "A person with intense focus, looking through smart glasses at a holographic display of complex cybersecurity protocols and cloud infrastructure diagrams. Dramatic side lighting.",
+      "camera_effect": "zoom on holographic data"
+    },
+    {
+      "text": "Brazil's legal landscape anticipates new tech regulations by 2026, focusing on data privacy, AI governance, and digital asset ownership. This affects global firms.",
+      "image_prompt": "A digital gavel striking a glowing block with 'PRIVACY' and 'AI GOVERNANCE' text, overlaid on a stylized map of Brazil. Cinematic lighting.",
+      "camera_effect": "slow motion, dramatic impact"
+    },
+    {
+      "text": "Challenges include cross-border data flow and ethical AI deployment. Opportunities arise for specialized legal tech services in compliance and intellectual property by 2026.",
+      "image_prompt": "Glowing data streams crossing digital borders, with glitch effects around 'ETHICS' on a screen. A determined professional views this on a smart tablet. Cyberpunk neon lighting.",
+      "camera_effect": "tracking shot of data streams"
+    },
+    {
+      "text": "Tech investment in 2026 will favor AI, clean energy tech, and biotech. Analysts predict 15-20% growth in these sectors, driven by innovation and market demand.",
+      "image_prompt": "Stock market graph showing sharp upward trends for AI and green energy symbols. Holographic currency symbols float in the foreground. Cinematic lighting.",
+      "camera_effect": "fast zoom on peak of graph"
+    },
+    {
+      "text": "Major players are diversifying portfolios, seeking early-stage startups with disruptive potential. This creates new opportunities for innovators and risk-takers in the coming years.",
+      "image_prompt": "A robot hand (technical, not violent) reaching towards a constellation of glowing startup logos/icons in a digital space. Dramatic side lighting, reflecting data on metallic surfaces.",
+      "camera_effect": "dolly zoom to focus on the hand"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
