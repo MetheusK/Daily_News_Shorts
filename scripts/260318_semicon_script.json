@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "HBM SUPPLY WAR",
+    "narration": "WARNING: The AI power shift is here. HBM supply is the new battlefield, and your investments could be impacted NOW!",
+    "image_description": "Close-up of a human eye with a glowing, cybernetic iris reflecting holographic data streams of HBM stacks and microchips. Intense focus, dramatic red and blue cinematic lighting, digital corruption effects around the edges.",
+    "mood_color": "neon_red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI'S NEW BOTTLENECK?",
+    "image_description": "A hyper-realistic 3D render of a stack of glowing HBM (High Bandwidth Memory) chips at the center of a server rack, with intricate fiber optic cables weaving around it. Cyberpunk neon blue and purple backlighting, 8k resolution, dramatic depth of field.",
+    "reasoning": "The direct question and technical imagery immediately inform investors and engineers about a critical, potentially overlooked, aspect of AI's future, encouraging a click to understand the 'why'."
+  },
+  "title": "HBM Supply Chain SHOCK: AI Power Shift Explained",
+  "segments": [
+    {
+      "text": "NVIDIA and AMD are aggressively courting Korean giants Samsung and SK Hynix for HBM. This signals a critical shift in AI power from pure compute to crucial memory technology.",
+      "image_prompt": "A futuristic digital handshake between two corporate avatars (representing NVIDIA and Samsung/SK Hynix) overlaid with glowing HBM chips. Cinematic lighting, intense focus.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "Jensen Huang's recent Korea visit highlights NVIDIA's urgent need for high-yield HBM3/HBM3E, directly impacting their GPU production timelines and future AI accelerator roadmap dominance.",
+      "image_prompt": "A highly detailed NVIDIA GPU chip with integrated HBM stacks, partially obscured by a holographic overlay showing complex yield rate data. Serious determination reflected in a cybernetic eye in the background.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "Meanwhile, Lisa Su’s deepening alliance with Samsung covers advanced AI chips and foundry services. This aims to bolster AMD's MI300 series supply chain and challenge NVIDIA's market position.",
+      "image_prompt": "Two robot hands, one displaying an AMD logo and the other a Samsung logo, connecting over a schematic of a cutting-edge AI chip. Dramatic side lighting, focus on precision.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "This fierce competition drives CAPEX in HBM manufacturing, but also creates potential bottlenecks. Achieving high yield rates for next-gen HBM is paramount for market share.",
+      "image_prompt": "A sprawling, high-tech semiconductor fabrication cleanroom with robotic arms manipulating wafers. Red warning lights flash over areas indicating 'bottleneck' and 'low yield'.",
+      "camera_effect": "tracking_shot"
+    },
+    {
+      "text": "Companies with secured, high-yield HBM supply and strong yield performance will see significant valuation advantages. Others face integration challenges and delayed product launches.",
+      "image_prompt": "A digital stock market ticker displaying green upward arrows for 'HBM Secure' companies and red downward arrows for 'HBM Bottlenecked' companies. A person with smart glasses intensely analyzes the data.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "But the implications for next-gen AI chip valuation and supply chain dominance are just beginning.",
+      "image_prompt": "A complex, glowing holographic projection of a global supply chain map, highlighting critical HBM manufacturing nodes with interconnected data lines. Cyberpunk aesthetic.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
