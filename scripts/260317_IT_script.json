@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "2026 IS HERE!",
+    "narration": "Warning! The future of tech for 2026 is already unfolding, and you're not ready for how it will change everything!",
+    "image_description": "A person with intense focus, their cybernetic eyes reflecting a stream of holographic data and future interfaces, dramatic side lighting, neon green accents.",
+    "mood_color": "neon_green"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "FUTURE TECH REVEALED",
+    "image_description": "A hyper-realistic 3D render of a glowing, intricate microchip at the center of the frame, surrounded by abstract, interconnected data lines. Dark, high-contrast background with subtle cyberpunk blue and purple lighting, 8k resolution.",
+    "reasoning": "The object-focused, high-tech visual combined with a mysterious, urgent text will pique curiosity and encourage clicks from a general audience interested in future technology."
+  },
+  "title": "2026: The Tech Trends Reshaping YOUR Future",
+  "segments": [
+    {
+      "text": "Analysts forecast transformative shifts across industries for 2026. These trends redefine daily living, impacting everyone directly. Expect radical changes soon.",
+      "image_prompt": "Futuristic city skyline with holographic data overlays projecting information onto buildings, digital glitched sky, cinematic lighting.",
+      "camera_effect": "dynamic zoom out"
+    },
+    {
+      "text": "Carahsoft’s Tim Boltz identified 10 key healthcare tech trends for 2026. This includes advanced AI diagnostics and personalized medicine, boosting patient outcomes dramatically.",
+      "image_prompt": "A medical professional with serious thought, interacting with a transparent holographic patient data display showing health metrics. Cyberpunk medical facility background.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Expect pervasive AI integration, personalizing everything from smart homes to education. Predictive analytics will anticipate needs, streamlining daily tasks by 2026.",
+      "image_prompt": "User looking with wonder at a holographic menu projected from a smart home device, showing personalized suggestions for daily routines. Clean, modern interior.",
+      "camera_effect": "pan left"
+    },
+    {
+      "text": "SXSW 2026 highlighted immersive digital experiences. VR/AR will reshape work, entertainment, and social interactions, creating seamless mixed realities for users.",
+      "image_prompt": "Person wearing sleek smart glasses, seeing augmented reality overlays on a bustling street, displaying dynamic information and entertainment elements. Cyberpunk neon lighting.",
+      "camera_effect": "tracking shot"
+    },
+    {
+      "text": "With rapid tech adoption, enhanced data privacy and robust cybersecurity become paramount. New protocols ensure secure, ethical digital engagement for all users.",
+      "image_prompt": "Digital padlock icon over a complex network diagram, a glowing iris reflecting data security lines, red warning lights subtly indicating potential threats but ultimately secure. Cinematic lighting.",
+      "camera_effect": "slow zoom in"
+    },
+    {
+      "text": "Sustainable tech innovation will dominate, with green energy solutions powering these advancements. This future prioritizes efficiency and environmental impact for global benefit.",
+      "image_prompt": "Futuristic city skyline powered by clean energy, with visible wind turbines and solar arrays glowing digitally. A person with determination overlooking the scene. Dramatic lighting.",
+      "camera_effect": "reveal shot"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
