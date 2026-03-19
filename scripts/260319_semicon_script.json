@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "SAMSUNG BOMBSHELL!",
+    "narration": "Market Warning: Samsung just detonated a $73 billion investment bomb, reshaping the AI chip war!",
+    "image_description": "Cybernetic eye reflecting a holographic projection of intricate chip designs and exploding financial charts. Intense red cinematic lighting with digital corruption effects.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI CHIP WAR",
+    "image_description": "Hyper-realistic 3D render of a glowing, intricate AI chip (HBM memory stack on a GPU die) centered within a dark server rack, surrounded by blue and red neon lights, dramatic backlighting, 8k resolution.",
+    "reasoning": "This thumbnail visually represents the core conflict and high-tech nature of the news, directly appealing to both investors (war) and engineers (chip tech) while prioritizing an object over a human face for higher click-through-rate and adherence to rules."
+  },
+  "title": "Samsung's $73B AI Chip Gamble: Market Impact",
+  "segments": [
+    {
+      "text": "Samsung targets AI dominance with a colossal $73 billion CAPEX investment plan. This strategic move aims to capture the surging AI chip market.",
+      "image_prompt": "Cinematic shot of a high-tech data center, focus on a sleek server rack with glowing blue lights, a digital overlay showing '+ $73B' in a serious, technical font. Determined expression on an engineer through smart glasses, reflecting data.",
+      "text_overlay": "CAPEX BOOM",
+      "camera_effect": "push_in"
+    },
+    {
+      "text": "The investment prioritizes advanced packaging, HBM memory, and next-gen GPU technologies. Yield improvements are crucial for high-performance AI components.",
+      "image_prompt": "Close-up of a holographic diagram showing intricate HBM memory stacks integrated onto a GPU die, reflecting data into a serious engineer's glowing iris cybernetic eye, intense focus expression.",
+      "text_overlay": "HBM YIELD FOCUS",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "TrendForce projects global foundry revenue to hit $218.8 billion by 2026, driven by this AI chip demand surge. This valuation shift impacts all players.",
+      "image_prompt": "3D animated bar chart showing a steep, accelerating revenue increase towards $218.8 Billion in 2026, set against a backdrop of a pristine wafer fabrication clean room. Cyberpunk neon lighting.",
+      "text_overlay": "FOUNDRY SURGE",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "This aggressive push intensifies competition with TSMC and Intel for critical foundry and HBM market share. Supply chain stability is paramount.",
+      "image_prompt": "Digital battle map showing icons representing Samsung, TSMC, and Intel converging on a glowing 'AI Chip' icon. Energetic digital lines connecting supply chain nodes. Determined expression, through data-reflecting smart glasses.",
+      "text_overlay": "RIVALRY INTENSIFIES",
+      "camera_effect": "dynamic_pan"
+    },
+    {
+      "text": "Investors should analyze wafer production ramps and CAPEX efficiency. Samsung's bold bet signals a long-term play in the high-stakes AI semiconductor race.",
+      "image_prompt": "Stock market charts overlaid with a detailed blueprint of a wafer fabrication plant. A hand with a cybernetic glove points to a growth area on the chart with intense focus. Cinematic lighting.",
+      "text_overlay": "INVESTOR ALERT",
+      "camera_effect": "static"
+    },
+    {
+      "text": "The critical question remains: Can Samsung execute on this massive CAPEX without impacting manufacturing yields? This is the core challenge.",
+      "image_prompt": "A complex circuit board diagram with a flashing red warning light on a specific component, reflecting critical data into a focused cybernetic eye. Digital glitch effects conveying a technical challenge.",
+      "text_overlay": "YIELD CHALLENGE",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
