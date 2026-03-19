@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "FUTURE IS HERE",
+    "narration": "Stop scrolling! The future of tech isn't coming; it's already here, changing everything you know!",
+    "image_description": "Extreme close-up of a human eye with cybernetic reflections of AI data streams, intense focus, dramatic side lighting, digital glitch effect, red warning lights, cinematic lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI TAKEOVER?",
+    "image_description": "Hyper-realistic 3D render of a glowing, intricate AI processor chip at the center of a futuristic data server rack, dramatic blue and purple cyberpunk lighting, 8k resolution, centered composition.",
+    "reasoning": "The term 'AI TAKEOVER?' creates immediate curiosity and urgency for a general audience, while the high-tech, object-focused 3D render signals innovation without relying on human expressions, ensuring a clean, clickable aesthetic."
+  },
+  "title": "Future Unlocked: Next-Gen AI & Tech Trends 2026",
+  "segments": [
+    {
+      "text": "Recent reports confirm AI's massive expansion, with key sectors seeing unprecedented investment and integration. This shift impacts user interaction profoundly.",
+      "image_prompt": "Holographic projection of growing tech charts and graphs, overlaid with abstract AI neural network patterns, cinematic lighting, reflecting data, intense focus.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "New technologies are specifically designed to simplify everyday tasks, from smart home automation to personalized digital assistants, enhancing daily convenience.",
+      "image_prompt": "A smart home interface displaying seamless integration of devices, a person interacting with a holographic screen showing daily schedule, clear, focused expression, cinematic lighting.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "The LED lighting industry is undergoing a significant transformation, with advanced features like adaptive illumination and smart sensors becoming standard for 2026.",
+      "image_prompt": "Futuristic LED light panels displaying adaptive color changes in a smart building, reflecting data streams, intense focus, cyberpunk neon lighting, through smart glasses view.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "Expect predictive AI to optimize user experiences across platforms, anticipating needs before they arise. Data-driven insights refine interfaces and personalize content.",
+      "image_prompt": "A sleek smartphone screen displaying a highly personalized, intuitive user interface with predictive suggestions, glowing digital elements, intense focus, dramatic lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "These trends prioritize accessibility and efficiency, driving innovation in voice commands and intuitive controls. Billions will experience enhanced, frictionless daily interactions.",
+      "image_prompt": "A person (seen from behind) interacting with a holographic control panel using subtle hand gestures, showing intense focus, dramatic lighting, reflecting data, cybernetic elements.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "By 2026, experts predict these integrated tech trends will redefine daily life, impacting billions globally through smarter automation and seamless interactions.",
+      "image_prompt": "A futuristic cityscape at dusk with glowing data lines connecting smart buildings, showing advanced technological infrastructure, dramatic cinematic lighting, no visible humans, focus on the scale of impact.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
