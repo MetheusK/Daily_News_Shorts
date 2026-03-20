@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI CHIP SHOCK",
+    "narration": "Stop scrolling! The semiconductor market just delivered a critical yield shock that could redefine your investment portfolio!",
+    "image_description": "Close-up of a human eye, cybernetic, reflecting abstract data streams and glowing blue circuit patterns, intense focus, cinematic lighting, digital corruption effect on edges.",
+    "mood_color": "neon_green"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "SEMICON REVIVAL",
+    "image_description": "Hyper-realistic 3D render of a glowing silicon wafer, intricate circuit patterns visible, resting on a futuristic pedestal in a dark, dramatic setting with subtle cyberpunk neon lighting. 8k resolution.",
+    "reasoning": "The thumbnail focuses on a key industry object (wafer) with high-tech aesthetics, implying growth and a 'revival' for investors, aiming for a high click-through rate with clear, impactful imagery."
+  },
+  "title": "Semiconductor Revival: AI Chip Growth Accelerates",
+  "segments": [
+    {
+      "text_overlay": "SAMSUNG RISING",
+      "narration": "Samsung Foundry shows stabilization signs, securing critical Nvidia and Tesla AI chip orders, underscoring its growing advanced process capabilities.",
+      "image_prompt": "3D render of a Samsung logo integrated into a microchip, surrounded by subtle digital energy lines, cinematic lighting, blue and white tones.",
+      "camera_effect": "dynamic zoom in"
+    },
+    {
+      "text_overlay": "RIVALRY HEATS UP",
+      "narration": "This positions Samsung to intensify competition in the high-performance computing (HPC) and AI wafer market, impacting future CAPEX decisions.",
+      "image_prompt": "Two highly detailed robotic hands reaching towards a glowing central CPU, intense focus, dramatic side lighting, digital sparks flying, representing competition.",
+      "camera_effect": "panning left to right"
+    },
+    {
+      "text_overlay": "ASML'S TRILLION",
+      "narration": "ASML's potential trillion-dollar valuation underscores the critical bottleneck of EUV lithography, essential for next-gen HBM and GPUs.",
+      "image_prompt": "Highly detailed 3D render of an ASML EUV lithography machine's optical system, complex lenses glowing, holographic data projections nearby, deep blues and purples.",
+      "camera_effect": "slow rotation"
+    },
+    {
+      "text_overlay": "SUPPLY CHAIN CRITICAL",
+      "narration": "Persistent demand for advanced equipment from companies like ASML highlights strong sector-wide CAPEX commitments and strategic supply chain reliance.",
+      "image_prompt": "Overhead view of a miniature, futuristic smart factory assembly line, tiny robotic arms handling glowing wafers, interconnected data lines, cinematic lighting.",
+      "camera_effect": "dolly out"
+    },
+    {
+      "text_overlay": "TSMC DOMINANCE",
+      "narration": "TSMC’s AI chip Compound Annual Growth Rate is projected at 60%, reshaping its growth drivers and mitigating current market risks.",
+      "image_prompt": "Close-up of a TSMC branded wafer, glowing with a golden light, held by a robotic arm, background blurred server racks with glowing lights, intense focus.",
+      "camera_effect": "static"
+    },
+    {
+      "text_overlay": "AI GROWTH BOOMS",
+      "narration": "TSMC projects an aggressive 60% AI chip CAGR, signalling sustained demand for advanced silicon through 2027.",
+      "image_prompt": "Cybernetic human eye, through smart glasses, reflecting a dynamic graph showing a sharp upward curve for AI chip CAGR, intense focus, dramatic lighting.",
+      "camera_effect": "dynamic zoom in"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
