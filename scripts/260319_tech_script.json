@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI IS HERE",
+    "narration": "Warning! The AI you know is already obsolete. New models are evolving at an unprecedented rate, changing everything right now!",
+    "image_description": "Close-up of a human eye with a glowing, cybernetic iris reflecting rapidly scrolling code and data, dramatic red and blue cyberpunk lighting, intense focus expression, digital glitch effect on the edges.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI IS EVERYWHERE",
+    "image_description": "Hyper-realistic 8K 3D render of a futuristic, glowing neural network brain encased in a transparent glass dome, surrounded by intricate holographic data streams in a dark server room, dramatic blue and purple backlighting.",
+    "reasoning": "Visualizes AI's pervasive nature and advanced technology with a compelling 3D render, emphasizing mystery and scale to maximize click-through rate."
+  },
+  "title": "AI Just Leveled Up: What It Means For YOU!",
+  "segments": [
+    {
+      "text_overlay": "AI ACCELERATION",
+      "narration": "Tech giants like Google and OpenAI are releasing new AI models monthly, not yearly. This rapid iteration fundamentally shifts development cycles.",
+      "image_prompt": "Dynamic visualization of fast-scrolling code on multiple holographic screens, with cybernetic hands rapidly typing, abstract data flowing in a futuristic setting.",
+      "camera_effect": "fast_zoom_out"
+    },
+    {
+      "text_overlay": "NEW AI MODELS",
+      "narration": "Models like Gemini and advanced ChatGPT versions now demonstrate multimodal reasoning. They understand text, images, video, enhancing user interfaces.",
+      "image_prompt": "Futuristic UI displaying AI simultaneously processing diverse inputs: a text box, an image, and a video clip, with concise AI-generated output clearly visible.",
+      "camera_effect": "static"
+    },
+    {
+      "text_overlay": "DAILY AI IMPACT",
+      "narration": "From routine task automation to personalized content, AIs integrate deeper into daily apps. Expect significant changes in workflow efficiency for millions.",
+      "image_prompt": "A person with an expression of intense focus, wearing smart glasses that reflect holographic data, interacting with a complex digital dashboard powered by AI assistance.",
+      "camera_effect": "slow_pan"
+    },
+    {
+      "text_overlay": "AI FOR ALL",
+      "narration": "AI tools are more accessible to the public, not just experts. Simplified interfaces mean broader adoption and novel everyday applications across sectors.",
+      "image_prompt": "A diverse group of individuals, with expressions of wonder and serious thought, observing a large, user-friendly interactive screen displaying intuitive AI tools.",
+      "camera_effect": "dolly_zoom"
+    },
+    {
+      "text_overlay": "FUTURE AI",
+      "narration": "Expect future AI integration in smart homes, education, healthcare. These models learn and adapt, offering predictive assistance and enhanced decision-making.",
+      "image_prompt": "An elegant, futuristic smart home interface on a transparent screen, showing an AI assistant, holographic controls for lighting and climate, focus on seamless user interaction.",
+      "camera_effect": "dynamic_rotation"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
