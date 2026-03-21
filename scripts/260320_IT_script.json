@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI IS HERE!",
+    "narration": "Warning! The AI revolution isn't coming, it's already here, silently reshaping your entire world!",
+    "image_description": "A person looking intently through smart glasses, data streams reflecting in their glowing cybernetic eyes, surrounded by holographic financial charts and digital interfaces. Cinematic lighting, cyberpunk neon, dramatic side lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI TAKEOVER?",
+    "image_description": "A hyper-realistic 3D render of a glowing, intricate AI chip at the center of a complex network of financial data flowing in a dark, cyberpunk server room. Dramatic backlighting with electric blue and purple hues, 8k resolution.",
+    "reasoning": "The question mark on 'AI TAKEOVER' creates immediate intrigue and urgency, compelling users to click and understand the implications of widespread AI adoption. The object-focused, high-contrast visual is clean and tech-forward."
+  },
+  "title": "AI's Silent Takeover: How It's Changing EVERYTHING!",
+  "segments": [
+    {
+      "text": "Financial services are rapidly integrating AI, driven by deregulation and new UK fraud legislation. This optimizes risk assessment and transaction security.",
+      "image_prompt": "A digital interface displaying complex financial data streams and risk assessment algorithms, overlaid with subtle British flag elements and security icons. Cinematic lighting, concrete, technical.",
+      "camera_effect": "static",
+      "text_overlay": "AI FINANCE BOOM"
+    },
+    {
+      "text": "AI adoption surges across sectors. A recent Canary Technologies study confirms hospitality firms are leveraging AI for improved guest experiences and operational efficiency.",
+      "image_prompt": "A futuristic hotel lobby with a humanoid AI concierge interacting with guests, reflected in polished marble floors. Holographic service menus, clear, technical.",
+      "camera_effect": "static",
+      "text_overlay": "HOTEL AI"
+    },
+    {
+      "text": "Human Resources technology also projects massive AI integration by March 2026. This will streamline recruitment, training, and employee management processes globally.",
+      "image_prompt": "A sleek, minimalist HR dashboard showing holographic projections of employee data, recruitment pipelines, and training modules. Text 'March 2026' visible. Concrete, technical.",
+      "camera_effect": "static",
+      "text_overlay": "HR GOES AI"
+    },
+    {
+      "text": "Deloitte's 'Real Economy Blog' details this acceleration, highlighting AI's role in complex data analysis, predicting market shifts, and identifying intricate patterns.",
+      "image_prompt": "Abstract visualization of intertwined data streams forming predictive patterns on a dark background. A subtle, glowing 'Deloitte' logo embedded in the digital architecture. Technical, clear.",
+      "camera_effect": "static",
+      "text_overlay": "AI DATA POWER"
+    },
+    {
+      "text": "New AI models are already reducing manual tasks by 40% in some pilot programs, shifting human roles towards strategic oversight and creative problem-solving.",
+      "image_prompt": "A person with an intense focus, overseeing multiple holographic screens displaying automated tasks and complex problem-solving scenarios, with a progress bar showing '40% reduction'. Cinematic lighting.",
+      "camera_effect": "static",
+      "text_overlay": "JOBS TRANSFORMED"
+    },
+    {
+      "text": "This shift impacts financial stability, jobs, and daily interactions globally.",
+      "image_prompt": "A stylized global map with interconnected nodes representing finance, jobs, and daily life, all glowing with AI-driven energy. Cinematic lighting, concrete, technical.",
+      "camera_effect": "static",
+      "text_overlay": "GLOBAL AI SHIFT"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
