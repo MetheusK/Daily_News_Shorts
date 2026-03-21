@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI VALUATION SHOCK",
+    "narration": "Market Alert! The AI investment landscape is undergoing a silent, massive revaluation you're missing!",
+    "image_description": "Aggressive, chaotic data streams and digital corruption effects overlaying a cybernetic eye reflecting complex stock charts, with red warning lights flashing across the screen. Cinematic lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "ASML TRILLION?",
+    "image_description": "A highly detailed 3D render of an ASML EUV machine's wafer stage, illuminated by dramatic blue and purple laser light. A holographic projection of a rising stock chart is subtly overlayed. Hyper-realistic, 8k resolution, centered object with dramatic backlighting.",
+    "reasoning": "This thumbnail highlights a specific, high-value company directly from the news, posing a question about its future potential ('ASML TRILLION?'), which directly appeals to investors and industry insiders. The object-focused, high-tech image with cinematic style is visually captivating and avoids generic 'shocked face' human elements, adhering to the rules."
+  },
+  "title": "AI's Trillion-Dollar Bet: ASML & TSMC Shift",
+  "segments": [
+    {
+      "text": "ASML's critical role in advanced lithography positions it for trillion-dollar valuation, fueled by increasing demand for high-performance AI chips and GPU manufacturing.",
+      "image_prompt": "A sleek, futuristic 3D render of an ASML EUV machine, laser beams visible, with a subtle financial chart overlay showing an upward trend, cinematic lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "TSMC is the core foundry for leading AI hardware, including HBM and advanced GPUs. Their 3nm and 2nm process nodes are essential for next-gen AI compute.",
+      "image_prompt": "Close-up of a highly detailed silicon wafer reflecting data streams, held by a robotic arm, with the TSMC logo subtly integrated. Intense focus on intricate patterns, dramatic side lighting.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "Microsoft CEO Satya Nadella's statement underscores a paradigm shift. Every software layer rewriting for AI necessitates unprecedented demand for underlying chip architecture.",
+      "image_prompt": "A holographic projection of complex code being rewritten, with abstract AI network imagery in the background. A person (from behind, or only hands on a keyboard) watching intently, dramatic side lighting.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "This surge in AI demand drives immense CAPEX investment for new fabs and equipment. Maintaining high manufacturing yields, especially for HBM, becomes critical.",
+      "image_prompt": "A vast, pristine cleanroom environment with robotic arms moving wafers, illuminated by sharp, sterile lights. Digital overlay showing yield percentages, reflecting data, focused expression.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "Supply chain resilience for specialized materials and equipment, from wafer production to advanced packaging, will dictate the pace of AI hardware deployment.",
+      "image_prompt": "Interconnected global supply chain map represented by glowing lines between factories and data centers, with digital corruption effect around potential bottleneck points. Cyberpunk neon lighting.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "The escalating competition for advanced foundry capacity and lithography tools profoundly impacts future valuations and market share for key players until 2026.",
+      "image_prompt": "A stylized graph showing multiple competing lines rising sharply, with a glowing cybernetic eye reflecting this competitive data, against a dark, futuristic backdrop. Intense focus.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
