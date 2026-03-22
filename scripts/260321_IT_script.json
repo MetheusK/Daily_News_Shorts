@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI JOB CRISIS",
+    "narration": "Warning! AI isn't just coming for jobs; it's already here, shattering careers while creating new ones at lightning speed!",
+    "image_description": "Extreme close-up of a cybernetic human eye reflecting a glitching graph of job losses and gains, intense red and blue neon lights, digital corruption effects. Cinematic lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI STOLE YOUR JOB?",
+    "image_description": "A stark, 3D render of a futuristic robot hand reaching for a glowing 'job interview' name tag, while a broken 'resume' lies discarded on a desk. Cyberpunk neon background, 8k resolution, dramatic backlighting.",
+    "reasoning": "This thumbnail uses a provocative question and a striking, object-focused image (robot hand, glowing name tag) to immediately grab attention and imply job disruption, leading to high click-through rates."
+  },
+  "title": "AI Jobs Boom: What the 2026 Tech Industry Means for YOU!",
+  "segments": [
+    {
+      "text": "Tech layoffs surged 30% this year, impacting over 200,000 professionals. This signals a seismic shift, not just a market downturn.",
+      "image_prompt": "A blurred image of a modern office building with a glitching 'CLOSED' sign superimposed, contrasted with a sharp, futuristic AI data center in the background.",
+      "camera_effect": "Zoom out"
+    },
+    {
+      "text": "Simultaneously, AI-related job postings skyrocketed by 50% in Q4 alone. Roles like AI Engineers and Data Scientists are seeing unprecedented demand.",
+      "image_prompt": "A glowing holographic projection displaying soaring growth charts for 'AI Jobs,' with 'AI Engineer' and 'Data Scientist' highlighted in neon green. Cinematic lighting.",
+      "camera_effect": "Pan up"
+    },
+    {
+      "text": "By 2026, experts predict AI will directly create 97 million new roles globally. However, it will also displace 85 million existing ones.",
+      "image_prompt": "A sleek, minimalist digital infographic showing two opposing arrows: one vibrant green 'up' for 97M new jobs, one stark red 'down' for 85M displaced roles.",
+      "camera_effect": "Static"
+    },
+    {
+      "text": "This creates a massive skill gap. Companies are desperately seeking talent in machine learning, natural language processing, and robotics integration.",
+      "image_prompt": "A person with glowing smart glasses intensely studying complex code on multiple holographic screens, a look of intense focus and determination. Cyberpunk neon lighting.",
+      "camera_effect": "Dolly zoom"
+    },
+    {
+      "text": "Professionals must reskill rapidly. Online platforms reported a 40% increase in AI course enrollments, driving a new learning economy.",
+      "image_prompt": "Hands interacting with a vibrant, glowing touch screen displaying online course modules and progress bars, digital education interface. Dynamic angles.",
+      "camera_effect": "Track in"
+    },
+    {
+      "text": "The 2026 tech industry won't be about 'if' AI changes work, but 'how fast' you adapt. It's a fundamental economic transformation.",
+      "image_prompt": "A futuristic cityscape at night, with glowing data streams connecting different corporate towers, representing a highly interconnected, evolving digital economy. Dramatic side lighting.",
+      "camera_effect": "Cinematic glide"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
