@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI CHIP CRISIS",
+    "narration": "Urgent alert! A critical helium shortage threatens NVIDIA's AI chip production and could crash the market!",
+    "image_description": "Extreme close-up of a cybernetic eye reflecting a flickering red warning sign, digital glitch effects spreading across a complex circuit board, dramatic red backlighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "NVIDIA HELIUM SHOCK",
+    "image_description": "Hyper-realistic 3D render of a futuristic GPU chip glowing ominously with internal data flow, surrounded by faint blue helium gas swirls, dark background, cinematic lighting, 8k resolution.",
+    "reasoning": "This thumbnail directly highlights the core problem (NVIDIA + Helium) and its potential market impact through a visually striking object, appealing to tech-savvy investors and engineers."
+  },
+  "title": "AI Chip Market Shock: Helium Shortage & Samsung's $73B Bet",
+  "segments": [
+    {
+      "text_overlay": "NVIDIA HELIUM SHOCK",
+      "narration": "NVIDIA's critical AI chip production faces disruption from a helium shortage, impacting TSMC's advanced wafer fabrication in the Gulf region.",
+      "image_description": "3D render of a glowing green helium atom interacting with a silicon wafer, holographic data streams flowing around it, cinematic lighting."
+    },
+    {
+      "text_overlay": "TSMC YIELD THREAT",
+      "narration": "This shortage poses significant yield risks for TSMC, potentially delaying GPU shipments and impacting the entire AI semiconductor supply chain.",
+      "image_description": "Close-up of a complex semiconductor wafer with critical yield defects highlighted by red digital glitch effects, a focused engineer's hand (wearing smart glasses) pointing at a holographic schematic."
+    },
+    {
+      "text_overlay": "SAMSUNG $73B BET",
+      "narration": "Samsung targets SK Hynix's HBM lead with a $73 billion CAPEX blitz, escalating competition in high-bandwidth memory.",
+      "image_description": "Stylized representation of two powerful microchips (labeled 'Samsung' and 'SK Hynix') emitting competitive energy, massive digital '$73B CAPEX' overlay, cyberpunk neon lighting."
+    },
+    {
+      "text_overlay": "HBM MARKET SHIFT",
+      "narration": "This intense HBM race will redefine AI accelerator architecture, pushing innovation but also pressuring manufacturing yields and supply stability.",
+      "image_description": "Complex HBM stack glowing with internal data flow, surrounded by holographic schematics of AI accelerator architecture, deep blue and purple lighting."
+    },
+    {
+      "text_overlay": "TSMC 72% CONTROL",
+      "narration": "Despite challenges, TSMC maintains 72% global chip market control, with analysts predicting stock surges by 2026, driven by AI demand.",
+      "image_description": "A robotic arm placing a perfect silicon wafer onto a global map projected digitally, showing '72% Market Share' as a glowing overlay, determined cybernetic eyes in background reflecting the data."
+    },
+    {
+      "text_overlay": "SUPPLY CHAIN CRITICAL",
+      "narration": "NVIDIA's supply chain vulnerability underscores market sensitivity. Geopolitical stability and resource access are paramount for future AI dominance.",
+      "image_description": "Interconnected global supply chain network visualized as glowing lines on a dark Earth hologram, critical nodes highlighted in red, with digital text 'GEOPOLITICAL STABILITY' overlaid."
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
