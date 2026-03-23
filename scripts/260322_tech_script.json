@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI IS UNLEASHED",
+    "narration": "Warning! Your world just changed forever as AI's latest upgrades hit the streets.",
+    "image_description": "A close-up of a digital globe rapidly transforming into a neural network, intense blue and red data streams, dramatic cinematic lighting.",
+    "mood_color": "neon_green"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI SHOCKS WORLD",
+    "image_description": "A hyper-realistic 3D render of a futuristic, glowing CPU chip at the center, surrounded by holographic data streams and abstract circuit patterns, dark background with dramatic blue and purple backlighting.",
+    "reasoning": "Focuses on the core AI technology with a high-impact, short text, implying a major, unexpected development, grabbing attention effectively."
+  },
+  "title": "AI's Latest Updates: Game Changer or Hype?",
+  "segments": [
+    {
+      "text": "Google's Gemini Pro now integrates across G-Suite, boosting productivity significantly. Users report faster email drafting and complex data analysis in Workspace.",
+      "image_prompt": "A screen showing a sleek Google Workspace interface with AI-generated text appearing rapidly, subtle green digital overlays, person's hands on keyboard, focused.",
+      "text_overlay": "GOOGLE'S NEW BRAIN",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "OpenAI's ChatGPT advances conversational fluency and accuracy. DALL-E 3 generates detailed, context-aware images from simple prompts, enhancing creative workflows.",
+      "image_prompt": "A split screen: one side showing a chat interface with natural language text, other side showing an AI-generated photorealistic image, glowing data lines connecting them.",
+      "text_overlay": "SMARTER CHATBOTS",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "These updates empower daily users, making research, content creation, and personalized learning more accessible. AI tools are integrating seamlessly into everyday applications.",
+      "image_prompt": "A person with intense focus and calm expression, wearing smart glasses reflecting data, effortlessly using a tablet with various AI apps open, cinematic lighting, a futuristic home office setting.",
+      "text_overlay": "DAILY AI UPGRADE",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Businesses leverage AI models for rapid prototyping, market analysis, and customer service automation. Early adopters report significant efficiency gains and cost reductions.",
+      "image_prompt": "Holographic bar graphs and data visualizations projected in a modern office, a diverse team observing with serious thought, neon blue lighting.",
+      "text_overlay": "BUSINESS BOOST",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "AI tools are increasingly available through user-friendly interfaces, lowering barriers for non-technical individuals. This widespread access democratizes powerful computational capabilities.",
+      "image_prompt": "A diverse group of people (students, professionals, elderly, all with expressions of wonder/interest) interacting with various AI interfaces (tablet, smart speaker, computer), soft, inviting lighting.",
+      "text_overlay": "AI FOR EVERYONE",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "The implications are profound, shifting how we learn, work, and interact with information daily.",
+      "image_prompt": "A subtle, evolving neural network graphic slowly expanding across the screen, digital corruption effect at the edges, reflecting data.",
+      "text_overlay": "FUTURE IS NOW",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
