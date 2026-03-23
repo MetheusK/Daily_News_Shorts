@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI CHIP WAR!",
+    "narration": "Warning! Samsung just triggered a multi-billion dollar war for AI dominance, impacting every chip stock!",
+    "image_description": "A cybernetically enhanced industry analyst with glowing blue eyes reflecting circuit board schematics, intense focus, dramatic side lighting, digital corruption effects around the edges, neon red warning lights.",
+    "mood_color": "neon_red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "SAMSUNG'S $73B BET",
+    "image_description": "A highly detailed 3D render of two complex, glowing silicon wafers clashing violently in a dark, cyberpunk server room. Holographic data streams and sparks emanate, with dramatic backlighting, 8k resolution, centered object.",
+    "reasoning": "The '$73B Bet' highlights the massive investment, creating intrigue for investors. The clashing wafers visually represent the 'chip war' for engineers, signaling a major industry upheaval and driving clicks."
+  },
+  "title": "Samsung's $73B AI Blitz: Foundry War & HBM Takeover",
+  "segments": [
+    {
+      "text": "Samsung ignites a fierce battle, committing $73 billion in CAPEX to aggressively challenge rivals in advanced AI semiconductor production and capacity.",
+      "image_prompt": "A sprawling, futuristic semiconductor fabrication plant, immense scale, robotic arms manipulating glowing silicon wafers, cinematic lighting, digital readouts.",
+      "camera_effect": "zoom-out"
+    },
+    {
+      "text": "This strategic foundry move directly challenges TSMC’s deep dominance, especially in cutting-edge GPU and LPU wafer manufacturing for critical AI applications.",
+      "image_prompt": "Holographic projection of a complex 3nm wafer design, an engineer with smart glasses analyzing yield data, intense focus, reflecting data, through smart glasses.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Simultaneously, Samsung targets SK Hynix's established lead in High Bandwidth Memory (HBM) – a crucial component for next-generation AI accelerators and compute.",
+      "image_prompt": "Close-up of stacked HBM memory modules glowing with data transfer, intertwined with neural network visualizations, deep blue neon, reflecting complex algorithms.",
+      "camera_effect": "pan-left"
+    },
+    {
+      "text": "Notably, Groq's innovative LPU platform now leverages Samsung silicon, powerfully underscoring Samsung's expanding influence in critical AI hardware ecosystems.",
+      "image_prompt": "A high-performance server rack buzzing with activity, reflecting Groq LPU chips with glowing indicators, digital data streams flowing rapidly, cyberpunk neon lighting.",
+      "camera_effect": "zoom-in"
+    },
+    {
+      "text": "The market valuation of major AI chip producers and global supply chain reliability could experience significant turbulence from this aggressive, multi-front play.",
+      "image_prompt": "A global supply chain network visualized as glowing lines connecting factories and data centers, with key nodes highlighted in red warning lights, reflecting a turbulent market.",
+      "camera_effect": "rotate"
+    },
+    {
+      "text": "This aggressive CAPEX strategy aims to redefine AI chip manufacturing leadership.",
+      "image_prompt": "A determined-looking CEO (generic, futuristic portrayal, not specific individual) in a high-tech boardroom, looking confidently towards a holographic projection of a market share graph climbing steeply, dramatic lighting.",
+      "camera_effect": "zoom-in"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
