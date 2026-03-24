@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "WORLD TRANSFORMED",
+    "narration": "Warning! The world you know is rapidly disappearing as technology reshapes industries and careers overnight!",
+    "image_description": "Extreme close-up of a person's intense cybernetic eye, reflecting rapidly scrolling data streams and a futuristic cityscape, dramatic side lighting, neon green glow, subtle digital corruption effects.",
+    "mood_color": "neon_green"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "TECH SHIFT",
+    "image_description": "Hyper-realistic 3D render of a sleek, glowing holographic interface displaying business analytics and worker data, held by a robotic arm, set against a dark, futuristic background with dramatic backlighting, 8k resolution.",
+    "reasoning": "This thumbnail immediately signals a major technological change affecting business and labor, using a clear, object-focused image to intrigue viewers about the 'shift'."
+  },
+  "title": "Unseen Tech Trends Reshaping Your World!",
+  "segments": [
+    {
+      "text": "Enterprise technology trends are rapidly reshaping business innovation across industries, driving efficiency and entirely new operational models for global corporations.",
+      "image_prompt": "Dynamic visualization of interconnected global data networks and glowing business analytics dashboards, cinematic lighting.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "Retail is leveraging AI for personalized customer experiences and AR/VR for immersive shopping, significantly boosting engagement and sales conversion rates.",
+      "image_prompt": "Futuristic retail store with customers interacting with holographic product displays and AI-powered recommendation screens, vibrant cyberpunk neon.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "Supply chain optimization using IoT sensors and predictive analytics improves inventory management by 15%, reducing waste and increasing operational agility for retailers.",
+      "image_prompt": "Warehouse scene with automated robots, glowing IoT sensors on packages, and a central holographic display showing real-time inventory data, dramatic lighting.",
+      "camera_effect": "dolly_zoom"
+    },
+    {
+      "text": "A recent report highlights pay as the top concern for tech workers in regions like Oregon, impacting retention despite above-average compensation figures.",
+      "image_prompt": "A serious, focused tech worker looking at a screen displaying a bar chart of compensation vs. concerns, through smart glasses, blue and red data points.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "This creates a critical challenge for businesses: attracting and retaining skilled tech talent requires more than just salary; growth opportunities are key.",
+      "image_prompt": "A diverse team of tech professionals collaborating around a futuristic transparent display showing career paths and skill development graphs, determination on faces, cinematic lighting.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "So, the tech sector is evolving rapidly, demanding new strategies and a focus on human capital investment.",
+      "image_prompt": "Abstract digital cityscape with glowing lines representing data flow and human silhouettes interacting with technology, conveying growth and change, cyberpunk aesthetic.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
