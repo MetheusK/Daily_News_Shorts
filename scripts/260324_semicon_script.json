@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "CHIP BUBBLE BURST?",
+    "narration": "WARNING: Is the trillion-dollar AI chip market a ticking time bomb for your investments?",
+    "image_description": "A cybernetic eye with glowing iris reflecting distorted stock market charts and a digital warning overlay, dramatic red and blue neon lighting, glitch effects, intense focus.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI CHIP SHOCK",
+    "image_description": "Hyper-realistic 3D render of a glowing, intricate AI chip (GPU), centered, with data streams flowing around it, against a dark, dramatic, cyberpunk-inspired server rack background, 8k resolution, dramatic side lighting.",
+    "reasoning": "This thumbnail highlights the core subject (AI chip) with high-contrast, technical imagery. Its sophisticated and slightly ominous aesthetic appeals directly to industry professionals and investors seeking critical, data-driven insights, ensuring a high click-through rate without relying on sensationalized human reactions."
+  },
+  "title": "Semiconductor Market Alert: Trillion-Dollar Shifts",
+  "segments": [
+    {
+      "text_overlay": "VALUATION SHIFTS",
+      "narration": "Recent market data reveals aggressive valuation shifts across key semiconductor players driven by escalating AI demand.",
+      "image_prompt": "Dynamic stock market chart overlaid on a microchip pattern, digital corruption effects, intense focus in a cybernetic eye, dramatic lighting.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text_overlay": "NVIDIA'S ASCENT",
+      "narration": "NVIDIA's high-stakes earnings reports confirm sustained demand for powerful GPUs and AI accelerators, crucial for market valuation.",
+      "image_prompt": "Close-up of a powerful GPU board with glowing heat sinks and integrated circuits, data projected onto a technical engineer's smart glasses, determination.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text_overlay": "ARM'S AI PUSH",
+      "narration": "Arm’s architectural innovations are taking center stage, influencing next-gen AI chip designs beyond traditional GPU dominance.",
+      "image_prompt": "Digital blueprint of an Arm CPU core design overlaid with glowing AI neural network pathways, serious thought expression, dramatic lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text_overlay": "TSMC'S GROWTH",
+      "narration": "TSMC, valued at $1.76 trillion, is central to this, forecasting robust growth in AI chip manufacturing through 2026.",
+      "image_prompt": "Automated robot arms precisely handling silicon wafers in a sterile cleanroom, reflecting data streams, intense focus, cyberpunk neon lighting.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text_overlay": "HBM CAPEX BOOM",
+      "narration": "This monumental growth demands unprecedented CAPEX, especially in high-bandwidth memory (HBM) and CoWoS advanced packaging technologies.",
+      "image_prompt": "A close-up of a high-bandwidth memory (HBM) stack on a wafer, showing intricate connections, blue and green circuit patterns, hyper-realistic, 8k.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text_overlay": "5 TRILLION TARGET",
+      "narration": "NVIDIA’s valuation targets $5 trillion, driving record CAPEX in advanced packaging.",
+      "image_prompt": "Holographic projection of a complex advanced packaging diagram over a technician's cybernetic hand, focused expression, cinematic lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
