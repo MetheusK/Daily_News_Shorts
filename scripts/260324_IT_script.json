@@ -1,0 +1,46 @@
+{
+  "hook_plan": {
+    "overlay_text": "SILENT TECH SHIFT",
+    "narration": "WARNING: A massive, secret tech shift is quietly reshaping the future, and big money is already pouring into what's next!",
+    "image_description": "A figure with an intense focus, peering into a glowing holographic financial chart, reflecting data in their cybernetic eyes, surrounded by dramatic side lighting in a futuristic office. Cinematic lighting, cyberpunk neon.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "THE NEW GOLD RUSH",
+    "image_description": "Hyper-realistic 3D render of a futuristic fiber optic network node, glowing blue and green, intricate cables converging on a central processor, dramatic backlighting, 8k resolution, centered composition.",
+    "reasoning": "This thumbnail connects the concept of a 'gold rush' to cutting-edge technology infrastructure (fiber optics), creating intrigue and suggesting significant value/opportunity in the tech sector, aligning with investor news while being object-focused."
+  },
+  "title": "Unmasking the Hidden Trillions in Tech Infrastructure!",
+  "segments": [
+    {
+      "text": "Dycom Industries just appointed Raejeanne Skillern, former Intel VP of cloud solutions, to its board. This signals a major strategic direction shift.",
+      "image_prompt": "Close-up of a holographic organizational chart highlighting 'Raejeanne Skillern's' name with glowing data streams in the background, showing digital connections. Cinematic lighting, 8k.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "Dycom specializes in critical telecom and utility infrastructure. Skillern's deep cloud expertise will now accelerate their 5G and fiber optic deployments.",
+      "image_prompt": "3D render of vibrant, glowing fiber optic cables stretching across a digital cityscape, representing network pathways converging. Hyper-realistic, 8k, dramatic lighting.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "Record investor turnout, reported by Morningstar, showcases surging confidence and massive capital flow into these core digital infrastructure investments globally.",
+      "image_prompt": "Abstract visualization of surging financial data graphs with glowing upward arrows, overlaid with interconnected global network lines, indicating growth. Cyberpunk aesthetic, 8k.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Even media attention is shifting, with SF Standard actively seeking new tech reporters. Interest in this sector's explosive growth is rapidly expanding.",
+      "image_prompt": "A stylized, glowing newspaper headline 'TECH INFRASTRUCTURE BOOM!' on a transparent futuristic tablet, with hands rapidly typing on a glowing keyboard in the background. Cinematic lighting.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "This deep investment ensures faster, more reliable internet, smarter city infrastructure, and advanced digital services, directly enhancing our daily online lives.",
+      "image_prompt": "Overhead shot of a vibrant, modern smart city with holographic data points connecting buildings and infrastructure, showing seamless energy and traffic flow. 3D render, 8k, bright and futuristic.",
+      "camera_effect": "dolly_zoom"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
