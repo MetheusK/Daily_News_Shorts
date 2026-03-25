@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "CHIP CAPACITY CRASH",
+    "narration": "Urgent alert for investors! TSMC just signaled a critical bottleneck, threatening 2026 AI chip production!",
+    "image_description": "Extreme close-up of a digital circuit board fracturing with intense red glitch effects, a cybernetic eye reflecting a fractured data stream, dramatic cinematic lighting with red warnings.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "TSMC 2026 RISK",
+    "image_description": "Hyper-realistic 3D render of a glowing silicon wafer with microscopic circuit patterns, centrally positioned against a dark, dramatic background. Cyberpunk neon blue and red lights subtly illuminate its edges, highlighting complexity.",
+    "reasoning": "This thumbnail immediately highlights the core company (TSMC) and the future risk (2026), using a central, technical object (wafer) to attract investors and engineers with a high-contrast, data-driven mystery."
+  },
+  "title": "TSMC's 2026 AI Chip Bottleneck & Rising Prices Explained",
+  "segments": [
+    {
+      "text": "TSMC's cutting-edge 2nm process faces significant supply chain uncertainty. Initial production yields are a critical concern for 2025 rollout and beyond.",
+      "image_description": "Detailed 3D render of a 2nm chip schematic with holographic supply chain overlay, showing broken links in red. A human hand, in intense focus, points to the critical nodes.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "Consequently, chip prices continue their upward trend amidst persistent capacity shortages. This impacts CAPEX planning across the entire semiconductor ecosystem.",
+      "image_description": "Dynamic graph showing rising chip prices, overlaid on a busy semiconductor factory floor with multiple wafer fabs operating. Cinematic lighting emphasizes production.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "Broadcom specifically flags TSMC’s AI chip capacity as a major bottleneck. This constraint is choking potential GPU and HBM production well into 2026.",
+      "image_description": "Digital representation of GPU processors bottlenecked by a red 'X' over a server rack, with data streams glitching around them. A person with serious thought observes the display.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "High Bandwidth Memory (HBM) supply, crucial for AI accelerators, remains heavily reliant on TSMC's advanced packaging capacity, exacerbating future shortages.",
+      "image_description": "Extreme close-up of stacked HBM chips on a silicon interposer, with glowing blue data lines flowing between layers. A person's face showing determination is dimly visible in the background.",
+      "camera_effect": "dolly_zoom"
+    },
+    {
+      "text": "These constraints could significantly impact Q4 2024 earnings and 2025 revenue forecasts for key AI players. Investor valuations face downward pressure.",
+      "image_description": "Stock market ticker displaying red downturns and negative percentage changes, reflected in the glowing iris of an investor's eye visible through smart glasses. Cyberpunk neon lighting.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "This scenario fundamentally challenges long-term supply stability for high-performance computing, reshaping future CAPEX strategies immediately.",
+      "image_description": "A robotic hand pointing at a holographic projection of global supply chain logistics, showing critical nodes in red with digital corruption effects. Emphasizes technical control.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
