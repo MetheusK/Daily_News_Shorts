@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "PC COST SHOCK",
+    "narration": "Warning! The AI revolution has a hidden cost, and it's coming for your next PC!",
+    "image_description": "Extreme close-up of a high-performance CPU chip glowing with red warning lights, digital glitch effects, a cybernetic eye reflecting the chaos. Cinematic lighting, cyberpunk neon.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI COST SHOCK",
+    "image_description": "Highly detailed, hyper-realistic 3D render of a glowing CPU chip with subtle digital stress lines, dramatically backlit with cyberpunk neon lighting against a dark, abstract data stream background. Centered object.",
+    "reasoning": "The 'AI COST SHOCK' text is intriguing and directly relevant. The visually striking, high-quality render of a stressed CPU implies a significant problem, drawing clicks by highlighting the core issue (AI, chips, cost) in an aesthetically captivating way without relying on human faces."
+  },
+  "title": "AI Boom's Hidden Cost: Your Next PC Just Got Pricey!",
+  "segments": [
+    {
+      "text": "The unprecedented AI boom is causing a significant supply crunch for critical CPUs from industry giants like Intel and AMD, impacting global availability.",
+      "image_prompt": "Close-up of intricate CPU architecture, blue energy lines flowing through circuits, with a high-tech automated factory background. Cinematic lighting.",
+      "text_overlay": "CPU CRUNCH"
+    },
+    {
+      "text": "PC manufacturers face escalating component costs. This directly impacts profit margins and product pricing, potentially raising consumer prices for new desktops and laptops.",
+      "image_prompt": "Stack of circuit boards, overlaid with a rising graph displaying increasing numbers, a digital hand pointing to the increased values. Dramatic side lighting.",
+      "text_overlay": "RISING COSTS"
+    },
+    {
+      "text": "Intel and AMD, dominant CPU suppliers, struggle to meet explosive demand. This bottleneck impacts the entire hardware ecosystem, limiting component availability globally.",
+      "image_prompt": "Holographic logos of Intel and AMD intertwining, reflecting in a serious developer's smart glasses, showing intense focus. Cyberpunk neon lighting.",
+      "text_overlay": "INTEL & AMD"
+    },
+    {
+      "text": "High-performance CPUs are essential for AI model training and data centers. These specialized computational requirements divert supply from traditional consumer and enterprise markets.",
+      "image_prompt": "Rows of glowing server racks in a futuristic data center, digital data streams flowing rapidly. Focus on the 'heart' of the data flow.",
+      "text_overlay": "AI DEMAND"
+    },
+    {
+      "text": "Consumers can expect higher prices for new PCs and laptops in coming months. Availability of cutting-edge models may also become limited due to this crunch.",
+      "image_prompt": "A modern laptop displaying a digital price tag with an upward arrow and abstract financial data in the background. Cinematic lighting.",
+      "text_overlay": "HIGHER PC PRICES"
+    },
+    {
+      "text": "This supply chain challenge has no immediate resolution. It forces companies to innovate chip manufacturing and resource allocation strategies for long-term sustainable growth.",
+      "image_prompt": "A complex digital flowchart with interconnected nodes, highlighting a bottleneck, with a determined individual observing from behind a holographic interface, focused gaze. Cyberpunk aesthetic.",
+      "text_overlay": "SUPPLY SHOCK"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
