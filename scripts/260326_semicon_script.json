@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI CHIP WARNING!",
+    "narration": "WARNING: NVIDIA's dip signals a massive shift! Custom AI chips are about to rewrite the trillion-dollar market!",
+    "image_description": "A cybernetically enhanced trader's hand, glowing iris reflecting a rapidly falling stock chart with red glitch effects, dramatic side lighting, intense focus.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "CUSTOM CHIP BOOM!",
+    "image_description": "A highly detailed 3D render of a futuristic, custom AI ASIC chip glowing with blue and gold circuits, placed on a dark server rack background, cinematic dramatic backlighting, 8k resolution.",
+    "reasoning": "The phrase 'CUSTOM CHIP BOOM!' creates immediate intrigue about new market opportunities. The visual of a glowing custom chip is high-tech and relevant, appealing directly to industry insiders and investors seeking the 'next big thing' beyond traditional GPUs."
+  },
+  "title": "Semicon Alert: Custom AI Chips vs. GPUs",
+  "segments": [
+    {
+      "text": "Custom AI chips are emerging as a trillion-dollar opportunity. This signals a strategic market pivot from general-purpose GPUs, impacting future silicon design.",
+      "image_prompt": "A detailed blueprint overlay of a complex ASIC chip design, with holographic data projections, reflecting a serious engineer's smart glasses, cinematic lighting.",
+      "camera_effect": "Zoom out from detailed blueprint."
+    },
+    {
+      "text": "NVIDIA (NVDA) dipped 3.76% on March 26th. This modest downturn raises questions amidst the broader custom AI chip narrative and market shifts.",
+      "image_prompt": "A stock ticker display showing NVDA, with a slight red downward trend, viewed through a data-rich cybernetic eye, intense focus, dramatic side lighting.",
+      "camera_effect": "Static, with subtle data overlay animation."
+    },
+    {
+      "text": "This suggests a growing demand for application-specific integrated circuits (ASICs) optimized for particular AI workloads, impacting future GPU market share.",
+      "image_prompt": "A split screen showing a generic GPU on one side and a highly specialized ASIC on the other, with data flow arrows indicating shifting market demand, cyberpunk neon lighting.",
+      "camera_effect": "Pan across the split screen."
+    },
+    {
+      "text": "ASML's high valuation underscores critical demand for advanced lithography tools. This CAPEX investment is essential for all next-gen chip manufacturing processes.",
+      "image_prompt": "A vast, futuristic ASML EUV machine, glowing with internal lights, seen through the determined gaze of an industry insider wearing smart glasses, cinematic lighting.",
+      "camera_effect": "Slow, steady dolly shot towards the machine."
+    },
+    {
+      "text": "The pivot to custom silicon and advanced GPUs demands relentless focus on manufacturing yields and complex wafer processing for cost-effective production.",
+      "image_prompt": "Clean room environment with automated robotic arms precisely handling silicon wafers under dramatic side lighting, reflecting data in worker's cybernetic eye, intense focus.",
+      "camera_effect": "Tracking shot of a wafer moving on a conveyor."
+    },
+    {
+      "text": "The market remains volatile; careful valuation is critical now.",
+      "image_prompt": "A holographic financial chart overlaid with abstract digital corruption, subtle red warning lights, viewed with serious thought by an analyst, cinematic lighting.",
+      "camera_effect": "Static, with flickering chart."
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
