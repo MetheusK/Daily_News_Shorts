@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "YOUR WORLD IS SHIFTING",
+    "narration": "WARNING! Emerging tech trends are secretly reshaping your entire world faster than you can even imagine. Your future just changed!",
+    "image_description": "Extreme close-up of a human eye with a glowing, cybernetic iris reflecting streams of complex data, intense focus, dramatic side lighting, digital glitch effect on the screen, neon green color palette.",
+    "mood_color": "neon_green"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "TECH REVOLUTION",
+    "image_description": "3D render of a stylized, glowing brain interacting with data streams and server racks, surrounded by holographic financial graphs and network nodes, ultra-sharp focus, cyberpunk aesthetic, 8k resolution, dramatic backlighting.",
+    "reasoning": "The 'Tech Revolution' text coupled with a powerful visual of a glowing brain and complex data represents a significant, underlying shift, creating immediate intrigue and a sense of large-scale impact without needing a human face."
+  },
+  "title": "Unseen Tech Trends Reshaping Your Daily Life",
+  "segments": [
+    {
+      "narration": "Industry leaders like McLanahan's VP confirm technology trends are rapidly reshaping operations. Over 60% of businesses forecast major tech overhauls by 2025.",
+      "image_description": "Wide shot of a modern, automated factory floor with robotic arms moving precisely, digital data streams flowing across surfaces, cinematic lighting, focused on efficiency.",
+      "text_overlay": "RAPID OVERHAUL"
+    },
+    {
+      "narration": "Advanced analytics, exemplified by Alteryx's upcoming November 29 event, drives these shifts. Companies predict 40% growth in data-driven decision-making next year.",
+      "image_description": "Holographic dashboard displaying complex data visualizations and predictive models, hands interacting with gestures, intense focus on the data, cyberpunk neon lighting.",
+      "text_overlay": "DATA DRIVEN"
+    },
+    {
+      "narration": "Brands and agencies are deploying AI-powered tools to understand users, personalize experiences, and optimize advertising spend. This improves targeted engagement by 35%.",
+      "image_description": "Diverse people interacting with glowing smart screens, each displaying personalized content, reflections of data in their smart glasses, wonder on faces, dramatic lighting.",
+      "text_overlay": "AI PERSONA"
+    },
+    {
+      "narration": "This means your everyday apps and services will feel more intuitive, adapting to your preferences instantly. Imagine tailored results with zero effort.",
+      "image_description": "Seamless transition of user interfaces on multiple devices (phone, tablet, smart home screen), clean, futuristic design, focus on user interaction, cinematic composition.",
+      "text_overlay": "INTUITIVE UX"
+    },
+    {
+      "narration": "Expect significant advancements in predictive AI across sectors from healthcare to retail. McKinsey reports AI could add $13 trillion to global GDP by 2030.",
+      "image_description": "Abstract visualization of neural networks expanding across a digital cityscape, glowing lines connecting various data points, reflecting data in foreground, serious thought.",
+      "text_overlay": "PREDICTIVE POWER"
+    },
+    {
+      "narration": "These emerging technologies are fundamentally changing how we interact with the digital world, creating new 'wow' moments and simplifying complex tasks for everyone.",
+      "image_description": "A person (seen from behind) gazing at a stunning holographic display of a city being built in real-time, digital corruption around edges, dramatic lighting, conveying wonder.",
+      "text_overlay": "FUTURE WOW"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
