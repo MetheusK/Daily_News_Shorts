@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "CHIP MARKET SHOCK",
+    "narration": "WARNING: One company secretly controls 72% of global chips, creating an unprecedented market risk for every investor and engineer!",
+    "image_description": "A close-up of a digital representation of a glowing silicon wafer, with data streams reflecting in a cybernetic eye, intense focus, red warning lights, glitch effects, dramatic cinematic lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "TSMC'S GRIP",
+    "image_description": "A hyper-realistic 3D render of a single, intricately detailed, glowing silicon wafer with complex circuit patterns, held by a sleek robotic arm against a dark, futuristic server room background. Dramatic backlighting, 8k resolution, cyberpunk style.",
+    "reasoning": "The phrase 'TSMC's GRIP' instantly communicates market dominance and potential control, while the high-tech visual of the wafer appeals to both investors and engineers, creating intrigue for a high click-through rate."
+  },
+  "title": "TSMC's Market Grip: 3nm Constraints & Geopolitical Risk Explained",
+  "segments": [
+    {
+      "text": "Taiwan Semiconductor holds a dominant 72% of the global chip market, cementing its critical role in advanced manufacturing for virtually all tech sectors.",
+      "image_prompt": "Holographic projection of a world map with 72% highlighted over Taiwan, reflecting in smart glasses of an analyst, intense focus, dramatic side lighting.",
+      "camera_effect": "zoom_in",
+      "text_overlay": "72% MARKET SHARE"
+    },
+    {
+      "text": "TSMC's cutting-edge 3nm wafer capacity is severely constrained, prioritizing 'long-term, loyal' customers. This impacts next-gen device launches and supply chains.",
+      "image_prompt": "An engineer through smart glasses examining a 3nm wafer schematic on a digital display, glowing iris, serious thought expression, cyberpunk neon lighting.",
+      "camera_effect": "pan_left",
+      "text_overlay": "3NM CAPACITY CRITICAL"
+    },
+    {
+      "text": "High demand for HBM and GPU chips drives 3nm crunch. Major AI developers depend on these nodes, impacting their CAPEX and product roadmaps.",
+      "image_prompt": "A server rack with glowing GPU cards, data streams flowing, reflecting in the determined eyes of a data center engineer, cinematic lighting.",
+      "camera_effect": "static",
+      "text_overlay": "AI CHIP DEMAND SOARS"
+    },
+    {
+      "text": "Analysts project TSMC's stock could surge by 2026. This is driven by sustained advanced wafer demand, strategic CAPEX, and yield optimization.",
+      "image_prompt": "A stock chart showing an upward trend, overlaid on a futuristic factory floor with robotic arms placing wafers, reflecting in the focused eyes of an investor, dramatic lighting.",
+      "camera_effect": "pan_right",
+      "text_overlay": "STOCK SURGE 2026"
+    },
+    {
+      "text": "A Taiwan conflict presents a severe 'worst-case scenario' for global electronics. It fundamentally jeopardizes the entire computer industry's crucial supply chain.",
+      "image_prompt": "A digital map of the Taiwan Strait with red warning lights and glitch effects, digital corruption, reflecting in the serious, determined eyes of a geopolitical analyst, cinematic lighting.",
+      "camera_effect": "zoom_out",
+      "text_overlay": "TAIWAN CONFLICT RISK"
+    },
+    {
+      "text": "This highlights critical global dependence on one foundry for advanced chips. Investors must assess geopolitical risk in their long-term valuation models.",
+      "image_prompt": "A globe made of interconnected circuit board lines, data flowing through it, reflecting in the thoughtful eyes of an industry insider, intense focus, cyberpunk neon.",
+      "camera_effect": "static",
+      "text_overlay": "GLOBAL DEPENDENCE"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
