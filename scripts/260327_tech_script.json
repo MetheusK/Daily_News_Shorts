@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "APPLE'S AI BOMBSHELL",
+    "narration": "Warning! Apple just made a shocking AI move that will redefine your tech!",
+    "image_description": "A close-up of a stylized Apple logo with digital corruption and glitch effects, red warning lights, reflecting a determined human eye through smart glasses, cinematic lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "APPLE DUMPS AI?",
+    "image_description": "A 3D render of a futuristic, metallic Apple logo with cracks, a stylized, glowing OpenAI logo shattering behind it. High contrast, dramatic backlighting, cyberpunk style, 8k resolution.",
+    "reasoning": "The text 'APPLE DUMPS AI?' is provocative, creating immediate curiosity about a major tech shift. The shattered OpenAI logo combined with Apple's presence visually represents the conflict and potential end of their partnership, compelling users to click for the full story."
+  },
+  "title": "Apple's Secret AI Alliance Ends! (Your Phone Changes)",
+  "segments": [
+    {
+      "text": "Apple is reportedly ending its two-year exclusive agreement with OpenAI. This partnership defined Siri's immediate AI future, impacting millions of iPhone users daily.",
+      "image_prompt": "A sophisticated, glowing Apple logo subtly intertwined with abstract neural network patterns, representing a foundational AI partnership.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "This exclusive deal previously restricted Apple's AI collaborations. It fueled controversy, notably with Elon Musk, who threatened a ban over perceived closed-source implications.",
+      "image_prompt": "A broken digital chain linking an Apple logo and an OpenAI logo, with a faint, angry Elon Musk profile silhouette in the background, set against a dark, tech-abstract landscape.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "Elon Musk publicly slammed the deal, citing data security fears for his companies. He saw the OpenAI exclusivity as a major threat to his data privacy.",
+      "image_prompt": "A cybernetic eye with a glowing iris, reflecting abstract data streams and a red warning symbol, conveying intense scrutiny and digital security concerns, dramatic side lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Reports suggest Apple seeks to integrate diverse AI models, prioritizing user privacy and choice. This shift could open doors for Gemini or other foundational AI tech.",
+      "image_prompt": "Multiple distinct AI model icons (e.g., stylized Google Gemini, other abstract AI symbols, but NOT OpenAI's logo) orbiting a central, glowing Apple logo, representing diverse integration.",
+      "camera_effect": "rotate"
+    },
+    {
+      "text": "This could lead to a more customizable, powerful, and secure AI experience for Apple users globally. Expect enhanced features beyond just Siri updates.",
+      "image_prompt": "A person intently interacting with a sleek smartphone displaying holographic user interface projections, showing seamless, advanced AI features in daily life, cinematic lighting.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "The ramifications of this decision will ripple through the tech world for years, shaping future AI development and partnerships.",
+      "image_prompt": "A digital world map with interconnected glowing nodes and flowing data lines, symbolizing global technological impact and future partnerships, cyberpunk neon lighting.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
