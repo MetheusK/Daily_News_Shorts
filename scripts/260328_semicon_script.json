@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "CHIP MARKET SHOCK",
+    "narration": "A seismic shift just hit the semiconductor market. Your investments are directly exposed.",
+    "image_description": "Extreme close-up of a cybernetic investor's face, eyes reflecting complex stock charts and digital warning signs, dramatic red and blue neon lighting. Intense focus, digital corruption effects, cinematic lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "TSMC DOMINANCE",
+    "image_description": "A highly detailed 3D render of a single, glowing silicon wafer, reflecting a holographic world map, surrounded by subtle digital data streams. Cyberpunk aesthetic, 8k resolution, dramatic backlighting, centered object.",
+    "reasoning": "This thumbnail highlights the key player (TSMC) and its market power ('DOMINANCE') with a visually stunning, technical object, appealing directly to industry insiders and investors."
+  },
+  "title": "TSMC's Unrivaled Chip Control: Investor Alert",
+  "segments": [
+    {
+      "text": "Taiwan Semiconductor Manufacturing Company now controls 72% of the global chip foundry market. This unprecedented share reflects critical CAPEX investments.",
+      "image_prompt": "A holographic projection of a pie chart showing 'TSMC - 72%' over a schematic of a semiconductor fab floor. Engineers with smart glasses observe data on screens, dramatic side lighting.",
+      "text_overlay": "72% MARKET SHARE"
+    },
+    {
+      "text": "Driving this dominance is robust demand for advanced AI processors, particularly HBM and high-end GPUs. NVIDIA's reliance is a key factor.",
+      "image_prompt": "Extreme close-up of HBM stacks on a silicon interposer, glowing neural network lines connecting them, digital data streams flowing. Cyberpunk neon lighting.",
+      "text_overlay": "AI DEMAND SURGE"
+    },
+    {
+      "text": "TSMC's superior manufacturing yields for cutting-edge nodes like 3nm and 2nm are unmatched. This production efficiency underpins their market leadership.",
+      "image_prompt": "A magnified view of a perfect silicon wafer surface, microscopic circuitry visible, with a small digital display showing '98% Yield'. Intense focus, dramatic lighting.",
+      "text_overlay": "SUPERIOR YIELDS"
+    },
+    {
+      "text": "Analysts project TSMC's stock could surge significantly by 2026, driven by sustained AI sector growth and expanding CAPEX allocations.",
+      "image_prompt": "A futuristic stock chart showing an upward trend, overlayed with glowing financial data points, reflected in a cybernetic eye, displaying intense focus. Cinematic lighting.",
+      "text_overlay": "2026 VALUATION"
+    },
+    {
+      "text": "Despite geopolitical tensions, TSMC maintains a resilient global supply chain, strategically diversifying production with new fabs in key regions.",
+      "image_prompt": "A complex animated map showing global shipping routes and fab locations, interconnected by glowing data lines. Cyberpunk style, no specific countries highlighted.",
+      "text_overlay": "GLOBAL SUPPLY CHAIN"
+    },
+    {
+      "text": "TSMC's 72% market control solidifies its strategic importance, but geopolitical risks remain paramount.",
+      "image_prompt": "A digital world map with subtle red warning lights flashing over key geopolitical hotspots, while a microscopic chip silhouette is in the foreground. A human hand (not a face) with an intense focus, hovers over a holographic interface, dramatic lighting.",
+      "text_overlay": "GEOPOLITICAL RISKS"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
