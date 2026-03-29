@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "CHIP SHORTAGE WARNING",
+    "narration": "Stop! A critical semiconductor capacity crisis is brewing, directly impacting your portfolio and industry future!",
+    "image_description": "Extreme close-up of a human eye, cybernetic, reflecting urgent, abstract data streams. Red warning lights flash around the iris, with dramatic side lighting. Intense focus.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "TSMC 2nm CRISIS",
+    "image_description": "A hyper-realistic 3D render of a glowing, intricate 2nm wafer, centered, with blue and gold circuits emanating light. It hovers above a sleek, dark server rack in a cyberpunk style, 8k resolution. Dramatic backlighting.",
+    "reasoning": "The direct, bold text coupled with a highly technical, visually stunning object (wafer) immediately communicates the core issue and appeals to both investors and engineers, creating high click-through."
+  },
+  "title": "TSMC 2nm Sold Out: The Semiconductor Capacity Crisis",
+  "segments": [
+    {
+      "text": "TSMC's cutting-edge 2-nanometer process is fully booked through 2028. This signals unprecedented, long-term demand for the most advanced silicon manufacturing capabilities.",
+      "text_overlay": "2NM CAPACITY GONE",
+      "image_prompt": "A detailed, glowing 3D schematic of a 2nm transistor structure, intricately designed, with the 'TSMC' logo subtly integrated. Cinematic lighting, deep blue hues.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "Major AI powerhouses, including NVIDIA, are securing this capacity for future GPU and HBM integration, fueling an aggressive pre-order surge. The AI boom continues.",
+      "text_overlay": "AI DRIVES DEMAND",
+      "image_prompt": "A stylized, high-tech NVIDIA GPU chip with visible HBM stacks, emanating digital data streams in vibrant green and blue. The chip appears to be powering a holographic display showing complex calculations. Intense focus.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "This tight capacity directly benefits competitors like Samsung Foundry, actively leveraging its advanced 2nm GAA process to attract clients. Market valuations are now shifting.",
+      "text_overlay": "SAMSUNG GAINS?",
+      "image_prompt": "A dynamic split screen: one side showing a futuristic TSMC fab interior, the other a Samsung Foundry fab interior, both with glowing robotic arms. A subtle valuation graph overlays the center. Cinematic lighting.",
+      "camera_effect": "dynamic_cut"
+    },
+    {
+      "text": "Despite TSMC's record CAPEX investments, 2nm wafer production faces inherent constraints. This creates significant pressure on global supply chain elasticity and future pricing models.",
+      "text_overlay": "CAPEX LIMITS",
+      "image_prompt": "An animated 3D bar graph showing escalating CAPEX figures, juxtaposed with a visibly constrained, glowing wafer icon. Digital corruption effects around the edges convey pressure. Cyberpunk neon.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "Achieving optimal yields at the 2nm node is technologically complex and critical. Any yield shock or fabrication delay profoundly impacts product lead times and market availability.",
+      "text_overlay": "YIELD SHOCK RISK",
+      "image_prompt": "A magnified, hyper-realistic view of a perfectly patterned semiconductor wafer. Suddenly, glitch effects appear, highlighting specific 'defective' areas in red. Reflecting data, serious thought, dramatic side lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Investors must assess long-term supply agreements and projected demand for advanced nodes. The landscape remains highly competitive and crucial.",
+      "text_overlay": "INVESTOR ALERT",
+      "image_prompt": "A determined investor, seen from the chest up, through smart glasses that reflect complex stock market data and chip schematics. Focus on serious thought and intense focus. Cinematic lighting.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
