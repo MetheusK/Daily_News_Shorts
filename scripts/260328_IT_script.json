@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI REWRITES REALITY",
+    "narration": "WARNING! Your digital world is transforming RIGHT NOW, and you won't believe how fast AI is changing everything!",
+    "image_description": "A dynamic, fast-paced shot of data streams flowing into a glowing, abstract cybernetic eye, reflecting intricate circuit patterns, glitch effects, dramatic cyberpunk neon lighting, intense focus.",
+    "mood_color": "neon_green"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI AGENTS HERE",
+    "image_description": "A hyper-realistic 3D render of an advanced AI chip or neural network, intricate glowing pathways, dark background with subtle dramatic blue backlighting, 8k resolution, centered object focus.",
+    "reasoning": "The direct, urgent text combined with a visually stunning, futuristic chip image clearly communicates cutting-edge AI, appealing to early adopters and creating curiosity."
+  },
+  "title": "AI Agents Unlocked: The Tech Revolution You CAN'T Ignore",
+  "segments": [
+    {
+      "text": "The digital infrastructure is undergoing a massive AI-driven overhaul. Marriott's adoption of AI-powered replatforming signals this emerging, widespread trend across industries globally.",
+      "image_prompt": "Abstract render of a city skyline transitioning into a digital network grid, with glowing data lines connecting buildings, cinematic lighting, 'through smart glasses' perspective.",
+      "camera_effect": "dynamic zoom"
+    },
+    {
+      "text": "Nvidia is massively investing in AI Agents, pushing new tools and advanced hardware. This commitment rapidly deploys autonomous AI capabilities into diverse, critical applications now.",
+      "image_prompt": "A close-up of a sophisticated, futuristic AI processor chip with glowing circuits, held by a robotic hand with a 'cybernetic' reflection of data, dramatic side lighting.",
+      "camera_effect": "slow pan"
+    },
+    {
+      "text": "Critical semiconductor advancements enable this AI surge. 'Chiplets' become standard by 2026, allowing modular, more powerful, and efficient AI processing units. This changes design.",
+      "image_prompt": "Macro shot of a detailed microchip featuring visible 'chiplet' architecture, with interconnected glowing segments, hyper-realistic, 8k render.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Extreme Ultraviolet (EUV) lithography is revolutionizing manufacturing processes. This advanced technique produces the smaller, denser, high-performance chips AI demands, accelerating production.",
+      "image_prompt": "Visual representation of intense, focused EUV light beams sculpting a nanoscale circuit pattern on a silicon wafer, futuristic factory setting, dramatic lighting.",
+      "camera_effect": "zoom out"
+    },
+    {
+      "text": "This technological convergence fuels exponential market growth. AI rapidly integrates into retail, manufacturing, and even specialized travel sectors. Its pervasive impact is truly vast.",
+      "image_prompt": "Holographic projection of intertwined graphs and market data, superimposing a diverse array of industry icons (travel, factory, retail) on a futuristic interface, intense focus.",
+      "camera_effect": "dolly zoom"
+    },
+    {
+      "text": "The core implication? Every aspect of technology will soon be infused with AI. This accelerates the timeline.",
+      "image_prompt": "A human figure in 'intense focus' looking at a transparent screen displaying a seamless, evolving AI neural network, reflecting data in their 'glowing iris', cinematic lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
