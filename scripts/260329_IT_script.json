@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI RACE OVER?",
+    "narration": "Warning! The AI war just got decided, and you won't believe who's winning!",
+    "image_description": "Extreme close-up of a human eye with a cybernetic glow, reflecting binary code and a holographic NVIDIA logo. Intense focus, dramatic side lighting, digital glitch effects.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "NVIDIA WINS AI",
+    "image_description": "A hyper-realistic 3D render of a glowing NVIDIA GPU chip, center frame, surrounded by abstract blue and green data streams. Dramatic backlighting. 8k resolution, cyberpunk style.",
+    "reasoning": "This thumbnail clearly identifies the subject (NVIDIA GPU) and the core message ('WINS AI'), creating immediate curiosity about this significant development. Its object-focused, high-contrast style ensures strong visibility and click-through rates."
+  },
+  "title": "NVIDIA's AI Dominance: The Future Is Here",
+  "segments": [
+    {
+      "text": "NVIDIA’s AI network just solidified its leading position. This move fundamentally reshapes the entire artificial intelligence landscape for the foreseeable future.",
+      "image_prompt": "A sprawling digital network map with a prominent, glowing NVIDIA logo at its core, connecting various data points. Cinematic lighting, blue and green hues.",
+      "camera_effect": "zoom_out",
+      "text_overlay": "AI SHIFT"
+    },
+    {
+      "text": "Upcoming chip technology provides NVIDIA an unparalleled competitive edge. Its new architecture boasts 40% more efficiency in processing complex AI models.",
+      "image_prompt": "Extreme close-up of a futuristic microchip design, glowing with internal circuitry, rendered in 8k. Dramatic side lighting, focus on intricate details.",
+      "camera_effect": "pan_left",
+      "text_overlay": "CHIP ADVANTAGE"
+    },
+    {
+      "text": "This innovation creates a broader competitive \"moat\" around NVIDIA. Their market share for AI-specific hardware is now projected to exceed 85% by Q4.",
+      "image_prompt": "A 3D render of a digital fortress or castle, surrounded by a glowing blue moat, with data streams flowing around it. Cyberpunk aesthetic, intense focus.",
+      "camera_effect": "static",
+      "text_overlay": "UNBEATABLE MOAT"
+    },
+    {
+      "text": "Greater safety margins are now assured, protecting investments and ensuring stable development. This fosters long-term reliability for AI infrastructure globally.",
+      "image_prompt": "A secure, sleek data center interior, glowing green lines indicating efficient data flow, with multiple redundant systems visibly active. Serious thought reflected in a smart glass wearer's eye.",
+      "camera_effect": "tilt_down",
+      "text_overlay": "AI RELIABILITY"
+    },
+    {
+      "text": "This dominance affects sectors from autonomous vehicles to medical diagnostics. Faster, reliable AI impacts daily life through enhanced productivity and services.",
+      "image_prompt": "Split screen showing an autonomous car navigating a city street and a doctor analyzing a holographic medical scan, both powered by visible data streams. Cinematic lighting, determined expressions.",
+      "camera_effect": "zoom_in",
+      "text_overlay": "DAILY AI IMPACT"
+    },
+    {
+      "text": "Competitors face immense pressure to innovate or specialize. The industry accelerates towards a future heavily reliant on NVIDIA's foundational AI technologies.",
+      "image_prompt": "A rapidly advancing digital timeline projected holographically, showing future AI applications and data points converging towards a central, glowing NVIDIA symbol. Cyberpunk neon glow.",
+      "camera_effect": "pan_right",
+      "text_overlay": "FUTURE ACCELERATED"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
