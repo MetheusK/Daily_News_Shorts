@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "TSMC CRASH?",
+    "narration": "Stock Alert! TSMC shares just plunged, but the real crisis in chip supply is far deeper than you think.",
+    "image_description": "A close-up of a stock ticker displaying TSM with a sharp red downward spike, digital corruption effects, an analyst's cybernetic eye reflecting warning data, dramatic red neon lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "CHIP CAPACITY CRUNCH",
+    "image_description": "A 3D render of a highly advanced silicon wafer with intricate glowing circuitry, being handled by a robotic arm in a sterile, futuristic fab. The background shows blurred server racks. Hyper-realistic, 8k resolution, dramatic blue and white backlighting.",
+    "reasoning": "The image focuses on a key object (wafer) and concept (capacity crunch), using a futuristic, high-tech aesthetic that appeals to both engineers and investors, creating intrigue without relying on human expressions."
+  },
+  "title": "TSMC Dip & AI Chip Boom: The Supply Chain Crisis Deepens",
+  "segments": [
+    {
+      "text": "TSMC stock dropped 3.42% on March 30th, reflecting market sensitivity to global semiconductor demand shifts and investor concerns about short-term volatility.",
+      "image_prompt": "A sophisticated financial dashboard displaying a sharply declining stock graph for TSM, with subtle glitch effects, cinematic lighting and intense focus.",
+      "camera_effect": "static",
+      "text_overlay": "TSMC DOWN 3.42%"
+    },
+    {
+      "text": "Despite this dip, TSMC’s 2028 advanced node capacity is already fully booked. This signals massive, sustained demand for cutting-edge chips, particularly HBM and GPU for AI.",
+      "image_prompt": "A complex 3D schematic of a wafer fabrication plant, showing 'FULL CAPACITY' projections for 2028, holographic data streams, intense focus, dramatic side lighting.",
+      "camera_effect": "zoom_in",
+      "text_overlay": "TSMC 2028 FULL"
+    },
+    {
+      "text": "This capacity crunch positions Samsung Foundry as a critical alternative for high-performance computing and AI chip fabrication. Competition for advanced wafers intensifies significantly.",
+      "image_prompt": "A side-by-side comparison graphic of TSMC and Samsung Foundry logos, with data lines connecting them, indicating competitive tension, cyberpunk neon lighting, serious thought.",
+      "camera_effect": "pan_left",
+      "text_overlay": "SAMSUNG ALTERNATIVE"
+    },
+    {
+      "text": "The AI chip startup Rebellions just secured $400 million in pre-IPO funding. This massive capital injection underlines aggressive investor confidence in specialized AI hardware.",
+      "image_prompt": "A futuristic AI chip with glowing circuits, surrounded by digital currency symbols and a holographic 'FUNDED' text, intense determination, cinematic lighting.",
+      "camera_effect": "static",
+      "text_overlay": "REBELLIONS $400M"
+    },
+    {
+      "text": "Rebellions' staggering $2.3 billion valuation prior to IPO highlights the booming sector for AI accelerators. This drives demand for leading-edge foundries and advanced packaging.",
+      "image_prompt": "A 3D graph showing exponential growth in AI chip valuations, with data points converging on a central, glowing AI processor, serious thought expression, dramatic side lighting.",
+      "camera_effect": "zoom_out",
+      "text_overlay": "AI VALUATION SOARS"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
