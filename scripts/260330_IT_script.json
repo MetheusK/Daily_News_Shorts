@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "TECH IS DRIVING",
+    "narration": "WARNING: Technology isn't just a tool anymore; it's now secretly *architecting* our entire future!",
+    "image_description": "A dramatic close-up of a human eye with cybernetic reflections of flowing code and data streams, intense focus, dramatic side lighting, glitched red warning lights, 8k render, cyberpunk aesthetic. The eye should reflect data rather than show emotion.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI NOW LEADS",
+    "image_description": "A hyper-realistic 3D render of a glowing, intricate AI core or brain, emanating interconnected holographic data lines that extend into a sprawling, futuristic city grid. Cinematic dramatic backlighting, 8k resolution, centered composition.",
+    "reasoning": "The thumbnail focuses on a powerful, central object (AI core) representing technological leadership and control. Its high-contrast, cyberpunk aesthetic and clear text immediately convey the concept of AI dominance, appealing to curiosity and a sense of imminent change, thus maximizing clicks."
+  },
+  "title": "AI & Tech: The New Architects of Tomorrow",
+  "segments": [
+    {
+      "text": "Deloitte reports tech leaders now *architect* business missions. This key shift embeds technology into core strategy, driving global innovation and redefining success.",
+      "image_prompt": "A holographic projection of a complex organizational chart with glowing data flows, overseen by a determined, focused figure in a suit, seen through smart glasses, cinematic lighting.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "AI now powers breakthroughs across diverse industries. Huge capital inflow into top AI stocks drives market shifts, underscoring its central, transformative role.",
+      "image_prompt": "A dynamic infographic displaying rising stock charts and intricate neural networks overlapping, with digital currency symbols, glowing green data lines, and an intense, focused cybernetic eye reflecting financial data.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "By 2026, tech trends reshape clinical trials. AI analytics, remote monitoring, and digital platforms boost efficiency, accelerating drug development and improving patient care.",
+      "image_prompt": "A futuristic clinical lab with holographic screens showing DNA strands and patient data, a robot arm precisely handling samples, dramatic blue neon lighting, focus on a scientist's determined expression.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "This new era demands robust data infrastructure. Organizations leverage advanced analytics and machine learning to inform strategic decisions, optimizing operations and trends.",
+      "image_prompt": "A server room with glowing blue and red lights, reflecting off a person's face (seen from behind or with cybernetic implants visible, focusing intently on a complex data visualization), cinematic lighting, dense data arrays.",
+      "camera_effect": "tilt_up"
+    },
+    {
+      "text": "This tech transformation impacts daily life directly. Smarter apps, personalized services, and automated processes are now standard, promising enhanced user convenience.",
+      "image_prompt": "A montage of diverse people using sleek, futuristic smart devices (phones, wearables) in everyday settings, displaying holographic interfaces. Focus on expressions of wonder and ease, dramatic natural lighting.",
+      "camera_effect": "montage_rapid_cuts"
+    },
+    {
+      "text": "Understanding these trends is crucial. From healthcare to investment, this technological shift affects everyone, shaping work, economy, and daily human life.",
+      "image_prompt": "A stylized world map composed of glowing data points and interconnected lines, with abstract representations of industries (medical cross, money symbol, gear), dramatic lighting, emphasizing global impact.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
