@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "YIELD SHOCK AHEAD",
+    "narration": "URGENT investor warning: A major manufacturing choke point is set to impact AI chip supply chains through 2028!",
+    "image_description": "Close-up of a semiconductor wafer with critical yield defects highlighted by red digital corruption, a cybernetic eye reflects a glitching stock chart, dramatic side lighting, cyberpunk neon, intense focus.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI CHIP BOTTLENECK",
+    "image_description": "Hyper-realistic 3D render of a glowing HBM3 stack surrounded by miniature GPU chips on a dark, reflective surface, dramatic backlighting, 8k resolution, centered composition.",
+    "reasoning": "Highlights the core technical constraint (AI chip bottleneck) with a visually striking, high-tech image, directly appealing to engineers and investors without sensationalism."
+  },
+  "title": "AI Foundry Squeeze: TSMC to 2028 & Samsung's Shift",
+  "segments": [
+    {
+      "text": "TSMC faces a critical capacity crunch for advanced nodes, particularly 3nm and 2nm, extending through 2028 due to surging AI demand.",
+      "image_prompt": "Holographic projection of a detailed semiconductor wafer map showing crowded 3nm/2nm process nodes, overlaid with a digital timeline extending to 2028. Focus on technical data visualization.",
+      "camera_effect": "zoom_in_slow"
+    },
+    {
+      "text": "Key players like Nvidia and Apple are driving this demand for high-bandwidth memory (HBM) and next-gen GPUs, pushing existing foundry limits.",
+      "image_prompt": "Cybernetic hand interacting with a holographic display showing a dynamic flow chart of HBM and GPU chip production lines, glowing iris reflecting data, serious thought expression.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "Consequently, Nvidia and Tesla are reportedly engaging Samsung for HBM3 production and advanced packaging solutions to diversify supply chains.",
+      "image_prompt": "Two stylized corporate logos (Nvidia, Tesla) projected onto a sleek, futuristic Samsung fabrication plant exterior at night, with dramatic cyberpunk neon lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Samsung's aggressive CAPEX in HBM and packaging aims to capture this opportunity, despite historical yield challenges impacting their market share.",
+      "image_prompt": "A complex diagram of HBM wafer bonding process with yield percentages displayed, viewed through smart glasses worn by an analyst with intense focus, cinematic lighting.",
+      "camera_effect": "zoom_out_slow"
+    },
+    {
+      "text": "The global foundry market, propelled by AI, is projected to reach a record US$320 billion in revenue by 2025, emphasizing advanced node importance.",
+      "image_prompt": "Dynamic 3D bar chart showing global foundry market growth from current to US$320 billion by 2025, with glowing digital lines representing revenue, in a high-tech control room setting.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "TSMC's dominance faces new pressure, shifting valuation models for leading foundry players into 2028.",
+      "image_prompt": "Split screen: Left shows a representation of TSMC's advanced factory floor, right shows Samsung's futuristic fab. Both with subtle digital competitive aura. Determination in a glowing iris, reflecting market data.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
