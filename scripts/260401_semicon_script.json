@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "YIELD ALERT!",
+    "narration": "URGENT WARNING! Semiconductor manufacturing yields are under pressure, threatening the entire AI market rally!",
+    "image_description": "Close-up of a cybernetically enhanced human eye reflecting a fractured, glowing silicon wafer, surrounded by digital corruption and red warning lights. Cinematic lighting, intense focus, dramatic side lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "CHIP VALUATION SHOCK",
+    "image_description": "Hyper-realistic 3D render of a state-of-the-art AI GPU chip, intricately placed on a patterned silicon wafer. Glowing data streams emanate from the chip. Dramatic dark backlighting, 8k resolution, cyberpunk style, centered object.",
+    "reasoning": "This thumbnail uses a visually striking object (AI GPU on wafer) and a direct, high-stakes phrase ('CHIP VALUATION SHOCK') to appeal to investors and engineers, creating intrigue distinct from the hook's urgent warning."
+  },
+  "title": "AI Chip Market: Yields, CAPEX, & Valuation Reality",
+  "segments": [
+    {
+      "text": "Recent market rallies suggest a bullish trend, driven significantly by insatiable global demand for advanced AI chips, especially GPUs and HBM components.",
+      "image_prompt": "Holographic projection showing an upward-trending stock chart overlaid with detailed 3D models of AI GPUs and HBM stacks. Data points glow blue, through smart glasses perspective.",
+      "text_overlay": "AI DEMAND",
+      "camera_effect": "dynamic_zoom"
+    },
+    {
+      "text": "China's AI chip demand is accelerating advanced foundry growth, navigating complex geopolitical splits that impact global supply chain resilience and technology access.",
+      "image_prompt": "Complex global supply chain map with glowing lines connecting foundries across continents, specific emphasis on a region representing China, with subtle red warning lights indicating geopolitical tension.",
+      "text_overlay": "FOUNDRY GEOPOLITICS",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "Intel's Foundry Services update highlights massive CAPEX commitments for cutting-edge wafer production, essential for next-gen HBM and GPU manufacturing capacities.",
+      "image_prompt": "Industrial robotic arm precisely placing a large silicon wafer into an advanced fabrication machine. Overlaid data shows 'CAPEX: $XX Billion' in a clean, techy font with a cybernetic human observing with intense focus.",
+      "text_overlay": "INTEL CAPEX",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Critical manufacturing yields remain a key bottleneck. Achieving high yields on 3nm/2nm process nodes is paramount for profitability and market supply stability.",
+      "image_prompt": "Microscopic view of a perfect silicon wafer next to a magnified section with tiny, identifiable defects, illustrating high vs. low yield with digital corruption effects. Emphasize yield percentage data.",
+      "text_overlay": "YIELD BOTTLENECK",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "Variability in wafer yields directly impacts production costs and market valuation, presenting significant risk factors for investors monitoring semiconductor sector performance.",
+      "image_prompt": "Financial graph with fluctuating lines representing stock valuation, with a transparent overlay showing a complex algorithmic model and 'Yield Impact' highlighted in yellow. A serious analyst with glowing iris reflecting data.",
+      "text_overlay": "YIELD IMPACTS VALUATION",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "This valuation model underscores the critical capital expenditure allocation for future HBM and AI GPU fabrication capabilities.",
+      "image_prompt": "3D architectural rendering of a massive, futuristic semiconductor fabrication plant, with glowing HBM and AI GPU symbols floating above it. Focus on scale and complexity, cinematic lighting.",
+      "text_overlay": "CAPEX FUTURE",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
