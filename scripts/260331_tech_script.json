@@ -1,0 +1,56 @@
+{
+  "hook_plan": {
+    "overlay_text": "APPS UNDER ATTACK!",
+    "narration": "WARNING! Major tech giants are facing unprecedented threats, impacting YOUR digital world right now!",
+    "image_description": "A cybernetic eye reflecting a glitched smartphone screen with red warning lights, cinematic dramatic lighting, digital corruption effects.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "TECH WAR LOOMING",
+    "image_description": "Hyper-realistic 8K 3D render of a glowing, shattered smartphone screen, with circuit board elements visible underneath. Dark, dramatic backlighting, cyberpunk style.",
+    "reasoning": "The phrase 'TECH WAR LOOMING' creates immediate intrigue and urgency. The shattered phone imagery hints at disruption without being explicit about the news, appealing to general tech anxiety, while adhering to the object-over-human rule."
+  },
+  "title": "Google Maps AI: Your EV Road Trip Just Changed Forever",
+  "segments": [
+    {
+      "text": "Google Maps now integrates powerful AI for EV trip planning, fundamentally changing how electric vehicle owners approach long-distance journeys.",
+      "image_prompt": "Holographic projection of a sleek EV dashboard with a glowing map overlay, reflecting a user's determined face through smart glasses. Cinematic lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "AI dynamically predicts battery drain, considering 100+ factors like terrain, real-time traffic, and weather, optimizing crucial charging stops efficiently.",
+      "image_prompt": "Data streams flowing over a futuristic road map, highlighting charging stations with predictive analytics. Cyberpunk neon lighting.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "Users receive precise charging recommendations and real-time range updates, eliminating range anxiety for EV drivers embarking on extended journeys.",
+      "image_prompt": "A person (view from behind, looking at a serene landscape) confidently checking a futuristic smartwatch displaying EV battery status. Dramatic side lighting.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "The system customizes suggestions based on your EV model and desired battery level upon arrival, helping extend battery health effectively.",
+      "image_prompt": "Close-up of a holographic phone screen showing EV battery health and personalized trip settings, with a glowing iris reflecting the data. Technical lighting.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "This AI integration enhances travel efficiency significantly. It reduces trip planning time, promoting wider mainstream electric vehicle adoption globally.",
+      "image_prompt": "Infographic showing a comparison of travel times with and without AI, green energy symbols, and sleek digital car silhouettes. Clean, technical visuals.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "Rolling out globally, this feature showcases AI's practical power in solving complex daily logistical challenges, transforming modern transportation efficiency.",
+      "image_prompt": "A global map with glowing lines representing optimized EV routes, reflecting on a large digital display. Focused technician interacting with a holographic interface.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "This is the endpoint. The system handles the outro.",
+      "image_prompt": "Digital data stream abruptly ending on a dark screen, red warning lights flashing briefly. Technical glitch effect.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
