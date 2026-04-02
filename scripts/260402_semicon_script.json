@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "YIELD CRASH IMMINENT?",
+    "narration": "Stock Alert! AI's future relies on a hidden ASML yield crisis looming.",
+    "image_description": "A close-up of a human eye with a glowing, cybernetic iris, reflecting corrupted data streams and red warning lights. Intense focus, dramatic side lighting, digital glitch effects.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "LITHOGRAPHY WARNING",
+    "image_description": "A 3D render of a futuristic ASML EUV lithography machine, with internal components glowing red, surrounded by digital glitch effects. Hyper-realistic, 8k resolution, centered, dramatic backlighting.",
+    "reasoning": "The image highlights ASML's critical machine with an alarming visual cue (red glow, glitches), coupled with a direct, mysterious text, targeting engineers and investors for a high click-through rate."
+  },
+  "title": "ASML: AI's Hidden Yield Challenge",
+  "segments": [
+    {
+      "text": "ASML's monopoly in EUV lithography is indispensable, enabling 3nm and 2nm nodes vital for next-gen AI and HPC chips.",
+      "image_prompt": "Close-up of a glowing EUV wafer being processed, intricate light patterns, 8k render, cinematic lighting, focused light beams.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Surging AI demand, particularly for NVIDIA GPUs and HBM, critically relies on ASML's advanced lithography output for leading-edge foundry production.",
+      "image_prompt": "Holographic overlay of an AI neural network on a 3D chip model, data streams flowing, deep blues and purples, cybernetic aesthetic.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "Heterogeneous Integration is pivotal, combining diverse chiplets like logic, memory, and I/O to overcome traditional scaling limits and boost AI performance.",
+      "image_prompt": "Abstract representation of multiple chiplets integrated on a single substrate, glowing interconnects, high-tech interface, dramatic side lighting.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "Achieving high manufacturing yields for these complex integrated systems and sub-3nm nodes remains a paramount, data-driven challenge for major fabs.",
+      "image_prompt": "Digital dashboard displaying manufacturing yield percentages (some red warnings), robotic arms in background, intense focus, cyberpunk neon lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "ASML's robust order backlog and ambitious CAPEX expansion plans underscore strong industry confidence in long-term AI-driven growth and valuation metrics.",
+      "image_prompt": "A stylized stock chart with an upward trend, overlayed with a blueprint of a new fab, focused investor with smart glasses reflecting data, cinematic lighting.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "Future CAPEX decisions hinge on this valuation trajectory.",
+      "image_prompt": "A glowing holographic projection of a financial graph, with a single, determined hand reaching towards it, data particles floating, dramatic lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
