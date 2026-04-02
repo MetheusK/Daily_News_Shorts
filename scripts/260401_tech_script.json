@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "TECH THREAT ALERT",
+    "narration": "Warning! A major global cyber threat is escalating, and it's about to hit your daily tech!",
+    "image_description": "A digital globe glitching with aggressive red warning lines, superimposed over a person's intense, focused cybernetic eye reflecting streams of corrupted data. Cinematic lighting, digital corruption effects.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "INTEL'S CYBERSHIELD",
+    "image_description": "A hyper-realistic 3D render of a glowing Intel CPU chip at the center, enveloped by abstract, shimmering blue and red data streams forming a protective barrier. Dramatic backlighting, 8k resolution, cyberpunk aesthetic.",
+    "reasoning": "Highlights a key player (Intel) and a protective action (shield), using a visually stunning, high-tech object to convey security and prompt curiosity about the threat."
+  },
+  "title": "Global Tech Alert: Intel's Bold Response to Cyber Threat",
+  "segments": [
+    {
+      "text": "Recent reports detail significant threats issued by Iran, specifically targeting major US tech firms, signaling potential widespread cyber disruptions.",
+      "image_prompt": "A stylized digital map showing cyber attack vectors originating from a specific region, targeting abstract data centers. Glowing lines indicate data flow.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "These warnings specifically target companies vital to global infrastructure, raising concerns about data security and service continuity worldwide for millions.",
+      "image_prompt": "Server racks with digital shields and red data streams indicating potential vulnerabilities. Focus on high-tech, secure infrastructure.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "Intel, a critical semiconductor giant, has become the first US firm to officially respond, affirming its unwavering commitment to robust cybersecurity measures.",
+      "image_prompt": "A high-resolution render of an Intel chip with a glowing digital barrier around it, symbolizing protection. Cyberpunk neon lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Intel stated, 'We are committed to securing our global operations and protecting customer data against evolving threats with advanced protocols.'",
+      "image_prompt": "A screen displaying a secure network interface, with lines of code and glowing green indicators. Hands (with intense focus) typing on a futuristic keyboard.",
+      "camera_effect": "tilt_up"
+    },
+    {
+      "text": "This response sets a precedent, pressuring other major US tech companies to publicly address security protocols and potential geopolitical risks proactively.",
+      "image_prompt": "A futuristic boardroom table with holographic data projections, reflecting serious faces in determined focus. Cinematic dramatic side lighting.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "The industry's heightened vigilance aims to safeguard daily digital interactions, from cloud services to personal device security, impacting millions globally.",
+      "image_prompt": "A cybernetic eye reflecting a complex digital interface showing secure connections and encrypted data streams. Dramatic lighting, glowing iris.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
