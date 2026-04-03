@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI STOCK SHOCK",
+    "narration": "WARNING: The AI stock surge hides a critical truth investors are missing!",
+    "image_description": "A cybernetic human eye, glowing red iris reflecting rapidly scrolling stock charts and fragmented data, digital glitch effects around the eye, dramatic red and blue neon lighting from the side, extreme close-up.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI PROFIT REVEALED",
+    "image_description": "Hyper-realistic 3D render of a glowing, intricate HBM (High Bandwidth Memory) chip nestled within a server rack, holographic data streams emanating upwards, dramatic cyberpunk blue and purple backlighting, 8k resolution, centered composition.",
+    "reasoning": "Highlights key hardware (HBM) central to AI, uses technical aesthetic, and promises insights into 'AI Profit' for investor appeal, aligning with 'pick-and-shovel' news."
+  },
+  "title": "AI Supercycle: The Real Semicon Winners Revealed",
+  "segments": [
+    {
+      "text": "The current AI Supercycle is profoundly reshaping the semiconductor landscape, driving unprecedented demand across key manufacturing and design segments.",
+      "text_overlay": "AI BOOM",
+      "image_prompt": "An ultra-modern, dimly lit server farm with endless rows of glowing blue and green server racks, holographic data streams flowing between them, a human engineer with smart glasses showing data overlays, intense focus, cinematic lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "TSMC stands as an essential force, projected for a 60% revenue expansion, fueling the AI surge with critical advanced wafer production for GPUs.",
+      "text_overlay": "TSMC 60% GROWTH",
+      "image_prompt": "Close-up of a robotic arm in a pristine cleanroom, carefully holding a perfectly patterned, reflective silicon wafer, digital readouts on the arm, dramatic side lighting, focused human figure blurred in background (not facial details).",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "The 'pick-and-shovel' investment strategy spotlights firms like Cadence, seeing strong earnings momentum from AI-driven EDA software demand.",
+      "text_overlay": "CADENCE EDA POWER",
+      "image_prompt": "A screen displaying complex EDA software interface with intricate circuit designs and 3D chip layouts, a hand (wearing a sleek, futuristic glove) interacting with a holographic display, cybernetic eye reflecting data in the foreground, cyberpunk neon lighting.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "Cadence posted robust $420M trading volume, reflecting significant investor confidence in its indispensable role within the AI chip design ecosystem.",
+      "text_overlay": "420M VOLUME",
+      "image_prompt": "Dynamic stock market graph with glowing green lines superimposing a detailed semiconductor manufacturing facility, a determined human figure in a cleanroom suit observing digital analytics on a transparent screen, dramatic lighting, reflecting data in their eyes.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "This concentrated growth impacts the entire supply chain, from lithography CAPEX to specialized HBM packaging, enhancing overall industry valuation metrics.",
+      "text_overlay": "HBM SUPPLY CHAIN",
+      "image_prompt": "High-precision robotic arm performing delicate HBM (High Bandwidth Memory) stacking on a chip substrate, extreme macro view, intricate details of interconnects, futuristic factory floor in background, dramatic blue and purple cinematic lighting.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "This valuation shift is critical for future semiconductor CAPEX decisions.",
+      "text_overlay": "CAPEX STRATEGY",
+      "image_prompt": "A stylized, futuristic boardroom table with holographic projections of CAPEX budgets, investment charts, and semiconductor fabs, a group of diverse analysts (serious expressions, cybernetic eye glints) in discussion, dramatic side lighting.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
