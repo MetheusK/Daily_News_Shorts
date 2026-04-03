@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "TECH SHOCK!",
+    "narration": "WARNING: The future of work just changed forever, and most people are completely unprepared!",
+    "image_description": "A digital human figure with glowing cybernetic eyes looking intensely at a complex holographic interface. Data streams flow rapidly around, with dramatic blue and red neon lighting and subtle glitch effects.",
+    "mood_color": "neon_green"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI REVOLUTION",
+    "image_description": "A hyper-realistic 3D render of a futuristic AI chip with intricate glowing circuits, centered on a dark, reflective surface, surrounded by holographic data projections. Cinematic backlighting in electric blue and purple, 8k resolution.",
+    "reasoning": "Highlights a major buzzword (AI) and implies a significant, rapid change with high-tech visuals, compelling viewers to click and understand the 'revolution'."
+  },
+  "title": "Future Tech: Are You Ready?",
+  "segments": [
+    {
+      "text": "Brands and agencies face a critical juncture; emerging technologies redefine customer experience. Digital transformation is no longer optional, impacting marketing strategies across sectors.",
+      "image_prompt": "A sleek, minimalist conference room with holographic projections displaying market data and brand logos. Business professionals engaged in serious discussion, cinematic lighting.",
+      "camera_effect": "smooth pan"
+    },
+    {
+      "text": "AI adoption accelerates, reshaping data interaction. Machine learning drives personalized insights, optimizing operations, and predicting market shifts efficiently.",
+      "image_prompt": "Close-up of a glowing digital brain interface, connected by light-speed data lines to various business icons. Abstract digital representations, cyberpunk neon lighting.",
+      "camera_effect": "zoom in"
+    },
+    {
+      "text": "Deloitte emphasizes digital readiness as crucial. Organizations must integrate robust AI strategies, empowering workforce and closing skill gaps for future technological advancements.",
+      "image_prompt": "A diverse team of professionals collaboratively interacting with a large touch-screen interface showing AI algorithms and data sets. Expressions of intense focus, dramatic lighting.",
+      "camera_effect": "side tracking shot"
+    },
+    {
+      "text": "The tech workforce landscape evolves rapidly. AI tools automate tasks, enabling employees to innovate and problem-solve. Upskilling initiatives are now absolutely essential for growth.",
+      "image_prompt": "A worker wearing smart glasses viewing augmented reality data layers over a manufacturing floor. Cybernetic eyes reflecting complex schematics, cinematic lighting.",
+      "camera_effect": "slow dolly zoom"
+    },
+    {
+      "text": "Beyond business, technology intersects with nature. Smart outdoor solutions and eco-friendly tech are gaining traction, reflecting consumer demand for sustainable innovation.",
+      "image_prompt": "A person using a smart device to monitor a holographic forest projection, glowing data on flora/fauna, reflecting in their smart glasses, cinematic lighting.",
+      "camera_effect": "static shot"
+    },
+    {
+      "text": "These trends signify massive shifts in daily life. Companies embracing AI and digital fluency will dominate, creating new services and unprecedented user experiences globally.",
+      "image_prompt": "A futuristic cityscape at night, overlaid with holographic projections of data streams and interfaces. Reflecting in a person's glowing iris (smart lens), cyberpunk neon aesthetic.",
+      "camera_effect": "wide shot, subtle zoom out"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
