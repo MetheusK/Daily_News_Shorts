@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI STOCK ALERT!",
+    "narration": "Warning! Is the AI Supercycle creating a dangerous valuation bubble?",
+    "image_description": "Close-up of a semiconductor industry analyst's face, cybernetic eyes reflecting glitching stock charts and red warning lights, dramatic side lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "NVIDIA REALITY?",
+    "image_description": "Hyper-realistic 8K render of a glowing NVIDIA H100 GPU chip at the center, surrounded by abstract, flowing data streams. Dark, dramatic backlighting, cyberpunk style. Emphasize intricate design.",
+    "reasoning": "The visually striking, high-tech GPU object immediately signals 'AI' and 'Semiconductor'. The text 'NVIDIA REALITY?' creates intrigue and direct relevance to current market discussions about valuation, encouraging a click from investors and tech enthusiasts."
+  },
+  "title": "Nvidia vs. TSMC: AI Supercycle Valuation Reality Check",
+  "segments": [
+    {
+      "text": "Nvidia's GPU dominance fuels the AI Supercycle, yet its current valuation at 36x forward sales is a critical investor concern.",
+      "image_prompt": "Dynamic stock chart overlayed on a futuristic NVIDIA H100 GPU. Data streams flowing around the chip. Cinematic lighting, intense focus.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "TSMC, the exclusive foundry for Nvidia's cutting-edge AI GPUs, shows robust 2024 CAPEX targets nearing $30 billion, securing supply chain control.",
+      "image_prompt": "Pristine silicon wafer with intricate advanced chip designs on a workbench in a cleanroom. Background shows robotic arms handling wafers. Cyberpunk neon glow.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "Key to AI performance is HBM memory. Initial 2023 HBM3 yields were challenging, impacting GPU supply chains and unit cost economics.",
+      "image_prompt": "Detailed 3D diagram of a High Bandwidth Memory (HBM) stack, transparent layers showing internal structure. Subtle digital glitch effects conveying yield challenges.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "Nvidia holds ~80% AI GPU market share. AMD's MI300 series aims to capture significant segments, intensifying competition and pricing pressures.",
+      "image_prompt": "Holographic projection comparing market share percentages for AI GPUs (Nvidia large, AMD growing). Clean, analytical data visualization. An analyst with smart glasses observing the data.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "Investors must evaluate sustainable growth against current valuations. The future depends on continued innovation, yield improvements, and diversified customer demand.",
+      "image_prompt": "Analyst with determined expression, smart glasses reflecting complex financial data, looking at a multi-screen display of market trends and supply chain maps. Cinematic lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Your move.",
+      "image_prompt": "A human hand (digital, cybernetic appearance) reaching out to interact with a holographic interface displaying a complex market decision matrix. Glowing data flowing, reflecting determination.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
