@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI IS HERE",
+    "narration": "WARNING! Artificial Intelligence isn't just coming; it's already here, transforming your world faster than you think!",
+    "image_description": "Dynamic shot of a futuristic city street at night, autonomous vehicles with glowing sensors passing by. Digital glitch effects highlight data streams, creating an urgent, cyberpunk mood with dramatic side lighting. No scared faces, only intense focus on the evolving tech.",
+    "mood_color": "neon_green"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "ROBOTS DRIVE!",
+    "image_description": "Hyper-realistic 8k render of a sleek, futuristic self-driving car (robotaxi) at dawn on an empty, digitally enhanced city street. Center composition, dramatic backlighting, reflecting intricate AI algorithms on its smooth surface. Focus purely on the advanced vehicle design.",
+    "reasoning": "Highlights a concrete, visually striking application of AI (robotaxis) with a bold, action-oriented statement. This immediately sparks curiosity about a major, tangible shift in daily life, driving clicks."
+  },
+  "title": "AI's Silent Takeover: Robotaxis & Smart Farms",
+  "segments": [
+    {
+      "text": "Uber is rapidly advancing its robotaxi technology, mapping out future autonomous operations. This marks a critical step towards driverless rideshares becoming commonplace, fundamentally altering urban transit networks globally.",
+      "text_overlay": "UBER AUTONOMOUS",
+      "image_prompt": "A sleek, black Uber robotaxi navigating a cybernetic city street, glowing blue sensors reflecting data, cinematic lighting. Focus on the vehicle's autonomy, no humans.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "S&P Global's analysis confirms these advancements, pushing driverless vehicles from concept to impending reality. The implications for logistics, public transport, and personal mobility are substantial, signaling a new era.",
+      "text_overlay": "DRIVERLESS FUTURE",
+      "image_prompt": "Holographic projection of a complex urban transportation network, showing various routes and autonomous vehicle icons, intense focus from a digital entity, dramatic side lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Beyond city streets, AI is revolutionizing agriculture. AGDAILY’s \"State of the Farm Report\" details major digital trends transforming farming, boosting efficiency and ensuring sustainable food production worldwide.",
+      "text_overlay": "FARM AI REVOLUTION",
+      "image_prompt": "An advanced agricultural drone with glowing sensors flying over a vast, green smart farm field at sunset, data streams visualized in the air, cinematic lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Farmers now use AI for precision planting, real-time crop health monitoring, and automated harvesting systems. This dramatically improves yields, minimizes waste, and addresses urgent global food security challenges efficiently.",
+      "text_overlay": "SMARTER HARVESTS",
+      "image_prompt": "Close-up of a farmer's hands (with subtle cybernetic elements/gloves) interacting with a holographic display showing crop analytics and yield predictions, reflecting data, intense focus.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Industry analysts confirm that AI, 5G, and wireless technologies are rapidly converging, as reported by Burlington Free Press. This powerful synergy accelerates automation across diverse sectors, including telecommunications infrastructure.",
+      "text_overlay": "TECH CONVERGENCE",
+      "image_prompt": "A complex network of interconnected glowing data lines and 5G towers, with an AI core processing information in the center, cyberpunk neon lighting, clear and technical.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "These breakthroughs signify a profound transformation of daily life. From how we commute to how our food arrives, AI integration is no longer theoretical, but an accelerating, tangible reality impacting everyone.",
+      "text_overlay": "NEW DAILY REALITY",
+      "image_prompt": "A modern individual (looking with wonder through smart glasses, data reflecting in lens) observing a street with both robotaxis and automated delivery drones, cinematic lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
