@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "MONOPOLY CRASH?",
+    "narration": "Urgent market alert! A critical AI semiconductor stock just plunged 14% this month, signaling potential industry shifts!",
+    "image_description": "Extreme close-up of a cybernetic eye, reflecting a flickering stock chart with a sharp red downward spike, digital glitch effect, dramatic red warning lights, intense focus.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI MONOPOLY DIP",
+    "image_description": "A hyper-realistic 3D render of a glowing ASML EUV machine wafer stage, centered, with intricate laser patterns, dark background, dramatic blue and purple cyberpunk neon lighting, 8k resolution.",
+    "reasoning": "This thumbnail uses a powerful, iconic machine (ASML EUV) representing the core 'monopoly stock' mentioned in the news. The glowing, detailed render combined with the stark 'AI MONOPOLY DIP' text creates intrigue for investors and engineers, highlighting a specific, high-value asset experiencing a dip, prompting clicks."
+  },
+  "title": "AI Chip Market Alert: Monopoly Stock Plunges!",
+  "segments": [
+    {
+      "text": "A key equipment provider, powering every AI chip globally, saw its stock drop over 14% this month. This impacts future CAPEX.",
+      "image_prompt": "A high-resolution display of a stock market chart showing a significant 14% downturn for a specific semiconductor company, with financial data overlays. Cinematic lighting.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "Despite this, Nvidia and TSMC remain dominant AI infrastructure leaders. Nvidia's GPU demand drives TSMC's advanced wafer foundry utilization.",
+      "image_prompt": "Two distinct holographic projections: one displaying Nvidia's logo with a data stream of GPU units, another showing TSMC's logo with wafer fabrication lines. Cyberpunk neon lighting.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "Demand for HBM memory and advanced packaging solutions is skyrocketing. This puts immense pressure on critical yield rates for leading-edge nodes.",
+      "image_prompt": "Close-up of a highly integrated HBM stack, digitally rendered with transparent layers showing intricate connections. Blue and gold accents. Dramatic side lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Some analysts express concerns regarding current AI stock valuations, though long-term growth prospects remain robust, driven by persistent AI CAPEX.",
+      "image_prompt": "A serious-looking investor (intense focus, through smart glasses reflecting stock tickers) analyzing complex financial graphs on a transparent screen. Cinematic lighting.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "Maintaining a resilient supply chain is paramount. Any disruption in critical material or equipment supply directly impacts global wafer output.",
+      "image_prompt": "A complex, interconnected digital network representing the global semiconductor supply chain, with key nodes glowing and data flowing between them. Cyberpunk neon.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "The industry is consolidating, with new players entering the $3 trillion club. Focus remains on achieving higher yields and scaling HBM production.",
+      "image_prompt": "A futuristic factory floor with automated robotic arms precisely handling silicon wafers, glowing with soft blue light, signifying advanced manufacturing. Determination expressed through efficiency.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
