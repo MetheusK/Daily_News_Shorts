@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "FUTURE IS NOW",
+    "narration": "WARNING! Major industries are quietly transforming, and you won't believe how technology is changing EVERYTHING around you!",
+    "image_description": "A close-up of a person's intense focused eye, reflecting lines of code and futuristic cityscapes, cinematic lighting, dramatic, digital glitch effects.",
+    "mood_color": "neon_green"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "SMART FUTURE NOW",
+    "image_description": "A hyper-realistic 3D render of a glowing, multifaceted circuit board integrated with a leaf or a mountain silhouette, cyberpunk neon lighting, centered object, 8k resolution, dramatic backlighting.",
+    "reasoning": "This thumbnail combines core themes of tech, nature, and future, creating a visually striking, high-contrast image that evokes curiosity and hints at the massive scale of innovation, driving clicks."
+  },
+  "title": "Tech Convergence: Your Future Just Changed!",
+  "segments": [
+    {
+      "text": "Dongfeng's recent Intelligentization Forum showcased 'co-source, co-chain' innovations in automotive tech. Over 100 partners demonstrated advancements, pushing smart mobility solutions rapidly.",
+      "image_prompt": "A sleek, futuristic self-driving car on a digital blueprint, holographic projections of supply chain data floating around it, cinematic lighting.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "This collaborative model integrates design, manufacturing, and supply chains. It's boosting efficiency by 30%, accelerating the delivery of smarter, connected vehicles globally.",
+      "image_prompt": "Interconnected robotic arms assembling car components on an illuminated factory floor, digital data streams flowing between them, cyberpunk neon glow.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "Meanwhile, technology is dramatically merging with nature. Outdoor trends now feature smart sensors and sustainable materials, enhancing experiences for adventurers and environmentalists.",
+      "image_prompt": "A person with smart glasses viewing holographic data overlays while hiking a pristine mountain trail, reflecting nature and tech, dramatic side lighting, intense focus.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "From smart hiking boots tracking biometrics to AI-powered navigation, 2021 trends saw 25% increase in tech-integrated outdoor gear sales, merging utility.",
+      "image_prompt": "Close-up of a futuristic hiking boot with glowing sensors, a transparent map interface displaying biometric data nearby, hyper-realistic, 8k resolution.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "These convergent industry trends, from smart automotive to outdoor tech, underscore a major global shift. Innovation is now rapidly fusing across diverse sectors.",
+      "image_prompt": "Abstract network of glowing nodes connecting icons representing cars, mountains, and data clouds, illustrating global technological convergence, cybernetic style.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "This pervasive integration means future products will be smarter, more efficient, and seamlessly interwoven into our daily lives. Expect radical shifts soon.",
+      "image_prompt": "A digital dashboard displaying an integrated smart home and smart city interface, a human hand gently interacting with a holographic control, cinematic lighting.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
