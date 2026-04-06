@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "CHINA CHIP SHOCK",
+    "narration": "WARNING: The AI Supercycle is peaking, but a new power player is changing the valuation game for global semiconductor stocks!",
+    "image_description": "A digital graph showing a sharp peak and then a turbulent line, with a stylized, glowing 'CHINA' map overlay, reflecting in intense, cybernetic eyes. Red warning lights flash across the screen, depicting digital corruption.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "CHINA CHIP SHIFT",
+    "image_description": "A hyper-realistic 3D render of a glowing, advanced AI processor chip, centered, with subtle Chinese character overlays and dramatic blue-red cyberpunk lighting. The image is 8k resolution, clean, and high-contrast, designed to capture immediate attention.",
+    "reasoning": "This thumbnail highlights a major geopolitical and market shift in the semiconductor industry, appealing to investors and engineers with a visually stunning, object-focused image. It avoids generic human reactions for a more sophisticated, analytical appeal."
+  },
+  "title": "China's Chip Surge: AI Supercycle Re-evaluated",
+  "segments": [
+    {
+      "text": "Amid the AI supercycle, 'pick-and-shovel' stocks like Lam Research and ASML are critical. Their CAPEX allocation dictates future HBM and GPU supply. Investors watch closely.",
+      "image_prompt": "An advanced wafer fabrication equipment, showing a robotic arm precisely placing a silicon wafer onto a platform under dramatic side lighting. Focus on the machinery, not people.",
+      "camera_effect": "zoom_in_slowly"
+    },
+    {
+      "text": "With some analysts signaling an AI valuation peak, focus shifts to underlying manufacturing. China's semiconductor firms reported record sales across multiple sectors.",
+      "image_prompt": "A sophisticated digital dashboard displaying market trend lines and financial graphs, with subtle Chinese characters integrated into a data flow graphic, reflecting in a glowing iris through smart glasses.",
+      "camera_effect": "pan_left_fast"
+    },
+    {
+      "text": "This surge includes domestic fabs and design houses, driven by national initiatives. Their 2023 sales grew significantly, impacting the global supply chain dynamics.",
+      "image_prompt": "A detailed blueprint of a chip manufacturing plant with holographic data projections floating above, illustrating complex processes and growth, cyberpunk neon lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Increased Chinese demand necessitates robust yield management and equipment support. This puts pressure on global equipment suppliers for sustained high performance.",
+      "image_prompt": "A super close-up of a perfectly patterned silicon wafer, with a digital overlay showing complex yield percentage data and green success metrics, under intense focus.",
+      "camera_effect": "zoom_out_slowly"
+    },
+    {
+      "text": "The geopolitical landscape means increased domestic investment, potentially altering market valuation for established Western and emerging Eastern players. Global CAPEX is re-evaluating.",
+      "image_prompt": "A glowing, interactive global map highlighting key semiconductor manufacturing regions with intertwining digital supply lines and financial graphs overlaid, showcasing intense focus.",
+      "camera_effect": "pan_right_fast"
+    },
+    {
+      "text": "The core challenge remains securing critical high-NA EUV tools from ASML, crucial for advanced node expansion and future yield improvements.",
+      "image_prompt": "A futuristic, gleaming ASML high-NA EUV machine in operation, with holographic energy beams and data streams, dramatic cinematic lighting, reflecting data in a cybernetic eye.",
+      "camera_effect": "zoom_in_slowly"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
