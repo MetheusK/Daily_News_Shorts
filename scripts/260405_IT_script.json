@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "FUTURE IS HERE",
+    "narration": "Warning! A silent tech revolution is already underway, and it's about to redefine your entire digital world!",
+    "image_description": "Extreme close-up of a cybernetic eye reflecting glowing data streams, dramatic side lighting, intense focus expression, cyberpunk neon.",
+    "mood_color": "neon_green"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "LIGHT SPEED DATA",
+    "image_description": "3D render of a futuristic microchip interwoven with glowing fiber optic cables, hyper-realistic, 8k resolution, centered object with dramatic blue and purple backlighting.",
+    "reasoning": "Highlights the core technology (light/speed) and futuristic appeal, drawing attention with a visually striking, clear object rather than generic human shock."
+  },
+  "title": "This NEW Tech Changes EVERYTHING!",
+  "segments": [
+    {
+      "text": "A revolutionary technology combining light and electronics is quietly changing everything. Get ready for unprecedented speed and efficiency across all your devices.",
+      "image_prompt": "Abstract visual of light merging with electronic circuits, clean lines, holographic interface, cinematic lighting.",
+      "text_overlay": "LIGHT + CHIPS"
+    },
+    {
+      "text": "This 'photonics-electronics convergence' market is projected to skyrocket. Experts forecast it will hit a massive $48.26 Billion by 2030, transforming global tech infrastructure.",
+      "image_prompt": "Digital graph showing upward trend, '$48.26 Billion' highlighted, futuristic city in background, data reflecting on surfaces.",
+      "text_overlay": "BILLION DOLLAR TECH"
+    },
+    {
+      "text": "Imagine data processing at light speed, far beyond traditional chips. This will power hyper-efficient data centers and dramatically boost internet connection speeds for everyone.",
+      "image_prompt": "Server racks with glowing optical cables, data flowing rapidly, digital representations of speed, intense focus on data flow.",
+      "text_overlay": "FASTER INTERNET"
+    },
+    {
+      "text": "AI advancements will accelerate exponentially. Next-gen devices, from augmented reality glasses to smart sensors, will gain incredible processing power and energy efficiency.",
+      "image_prompt": "Person wearing sleek smart glasses with holographic data projecting, reflecting data in eyes, AI interface elements, cyberpunk aesthetic.",
+      "text_overlay": "AI ON FIRE"
+    },
+    {
+      "text": "Your future smartphone could be thinner, faster, and more powerful than anything today. This technology brings a 'wow' factor to daily interactions, enhancing user experience.",
+      "image_prompt": "Sleek, futuristic smartphone displaying a vibrant, interactive holographic interface, dramatic lighting, human hand interacting with glowing screen.",
+      "text_overlay": "FUTURE PHONES"
+    },
+    {
+      "text": "This convergence will drive innovation, bringing incredible new features and user experiences. Prepare for a truly connected world.",
+      "image_prompt": "Interconnected glowing network lines, abstract representation of global connectivity, data streams, digital reflections.",
+      "text_overlay": "INNOVATION DRIVEN"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
