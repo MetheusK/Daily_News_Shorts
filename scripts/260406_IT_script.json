@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "AIR CRISIS SOLVED",
+    "narration": "Warning! The hidden crisis in the air you breathe is dramatically changing, and you won't believe how technology is fixing it!",
+    "image_description": "A person's face seen through smart glasses, reflecting a glitched-out, polluted city skyline quickly transitioning to a clear, futuristic city. Intense focus, dramatic side lighting, red warning lights fading to neon green.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "CLEAN AIR TECH",
+    "image_description": "A sleek, cybernetic air quality monitor device, glowing with internal blue light, centered against a dramatically lit, clear blue sky. Hyper-realistic, 3D render, 8k resolution, cinematic composition.",
+    "reasoning": "This thumbnail features a futuristic, clean object directly related to the topic, using high-contrast and dramatic lighting to evoke curiosity and a sense of advanced technology, encouraging clicks without sensationalism."
+  },
+  "title": "Future Air: Tech Cleaning Our Cities Now!",
+  "segments": [
+    {
+      "text": "Mexico Business News highlights groundbreaking technology actively deployed to significantly improve urban air quality. It's a game-changer.",
+      "text_overlay": "CLEANER AIR NOW",
+      "image_prompt": "Futuristic city skyline, clear air, drone with air quality sensors flying, dramatic side lighting, 8k render."
+    },
+    {
+      "text": "Advanced AI sensors and IoT networks are now deployed. They meticulously monitor city air, detecting particulate matter and harmful gases in real-time.",
+      "text_overlay": "SMART SENSORS",
+      "image_prompt": "Close-up of a sleek, glowing IoT sensor node on a building, displaying holographic data, cyberpunk neon lighting."
+    },
+    {
+      "text": "This data enables targeted interventions, achieving tangible reductions in airborne pollutants. Public health significantly boosts, particularly in dense urban zones.",
+      "text_overlay": "HEALTHY CITIES",
+      "image_prompt": "People (expressions of calm wonder) walking in a park under a bright sky, digital overlays showing clean air metrics, cinematic lighting."
+    },
+    {
+      "text": "This emerging field drives economic growth. RCM Technologies' Q4 revenue surged 12.4%, signaling massive demand for skilled tech talent in these innovative sectors.",
+      "text_overlay": "TECH JOBS BOOM",
+      "image_prompt": "People (diverse, intense focus) working in a modern control room, large screens with data visualizations, glowing elements, determination, dramatic side lighting."
+    },
+    {
+      "text": "Analysts, including simplywall.st, predict high growth for environmental tech stocks through April 2026. This indicates accelerating global adoption and significant investment.",
+      "text_overlay": "GLOBAL CLEANUP",
+      "image_prompt": "Holographic globe showing interconnected clean tech nodes spreading across continents, 3D render, hyper-realistic, 8k."
+    },
+    {
+      "text": "This innovation isn't solely about clean air; it's fundamentally reshaping urban environments. It creates healthier, more sustainable cities globally, right now.",
+      "text_overlay": "FUTURE IS CLEAR",
+      "image_prompt": "A single, glowing, intricate data chip at the center, surrounded by swirling clean energy patterns, dramatic backlighting, 8k resolution."
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
