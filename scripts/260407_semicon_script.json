@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI CHIP EXPOSED",
+    "narration": "A critical secret about AI chip production is distorting market valuations. Your portfolio is exposed.",
+    "image_description": "A focused data analyst, wearing smart glasses that reflect complex, real-time data streams. Their glowing iris shows intense concentration on a holographic projection of a silicon wafer map. Dramatic, cinematic side lighting with subtle red warning lights in the background, conveying digital corruption.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "TSMC AI POWER",
+    "image_description": "A hyper-realistic 3D render of an advanced AI chip (like a GPU with HBM stacks) glowing intensely at the center. A subtle, intricate TSMC logo is visible on the polished silicon surface. The background features abstract circuit board patterns with cyberpunk neon lighting. 8k resolution, dramatic backlighting.",
+    "reasoning": "This thumbnail prioritizes a visually stunning object (AI chip) over a human, clearly indicating the topic and the key player (TSMC). The glowing, powerful aesthetic and specific company mention appeal directly to investors and engineers, promising deep insight into a critical industry."
+  },
+  "title": "AI Chip Supply Chain: TSMC's Dominance & Investor Risk",
+  "segments": [
+    {
+      "text": "TSMC solidifies its position as the top AI chip foundry, capturing over 90% of advanced AI processor manufacturing. This market concentration raises supply chain and valuation concerns.",
+      "image_prompt": "Close-up of a high-tech wafer fabrication facility. Robotic arms precisely handling glowing silicon wafers under dramatic, clean room lighting. Focus on intricate machinery.",
+      "camera_effect": "static",
+      "text_overlay": "TSMC DOMINATES"
+    },
+    {
+      "text": "Driven by insatiable demand for HBM memory and high-performance GPUs, AI chip CAPEX continues its unprecedented surge. This creates bottleneck risks for downstream sectors.",
+      "image_prompt": "Dynamic infographic displaying surging financial charts for CAPEX, overlaid on a stylized, hyper-realistic image of vertically stacked HBM memory modules glowing with data streams. Cyberpunk aesthetic.",
+      "camera_effect": "static",
+      "text_overlay": "HBM DEMAND EXPLODES"
+    },
+    {
+      "text": "Achieving high yields for advanced packaging, especially CoWoS for HBM, remains a critical challenge. Production bottlenecks could impact delivery schedules and market availability significantly.",
+      "image_prompt": "An engineer (profile view) with smart glasses, eyes reflecting complex data, intensely examining a holographic yield analysis chart showing specific defect areas on an advanced chip. Dramatic side lighting, serious thought expression.",
+      "camera_effect": "static",
+      "text_overlay": "YIELD CRITICAL"
+    },
+    {
+      "text": "While global AI chip competition intensifies, access to cutting-edge foundry technology remains a strategic geopolitical asset. National security dictates future supply chain stability.",
+      "image_prompt": "Stylized global map with glowing data lines connecting key semiconductor manufacturing hubs. Overlay of abstract circuit patterns, subtle digital corruption effects at geopolitical flashpoints. Cyberpunk neon lighting.",
+      "camera_effect": "static",
+      "text_overlay": "GEOPOLITICAL RACE"
+    },
+    {
+      "text": "Investors must scrutinize AI chip valuations, considering potential oversupply in future cycles and the immense CAPEX requirements. Market rotation is creating new entry points.",
+      "image_prompt": "Abstract financial charts showing stock valuations with data points. A focused investor, with a glowing iris reflecting stock data, analyzing complex financial models on multiple digital screens. Cinematic lighting.",
+      "camera_effect": "static",
+      "text_overlay": "VALUATION WARNING"
+    },
+    {
+      "text": "Semiconductor market forecasts indicate sustained growth to 2035, propelled by AI, IoT, and automotive. Manufacturing scale and R&D CAPEX are critical determinants.",
+      "image_prompt": "Futuristic cityscape with data streams flowing upwards, representing technological advancement. A cybernetic hand points to a holographic projection of growth curves extending towards the year 2035. Dramatic blue and purple neon lighting.",
+      "camera_effect": "static",
+      "text_overlay": "2035 GROWTH OUTLOOK"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
