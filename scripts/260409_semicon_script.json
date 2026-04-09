@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI CHIP SHOCK",
+    "narration": "Semiconductor giants are locked in a battle for AI dominance, and your investments are on the edge of a massive shift!",
+    "image_description": "Extreme close-up of a cybernetic eye with a glowing iris reflecting digital error codes and red warning lights, intense focus, dramatic side lighting, glitch effects, 8k.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "SEMICON WAR",
+    "image_description": "A hyper-realistic 3D render of a glowing, intricate AI processor chip at the center, surrounded by holographic data streams and complex circuit patterns. Cyberpunk style, dark background, dramatic backlighting, 8k resolution.",
+    "reasoning": "The 'SEMICON WAR' text combined with a visually striking, high-tech chip image directly implies high stakes and intense competition, appealing to investors and engineers for clicks."
+  },
+  "title": "TSMC & Intel: AI Chip Battle Heats Up",
+  "segments": [
+    {
+      "text": "TSMC dominates advanced AI chip manufacturing, forming the core infrastructure for explosive global AI expansion. Their 3nm and 2nm wafer technologies are critical to this lead.",
+      "image_prompt": "3D render of a TSMC-branded advanced wafer, glowing with internal digital energy, surrounded by miniature AI GPUs emitting faint light, hyper-realistic, 8k.",
+      "camera_effect": "zoom_in",
+      "text_overlay": "TSMC DOMINATES"
+    },
+    {
+      "text": "This unparalleled edge forces major competitors like NVIDIA and AMD to align with TSMC’s intricate supply chain. Their partners are now widely seen as a 'winning bet'.",
+      "image_prompt": "Complex, interconnected digital network diagram representing a global supply chain, with glowing nodes labeled 'TSMC Partner' and dynamic data flow, dramatic cinematic lighting.",
+      "camera_effect": "pan_right",
+      "text_overlay": "SUPPLY CHAIN POWER"
+    },
+    {
+      "text": "Intel recently joined Elon Musk's ambitious $25 billion Terafab chip project. This aims to build massive, highly efficient foundries, signaling a renewed CAPEX push for scale.",
+      "image_prompt": "A massive, futuristic chip fabrication plant (fab) exterior, bathed in dramatic cyberpunk neon lighting, with a holographic 'Terafab' project logo projected into the sky, 8k.",
+      "camera_effect": "dolly_out",
+      "text_overlay": "INTEL'S $25B PUSH"
+    },
+    {
+      "text": "The Terafab initiative targets increased competition for HBM and GPU production, crucial for AI workloads. Achieving high yield rates and volume manufacturing is paramount for success.",
+      "image_prompt": "Extreme close-up of interconnected HBM stacks on a GPU, with fine data streams highlighting memory connections. A subtle, clear digital overlay displaying a 'Yield Rate' percentage, cinematic lighting.",
+      "camera_effect": "static",
+      "text_overlay": "HBM YIELD CRITICAL"
+    },
+    {
+      "text": "This CAPEX surge by Intel could significantly impact long-term foundry valuations. TSMC's consistent yield and technological lead, however, remain critical market differentiators.",
+      "image_prompt": "Dynamic stock market graph showing a fluctuating upward trend, with key data points highlighting 'Valuation' and 'CAPEX' figures. Abstract digital data overlay, dramatic lighting.",
+      "camera_effect": "zoom_in_slow",
+      "text_overlay": "FOUNDRY VALUATION"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
