@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI IS WATCHING",
+    "narration": "WARNING: The AI revolution isn't just coming; it's already here, reshaping our world faster than you can imagine!",
+    "image_description": "A human face with intense focus, cybernetic glowing blue eyes reflecting complex data streams, dramatic side lighting in a futuristic control room, digital corruption effects around the edges.",
+    "mood_color": "neon_green"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI SPACE FUTURE",
+    "image_description": "A hyper-realistic 3D render of a sleek, futuristic satellite orbiter with a glowing AI core, set against a dark, star-filled space backdrop, dramatic backlighting, 8k resolution.",
+    "reasoning": "Highlights two powerful trending topics (AI, Space) with a visually stunning, futuristic object, creating immediate intrigue about their convergence for high CTR."
+  },
+  "title": "AI & Space Tech: Your Future Just Accelerated!",
+  "segments": [
+    {
+      "text": "AI market projections show $1.3 trillion by 2032, led by NVIDIA and Microsoft. This growth impacts nearly every global industry, establishing new economic paradigms.",
+      "text_overlay": "AI MARKET EXPLODES",
+      "image_prompt": "A holographic bar chart showing exponential growth, intertwined with a digital representation of global network nodes, cinematic lighting.",
+      "camera_effect": "Zoom out"
+    },
+    {
+      "text": "Space technology, led by giants like Lockheed Martin, is seeing unprecedented investment. New satellite constellations and deep-space missions are redefining exploration.",
+      "text_overlay": "SPACE IS NOW",
+      "image_prompt": "A detailed 3D render of a next-generation satellite in Earth orbit, showcasing intricate antennas and solar panels, dramatic side lighting.",
+      "camera_effect": "Pan left"
+    },
+    {
+      "text": "AI algorithms are crucial for space operations: managing complex telemetry, autonomous probe navigation, and analyzing vast cosmic data streams with unparalleled speed.",
+      "text_overlay": "AI POWERS SPACE",
+      "image_prompt": "A cybernetic hand interacting with a holographic display showing a Martian rover autonomously navigating rugged terrain, data flowing around the hand, glowing iris.",
+      "camera_effect": "Dolly in"
+    },
+    {
+      "text": "Integrated systems enhance Earth applications: hyper-accurate weather forecasting, real-time global connectivity, and precise environmental monitoring for sustainability initiatives are key examples.",
+      "text_overlay": "EARTH BENEFITS NOW",
+      "image_prompt": "A digital overlay of real-time environmental data (temperature, pollution levels) projected onto a global map, viewed through smart glasses worn by a person with intense focus.",
+      "camera_effect": "Static"
+    },
+    {
+      "text": "Innovations will push human-AI collaboration in space, accelerating resource discovery and establishing sustainable extraterrestrial outposts within the next decade.",
+      "text_overlay": "FUTURE FRONTIER",
+      "image_prompt": "A futuristic human outpost on the Moon, with robotic arms performing construction, under a dramatic, artificially lit dome, a person with a determined expression observing.",
+      "camera_effect": "Zoom in"
+    },
+    {
+      "text": "The implications for daily life are significant, potentially reshaping how we work, travel, and interact within advanced, data-driven ecosystems.",
+      "text_overlay": "LIFE TRANSFORMED",
+      "image_prompt": "A bustling, futuristic city skyline at night, with flying vehicles and holographic advertisements, viewed through a window reflecting a person's glowing iris, cyberpunk neon lighting.",
+      "camera_effect": "Fly-through"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
