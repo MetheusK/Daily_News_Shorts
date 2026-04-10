@@ -1,0 +1,46 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI CHIP WAR!",
+    "narration": "Trade war escalating! Your AI chip investments are facing critical uncertainty right NOW!",
+    "image_description": "Extreme close-up of a cybernetic eye, reflecting distorted holographic data charts and a flashing red warning symbol. Digital glitch effects on the face. Cinematic lighting with strong neon red accents.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "TSMC SHOCK?",
+    "image_description": "Hyper-realistic 3D render of a glowing silicon wafer, dramatically lit from below with blue and orange cyberpunk neon. In the background, blurred server racks with subtle data streams. No human faces.",
+    "reasoning": "The question mark with 'TSMC SHOCK' immediately grabs attention, combining a key industry player with potential market volatility. The object-focused, high-tech image draws in engineers and investors without relying on clickbait human expressions."
+  },
+  "title": "AI Chip War: TSMC's Record Surge & US-China Tensions Explained",
+  "segments": [
+    {
+      "text": "TSMC posted a 35% revenue jump, a record, fueled by strong AI chip demand. This indicates robust foundry sector growth and resilient CAPEX plans.",
+      "image_prompt": "High-resolution shot of a sterile cleanroom facility, a technician in a full suit observing a production line of advanced silicon wafers under cinematic lighting. The technician's face shows intense focus through smart glasses reflecting data.",
+      "camera_effect": "dolly_zoom"
+    },
+    {
+      "text": "Demand for high-performance AI GPUs and HBM memory is surging. Hyperscalers are investing heavily, pushing advanced packaging capacity to limits.",
+      "image_prompt": "Extreme close-up 3D render of an HBM memory stack integrated into a GPU, with intricate holographic circuit patterns flowing over it. Cyberpunk neon blue and purple lighting.",
+      "camera_effect": "slow_pan"
+    },
+    {
+      "text": "U.S. restrictions aim to curb China's advanced chip capabilities, creating a critical bottleneck. This impacts global supply chains and technology transfer significantly.",
+      "image_prompt": "Digital globe displaying complex, interconnected supply chain routes, with some major routes between two illuminated regions (US/China) highlighted in red and showing digital corruption/glitch effects. A hand with glowing data lines is pointing at the affected regions.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "Geopolitical tensions introduce valuation uncertainty for major players. Maintaining high manufacturing yields becomes paramount amidst complex node transitions.",
+      "image_prompt": "A serious-looking data analyst (cinematic lighting, determined expression) through smart glasses viewing a complex stock market chart overlaid with a 3D diagram of a silicon wafer. Green zones indicate high yield, red zones indicate potential issues, using digital warning lights.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Investors must analyze AI tailwinds versus trade friction. Diversification and understanding supply chain resilience are key for market navigation.",
+      "image_prompt": "A person with glowing data lines on their hands, intensely focused on multiple holographic screens displaying real-time market data, supply chain maps, and geopolitical heatmaps. Dramatic side lighting, expression of deep thought and determination.",
+      "camera_effect": "slide_right"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
