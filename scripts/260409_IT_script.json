@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "TECH SALARIES EXPLODE!",
+    "narration": "WARNING! Your career path just got a radical upgrade, and you didn't even know it!",
+    "image_description": "Extreme close-up of a person with cybernetic eyes reflecting rapidly scrolling data, an intense focus on their face, surrounded by vibrant cyberpunk neon lighting, with subtle digital glitch effects on the edges of the screen. Cinematic lighting.",
+    "mood_color": "neon_green"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "TECH GOLD RUSH",
+    "image_description": "A stylized, hyper-realistic 3D render of a glowing golden circuit board, centered and partially transforming into flowing golden dollar signs. Dramatic backlighting with subtle purple and teal cyberpunk neon glow. 8k resolution.",
+    "reasoning": "This thumbnail uses strong visual metaphors of 'gold' and 'dollar signs' combined with tech elements to immediately convey wealth and opportunity in the tech sector, creating a sense of urgency and curiosity for clicks."
+  },
+  "title": "Tech Salary Shockwave: Are You In?",
+  "segments": [
+    {
+      "text": "Payscale's recent report reveals technology wage growth now significantly outpaces all other industries. This marks a critical shift in global labor market dynamics.",
+      "image_prompt": "A holographic bar graph showing 'Tech' bar much higher than others, clearly labeled 'Wage Growth'. Digital, transparent elements against a dark, tech-inspired background. 8k resolution.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "On average, tech professionals saw a 6.7% wage increase this year, far exceeding the 3.8% across other sectors. Demand for skilled talent drives these unprecedented numbers.",
+      "image_prompt": "An intricate glowing digital flowchart illustrating 'Demand -> Wages' with upward trending arrows and increasing numerical data. Server racks in the background with cinematic lighting.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "AI industry trends are a major catalyst, dominating innovation and creating entirely new high-paying roles. Newsletters confirm this rapid expansion across all tech verticals.",
+      "image_prompt": "A human hand, with cybernetic enhancements, interacting with a holographic interface displaying 'AI' text and swirling data streams. Intense focus in the reflecting eye, cyberpunk aesthetic.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Investor webinars, like Bitget's Q1 2026 analysis, highlight robust market trends and strong earnings insights. Portfolio strategies increasingly prioritize tech investments.",
+      "image_prompt": "A clean, minimalist financial chart with prominent upward trends and key data points. Superimposed over a futuristic cityscape with dramatic side lighting. 8k resolution.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "This sustained growth signals immense opportunities for students and early adopters. Acquiring cutting-edge tech skills guarantees a competitive edge in tomorrow's job market.",
+      "image_prompt": "A person with an expression of intense focus, looking at a transparent holographic screen displaying 'Skill Tree' or 'Future Career Paths'. Data reflecting in their smart glasses. Cyberpunk neon elements.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "The continuous pace of digital transformation and relentless innovation are key drivers. Tech isn't just growing; it's redefining economic landscapes globally.",
+      "image_prompt": "An abstract digital network connecting global cities with glowing nodes and data streams. Hyper-realistic, 8k rendering, conveying interconnectedness and rapid growth. Dramatic lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
