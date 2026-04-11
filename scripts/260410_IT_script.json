@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "YOUR ORDER CHANGED",
+    "narration": "Warning! Your next restaurant meal will never be the same again. This is huge!",
+    "image_description": "Extreme close-up of a cybernetic eye reflecting a digital menu with AI ordering icons, dramatic side lighting, cyberpunk neon, intense focus, reflecting data.",
+    "mood_color": "neon_green"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI TO-GO!",
+    "image_description": "A stylized 3D render of a futuristic robot hand holding a glowing tablet displaying a restaurant menu interface, server racks in a blurred background, hyper-realistic, 8k resolution, dramatic backlighting, focused on the object.",
+    "reasoning": "Highlights AI and food, creating curiosity about the interaction. Features an object (robot hand) as the primary subject for a clean, high-contrast, attention-grabbing visual, aligning with the rule to prioritize objects."
+  },
+  "title": "AI Takes Over Restaurants! Your Next Order Is Different",
+  "segments": [
+    {
+      "text": "Restaurant giants PAR Technology and Square just launched AI agents. This major shift redefines customer interaction and operational efficiency in dining.",
+      "image_prompt": "A sleek, minimalist restaurant interior with a glowing AI interface on a POS terminal, reflecting real-time data, cinematic lighting, serious thought conveyed by subtle digital glow.",
+      "camera_effect": "dynamic zoom"
+    },
+    {
+      "text": "These AI agents automate order-taking, answer menu queries, and handle basic customer support. Expect faster, more accurate service every time.",
+      "image_prompt": "A smart glass view of a restaurant kitchen, overlayed with AI icons confirming a complex order, focusing on seamless customer service, through smart glasses, intense focus.",
+      "camera_effect": "pan right"
+    },
+    {
+      "text": "PAR Technology's Punchh and Brink POS, alongside Square's robust ecosystem, are spearheading this integration. Big industry names, significant impact.",
+      "image_prompt": "Split screen showing prominent, glowing logos of PAR Technology and Square, surrounded by futuristic data streams and code, metallic sheen, determination.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Customers will experience significantly reduced wait times and personalized recommendations. AI remembers preferences, enhancing every visit. This is the 'wow' factor.",
+      "image_prompt": "A person looking intently at a digital menu on a tablet, a subtle holographic AI assistant appearing on the side suggesting an item, cinematic lighting, conveying wonder.",
+      "camera_effect": "dolly out"
+    },
+    {
+      "text": "For businesses, these agents streamline operations, reduce labor costs, and provide invaluable data analytics on customer behavior and peak times.",
+      "image_prompt": "A futuristic kitchen environment with subtle robotic arms assisting, an AI dashboard displaying real-time order data and efficiency metrics, intense focus on operations.",
+      "camera_effect": "pan left"
+    },
+    {
+      "text": "This isn't just about food; it's a blueprint for AI integration across all service industries. Prepare for a smarter, more automated future, starting now.",
+      "image_prompt": "A bustling cityscape at night, neon lights, holographic projections of AI interfaces interacting with various public services (shops, transport), seen through smart glasses, reflecting data.",
+      "camera_effect": "dynamic zoom"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
