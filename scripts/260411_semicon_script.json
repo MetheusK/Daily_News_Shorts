@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI DEMAND SHOCK",
+    "narration": "Urgent investor alert! TSMC's record AI revenue masks a critical bottleneck for future HBM and GPU supply. Pay attention now!",
+    "image_description": "A data analyst with cybernetic eyes reflecting complex HBM wafer schematics, urgent red warning lights flickering across the screen, dramatic side lighting casting sharp shadows, intense focus expression.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "HBM BOTTLENECK",
+    "image_description": "Hyper-realistic 3D render of a glowing HBM memory stack connected to an intricate GPU wafer, cyberpunk aesthetic with dramatic blue and purple backlighting, 8k resolution, centered composition.",
+    "reasoning": "This thumbnail highlights the core high-tech components (HBM, GPU) driving the current semiconductor market, using a striking visual style to attract investors and engineers. The phrase 'HBM BOTTLENECK' creates immediate intrigue about supply chain challenges."
+  },
+  "title": "TSMC's AI Boom: Unpacking the Hidden Supply Chain Challenge",
+  "segments": [
+    {
+      "text": "TSMC just announced record Q1 revenue, reaching $18.87 billion, exceeding forecasts. This 16.5% Y-o-Y surge is primarily driven by relentless AI chip demand.",
+      "image_description": "Cinematic shot of a digital financial graph showing a sharp upward trend, reflecting on the determined face of an engineer wearing smart glasses, with glowing circuit boards in the background, dramatic lighting.",
+      "text_overlay": "TSMC: RECORD REVENUE"
+    },
+    {
+      "text": "Key drivers are NVIDIA’s H100 and upcoming B200 GPUs, necessitating advanced HBM memory. This demand strains current leading-edge 3nm and 5nm wafer fabrication capacity.",
+      "image_description": "Macro shot of a detailed GPU chip next to a high-bandwidth memory (HBM) stack on a silicon wafer, glowing with internal data pathways, cinematic lighting, serious thought expression on a cybernetically enhanced human hand holding the wafer.",
+      "text_overlay": "GPU/HBM DEMAND"
+    },
+    {
+      "text": "Sustaining this AI growth requires massive CAPEX. TSMC is projected to invest over $30 billion in 2024, focusing on advanced packaging and next-gen node expansion.",
+      "image_description": "Industrial robotic arm precisely placing a glowing wafer into an advanced packaging machine, dramatic blue and white lighting, cyberpunk aesthetic, reflecting data patterns in the robot's camera eye.",
+      "text_overlay": "$30B+ CAPEX"
+    },
+    {
+      "text": "Yields on these cutting-edge processes, particularly for HBM and advanced logic, remain critical. Any yield shock can impact supply chains and market valuations significantly.",
+      "image_description": "Digital display showing fluctuating yield percentages on a semiconductor fabrication line, with some sections highlighted in amber warning colors, viewed through the lens of smart glasses, focused expression.",
+      "text_overlay": "YIELD CRITICALITY"
+    },
+    {
+      "text": "Cadence and Nvidia's partnership leveraging Agentic AI aims to optimize chip design and manufacturing. This could potentially enhance future yields and reduce design cycles.",
+      "image_description": "Abstract visual of a neural network overlaying complex chip design schematics, digital streams connecting stylized Cadence and Nvidia logos, reflecting in a cybernetic eye, dramatic lighting.",
+      "text_overlay": "AI DESIGN OPTIMIZE"
+    },
+    {
+      "text": "Asian semiconductor giants, including TSMC, are projected to dominate until 2026. This strengthens their market leadership and global supply chain influence.",
+      "image_description": "Holographic world map highlighting major Asian semiconductor manufacturing hubs, interconnected by glowing data lines, viewed by an individual with focused, data-reflecting eyes, cinematic lighting.",
+      "text_overlay": "ASIA DOMINATES 2026"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
