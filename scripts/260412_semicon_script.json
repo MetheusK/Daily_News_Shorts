@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI STOCK WARNING",
+    "narration": "CRITICAL ALERT! Your AI stock gains could vanish overnight!",
+    "image_description": "Close-up of a cybernetic analyst's eye, glowing red iris reflecting a rapidly declining stock chart with glitch effects, dramatic red and black cinematic lighting, conveying digital corruption.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI VALUATION RISK",
+    "image_description": "A hyper-realistic 3D render of a glowing, complex HBM (High Bandwidth Memory) stack chip, centrally placed on a dark, reflective server rack surface, with subtle holographic data streams flowing around it. Cyberpunk blue and purple dramatic backlighting, 8k resolution.",
+    "reasoning": "The thumbnail prioritizes a visually striking, high-tech object (HBM chip) over a human, appealing directly to engineers and investors. The text 'AI VALUATION RISK' creates urgency and curiosity without being sensational, prompting clicks for detailed analysis."
+  },
+  "title": "AI Stock Alert: TSMC & ASML Q1 2026 Critical",
+  "segments": [
+    {
+      "text": "Q1 2026 earnings for TSMC and ASML are now the market's focal point. These reports will be critical indicators for the entire AI sector's trajectory.",
+      "image_prompt": "A futuristic stock ticker displaying 'TSM' and 'ASML' symbols with a prominent upward trend line, overlaid with a digital countdown clock, cinematic lighting.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "TSMC's April 16th investor conference is eagerly awaited. Insights into 3nm and 2nm wafer production yields and CAPEX plans are crucial for advanced chip supply.",
+      "image_prompt": "High-resolution photo of a silicon wafer (3nm node visualized) being precisely handled by a robotic arm in a cleanroom, dramatic side lighting, showing intricate circuit patterns.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "ASML's Q1 order verification signals EUV lithography demand. This directly impacts HBM and advanced GPU manufacturing capacity, dictating future AI compute power.",
+      "image_prompt": "Close-up of an ASML EUV machine component, emitting intense blue light, with holographic schematics and data streams in the background, representing complex technology.",
+      "camera_effect": "tilt_up"
+    },
+    {
+      "text": "NVIDIA's high 16x P/E ratio raises 'rotation concerns' among investors. The market is weighing its current valuation against future growth potential in AI infrastructure.",
+      "image_prompt": "A holographic NVIDIA logo surrounded by floating, complex financial charts; one showing a steep ascent, another indicating potential volatility or a plateau. Cyberpunk neon lighting.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "The strength of broader semiconductor demand recovery, as indicated by suppliers like VAT Group AG, is under scrutiny. Stable recovery is vital for sustained industry growth.",
+      "image_prompt": "A global map represented by glowing circuit board lines, with specific regions lighting up to indicate economic activity and demand, viewed through smart glasses reflecting digital data.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "These Q1 2026 reports from ASML and TSMC will dictate AI's future valuation. Stay vigilant.",
+      "image_prompt": "An analyst's intense gaze through smart glasses, reflecting complex data charts and financial projections, cyberpunk neon lighting, conveying deep focus and determination.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
