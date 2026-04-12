@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI EATS YOUR BURGER",
+    "narration": "Warning! Your favorite fast-food joint is now powered by AI, changing how you order forever!",
+    "image_description": "Cybernetic hand interacting with a holographic menu displaying a burger, digital glitch effects around the screen, dramatic blue and red neon lighting. A person's intense focus reflecting on smart glasses, cybernetic enhancements visible.",
+    "mood_color": "neon_green"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI RESTAURANTS",
+    "image_description": "A hyper-realistic 3D render of a sleek, futuristic restaurant counter with a glowing AI interface displaying menu options. A robotic arm gently placing a burger on a tray. Cyberpunk neon lighting, 8k resolution, centered object, dramatic backlighting.",
+    "reasoning": "This thumbnail visually represents AI's integration into daily restaurant experiences, using a high-tech aesthetic and clear text to pique curiosity and drive clicks from a general audience."
+  },
+  "title": "AI Takes Over Fast Food: Shake Shack's Tech Leap!",
+  "segments": [
+    {
+      "text": "Shake Shack launched a major technology initiative. It integrates artificial intelligence, loyalty programs, and unified commerce systems for enhanced operations.",
+      "image_prompt": "Shake Shack logo stylized with glowing AI neural network overlay, reflecting in a person's cybernetic eye, intense focus. Cinematic lighting.",
+      "camera_effect": "zoom-in"
+    },
+    {
+      "text": "AI algorithms will personalize customer experiences, predict order demand, and streamline kitchen workflows. This boosts efficiency significantly across all locations.",
+      "image_prompt": "Abstract visualization of AI data flowing into a digital kitchen, displaying optimized routes for food preparation. Blue and green neon data streams.",
+      "camera_effect": "panning-right"
+    },
+    {
+      "text": "A new loyalty program enhances customer retention, while unified commerce ensures seamless transactions across mobile apps, online, and in-store kiosks.",
+      "image_prompt": "Multiple glowing screens (smartphone, tablet, self-order kiosk) showing a unified Shake Shack ordering interface, connected by pulsing light lines. Digital integration.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "This means faster service, customized offers based on past purchases, and a smoother overall ordering process for millions of daily customers.",
+      "image_prompt": "A person's hand using a sleek, futuristic self-ordering kiosk with a focused expression, bright, cinematic lighting on their face. Holographic menu elements.",
+      "camera_effect": "dolly-zoom"
+    },
+    {
+      "text": "Shake Shack is positioning itself as an innovator, setting a new benchmark for quick-service restaurants. This trend will likely expand globally by 2030.",
+      "image_prompt": "Global map overlaid with glowing data points indicating restaurant chains adopting advanced AI tech, with '2030' prominently displayed as a holographic projection.",
+      "camera_effect": "zoom-out"
+    },
+    {
+      "text": "This strategic investment aims to drive significant growth and increase operational margins, directly impacting revenue projections for the next decade.",
+      "image_prompt": "Upward-trending financial graph integrated with a futuristic restaurant interior, digital currency symbols floating. Cyberpunk lighting.",
+      "camera_effect": "tilt-up"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
