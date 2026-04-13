@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "FUTURE CARS: UNREAL!",
+    "narration": "STOP! The way you drive is about to change forever, and it's happening faster than you think!",
+    "image_description": "Close-up of a person with intense focus, reflected data in cybernetic eyes, driving a futuristic car interior. Cinematic lighting, cyberpunk neon glow highlighting sensors.",
+    "mood_color": "neon_green"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "SMART CAR REVOLUTION",
+    "image_description": "Hyper-realistic 8K render of a futuristic car's optical sensor array (e.g., LiDAR unit or camera housing) glowing with vibrant cyberpunk neon lights, centered with dramatic backlighting. No humans visible.",
+    "reasoning": "This thumbnail visually represents advanced car technology and future innovation, using a striking object-focused image to generate curiosity and clicks."
+  },
+  "title": "Your Car's Secret Superpower: Optoelectronics Boom!",
+  "segments": [
+    {
+      "text": "The automotive optoelectronics market is projected to skyrocket, reaching an estimated $21.2 billion by 2035. This represents significant growth from current figures.",
+      "image_prompt": "Sleek, futuristic car interior with a holographic dashboard display, showing financial growth charts and numerical data overlay. Cinematic lighting.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "This expansion signifies a robust Compound Annual Growth Rate (CAGR) of 10.4%. Such consistent growth indicates strong industry confidence and investment in new tech.",
+      "image_prompt": "Dynamic line graph showing an upward trend of 10.4% CAGR, rendered with digital numbers increasing rapidly over time. Blue and green neon light accents.",
+      "camera_effect": "panning_left"
+    },
+    {
+      "text": "A primary catalyst for this boom is the widespread adoption of Advanced Driver-Assistance Systems (ADAS). These systems enhance vehicle safety and autonomy daily.",
+      "image_prompt": "Driver's perspective through smart glasses, displaying ADAS features like lane assist, automatic braking indicators on a futuristic road. Intense focus visible in digital eye reflections.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Furthermore, the increasing global embrace of Electric Vehicles (EVs) fuels demand for sophisticated optoelectronic components. EVs require advanced sensor integration for efficiency.",
+      "image_prompt": "Electric vehicle charging, a glowing battery icon, with integrated sensors on the vehicle body highlighted by blue and purple light. Digital energy flow visuals.",
+      "camera_effect": "tracking_shot"
+    },
+    {
+      "text": "Concurrently, the micro fiber spectrometer market also shows strong growth trends from 2026 to 2035. These compact sensors are crucial for material analysis within vehicles.",
+      "image_prompt": "Microscopic view of fiber optics, with light moving through tiny, intricate tubes. Scientific data visualization overlay, showcasing molecular analysis patterns.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "Market projections confirm robust demand shaping the future.",
+      "image_prompt": "Global network connecting futuristic cars and data nodes, bright light beams illustrating interconnected data flow. Abstract, technological landscape.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
