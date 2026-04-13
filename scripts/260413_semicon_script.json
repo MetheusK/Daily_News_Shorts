@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI STOCK ALERT",
+    "narration": "WARNING: TSMC just issued an AI demand forecast that will rewrite your investment strategy!",
+    "image_description": "A stylized, hyper-realistic close-up of a data stream flowing into a glowing AI chip, seen through the cybernetic eye of an investor reflecting data. Red warning lights flash on a holographic UI. Dramatic side lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "TSMC: 50% GROWTH",
+    "image_description": "A highly detailed 3D render of an advanced semiconductor wafer with holographic projections of growth charts and GPU structures, dramatically lit from below with blue and orange neon. Cyberpunk style, 8k resolution.",
+    "reasoning": "This thumbnail highlights the key player (TSMC) and the significant growth percentage (50%), directly appealing to investors. The focus on a technical object (wafer) avoids human element restrictions and conveys high-tech, data-driven content, ensuring high click-through rates."
+  },
+  "title": "TSMC's AI Boom: What Investors MUST Know",
+  "segments": [
+    {
+      "text": "TSMC projects 50% AI chip CAGR through 2029, driven by robust demand. This forecast fundamentally re-rates the entire AI hardware sector's long-term valuation.",
+      "image_prompt": "Holographic 3D bar chart showing 50% growth projecting into the future, overlaid on a blueprint of a TSMC factory. Cinematic lighting, data reflections.",
+      "text_overlay": "50% CAGR",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "This unprecedented growth primarily stems from HBM and advanced GPU demand for AI training. Manufacturers are aggressively expanding CAPEX for specialized wafer production.",
+      "image_prompt": "Close-up of interconnected HBM stacks and GPU dies on a PCB. A robotic arm gently places a new wafer onto a processing machine. Cyberpunk neon lighting.",
+      "text_overlay": "HBM & GPU DEMAND",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "TSMC’s 2025 performance outlook is very strong, indicating accelerated production volumes. Yields for leading-edge nodes are crucial, dictating market supply.",
+      "image_prompt": "Technician in a cleanroom observing a digital display showing 'Yield Rates: 92.5%' with an intense focus through smart glasses. Glowing iris, dramatic side lighting.",
+      "text_overlay": "CRITICAL YIELDS",
+      "camera_effect": "static"
+    },
+    {
+      "text": "The sustained demand pressure impacts the entire semiconductor supply chain, from lithography equipment to specialty chemicals. This bolsters sector-wide valuations significantly.",
+      "image_prompt": "Intricate digital map of a global supply chain network, highlighting factories and shipping routes for semiconductor components. Glitch effects on congested nodes.",
+      "text_overlay": "SUPPLY CHAIN IMPACT",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "Investors are now scrutinizing specific ETFs and high-growth AI stocks directly linked to this core foundry capacity. Strategic CAPEX deployment is key.",
+      "image_prompt": "Abstract representation of financial data flowing into server racks filled with glowing AI chips. A hand with a futuristic glove points to a 'CAPEX' label. Cyberpunk aesthetic.",
+      "text_overlay": "INVESTOR FOCUS",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "TSMC’s leadership in advanced wafer technology remains critical, reinforcing its indispensable role in global AI infrastructure development.",
+      "image_prompt": "A pristine, illuminated wafer at the center of a futuristic cleanroom, surrounded by blurred high-tech machinery. Emphasize the wafer's complexity. Cinematic lighting.",
+      "text_overlay": "WAFER LEADERSHIP",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
