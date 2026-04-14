@@ -1,46 +1,52 @@
 {
   "hook_plan": {
-    "overlay_text": "FUTURE CARS: UNREAL!",
-    "narration": "STOP! The way you drive is about to change forever, and it's happening faster than you think!",
-    "image_description": "Close-up of a person with intense focus, reflected data in cybernetic eyes, driving a futuristic car interior. Cinematic lighting, cyberpunk neon glow highlighting sensors.",
+    "overlay_text": "FUTURE IS NOW",
+    "narration": "WARNING! New reports reveal the future of tech is HERE, and it's about to redefine EVERYTHING you do!",
+    "image_description": "A wide-eyed person looking through smart glasses at a rapidly scrolling holographic display, city lights reflecting in the cybernetic eyes, dramatic side lighting, digital corruption effect around the edges, intense focus.",
     "mood_color": "neon_green"
   },
   "thumbnail_plan": {
-    "thumbnail_text": "SMART CAR REVOLUTION",
-    "image_description": "Hyper-realistic 8K render of a futuristic car's optical sensor array (e.g., LiDAR unit or camera housing) glowing with vibrant cyberpunk neon lights, centered with dramatic backlighting. No humans visible.",
-    "reasoning": "This thumbnail visually represents advanced car technology and future innovation, using a striking object-focused image to generate curiosity and clicks."
+    "thumbnail_text": "TECH SHOCK 2026",
+    "image_description": "A hyper-realistic 3D render of a glowing, interconnected digital platform represented by intertwined data streams and abstract holographic elements, centered on a dark, reflective surface with dramatic blue and purple backlighting, 8k resolution.",
+    "reasoning": "The direct 'TECH SHOCK' creates intrigue, while the abstract, high-res tech image promises advanced insights without revealing specific details, enticing clicks from a broad audience interested in future tech."
   },
-  "title": "Your Car's Secret Superpower: Optoelectronics Boom!",
+  "title": "2026 Tech REVEALED: Your World Changes Now",
   "segments": [
     {
-      "text": "The automotive optoelectronics market is projected to skyrocket, reaching an estimated $21.2 billion by 2035. This represents significant growth from current figures.",
-      "image_prompt": "Sleek, futuristic car interior with a holographic dashboard display, showing financial growth charts and numerical data overlay. Cinematic lighting.",
+      "text": "Deloitte, Aspire, and Dykema's 2026 reports highlight a unified trend: integrated technology platforms are rapidly taking over.",
+      "text_overlay": "2026 TECH SHIFT",
+      "image_prompt": "Animated graphic showing three corporate logos (Deloitte, Aspire, Dykema) converging into a single glowing network symbol, cinematic lighting, concrete, technical, clear.",
       "camera_effect": "zoom_in"
     },
     {
-      "text": "This expansion signifies a robust Compound Annual Growth Rate (CAGR) of 10.4%. Such consistent growth indicates strong industry confidence and investment in new tech.",
-      "image_prompt": "Dynamic line graph showing an upward trend of 10.4% CAGR, rendered with digital numbers increasing rapidly over time. Blue and green neon light accents.",
-      "camera_effect": "panning_left"
+      "text": "These platforms combine diverse functions, automating tasks, enhancing data flow, and simplifying operations across various sectors daily.",
+      "text_overlay": "PLATFORMS UNITE",
+      "image_prompt": "Abstract visualization of data streams flowing seamlessly between different digital dashboards (e.g., a farming app, a delivery route planner, a car dashboard UI), clean design, 3D render, concrete, technical, clear.",
+      "camera_effect": "pan_left"
     },
     {
-      "text": "A primary catalyst for this boom is the widespread adoption of Advanced Driver-Assistance Systems (ADAS). These systems enhance vehicle safety and autonomy daily.",
-      "image_prompt": "Driver's perspective through smart glasses, displaying ADAS features like lane assist, automatic braking indicators on a futuristic road. Intense focus visible in digital eye reflections.",
+      "text": "Aspire's report for 2026 shows landscaping firms are leveraging these for margin improvement, connecting sales, scheduling, and inventory.",
+      "text_overlay": "LANDSCAPE INNOVATION",
+      "image_prompt": "A futuristic tablet displaying a landscaping management interface with real-time drone mapping, alongside a digital representation of automated watering systems, viewed through smart glasses perspective, concrete, technical, clear.",
       "camera_effect": "static"
     },
     {
-      "text": "Furthermore, the increasing global embrace of Electric Vehicles (EVs) fuels demand for sophisticated optoelectronic components. EVs require advanced sensor integration for efficiency.",
-      "image_prompt": "Electric vehicle charging, a glowing battery icon, with integrated sensors on the vehicle body highlighted by blue and purple light. Digital energy flow visuals.",
-      "camera_effect": "tracking_shot"
-    },
-    {
-      "text": "Concurrently, the micro fiber spectrometer market also shows strong growth trends from 2026 to 2035. These compact sensors are crucial for material analysis within vehicles.",
-      "image_prompt": "Microscopic view of fiber optics, with light moving through tiny, intricate tubes. Scientific data visualization overlay, showcasing molecular analysis patterns.",
+      "text": "Dykema’s automotive insights reveal integrated platforms are addressing rising compliance, litigation risks, and operational efficiency demands.",
+      "text_overlay": "AUTO TECH UPGRADE",
+      "image_prompt": "A sleek, futuristic car's interior with a holographic central console displaying compliance data and diagnostic reports, reflecting a determined driver's eyes in the screen, cinematic lighting, concrete, technical, clear.",
       "camera_effect": "zoom_out"
     },
     {
-      "text": "Market projections confirm robust demand shaping the future.",
-      "image_prompt": "Global network connecting futuristic cars and data nodes, bright light beams illustrating interconnected data flow. Abstract, technological landscape.",
-      "camera_effect": "static"
+      "text": "For you, this means smoother service, better predictive solutions, and vastly more interconnected experiences, from home to work.",
+      "text_overlay": "SEAMLESS FUTURE",
+      "image_prompt": "A person interacting with multiple smart devices (phone, watch, smart home hub) that seamlessly share data, visualized as glowing lines connecting them, showing intense focus, dramatic side lighting, concrete, technical, clear.",
+      "camera_effect": "tracking_shot"
+    },
+    {
+      "text": "This shift isn't just about efficiency; it's the competitive edge, dictating who leads markets and how your daily services evolve.",
+      "text_overlay": "EVOLVING DAILY LIFE",
+      "image_prompt": "A vibrant city skyline at night, overlayed with interconnected digital grids and data flows, illustrating a hyper-connected urban environment, cyberpunk neon lighting, concrete, technical, clear.",
+      "camera_effect": "crane_shot"
     },
     {
       "text": "If useful, please like and subscribe!",
