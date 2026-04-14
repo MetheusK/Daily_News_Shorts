@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI PROFIT SHOCK!",
+    "narration": "Attention investors! TSMC just reported a colossal profit surge poised to reshape the entire AI semiconductor landscape!",
+    "image_description": "Close-up of an analyst's face, serious and determined, with smart glasses reflecting rapidly rising green stock market charts and glowing GPU wafers. Cinematic lighting with deep blue and neon green accents.",
+    "mood_color": "neon_green"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "TSMC'S AI GOLD",
+    "image_description": "A hyper-realistic 3D render of a glowing, intricate TSMC wafer with advanced node patterns at the center. Holographic data streams flow around it, depicting soaring revenue graphs. Dark, cyberpunk background with dramatic backlighting.",
+    "reasoning": "This thumbnail prioritizes a key object (wafer) relevant to TSMC and AI, using a hyper-realistic, high-contrast style. The glowing elements and data streams visually convey 'gold' and 'boom,' directly appealing to investors and tech enthusiasts without relying on human expressions, ensuring high click-through rates."
+  },
+  "title": "TSMC AI Profit Surge: Investor Alert!",
+  "segments": [
+    {
+      "text": "TSMC reported a staggering 35% year-over-year revenue surge for Q1, reaching $18.87 billion, exceeding market expectations due to robust demand.",
+      "image_prompt": "Holographic display showing 'TSMC Q1 +35% Revenue' with data charts ascending rapidly. A focused engineer observes, light reflecting in their cybernetic eyes.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "This growth is primarily fueled by unprecedented AI chip demand, particularly for high-performance GPUs and HBM memory, driving increased wafer orders.",
+      "image_prompt": "Complex 3D render of interconnected GPU and HBM memory modules glowing with digital energy, flowing into a stack of silicon wafers. Dramatic, focused lighting.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "Focus remains intensely on advanced nodes like 3nm and 5nm. High manufacturing yield for these complex processes is critical for market share and efficiency.",
+      "image_prompt": "Microscopic view of a perfectly patterned 3nm silicon wafer, showing intricate circuit details. A robot arm precisely places a component, indicating high yield. Intense, technical lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "TSMC's strategic CAPEX allocation for new fabrication capacity underscores its commitment to future AI infrastructure, ensuring long-term supply chain stability.",
+      "image_prompt": "Aerial view of a massive, futuristic semiconductor fabrication plant under construction, with digital overlays showing CAPEX figures and future capacity projections. Cinematic, industrial lighting.",
+      "camera_effect": "dolly_out"
+    },
+    {
+      "text": "Maintaining high yield rates on leading-edge processes directly impacts profitability and market supply, a continuous technical challenge and competitive edge.",
+      "image_prompt": "Diagnostic interface displaying 'Yield: 98.7%' over a glowing, pristine wafer, contrasted with a red-lit section showing digital corruption where yield is low. An engineer's hand points with determination.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "TSMC's current valuation remains a critical discussion point for investors, signaling long-term growth and market dominance in advanced semiconductors.",
+      "image_prompt": "Financial bar chart overlaid with TSMC's stock ticker, displaying a steady upward trend. A serious investor, through smart glasses, analyzes the data with intense focus. Cyberpunk neon glow.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
