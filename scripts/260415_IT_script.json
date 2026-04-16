@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI IS HERE",
+    "narration": "Warning! The biggest shift in business just happened, and you didn't even notice. AI isn't coming... it's ALREADY here!",
+    "image_description": "Extreme close-up of a person with cybernetic eyes reflecting data streams, intense focus, dramatic side lighting in deep blue and red neon hues, subtle digital glitch effects. FOLLOW HUMAN ELEMENT RULES.",
+    "mood_color": "neon_red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI BUSINESS SHOCK",
+    "image_description": "3D render of a futuristic server rack with glowing AI chips and intricate digital data streams flowing around it, set against a dark, minimalist background with dramatic cyberpunk backlighting, 8k resolution. PRIORITIZE OBJECTS. FOLLOW HUMAN ELEMENT RULES.",
+    "reasoning": "The bold, direct text combined with a visually striking, object-focused image of AI hardware immediately signals a significant tech shift, drawing in viewers interested in major business or tech news. It implies a disruptive change without revealing details, prompting clicks."
+  },
+  "title": "AI's Secret Takeover: Business Edition",
+  "segments": [
+    {
+      "text_overlay": "REAL AI IMPACT",
+      "narration": "AI's shift from hype to practical business impact is now a reality. MarketScale highlights how companies deploy AI for tangible operational gains.",
+      "image_description": "Overhead shot of a modern office space with holographic interfaces displaying business metrics and subtle AI neural network overlays, cinematic lighting, cool blue tones.",
+      "camera_effect": "zoom_in_slow"
+    },
+    {
+      "text_overlay": "2026 AI STRATEGY",
+      "narration": "Gartner identifies AI-native development platforms as a top strategic trend for 2026. Businesses will build software inherently leveraging AI capabilities.",
+      "image_description": "A software developer with intense focus, looking at multiple screens displaying lines of AI-generated code, reflection of code on smart glasses, dramatic blue side lighting. FOLLOW HUMAN ELEMENT RULES.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text_overlay": "NEXT DECADE SHAPE",
+      "narration": "Tech Times reports AI is among five key trends shaping the next decade of innovation. Digital growth across sectors will be fundamentally AI-driven.",
+      "image_description": "A dynamic digital infographic showing intertwined growth curves, with 'AI' as the central glowing node, surrounded by flowing data streams and technological symbols, 3D render, futuristic aesthetic.",
+      "camera_effect": "static"
+    },
+    {
+      "text_overlay": "EFFICIENCY BOOST",
+      "narration": "This integration means significant efficiency boosts in operations, from automated customer service to predictive analytics improving decision-making processes.",
+      "image_description": "A highly organized, automated warehouse floor, robotic arms efficiently moving packages, with glowing digital paths showing optimized routes projected onto the floor, cinematic lighting.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text_overlay": "INNOVATION ACCELERATED",
+      "narration": "Furthermore, AI accelerates innovation by empowering quicker prototype development and personalized customer experiences at unprecedented scales.",
+      "image_description": "A diverse team collaborating around a holographic projection of a new product design, expressions of wonder and serious thought, AI assist lines visible, dramatic lighting. FOLLOW HUMAN ELEMENT RULES.",
+      "camera_effect": "zoom_out_slow"
+    },
+    {
+      "text_overlay": "BUSINESS REVOLUTION",
+      "narration": "Companies adopting AI-native strategies gain competitive advantages, transforming traditional workflows and creating new market opportunities. The full impact is still unfolding across industries.",
+      "image_description": "A sleek, futuristic cityscape at dusk, digital overlays connecting various business districts with flowing data streams, reflecting neon lights, cinematic and cyberpunk aesthetic.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
