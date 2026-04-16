@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "YIELD CRISIS IMMINENT",
+    "narration": "Critical warning for investors and engineers: A silent yield crisis threatens the entire semiconductor supply chain!",
+    "image_description": "Close-up of a human eye with a glowing, cybernetic iris reflecting complex, abstract data corruption and red warning lights, dramatic side lighting, intense focus expression, digital glitch effects.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "ASML'S AI MONOPOLY",
+    "image_description": "Hyper-realistic 8K rendering of a massive, futuristic High-NA EUV lithography machine, with glowing blue light emanating from its core, casting dramatic shadows. A perfectly rendered silicon wafer is visible in the processing chamber. Cyberpunk style, centered composition, dramatic backlighting.",
+    "reasoning": "Highlights ASML's unique position and the 'monopoly' aspect, appealing to investors interested in market dominance and the future of AI chips, making it highly clickable."
+  },
+  "title": "ASML's AI Monopoly: Investor Yield Alert",
+  "segments": [
+    {
+      "text": "ASML reported a Q1 earnings beat, exceeding analyst expectations. This performance underscores robust demand signals despite broader semiconductor market fluctuations.",
+      "image_prompt": "Holographic financial charts projecting upward trends and ASML logo, overlaid on a blueprint of a factory floor, serious thought on a cybernetic engineer's face, cinematic lighting.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "The company lifted its 2026 outlook, driven by surging AI chip demand. This indicates a strong long-term CAPEX cycle for advanced logic and HBM manufacturing.",
+      "image_prompt": "Stacked GPUs with glowing HBM modules, a transparent overlay showing projected 2026 growth figures, surrounded by digital data streams, intense focus on a scientist's glowing iris.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "ASML's High-NA EUV machines are critical for next-gen silicon. This technology enables higher transistor density and improved wafer yield for future GPU architectures.",
+      "image_prompt": "Close-up of a High-NA EUV lens array emitting precise laser beams onto a silicon wafer, complex nanometer patterns visible, industrial cyberpunk setting, dramatic side lighting.",
+      "camera_effect": "dolly_zoom"
+    },
+    {
+      "text": "ASML's near-monopoly in advanced lithography tools ensures its pivotal role. Investors are assessing its valuation given its essential position in the AI supply chain.",
+      "image_prompt": "Stylized infographic showing ASML's market share dominance in lithography, with glowing arrows pointing to major chip manufacturers, viewed through smart glasses with data reflections.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "High-NA EUV adoption will significantly impact manufacturing yields for leading-edge nodes. This is crucial for high-volume production of advanced AI accelerators.",
+      "image_prompt": "Robotic arm precisely handling a silicon wafer with digital yield metrics overlaid, a factory environment with dramatic lighting, conveying determination in a worker's focused expression.",
+      "camera_effect": "track_right"
+    },
+    {
+      "text": "ASML's High-NA EUV dominance positions it uniquely for the future of AI silicon, impacting 2026 CAPEX and yield strategies.",
+      "image_prompt": "A holographic projection of a future AI chip design above a complex High-NA EUV machine, digital corruption effects around the edges to convey future challenges, cybernetic eyes reflecting data.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
