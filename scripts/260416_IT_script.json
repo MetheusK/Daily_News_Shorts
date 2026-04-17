@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI IS WATCHING!",
+    "narration": "Stop what you're doing! A new AI revolution is here, and it’s about to change how you see the world!",
+    "image_description": "Extreme close-up of a cybernetic eye, reflecting swirling data and lines of code, surrounded by intense cyberpunk neon lighting. Digital glitch effects flicker across the screen.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI SEES ALL",
+    "image_description": "A hyper-realistic 3D render of a glowing, multifaceted AI 'brain' or core, emanating holographic data streams. Centered composition with dramatic backlighting in deep blues and purples, 8k resolution.",
+    "reasoning": "The 'AI Sees All' text combined with a visually striking, mysterious AI core object creates intrigue and a sense of pervasive technology, compelling users to click and learn more about its capabilities."
+  },
+  "title": "AI Agents: Your World Just Got Smarter!",
+  "segments": [
+    {
+      "text": "AI agents are transforming user experience, evolving beyond simple commands. They now proactively anticipate needs, integrating seamlessly into our daily digital lives.",
+      "image_prompt": "A holographic interface projecting a calm, assistive AI agent interacting with a person's smart glasses, showing their glowing iris reflecting data.",
+      "camera_effect": "smooth zoom out"
+    },
+    {
+      "text": "This growth is fueled by the booming image recognition market, projected for significant expansion to 2031. Advanced technology enables unparalleled visual understanding.",
+      "image_prompt": "A sophisticated 3D render of a smart city grid, with data streams highlighting object detection and recognition points, with cinematic lighting.",
+      "camera_effect": "pan right"
+    },
+    {
+      "text": "Daily life impact is profound, from enhanced security systems to personalized retail. These systems analyze visual data, offering truly intelligent, adaptive environments.",
+      "image_prompt": "A futuristic smart home interface displaying real-time data from various sensors, showing an intensely focused user interacting with holographic controls.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Notably, open-source AI models, especially from regions like China, are gaining significant traction. They are creating viable pathways to robust monetization and innovation.",
+      "image_prompt": "Digital globe highlighting open-source code flowing between continents, specifically emphasizing Asia, with lines of code and data clusters.",
+      "camera_effect": "dolly in"
+    },
+    {
+      "text": "This shift challenges traditional proprietary AI dominance. It democratizes access to powerful AI tools, fostering a new era of collaborative development and applications.",
+      "image_prompt": "Two hands (one human, one robotic, both technical/cybernetic) shaking over a glowing circuit board, symbolizing collaborative innovation with dramatic lighting.",
+      "camera_effect": "rotate slightly"
+    },
+    {
+      "text": "The implications are vast: expect more intuitive devices, hyper-personalized services, and a competitive global AI landscape driven by these advanced, integrated technologies.",
+      "image_prompt": "A futuristic smart city skyline at night, with neon lights illuminating advanced AI systems and seamless user interfaces, viewed through smart glasses with glowing iris.",
+      "camera_effect": "pull back slowly"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
