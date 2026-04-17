@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI STOCK ALERT!",
+    "narration": "Attention investors! TSMC just revealed a profit surge that will redefine AI sector valuations. This is a critical market shift!",
+    "image_description": "A cybernetic eye with glowing iris reflecting dynamic stock market charts and digital corruption effects, set against dramatic cyberpunk neon lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "TSMC: AI POWER",
+    "image_description": "A hyper-realistic 3D render of a glowing, pristine silicon wafer at the center, surrounded by holographic data streams, with dramatic dark backlighting. 8k resolution.",
+    "reasoning": "The 'TSMC: AI POWER' text is direct and intriguing, combined with a high-contrast, object-focused visual of a glowing wafer, it clearly communicates high-tech financial significance, appealing to investors and engineers."
+  },
+  "title": "TSMC's 50% Profit Surge: AI Market Implications",
+  "segments": [
+    {
+      "text": "TSMC reported a staggering 50% profit increase in its latest quarter, shattering analyst expectations, driven by unparalleled AI chip demand.",
+      "image_prompt": "A sophisticated digital overlay showing TSMC's logo with a sharply ascending revenue graph, projected onto a secure data server rack, cinematic lighting.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "This surge directly attributes to explosive demand for advanced AI accelerators, including high-bandwidth memory (HBM) and next-gen GPUs from key clients.",
+      "image_prompt": "Extreme close-up 8k render of a glowing HBM stack integrated into a high-performance GPU, with intricate circuit patterns visible, dramatic side lighting.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "TSMC's monopoly on cutting-edge wafer fabrication positions it as the critical enabler for firms like Nvidia, sustaining robust valuation multiples.",
+      "image_prompt": "Holographic projection of a global semiconductor supply chain, TSMC's facility highlighted at the core, with interconnected digital lines, reflecting data.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "To meet this unprecedented AI demand, TSMC's CAPEX remains aggressive, expanding advanced process node capacity crucial for next-gen chip production.",
+      "image_prompt": "A cleanroom environment, focused on robotic arms meticulously handling large silicon wafers, dramatic industrial lighting, digital efficiency metrics overlay.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Maintaining high yield rates on these complex nodes is paramount for long-term profitability and solidifying TSMC's market leadership in AI.",
+      "image_prompt": "A complex analytical dashboard displaying yield rate percentages and statistical process control charts, with a focused cybernetic eye reflecting the data, dramatic lighting.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "Investors must analyze current manufacturing yields to truly assess future revenue projections.",
+      "image_prompt": "A highly detailed schematic of a microchip, emphasizing yield percentage metrics, with an intense focus from a smart glasses-wearing engineer's perspective, reflecting data.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
