@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "TECH WAR AHEAD",
+    "narration": "Warning! A new global tech crisis could halt your favorite product launches!",
+    "image_description": "Close-up of a person's face, their eyes glowing with red data streams, reflecting a fragmented digital world map. Intense focus, cyberpunk neon lighting, subtle digital corruption effects.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "CHINA'S TECH BAN",
+    "image_description": "A 3D render of a stylized microchip, glowing with red and blue light, positioned centrally over a fractured and glitching digital map of global supply routes. Dark, dramatic backlighting, 8k resolution.",
+    "reasoning": "The thumbnail prioritizes a high-tech object (microchip) and uses a powerful, direct text overlay to immediately convey a high-stakes geopolitical tech conflict, intriguing general users for a click."
+  },
+  "title": "China's Tech Ban: What It Means For YOU",
+  "segments": [
+    {
+      "text": "Chinese government is planning export bans to the US, reacting to a report on Tesla's growing local self-sufficiency. This signals rising economic nationalism.",
+      "image_prompt": "A digital map highlighting China and the US, connected by disrupted red data lines, showing geopolitical tension. Cinematic lighting, focused on key regions.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "The report detailed Tesla's deep integration, approaching full autonomy within China's supply chain for EV production. This alters previous global dependencies.",
+      "image_prompt": "A sleek, futuristic electric vehicle (EV) with holographic schematics overlaid, highlighting integrated internal components made in a local supply chain. Cyberpunk aesthetic.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "This potential ban asserts China's leverage over critical tech exports. It's a direct response to intensifying trade and technological competition with the US.",
+      "image_prompt": "Abstract digital representation of global trade routes with sections blocked by glowing red digital barriers. Intense focus, dramatic lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Industries heavily reliant on Chinese components face severe disruptions. Supply chains for various consumer electronics and EVs could see major impacts.",
+      "image_prompt": "A close-up of a complex circuit board with subtle red warning lights and digital glitch overlays, implying disruption. Dramatic side lighting.",
+      "camera_effect": "slow_zoom_out"
+    },
+    {
+      "text": "Consumers might experience delayed product releases and potentially increased costs for new tech gadgets and electric vehicles globally due to these restrictions.",
+      "image_prompt": "A human hand holding a futuristic smartphone, with holographic price tags and warning symbols appearing on the screen. Expression of serious thought, cinematic lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "This move signals escalating global economic fragmentation. Companies must urgently re-evaluate international manufacturing strategies and regional supply chain dependencies.",
+      "image_prompt": "A global digital network with several key nodes disconnecting and emitting red data streams, symbolizing fragmentation. Wide shot, dramatic lighting.",
+      "camera_effect": "fast_zoom_in"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
