@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "TSMC PROFIT BOMB",
+    "narration": "Warning investors! TSMC just dropped a profit bomb, sparking a massive AI supply chain alert!",
+    "image_description": "Extreme close-up of a cybernetic eye reflecting complex data streams with digital glitch effects and urgent red warning lights, intense focus on the iris, cinematic lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI CHIP BOOM",
+    "image_description": "A highly detailed 3D render of a glowing, intricate AI chip (GPU architecture visible) centered on a dark, reflective surface with subtle cyberpunk neon backlighting, 8k resolution.",
+    "reasoning": "The 'AI Chip Boom' text is direct and relevant to current market trends, while the 3D rendered AI chip immediately conveys the topic and attracts tech/investor clicks through its visual quality."
+  },
+  "title": "TSMC's 58% AI Profit Surge: Investor Alert!",
+  "segments": [
+    {
+      "text": "TSMC announced a staggering 58% profit surge for Q1 2026, driven directly by insatiable global demand for advanced AI chips.",
+      "image_prompt": "A dynamic 3D line graph showing a steep upward trend overlaid on a shimmering silicon wafer, glowing blue data lines, cinematic lighting, 'TSMC' and '58% Profit' texts subtly integrated.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "This growth is primarily fueled by accelerated CAPEX from major tech giants investing heavily in HBM memory and high-performance GPU silicon for AI data centers.",
+      "image_prompt": "Futuristic server racks with vibrant, glowing indicators and holographic data streams flowing between them, focusing on 'HBM' and 'GPU' labels, cyberpunk neon lighting.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "Critical equipment providers like Lam Research, a key 'pick-and-shovel' stock, are poised to benefit significantly from this unprecedented manufacturing ramp-up.",
+      "image_prompt": "A highly precise robotic arm gently handling a patterned silicon wafer within a pristine cleanroom environment, subtle corporate logos of 'Lam Research' visible, dramatic side lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Sustaining high yields for cutting-edge AI silicon remains paramount. Any fluctuations directly impact profitability and supply, a constant industry challenge.",
+      "image_prompt": "A detailed animated diagram showing a chip cross-section with a 'Yield Rate: 92%' percentage display, subtle digital corruption and red warning lights flashing on defective areas, technical focus.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "Investors are closely monitoring valuations. The current market capitalizes on future AI growth, but manufacturing efficiencies and global CAPEX remain key indicators.",
+      "image_prompt": "An analyst, viewed through smart glasses reflecting a live stock ticker overlaying a global data network, an expression of intense focus and determination, dramatic side lighting.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "TSMC's valuation surge on AI demand highlights its indispensable role in the global HBM and GPU supply chain dominance.",
+      "image_prompt": "A large, glowing TSMC logo centrally placed on a holographic world map with interconnected supply lines illuminating key manufacturing hubs for HBM and GPU production, 8k resolution.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
