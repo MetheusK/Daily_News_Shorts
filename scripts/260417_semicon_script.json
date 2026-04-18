@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI CHIP WARNING",
+    "narration": "URGENT Stock Alert! The AI chip industry is at a critical breaking point, and your investments are at risk!",
+    "image_description": "A cybernetic eye with a glowing red iris, reflecting holographic stock charts flashing red. Digital corruption and glitch effects emanate from the eye. Dramatic side lighting creates deep shadows.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI CAPACITY CRUNCH",
+    "image_description": "A high-resolution 3D render of interconnected, glowing AI chips overflowing a futuristic server rack. Digital data streams cascade around them. Cyberpunk style, dark background, with dramatic backlighting emphasizing the glowing components. 8k resolution.",
+    "reasoning": "Highlights the core problem (AI demand vs. capacity) visually, uses clear, impactful text, and an object-focused, high-tech aesthetic for strong click-through."
+  },
+  "title": "AI Chip Capacity Crunch: TSMC & ASML Impact Explained",
+  "segments": [
+    {
+      "text": "ASML just shattered expectations, raising guidance with strong demand for EUV systems. This signals robust CAPEX in advanced manufacturing, bolstering equipment providers.",
+      "image_prompt": "A highly detailed semiconductor factory floor, with a prominent ASML EUV machine at the center. Engineers with smart glasses show intense focus and determination. Cinematic lighting illuminates the advanced machinery.",
+      "camera_effect": "dynamic zoom",
+      "text_overlay": "ASML SURGE"
+    },
+    {
+      "text": "AI's surge fuels unprecedented HBM and GPU demand. Custom silicon orders are pushing foundry capacity, impacting the global wafer supply and pricing dynamics.",
+      "image_prompt": "Extreme close-up of HBM (High Bandwidth Memory) stacks integrated on a silicon wafer. Glowing data lines connect the components. Hyper-realistic, 8k resolution, with deep blue and purple neon lighting.",
+      "camera_effect": "slow pan",
+      "text_overlay": "HBM DEMAND"
+    },
+    {
+      "text": "TSMC warns surging AI chip demand pushes capacity limits. Expect extended lead times for critical components. Advanced node yield optimization is now paramount.",
+      "image_prompt": "A holographic projection of a TSMC fab layout, highlighting crowded production lines with red warning indicators on 'capacity exceeded' zones. Engineers intently watch data on transparent screens through smart glasses.",
+      "camera_effect": "tilt down",
+      "text_overlay": "TSMC CAPACITY"
+    },
+    {
+      "text": "Geopolitical tensions are directly influencing semiconductor supply chain stability. South Korea is adapting rules amidst global competition for chip dominance and investment.",
+      "image_prompt": "A futuristic digital world map with glowing supply chain routes, some sections flickering red with 'glitch' effects. This map reflects in the cybernetic eye of an analyst, viewed through smart glasses. Dramatic side lighting.",
+      "camera_effect": "tracking shot",
+      "text_overlay": "GEO-RISK RISING"
+    },
+    {
+      "text": "Investors must re-evaluate sector valuations. The high-yield environment and concentrated AI demand signal strategic shifts in semiconductor investment priorities and focus.",
+      "image_prompt": "A complex data visualization showing stock market graphs with ascending lines, overlaid with shifting valuation metrics and key performance indicators. Abstract, high-tech display with glowing green and gold accents.",
+      "camera_effect": "static",
+      "text_overlay": "SHIFTING VALUATION"
+    },
+    {
+      "text": "These core metrics dictate future industry direction and investment strategy.",
+      "image_prompt": "A silhouette of a semiconductor engineer with a determined expression, looking out at a vast, glowing digital city representing future technology. Cinematic lighting creates a sense of profound insight.",
+      "camera_effect": "slow zoom out",
+      "text_overlay": "INDUSTRY FUTURE"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
