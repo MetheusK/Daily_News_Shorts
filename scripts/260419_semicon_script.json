@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "KOREA'S AI RISK",
+    "narration": "Market Warning! South Korea faces a critical shift in the AI chip supply chain, risking subcontractor status!",
+    "image_description": "Close-up of a human eye (glowing iris, reflecting digital data streams of market graphs and supply chain networks) through smart glasses, with digital corruption and red warning lights flashing across the screen. Cinematic, cyberpunk lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI POWER SHIFT",
+    "image_description": "A hyper-realistic 3D render of an advanced AI chip (like a GPU with HBM stacks) glowing intensely in the center, surrounded by a holographic representation of global supply chain lines. Dark, dramatic background with subtle blue and purple neon light accents. 8k resolution.",
+    "reasoning": "The visual emphasizes the technical core (AI chip) and the conceptual 'power shift' with a high-quality, intriguing image, appealing to both investors and engineers who understand the gravity of chip dominance."
+  },
+  "title": "AI Chip War: Korea's Risk, Taiwan's Power",
+  "segments": [
+    {
+      "text": "South Korea's memory sector risks strategic subcontractor status to Taiwan's foundry strength. This shift impacts future global CAPEX allocation and industry valuations.",
+      "image_prompt": "Overhead shot of a pristine, high-tech semiconductor fabrication cleanroom floor, wafers moving robotically under cool blue cinematic lighting. Intense focus.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Taiwan Semiconductor (TSMC) commands over 90% of advanced AI chip production for major GPU developers. This secures its valuation and market leadership.",
+      "image_prompt": "Close-up of a robotic arm, cybernetic and precise, handling a polished silicon wafer containing multiple chip dies. Cinematic lighting with reflections.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "While South Korea excels in HBM, its integration with AI logic chips demands superior advanced packaging yields from TSMC's CoWoS technology.",
+      "image_prompt": "Holographic display showing a detailed 3D model of an HBM stack precisely integrated onto a GPU die, with data streams flowing between components. Focus on technical details.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "Strong AI chip demand fuels CAPEX for equipment leaders like Lam Research. This indicates continued investment in advanced lithography and backend processes.",
+      "image_prompt": "Intricate schematic of an advanced lithography machine (e.g., EUV) with glowing digital readouts and complex internal mechanisms visible. Industrial, high-tech setting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Achieving high manufacturing yields on complex AI architectures, like integrated HBM and GPU, remains critical for profitability and market share.",
+      "image_prompt": "Digital data visualization of yield percentage charts, showing both high (green) and critical (red, with digital glitch effects) yield areas on a complex wafer map. Serious thought expression.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "This dynamic ensures Taiwan's continued AI chip leadership, profoundly influencing future market valuations and strategic partnerships across the entire supply chain.",
+      "image_prompt": "A sophisticated world map displaying glowing lines representing global semiconductor supply chains, with prominent, brighter nodes centered on Taiwan and South Korea, depicting data flow and economic connections. Cinematic lighting.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
