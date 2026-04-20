@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI IS SHIFTING!",
+    "narration": "Warning! The core of AI knowledge just secretly changed, impacting every search and decision you make online!",
+    "image_description": "Close-up of a human eye with a glowing, cybernetic iris, reflecting complex data streams in a digital environment, dramatic side lighting, neon green and purple hues, intense focus.",
+    "mood_color": "neon_green"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI REIMAGINED",
+    "image_description": "A hyper-realistic 3D render of a stylized 'W' logo (representing Wikipedia), composed of glowing data nodes and holographic projections, centered on a dark, reflective surface with dramatic blue and purple cyberpunk backlighting, 8k resolution.",
+    "reasoning": "The stylized 'W' immediately signals Wikipedia/knowledge, while the 'reimagined' text and futuristic visual imply a profound, user-centric transformation in AI, sparking curiosity for a click."
+  },
+  "title": "AI's Secret Makeover: What It Means For YOU!",
+  "segments": [
+    {
+      "text": "AI Wikipedia is undergoing a significant internal shift, redefining how knowledge is curated and accessed. This isn't just an update; it's a fundamental overhaul in information architecture.",
+      "image_prompt": "Abstract 3D render of interconnected data nodes forming a complex network, glowing lines indicating information flow, dramatic blue lighting, server racks faintly visible in background.",
+      "camera_effect": "slow zoom"
+    },
+    {
+      "text": "This change aligns with a new tech trend embracing 'femininity and fun', prioritizing intuitive user experience over raw data. Engagement metrics are now paramount.",
+      "image_prompt": "User interacting with a sleek, minimalist holographic interface displaying vibrant, playful data visualizations, seen through smart glasses, focused expression, cinematic lighting.",
+      "camera_effect": "pan left"
+    },
+    {
+      "text": "Expect more interactive content and dynamic interfaces. AI platforms will shift from static data delivery to personalized, visually rich, and engaging information discovery for everyone.",
+      "image_prompt": "Dynamic visual of a smartphone screen showing a highly interactive, personalized AI encyclopedia entry, with animated graphics and touch points, held by hands with bright, clean fingernails, clean background.",
+      "camera_effect": "quick cut"
+    },
+    {
+      "text": "Underpinning this, new AI algorithms leverage predictive analysis to tailor information. Users will receive contextually relevant details, enhancing learning and daily decision-making processes.",
+      "image_prompt": "Close-up of a digital brain graphic, intricately glowing with interconnected neural pathways, surrounded by floating data points and analytical charts, cybernetic aesthetic.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "For general users, this means dramatically improved accessibility and relevance. Finding information becomes seamless, less a chore and more an intuitive, enjoyable exploration process.",
+      "image_prompt": "Person with a look of wonder and satisfaction using a voice-activated AI assistant, hands subtly gesturing, cinematic soft lighting, reflecting data in their eyes through smart glasses, serious thought.",
+      "camera_effect": "slow zoom out"
+    },
+    {
+      "text": "This data points to a paradigm shift in how users interact with AI daily, moving from utility to personalized experience.",
+      "image_prompt": "Abstract representation of a digital bridge connecting two distinct islands of data, one blocky and utilitarian, the other fluid and aesthetically pleasing, glowing pathway, 3D render.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
