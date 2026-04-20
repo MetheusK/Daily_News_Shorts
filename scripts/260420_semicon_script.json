@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI CHIP UNCERTAINTY",
+    "narration": "Warning: The AI chip boom hides a critical flaw impacting stock valuations now!",
+    "image_description": "Close-up of a semiconductor wafer with digital glitching effects, red warning lights reflecting in cybernetic eyes of an analyst, dramatic side lighting, intense focus, cyberpunk neon.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "CHIP RISK AHEAD?",
+    "image_description": "A stack of glowing, futuristic AI chips (like GPUs or HBM modules) placed on a holographic data display showing downward trend arrows, dark background, hyper-realistic, 8k resolution, dramatic backlighting.",
+    "reasoning": "The question mark creates intrigue, while the glowing chips and downward trend clearly signal a potential investment risk, appealing directly to investors."
+  },
+  "title": "AI Chip Demand: The Hidden Risks for Lam, TEL & SK",
+  "segments": [
+    {
+      "text": "Investors eye Lam Research and Tokyo Electron, questioning if surging AI chip demand truly guarantees sustained CAPEX upside. Valuation hinges on this.",
+      "image_prompt": "A holographic projection of stock charts with 'LAM' and 'TEL' symbols, an engineer's hand pointing at uncertain trend lines, cinematic lighting.",
+      "text_overlay": "CAPEX DOUBT"
+    },
+    {
+      "text": "AI GPUs and HBM memory drive current excitement. However, actual manufacturing yields and wafer fabrication equipment orders must justify aggressive growth forecasts long-term.",
+      "image_prompt": "Detailed view of a wafer being processed by robotic arms inside a cleanroom, showing subtle digital 'yield' percentage overlays, intense focus, dramatic lighting.",
+      "text_overlay": "YIELD CHALLENGES"
+    },
+    {
+      "text": "South Korea faces an editorial warning: its deep memory chip reliance risks subcontractor status, ceding leadership to Taiwan in advanced logic. A critical supply chain shift.",
+      "image_prompt": "Map of East Asia highlighting South Korea and Taiwan, with data flowing from SK to TW, reflecting in smart glasses of an analyst, serious thought, cyberpunk neon.",
+      "text_overlay": "SKOREA RISK"
+    },
+    {
+      "text": "This geopolitical and supply chain dynamic impacts foundry decisions and future CAPEX allocation. Yield stability for complex HBM production remains a core challenge for margins.",
+      "image_prompt": "Interconnected server racks with glowing data lines, one rack highlighted red for 'risk', surrounded by engineers with determined expressions, cinematic lighting.",
+      "text_overlay": "SUPPLY CHAIN SHIFT"
+    },
+    {
+      "text": "Companies like Samsung and SK Hynix must navigate this. Their strategic investment in next-gen wafer technology and manufacturing yields is critical for market share.",
+      "image_prompt": "A close-up of a microchip blueprint or schematic on a transparent display, an engineer's cybernetic eye reflecting the design, intense focus, dramatic lighting.",
+      "text_overlay": "TECH INVESTMENT"
+    },
+    {
+      "text": "The true measure of AI chip demand's strength lies beyond orders; it's in sustained, high-yield production and diversified supply chains to mitigate regional dependencies.",
+      "image_prompt": "A polished silicon wafer with complex circuit patterns, reflecting a steady green data stream, held by a robotic arm, cyberpunk neon, hyper-realistic.",
+      "text_overlay": "SUSTAINED YIELD"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
