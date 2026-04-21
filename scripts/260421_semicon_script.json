@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI VALUATION RISK",
+    "narration": "Investor Alert! Critical data from industry giants reveals an unprecedented valuation surge in the AI silicon supply chain!",
+    "image_description": "Businessman in high-tech suit, intense focus, cybernetic eyes reflecting a rapidly ascending stock graph, digital corruption effect, dramatic red side lighting. Use a serious, determined expression.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI CHIP BOOM?",
+    "image_description": "Hyper-realistic 8k render of a glowing, intricate silicon wafer at the center, reflecting complex circuit patterns, surrounded by abstract digital data streams in cyberpunk neon blue and purple lighting. Focus on technical beauty and precision.",
+    "reasoning": "The question in the text creates immediate curiosity, while the visually stunning, high-tech image of a central object (the silicon wafer) directly appeals to the target audience of engineers and investors, promising deep insights."
+  },
+  "title": "AI Chip Valuation Spike: What ASML & TSMC Say",
+  "segments": [
+    {
+      "text": "ASML and TSMC confirm strong AI demand, signaling no slowdown. TSMC's 2024 CAPEX is on track, driven by HBM and GPU orders for advanced wafer production.",
+      "image_prompt": "High-resolution shot inside a cleanroom, showing a robotic arm precisely handling a gleaming silicon wafer under bright, focused lighting, reflecting data patterns.",
+      "camera_effect": "zoom_in",
+      "text_overlay": "AI DEMAND SOARS"
+    },
+    {
+      "text": "This consistent demand inflates silicon valuations across the supply chain. Foundries and memory suppliers see rising market multiples, reflecting accelerated growth.",
+      "image_prompt": "Abstract digital stock market graph (line graph) with a clear upward trend, overlaid on a glowing silicon chip, against a backdrop of cyberpunk neon lights. A lone hand points to the peak.",
+      "camera_effect": "pan_right",
+      "text_overlay": "VALUATION SPIKE"
+    },
+    {
+      "text": "Key players like Nvidia drive substantial orders, pushing advanced node wafer allocation to critical levels. Yield optimization remains crucial for maintaining margins.",
+      "image_prompt": "Extreme close-up of an advanced GPU chip, glowing green circuits, with a subtle 'yield' overlay graphic indicating performance metrics. A cybernetic eye focuses intently on the chip.",
+      "camera_effect": "static",
+      "text_overlay": "WAFER ALLOCATION"
+    },
+    {
+      "text": "HBM memory specifically sees persistent order backlogs, highlighting intense pressure on manufacturing yield and the entire high-bandwidth memory supply chain.",
+      "image_prompt": "Detailed 3D render of HBM stacks on an interposer, glowing blue data pathways, intricate packaging, cinematic lighting. A digital screen reflects HBM architectural data.",
+      "camera_effect": "dolly_zoom",
+      "text_overlay": "HBM PRESSURE"
+    },
+    {
+      "text": "Lithography equipment and advanced packaging experience significant upward pricing pressure and increased volume. Sustained high CAPEX is crucial for future expansion.",
+      "image_prompt": "Close-up of an ASML EUV machine detail, laser beams, ultra-precision components, futuristic industrial setting, dramatic lighting. A serious engineer with smart glasses examines the machine.",
+      "camera_effect": "zoom_out",
+      "text_overlay": "CAPEX CRITICAL"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
