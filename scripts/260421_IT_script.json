@@ -1,0 +1,50 @@
+{
+  "hook_plan": {
+    "overlay_text": "YOUR FUTURE IS KNOWN",
+    "narration": "Warning! The biggest tech secret is out: major corporations already know your future by 2026.",
+    "image_description": "Extreme close-up of a person's eye with a glowing, cybernetic iris reflecting streams of data. The eye shows intense focus, surrounded by holographic financial charts and digital predictions in a dark setting with dramatic neon blue and red lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "2026 TECH SHOCK",
+    "image_description": "A hyper-realistic 3D render of a futuristic, glowing server rack with complex holographic data projections spiraling around it. The object is centrally composed with dramatic purple and green backlighting, 8k resolution, and a cyberpunk aesthetic.",
+    "reasoning": "The text creates urgency and mystery about future tech. The 3D render of a server rack with holographic data signifies powerful, complex technology driving future trends, appealing to tech-savvy viewers and the general public without a human face."
+  },
+  "title": "Tech Trends 2026: Your Future, Revealed!",
+  "segments": [
+    {
+      "text": "Deloitte and Technology Magazine predict massive tech shifts by 2026. Every sector, from enterprise to golf, faces profound digital transformation, redefining future strategies.",
+      "image_prompt": "A digital cityscape with data flowing between buildings, representing enterprise sectors. Overlay of '2026' in a futuristic font. Cinematic lighting, determined individual watching data flow through smart glasses.",
+      "camera_effect": "dynamic zoom out"
+    },
+    {
+      "text": "Artificial Intelligence adoption accelerates, streamlining operations and predicting consumer behavior. Expect more personalized experiences from services, driving new enterprise growth phases.",
+      "image_prompt": "Stylized graphic showing AI neurons connecting, with data points converging into a human silhouette. Glowing iris reflecting personalized shopping recommendations. Cyberpunk neon lighting.",
+      "camera_effect": "fast pan"
+    },
+    {
+      "text": "Businesses now leverage vast data sets, shifting from reactive to proactive strategies. This intense data analysis profoundly affects product development, marketing, and user experience.",
+      "image_prompt": "Holographic dashboard displaying complex data visualizations and predictive analytics. A hand gestures over the data, illustrating serious thought. Dramatic side lighting, tech-focused environment.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Automation transcends factories, now transforming customer service and daily tasks. Significant efficiency gains will redefine workforce roles, increasing productivity across all industries.",
+      "image_prompt": "A sleek, robotic arm seamlessly assisting a customer at a digital kiosk. Focus on the robot's precise movement and the human's calm expression. Cinematic lighting, clean design.",
+      "camera_effect": "tracking shot"
+    },
+    {
+      "text": "AR/VR moves beyond gaming, integrating into shopping, education, and sports. MGI Golf's 2026 expansion exemplifies immersive tech creating innovative user engagement.",
+      "image_prompt": "A golfer using smart glasses, seeing holographic course data overlaid onto the real environment. The glowing iris reflects virtual elements. Futuristic sports scene, dynamic angles.",
+      "camera_effect": "dolly zoom"
+    },
+    {
+      "text": "IoT devices forge hyper-connected environments, from smart homes to advanced sports gear. Our increasingly networked world promises unparalleled convenience and integrated experiences.",
+      "image_prompt": "Interconnected glowing lines representing data flow between various smart devices (phone, smart speaker, fitness tracker, smart golf club). Futuristic apartment setting. Cyberpunk neon lighting, glowing elements."
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
