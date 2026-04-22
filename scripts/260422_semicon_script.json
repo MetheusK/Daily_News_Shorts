@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "VALUATION SHOCK!",
+    "narration": "Investor alert! A hidden valuation crisis is shaking the AI semiconductor market right now!",
+    "image_description": "A focused trader's eye, cybernetically enhanced, reflecting rapidly shifting stock charts and a digital warning overlay. Cinematic lighting, digital corruption effects, with intense focus. Mood: urgent.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "CHIP VALUATION GAP",
+    "image_description": "A hyper-realistic 3D render of a glowing HBM (High Bandwidth Memory) stack interconnected with a logic die, dramatically lit against a dark, futuristic server rack background. One part of the HBM stack has a 'TSMC' label, another 'Samsung/SK Hynix', with a clear visual gap or disparity highlighted by subtle neon lines. 8k resolution.",
+    "reasoning": "This thumbnail immediately highlights the core analytical discrepancy (valuation gap) between key players (HBM/Logic) using strong, technical imagery, appealing directly to investors and engineers without relying on human expressions. The object-focus and clear text drive curiosity."
+  },
+  "title": "Semiconductor Valuation Shock: TSMC vs HBM Profits",
+  "segments": [
+    {
+      "text": "Advanced Micro Devices surged following strong AI demand, reinforcing investor confidence in accelerated computing GPUs. This signals robust market momentum.",
+      "image_prompt": "A digital stock chart showing a sharp green upward trend, subtly overlaying an abstract, glowing AI GPU chip design. Cinematic lighting, sharp focus.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "Samsung and SK Hynix reported soaring Q1 profits, driven by rising HBM chip prices and recovering memory demand. Their core business rebounded strongly.",
+      "image_prompt": "Two holographic charts, one labeled 'Samsung Profits' and the other 'SK Hynix Profits', showing significant upward trends. In the background, a highly detailed HBM stack glows. Serious, data-driven feel.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "Despite profit surges, Samsung and SK Hynix P/E ratios remain less than half of TSMC's. This valuation gap raises critical investor questions.",
+      "image_prompt": "A clear, comparison bar chart contrasting the P/E ratios of TSMC (high) versus Samsung and SK Hynix (low). A large, glowing question mark hovers above the disparity. Technical, analytical visualization.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "TSMC's valuation premium reflects its undisputed leadership in advanced node wafer manufacturing and critical foundry CAPEX for cutting-edge processors.",
+      "image_prompt": "An extreme close-up of a highly intricate semiconductor wafer, possibly with 3nm or 2nm nodes visible, glowing with internal circuitry. Robot hands in the background are manipulating it. Dramatic side lighting.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "HBM yields, while crucial, are distinct from leading-edge logic foundry. The integration complexity and yield mastery at TSMC drive its unique market position.",
+      "image_prompt": "A detailed technical diagram showing an HBM stack precisely integrated onto a logic die. Highlighted areas indicate complex connection points and potential yield challenges. Cyberpunk neon aesthetic.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "This valuation difference signals divergent investor confidence in pure memory versus foundry services for future AI infrastructure. Monitor CAPEX and technology roadmaps.",
+      "image_prompt": "A futuristic server room with rows of glowing racks and holographic data projections. A human figure (back view, or only hands on a glowing console) with intense focus, analyzing complex data streams. Cinematic lighting.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
