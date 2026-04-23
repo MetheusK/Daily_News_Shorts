@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI CHIP CRISIS",
+    "narration": "Stop scrolling! A critical GPU bottleneck is quietly emerging, threatening AI growth stocks!",
+    "image_description": "Extreme close-up of a digital representation of a GPU chip, glowing with intense, aggressive red light, with glitching binary code overlay, a cybernetic eye reflecting the chip's data in the foreground, cinematic lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "GPU BOTTLENECK?",
+    "image_description": "Hyper-realistic 3D render of a central, intricate GPU chip, glowing with internal blue and purple light, surrounded by a subtle, geometric data flow, dark background with dramatic backlighting, 8k resolution.",
+    "reasoning": "The question mark implies uncertainty, prompting clicks from investors and engineers concerned about supply. The central GPU object clearly signals the topic."
+  },
+  "title": "Semiconductor Showdown: GPU Bottleneck Looms for AI",
+  "segments": [
+    {
+      "text_overlay": "GPU DEMAND SURGE",
+      "narration": "SpaceX's increasing compute needs and Tesla's advanced chip upgrade signal a significant surge in high-performance GPU demand for AI workloads.",
+      "image_prompt": "Cinematic shot of a vast server farm with rows of glowing racks, individual GPUs subtly visible, an engineer's eye through smart glasses reflecting green data, dramatic side lighting."
+    },
+    {
+      "text_overlay": "SAMSUNG'S LEVERAGE",
+      "narration": "Tesla's move to Samsung for chip upgrades highlights the foundry's critical role in specialized AI silicon. Their CAPEX remains key for capacity.",
+      "image_prompt": "Close-up of a robotic arm precisely placing a large, reflective silicon wafer onto a processing stage, subtle Samsung branding implied on the arm, with cyberpunk neon lighting."
+    },
+    {
+      "text_overlay": "INTEL'S RECOVERY",
+      "narration": "Intel's recent earnings signal a recovery in the CPU market, with improved manufacturing yields boosting margins. This impacts overall supply chain stability.",
+      "image_prompt": "Holographic projection of an intricate chip design blueprint over a human hand (serious, determined expression) interacting with a touchscreen showing upward financial charts, dramatic side lighting."
+    },
+    {
+      "text_overlay": "HBM BOTTLENECK",
+      "narration": "The push for advanced AI GPUs intensifies HBM memory and advanced packaging demands. This creates potential yield challenges and critical supply chain constraints.",
+      "image_prompt": "Microscopic, hyper-detailed view of stacked HBM memory modules on an interposer, glowing with internal light, subtle digital corruption visual effects around the edges to convey challenge, 8k resolution."
+    },
+    {
+      "text_overlay": "VALUATION WATCH",
+      "narration": "AI growth stock valuations hinge on sustained manufacturing capacity and innovation. Investors must monitor wafer starts and CAPEX spending for future indicators.",
+      "image_prompt": "Dynamic stock market ticker display wrapping around a futuristic, glowing silicon wafer, a human eye (cybernetic, reflecting data) intently observing the readouts, cinematic lighting."
+    },
+    {
+      "text_overlay": "SUPPLY CHAIN SHIFT",
+      "narration": "The strategic shifts by major players like Tesla and Intel directly impact upstream material suppliers and downstream assembly operations globally.",
+      "image_prompt": "Animated holographic global map with interconnected glowing lines representing supply chains, overlaid with circuit board patterns, a focused analyst (serious thought expression) in the background, dramatic lighting."
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
