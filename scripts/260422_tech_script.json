@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "APPLE'S HUGE REGRET",
+    "narration": "Stop everything! Tim Cook just revealed a major Apple regret, and it changed everything we know!",
+    "image_description": "Close-up of a person with an intense, serious expression, wearing smart glasses reflecting a glitching map interface. Cinematic lighting, cyberpunk neon glow, digital corruption effects.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "CARPLAY AI UPGRADE",
+    "image_description": "3D render of a futuristic car dashboard with a holographic CarPlay interface displaying AI widgets and sports scores. The center console features a glowing Apple logo. Hyper-realistic, 8k resolution, dramatic backlighting.",
+    "reasoning": "The thumbnail focuses on tangible new features (CarPlay AI) with a futuristic, high-quality visual. This clearly communicates the core value proposition and innovation, attracting tech enthusiasts and general users curious about future tech in cars, ensuring high click-through rates compared to a generic 'regret' hook."
+  },
+  "title": "Apple's Big Confession & Future AI Car!",
+  "segments": [
+    {
+      "text": "Tim Cook publicly acknowledged the Apple Maps launch as a \"mistake.\" This candid admission highlights Apple's crucial commitment to learning and refining user experience.",
+      "image_prompt": "Digital rendering of a complex, interwoven map with subtle error glitcheffects, a single, glowing red 'X' over a city. Technical, clear lines.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "Cook cites the Apple Watch as his \"proudest work.\" Over 100 million users benefit from its health tracking, emergency features, and daily convenience globally.",
+      "image_prompt": "Close-up of a sleek Apple Watch displaying health data (heart rate, activity rings) on a vibrant screen, worn on a hand. Cybernetic data overlays on the screen.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Apple CarPlay is receiving significant updates, enhancing in-car integration. These upgrades transform your driving experience, making navigation and communication seamless and intuitive.",
+      "image_prompt": "Modern car interior, cinematic lighting, focusing on a futuristic CarPlay dashboard display showing a dynamic navigation route. Digital readouts.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "New features include Apple Sports widgets, Perplexity AI integration, and a WhatsApp overhaul. Drivers gain real-time data, smarter assistance, and enhanced communication options.",
+      "image_prompt": "Split screen showing CarPlay interface: one side with sports scores widget, other side with an AI chatbot icon, and a WhatsApp message notification.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "These integrations mean smarter, safer, and more connected journeys. From personalized sports scores to AI queries, CarPlay evolves daily life for millions of drivers.",
+      "image_prompt": "Overhead shot of a highway at night, with a semi-transparent, glowing overlay of CarPlay features (AI, maps, communication) projected onto the road ahead. Cyberpunk aesthetic.",
+      "camera_effect": "dolly_zoom"
+    },
+    {
+      "text": "Apple's vision for integrated tech continues to evolve, shaping future user interactions.",
+      "image_prompt": "Abstract representation of interconnected digital circuits and glowing data streams, forming the Apple logo in the background. High-tech, clean design.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
