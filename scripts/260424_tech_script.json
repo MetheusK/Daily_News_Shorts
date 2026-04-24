@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI IS WATCHING",
+    "narration": "WARNING! Google just unleashed powerful AI across your favorite apps, changing everything!",
+    "image_description": "Extreme close-up of a human eye, pupils glowing with digital data streams, reflecting a blurred Google Chrome logo. Cyberpunk neon lighting, red digital glitch effects surrounding the iris, conveying intense focus and data processing.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "GOOGLE'S AI SHOCK",
+    "image_description": "A hyper-realistic 3D render of a glowing, intricate neural network, centrally connecting stylized icons of Google Sheets, Google Meet, and Google Chrome. The network emits cyberpunk blue and green light, against a dramatic dark background with subtle data streams. High contrast, 8k resolution.",
+    "reasoning": "The phrase 'AI SHOCK' coupled with iconic Google app logos creates immediate intrigue and signals a major update, compelling users to click and learn more about how their familiar tools are changing."
+  },
+  "title": "Google's AI Revolution: Your Apps Just Changed Forever!",
+  "segments": [
+    {
+      "text": "Google just rolled out 'Workspace Intelligence,' embedding advanced AI directly into essential daily applications like Sheets, Meet, and Chrome for over 3 billion users.",
+      "image_prompt": "A holographic display showing 'Workspace Intelligence' with Google app logos (Sheets, Meet, Chrome) interconnected by glowing data lines. A person observes with intense focus, cinematic lighting.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "In Google Sheets, AI can now automate data entry, identify trends, and even generate complex formulas instantly, saving hours of manual work for analysts and students.",
+      "image_prompt": "A user's hands interacting with a Google Sheets interface on a tablet, with AI-generated data suggestions visibly popping up. Screen glows with smart data, determined expression.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "Google Meet gains live translation for 50+ languages, smart meeting summaries, and enhanced noise cancellation, transforming global collaboration for businesses and educators.",
+      "image_prompt": "A diverse group of people in a video conference call on Google Meet, with real-time translation subtitles appearing below. Screens reflecting data, wonder, cinematic lighting.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "Chrome now features AI-powered tab organization, smart search predictions, and enhanced privacy tools, personalizing browsing and boosting efficiency for everyone's daily online tasks.",
+      "image_prompt": "A person looking through smart glasses, their cybernetic eyes reflecting a dynamic Chrome browser interface with AI-suggested tabs and search results. Cyberpunk neon, intense focus.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "This AI integration aims to boost productivity by automating routine tasks, allowing users to focus on creative and strategic work, fundamentally changing digital workflows.",
+      "image_prompt": "A futuristic office environment with holographic interfaces displaying productivity metrics and AI assisting tasks, people working with intense focus, determined expressions.",
+      "camera_effect": "dolly_zoom"
+    },
+    {
+      "text": "Google leads AI-driven productivity, setting a new benchmark for digital tools interacting with human intelligence, redefining future workplaces globally.",
+      "image_prompt": "A complex digital brain network glowing with data, interconnected with various Google Workspace icons, symbolizing the future of AI-human collaboration. Cyberpunk neon, dramatic side lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
