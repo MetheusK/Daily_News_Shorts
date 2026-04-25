@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI STOCK WARNING",
+    "narration": "Warning: The AI supercycle hides a critical stock risk few are watching!",
+    "image_description": "A close-up of an investor's eye reflecting a rapidly crashing holographic stock chart, overlaid with subtle digital glitch effects and red warning lights. Cinematic lighting, intense focus in the eye.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI BUBBLE RISK?",
+    "image_description": "A hyper-realistic, 3D render of a glowing, translucent silicon wafer with a jagged, cracking line running through its center, set against a dark, dramatic background with cinematic backlighting. Emphasize the intricate chip patterns.",
+    "reasoning": "The cracked wafer image combined with 'AI BUBBLE RISK?' creates immediate visual tension and a sense of impending danger, prompting clicks from investors and industry insiders concerned about market stability."
+  },
+  "title": "AI Supercycle: Navigating Semiconductor Investment Risks",
+  "segments": [
+    {
+      "text": "Recent AI growth stocks like NVDA and SMCI show extreme valuations, with P/E ratios soaring past historical averages, signaling potential market overextension.",
+      "image_prompt": "A holographic stock chart projecting upwards but with subtle digital glitching at its peak, viewed through a smart glasses reflection on an investor's focused eye. Cinematic lighting, cyberpunk neon.",
+      "text_overlay": "VALUATION RISK",
+      "camera_effect": "zoom_out_slow"
+    },
+    {
+      "text": "Intel's Q1 earnings beat expectations, projecting strong recovery. Their increased CAPEX to $28 billion for new fabs targets 18A process nodes for future AI chips.",
+      "image_prompt": "A clean, hyper-realistic render of an advanced semiconductor wafer in a brightly lit cleanroom, with a subtle digital overlay showing '18A' specification. Focus on the intricate patterns.",
+      "text_overlay": "INTEL'S RECOVERY",
+      "camera_effect": "static"
+    },
+    {
+      "text": "High Bandwidth Memory (HBM) demand for AI GPUs, particularly for data centers, drives significant revenue for memory makers like SK Hynix and Micron.",
+      "image_prompt": "Close-up of stacked HBM memory chips integrated onto a GPU board, glowing with blue and purple light, data streams flowing digitally around them.",
+      "text_overlay": "HBM DEMAND SURGE",
+      "camera_effect": "pan_left_slow"
+    },
+    {
+      "text": "Advanced node wafer yields remain critical. Foundry leader TSMC reported 3nm yields impacting chip supply, despite record CAPEX for capacity expansion.",
+      "image_prompt": "A robotic arm carefully handling a silicon wafer, with a red warning light subtly flashing on a digital display in the background, indicating 'yield anomaly'. Dramatic side lighting.",
+      "text_overlay": "3NM YIELD CHALLENGE",
+      "camera_effect": "zoom_in_slow"
+    },
+    {
+      "text": "The next 12 months will see increased automation in fabs, pushing manufacturing efficiency. This drives demand for specialized robotics and process control systems.",
+      "image_prompt": "A future-forward factory floor with numerous autonomous mobile robots (AMRs) transporting materials between advanced fabrication machines, depicted with cinematic lighting and deep blues.",
+      "text_overlay": "FAB AUTOMATION",
+      "camera_effect": "pan_right_slow"
+    },
+    {
+      "text": "Investors must scrutinize 2024 CAPEX deployment for firms like Samsung Foundry; capital efficiency and innovation will dictate long-term market leadership.",
+      "image_prompt": "A complex digital dashboard displaying various financial metrics and CAPEX projections, reflected in the intensely focused, glowing iris of a cybernetic eye. Cyberpunk aesthetic.",
+      "text_overlay": "CAPEX STRATEGY",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
