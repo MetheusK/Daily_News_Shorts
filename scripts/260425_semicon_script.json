@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "MARKET CRASH",
+    "narration": "Stock Alert! European market dominance just CRUMBLED, shattered by an unprecedented AI chip surge!",
+    "image_description": "Cybernetic eyes of an investor, reflecting a rapidly falling stock graph with red warning lights, digital data corruption effects, dramatic side lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "ASIA'S AI LEAD",
+    "image_description": "A glowing, hyper-realistic 3D render of an advanced AI chip (like a GPU), centrally placed, with holographic data streams originating from Taiwan and South Korea mapping to global equity charts in the background. Cyberpunk aesthetic, 8k resolution.",
+    "reasoning": "This thumbnail uses a clear, high-tech object (AI chip) with geopolitical context (Taiwan/SK) and financial implication (equity charts), creating a compelling visual without human expressions, directly targeting investors and industry insiders for clicks."
+  },
+  "title": "AI Chip Boom: Asia Surges Past Europe in Global Markets",
+  "segments": [
+    {
+      "text_overlay": "GLOBAL SHIFT",
+      "narration": "Taiwan and South Korea equity markets have now dramatically surpassed the UK and broader Europe in global rankings. This marks a significant power shift.",
+      "image_prompt": "Holographic world map with Taiwan and South Korea brightly illuminated, while UK and European regions dimming. Digital stock ticker overlays, cinematic lighting.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text_overlay": "AI DRIVES GROWTH",
+      "narration": "The primary catalyst is explosive demand for AI chips, fundamentally reshaping semiconductor sector valuations globally. Investors are reacting.",
+      "image_prompt": "Close-up of a server rack with glowing AI GPUs, data streams flowing rapidly. A cybernetic hand pointing at a data chart showing exponential growth. Intense focus.",
+      "camera_effect": "dolly_zoom"
+    },
+    {
+      "text_overlay": "TITANS RISING",
+      "narration": "Titans like TSMC and Samsung are driving this boom, benefiting from massive orders for high-performance GPUs and HBM. Their CAPEX is soaring.",
+      "image_prompt": "Split screen: TSMC's advanced wafer fabrication plant on one side, Samsung's memory chip production on the other. Both with intense, detailed focus. Cyberpunk neon lighting.",
+      "camera_effect": "pan_left_right"
+    },
+    {
+      "text_overlay": "TECH ADVANTAGE",
+      "narration": "Advanced packaging and high-bandwidth memory (HBM) are critical. These technologies enable the AI training required for next-gen models.",
+      "image_prompt": "Detailed 3D render of stacked HBM modules connected to an advanced GPU, intricate circuit patterns glowing. Emphasize complex interconnection.",
+      "camera_effect": "rotate_360"
+    },
+    {
+      "text_overlay": "VALUATION SURGE",
+      "narration": "This has triggered substantial valuation growth for Asian chip manufacturers, outperforming traditional market benchmarks. Global capital is flowing east.",
+      "image_prompt": "Digital stock charts with green upward trends, specifically highlighting 'Taiwan Semiconductor' and 'Samsung Electronics'. Background of a financial analyst with serious thought, reflected data in smart glasses.",
+      "camera_effect": "static"
+    },
+    {
+      "text_overlay": "FUTURE SHIFT",
+      "narration": "This redefines future semiconductor supply chain investments.",
+      "image_prompt": "Complex, interconnected supply chain graphic, with glowing lines leading to Asian manufacturing hubs. A determined industry expert with data reflecting in their eyes.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
