@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI OUT OF CONTROL!",
+    "narration": "WARNING! AI is scaling so fast, leaders admit they're losing control. This impacts YOU!",
+    "image_description": "An intense close-up of a human eye with a cybernetic iris reflecting rapidly scrolling green and red data streams. Digital corruption effects are visible around the edges of the screen, with prominent red warning lights flashing dramatically in the background. Cinematic lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI UNLEASHED?",
+    "image_description": "A hyper-realistic 3D render of a central, glowing AI core pulsating with energy, surrounded by an intricate, interconnected network of data streams and server racks, all bathed in dramatic purple and neon blue cyberpunk lighting. The core is slightly glitching, hinting at instability. 8k resolution.",
+    "reasoning": "This thumbnail uses a striking, central object (AI core) with visual ambiguity (glowing, but glitching) and bold text to create immediate curiosity about AI's power and potential risks, leading to a high click-through rate."
+  },
+  "title": "AI's Trillion-Dollar Rush: Are We Losing Control?",
+  "segments": [
+    {
+      "text_overlay": "AI GUARDRAIL FAIL",
+      "narration": "Deloitte reports AI agents are scaling rapidly, outpacing critical guardrails. Business and IT leaders struggle to manage this explosive growth.",
+      "image_prompt": "A digital representation of data streams overflowing and breaking through a metaphorical fence or barrier, with subtle red warning lights. Cinematic lighting.",
+      "camera_effect": "dynamic_zoom"
+    },
+    {
+      "text_overlay": "MASSIVE RISKS",
+      "narration": "This oversight presents significant risks from ethical concerns to operational failures. The speed of deployment exceeds current safety protocols.",
+      "image_prompt": "A complex network of glowing circuits and data nodes, with specific sections flickering red, indicating a system overload or digital corruption. Cyberpunk neon lighting.",
+      "camera_effect": "fast_pan"
+    },
+    {
+      "text_overlay": "$22.7T AI MARKET",
+      "narration": "Meanwhile, SpaceX targets the immense $22.7 trillion AI market, signaling massive investment before a potential IPO. Big tech eyes colossal profits.",
+      "image_prompt": "Holographic projection of financial graphs soaring upwards, integrated with abstract satellite imagery and glowing digital currency symbols. Cinematic lighting.",
+      "camera_effect": "dynamic_zoom"
+    },
+    {
+      "text_overlay": "GLOBAL AI SHIFT",
+      "narration": "This aggressive expansion highlights AI's disruptive potential across industries. From space tech to daily life, AI is attracting unprecedented capital.",
+      "image_prompt": "A futuristic cityscape with data streams flowing between skyscrapers, illuminated by dramatic side lighting and glowing smart devices interacting with users (shown via digital interfaces).",
+      "camera_effect": "fast_pan"
+    },
+    {
+      "text_overlay": "GOV AI REALITY",
+      "narration": "C3 AI's CTO Nikhil Krishnan emphasizes moving government AI from mere hype to impactful mission applications, driving real-world change.",
+      "image_prompt": "A focused human figure (viewed through smart glasses with reflecting data) interacting with a secure, holographic interface displaying complex government data and analytics. Intense focus expression.",
+      "camera_effect": "static"
+    },
+    {
+      "text_overlay": "AI'S TRUE POWER",
+      "narration": "This means AI is transitioning from theoretical use-cases to tangible solutions for defense, intelligence, and public services, creating concrete value.",
+      "image_prompt": "Interconnected nodes of glowing data forming a robust, protective digital shield, with a cybernetic glowing iris in the foreground reflecting the secure network. Dramatic side lighting.",
+      "camera_effect": "glitch_transition"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
