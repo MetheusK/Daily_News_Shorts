@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI SEES YOU",
+    "narration": "WARNING! Your reality is being reshaped! AI isn't just on your screen; it's now dictating your home and personal style!",
+    "image_description": "A dynamic close-up through smart glasses, reflecting a glowing iris that subtly shows data streams, with digital glitch effects and urgent red warning lights. Focus on intense concentration.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "SMART LIFE HACK",
+    "image_description": "A 3D render of a sleek, transparent AI core (glowing blue) at the center of a modern, minimalist living room, with subtle data streams flowing outwards to smart appliances. Hyper-realistic, 8k resolution, dramatic backlighting.",
+    "reasoning": "This image highlights AI's presence in everyday environments with a futuristic aesthetic, creating curiosity about how 'smart life' is hacked by AI, enticing clicks."
+  },
+  "title": "AI: Your Home & Beauty Are Next!",
+  "segments": [
+    {
+      "text": "China's Appliance & Electronics World Expo unveiled 'Spatial Intelligence' design. This trend embeds AI directly into living environments, creating responsive, intuitive spaces.",
+      "image_prompt": "A sleek, minimalist smart home interior, with subtle UI overlays indicating interactive elements. Cinematic lighting, focused on the seamless technology.",
+      "camera_effect": "Pan left",
+      "text_overlay": "AI HOME TAKEOVER"
+    },
+    {
+      "text": "AI-powered sensors understand user behavior and preferences. Systems adapt lighting, temperature, and even entertainment automatically, optimizing daily comfort and efficiency.",
+      "image_prompt": "Close-up of a smart thermostat or smart speaker, with glowing data indicators, blending seamlessly into a modern wall. Cyberpunk neon lighting.",
+      "camera_effect": "Zoom in",
+      "text_overlay": "SMART LIVING"
+    },
+    {
+      "text": "Homes transform from static spaces into active, intelligent assistants. AI predicts needs, from stocking smart refrigerators to adjusting ambient settings, enhancing lifestyle.",
+      "image_prompt": "A person with an expression of wonder interacting naturally in a smart living room, subtle holographic interfaces projected around them. Dramatic side lighting.",
+      "camera_effect": "Dolly zoom",
+      "text_overlay": "YOUR HOME KNOWS"
+    },
+    {
+      "text": "The beauty industry now extensively uses AI for trend identification. Algorithms analyze vast social media and consumer data, forecasting global preferences rapidly.",
+      "image_prompt": "A digital interface showing data visualizations related to beauty trends (e.g., graphs, maps with trending products), with a subtle glowing AI brain icon. Technical, clear visuals.",
+      "camera_effect": "Static",
+      "text_overlay": "BEAUTY AI TRENDS"
+    },
+    {
+      "text": "AI delivers hyper-personalized product recommendations and virtual try-ons. Customized skincare routines and makeup applications are now driven by individual biometric data.",
+      "image_prompt": "A digital avatar or face scan showing virtual makeup applied, or a smart mirror interface displaying personalized beauty data. Focused on 'intense focus' on the digital reflection.",
+      "camera_effect": "Pan right",
+      "text_overlay": "PERSONALIZED BEAUTY"
+    },
+    {
+      "text": "These advancements signify AI's shift beyond screens. It's now deeply integrating into tangible, personalized experiences, making technology seamlessly part of daily existence.",
+      "image_prompt": "A futuristic city skyline reflecting holographic data streams, symbolizing ubiquitous AI integration. Cinematic lighting, vast perspective.",
+      "camera_effect": "Crane shot",
+      "text_overlay": "AI FUTURE NOW"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
