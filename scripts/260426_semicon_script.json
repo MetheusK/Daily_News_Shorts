@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "SUPPLY CHAIN CRISIS!",
+    "narration": "Urgent alert! A critical Helium shortage and major labor strikes are threatening the entire AI semiconductor industry now!",
+    "image_description": "A cybernetic eye with a glowing iris reflecting a rapidly scrolling data stream, overlaid with red digital corruption and glitch effects. Intense focus on the eye, dramatic side lighting, conveying urgency and potential system failure.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI CHIP SHOCK?",
+    "image_description": "A hyper-realistic 3D render of a glowing silicon wafer, partially cracked, emitting neon red light. In the background, abstract server racks are visible. Center the wafer with dramatic backlighting and 8k resolution.",
+    "reasoning": "The visual of a cracked, glowing wafer immediately conveys fragility and high stakes in a technical, non-human way. 'AI CHIP SHOCK?' creates intrigue and targets investors/engineers seeking high-impact news."
+  },
+  "title": "AI Chip Market Alert: Helium, Strikes, & Valuation Shifts",
+  "segments": [
+    {
+      "text_overlay": "AI MARKET SHIFT",
+      "narration": "Intensified AI demand is reshaping the foundry landscape. TSMC and Samsung aggressively expand CAPEX for advanced HBM and GPU wafer production.",
+      "image_description": "High-tech cleanroom environment with robotic arms carefully handling glowing silicon wafers. Cinematic lighting with cool blues and whites, reflecting intense focus on precision manufacturing.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text_overlay": "HELIUM SHOCK",
+      "narration": "Nvidia's AI supply chain faces a Helium shock, crucial for GPU manufacturing. This threatens production yields and current investor expectations.",
+      "image_description": "Industrial gas tanks with prominent 'Helium' labels, displaying digital readouts with a subtle red warning light and digital glitch effects on the gauges. Cinematic lighting, focused on the technical equipment.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text_overlay": "SAMSUNG STRIKE",
+      "narration": "A significant Samsung labor strike risks severe HBM yield degradation. This could cause market damage, impacting critical supply chains for high-bandwidth memory.",
+      "image_description": "Silhouette of a modern semiconductor plant's exterior, with red warning lights flashing across the building's facade. The scene suggests industrial disruption, focusing on the infrastructure.",
+      "camera_effect": "dolly_zoom"
+    },
+    {
+      "text_overlay": "CAPEX IMPACT",
+      "narration": "These disruptions necessitate strategic CAPEX adjustments. Analysts project revised 2024 guidance, impacting long-term valuation amidst AI demand forecasts.",
+      "image_description": "A holographic projection of complex financial graphs and investment data floating above a meticulously clean semiconductor fabrication floor. Focus on the data's interaction with the environment.",
+      "camera_effect": "static"
+    },
+    {
+      "text_overlay": "COMPETITION HEATS",
+      "narration": "The HBM and advanced GPU wafer yield race intensifies. Innovation remains paramount as firms navigate supply challenges and strive for market dominance.",
+      "image_description": "Close-up of an engineer, seen through smart glasses, intensely focused on a glowing circuit board held by a robotic hand. The glasses reflect complex schematics, cinematic lighting.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text_overlay": "VALUATION SHIFT",
+      "narration": "This valuation shift impacts HBM and GPU supply, necessitating re-evaluation of long-term CAPEX strategies across the industry.",
+      "image_description": "A complex 3D rendering of a financial graph overlaid on a silicon wafer, showing a sharp downward trend, with analytical charts and data points. Focus on technical aspects, not emotional. Cinematic lighting, deep blues and purples.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
