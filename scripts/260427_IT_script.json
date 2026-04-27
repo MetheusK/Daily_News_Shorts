@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI IS HERE",
+    "narration": "Stop scrolling! Tech giants are making moves that will redefine global power structures, and you won't believe who they're outspending!",
+    "image_description": "Dynamic shot of a human face with intense focus, overlaid with glowing digital neural networks, reflecting data streams in their cybernetic eyes. Cinematic lighting, deep blues and reds, with subtle glitch effects.",
+    "mood_color": "neon_green"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI DOMINANCE",
+    "image_description": "A hyper-realistic 3D render of a glowing, intricate AI chip at the center of a sleek server rack, surrounded by holographic data projections. Dark, dramatic cyberpunk backlighting in 8k resolution.",
+    "reasoning": "The image of an advanced AI chip combined with 'AI DOMINANCE' creates immediate intrigue about the scale and power of AI, attracting tech enthusiasts and the general public curious about future trends and technological shifts."
+  },
+  "title": "AI Investment SHOCKER: Tech Giants' New Frontier!",
+  "segments": [
+    {
+      "text_overlay": "BILLION DOLLAR SHIFT",
+      "narration": "Recent reports confirm tech giants are now outspending the entire oil and gas industry combined on AI infrastructure buildout. This marks a significant strategic pivot.",
+      "image_description": "Digital scales balancing a glowing pile of futuristic circuit boards against a stylized, illuminated oil rig model. Cinematic lighting, symbolizing economic weight.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text_overlay": "TECH BETS BIG",
+      "narration": "Companies like Google, Microsoft, and Amazon are aggressively funneling billions into advanced AI research and data centers, anticipating exponential growth in this sector.",
+      "image_description": "Corporate logos (Google, Microsoft, Amazon) dissolving into a complex, glowing network of AI neural pathways. Visualizing 'intense focus' on innovation.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text_overlay": "FUTURES SOAR",
+      "narration": "This massive investment surge fuels rising tech futures, reflecting investor confidence in AI's long-term profitability and its transformative potential across global industries.",
+      "image_description": "Stock market graphs with upward trends superimposed over a futuristic city skyline, illuminated by dynamic cybernetic lighting, representing economic growth.",
+      "camera_effect": "dolly_zoom"
+    },
+    {
+      "text_overlay": "CHIP REVOLUTION",
+      "narration": "Companies like Micron Technology are seeing increased demand for high-performance memory and chips, essential for powering these advanced AI systems and expanding data centers.",
+      "image_description": "Macro shot of a glowing Micron memory chip integrated into an AI server rack, with seamless, flowing data streams around it. 'Technical' eyes reflecting the data.",
+      "camera_effect": "rack_focus"
+    },
+    {
+      "text_overlay": "DAILY AI IMPACT",
+      "narration": "This deep investment translates to powerful AI tools in daily life: smarter assistants, hyper-efficient cloud services, boosting productivity and user experience across all platforms.",
+      "image_description": "A person interacting seamlessly with a holographic AI assistant, displaying 'wonder' and 'intense focus', cinematic lighting, soft blue and purple hues.",
+      "camera_effect": "slow_pan"
+    },
+    {
+      "text_overlay": "NEW TECH ERA",
+      "narration": "The unprecedented scale of this AI buildout signals a new era of technological supremacy, fundamentally altering economic landscapes and societal interactions for decades.",
+      "image_description": "A panoramic view of a futuristic city illuminated by vast, interconnected digital networks, with holographic projections of data representing global connections, dramatic side lighting.",
+      "camera_effect": "crane_shot"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
