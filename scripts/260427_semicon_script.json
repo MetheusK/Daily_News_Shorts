@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI VALUATION BUBBLE?",
+    "narration": "Investor Warning! AI stock valuations are dangerously inflated, and the market is ignoring critical yield risks!",
+    "image_description": "Close-up of a human eye with a cybernetic overlay reflecting volatile red and green stock charts and data streams, dramatic red warning lights flashing, conveying intense focus and urgency, dramatic side lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI STOCK RISK?",
+    "image_description": "Hyper-realistic 8k render of a glowing HBM memory stack connected to an advanced AI GPU, centered on a futuristic server rack with holographic stock data projecting upwards, dramatic blue and purple cyberpunk lighting, high contrast.",
+    "reasoning": "This thumbnail prioritizes key AI hardware components (HBM, GPU) and investment data, creating immediate intrigue about market risk without relying on human expressions, which attracts both investors and tech enthusiasts."
+  },
+  "title": "AI Stock Showdown: TSMC vs. Lam Research Deep Dive",
+  "segments": [
+    {
+      "text": "The AI supercycle drives massive CAPEX, but investors question whether TSMC or Lam Research offers the superior long-term valuation in this critical infrastructure race.",
+      "image_prompt": "Split screen showing TSMC foundry floor with multiple silicon wafers under robotic inspection and advanced Lam Research etching equipment, focused on precision engineering, cinematic lighting, data reflections on surfaces.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "TSMC dominates advanced wafer manufacturing, crucial for AI GPUs and HBM. Their 3nm and 2nm process nodes dictate the pace of AI innovation and future chip performance.",
+      "image_prompt": "Extreme close-up of a 3nm silicon wafer being precisely inspected by a glowing robotic arm, fine circuit detail, vibrant glowing lines, intense analytical focus, deep blue lighting.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "Lam Research is vital for wafer fabrication equipment, enabling high yield and precision in etching and deposition. Their tools directly impact manufacturing efficiency for AI chips.",
+      "image_prompt": "Schematic diagram of an atomic layer deposition (ALD) process within a complex Lam Research semiconductor manufacturing tool, showing intricate machinery and data flowing, analytical focus, dramatic side lighting.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "While AI demand is high, manufacturing yields for advanced nodes remain a challenge. Investors must scrutinize yield improvements as a key driver for future profitability and stock performance.",
+      "image_prompt": "Red warning lights flashing over a digital representation of a semiconductor wafer with specific defect areas highlighted by 'digital corruption' effects, conveying intense focus on imperfections.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Both companies are integral to the AI stack. TSMC's direct chip production and Lam's equipment leadership both present strong growth vectors, but different risk profiles.",
+      "image_prompt": "Holographic 3D render of the entire AI semiconductor supply chain, from design to foundry to packaging, with interconnected glowing nodes and dynamic data streams, serious thought expression from a human through smart glasses.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "Future CAPEX spending announcements from leading foundries will be critical indicators. Sustained investment directly translates to scaling AI infrastructure and revenue potential.",
+      "image_prompt": "Massive, futuristic data center with glowing server racks extending into the distance, representing CAPEX expansion, viewed through a cybernetic eye reflecting financial charts, determination, dramatic side lighting.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
