@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI REVOLUTION NOW",
+    "narration": "Warning! The AI future isn't coming; it's already here, reshaping industries at lightning speed!",
+    "image_description": "Extreme close-up of a human eye reflecting a complex holographic AI interface, cybernetic glowing iris, dramatic side lighting, digital glitch effect, intense focus.",
+    "mood_color": "neon_green"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI CHIP SURGE",
+    "image_description": "A hyper-realistic 3D render of a glowing photonics chip at the center, surrounded by swirling blue and purple holographic data streams, cybernetic patterns, dark background, dramatic backlighting, 8k resolution.",
+    "reasoning": "Highlights cutting-edge AI hardware, implying explosive market growth and technological breakthroughs, creating immediate curiosity for a tech-focused audience."
+  },
+  "title": "AI's Secret Weapon: The Future Unveiled",
+  "segments": [
+    {
+      "text_overlay": "MARKET EXPLOSION",
+      "narration": "The global Testing and Simulation Systems market is projected for massive growth through 2026, driven by an urgent need for complex digital validation across industries.",
+      "image_description": "High-tech control room with multiple screens displaying complex simulation data, focused engineers with expressions of intense focus, cinematic lighting.",
+      "camera_effect": "dynamic_pan"
+    },
+    {
+      "text_overlay": "PHOTONICS POWER",
+      "narration": "Photonics chipmaker Lightelligence recently surged 400% in its Hong Kong debut. This dramatic rise signals robust investor confidence in AI hardware innovation.",
+      "image_description": "A detailed, glowing photonics chip with intricate circuits, surrounded by ethereal light, hyper-realistic 3D render, cyberpunk aesthetic.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text_overlay": "SIMULATE REALITY",
+      "narration": "Advanced simulation systems are critical. They enable companies to prototype, test, and refine AI models and hardware virtually, significantly reducing development cycles and costs.",
+      "image_description": "Holographic projection of a complex AI model being tested in a virtual environment, data flowing around it, a hand interacting with the hologram, dramatic lighting.",
+      "camera_effect": "slow_rotation"
+    },
+    {
+      "text_overlay": "AI IN DAILY LIFE",
+      "narration": "AI is already transforming everyday sectors. We see it in AI travel agents personalizing itineraries and advanced creator technology, streamlining content generation and marketing.",
+      "image_description": "Split screen: one side showing an AI travel agent interface (sleek, futuristic map), other side showing a content creator using holographic editing tools with intense focus.",
+      "camera_effect": "split_screen_transition"
+    },
+    {
+      "text_overlay": "AD TECH SHIFT",
+      "narration": "This rapid adoption will profoundly impact Ad Tech trends by 2026. Personalized experiences, predictive analytics, and automated content delivery will become industry standards.",
+      "image_description": "Data visualization showing interconnected ad campaigns and user profiles, glowing lines representing data flow, a human eye reflecting data through smart glasses, cinematic lighting.",
+      "camera_effect": "fast_zoom_out"
+    },
+    {
+      "text_overlay": "FUTURE PREDICTIVE",
+      "narration": "This shift reshapes infrastructure planning and data analysis, propelling industry toward predictive, AI-driven operations.",
+      "image_description": "A futuristic city skyline overlaid with a holographic predictive analytics display, cybernetic data streams, dramatic side lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
