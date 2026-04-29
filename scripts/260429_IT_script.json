@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI IS WATCHING!",
+    "narration": "Warning! AI is secretly transforming your health and future, seeing things no human ever could!",
+    "image_description": "Extreme close-up of a cybernetic eye, reflecting complex medical data overlays and glitch effects. Red warning lights pulse rapidly, creating a sense of urgency. Cinematic lighting emphasizes the digital focus.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI HEALTH REVOLUTION",
+    "image_description": "A hyper-realistic 8k 3D render of a futuristic endoscope with glowing AI components, surrounded by holographic medical diagnostics data. The object is centered with dramatic backlighting, in a cyberpunk style.",
+    "reasoning": "This thumbnail visually represents advanced medical technology driven by AI, using a direct, intriguing phrase. The focus on an object, rather than a person, combined with hyper-realistic rendering, generates high curiosity for a click, distinct from the hook's alarmist human focus."
+  },
+  "title": "AI's Secret Health Takeover & Digital Future",
+  "segments": [
+    {
+      "text": "A silent revolution is transforming healthcare. Global AI in Endoscopy market is exploding, poised for unprecedented growth from 2026 through 2036.",
+      "image_prompt": "Digital visualization of an endoscope navigating human anatomy with AI overlays highlighting anomalies, glowing blue. Fast-paced, dynamic visuals.",
+      "camera_effect": "zoom_in_on_highlighted_anomaly"
+    },
+    {
+      "text": "AI algorithms enhance detection precision, spotting subtle issues human eyes might miss. This means earlier diagnosis, vastly improving treatment for critical conditions.",
+      "image_prompt": "Doctor (intense focus, cybernetic eyes reflecting medical data) reviewing AI-enhanced endoscopy images on a translucent holographic screen. Cyberpunk neon lighting.",
+      "camera_effect": "slow_pan_across_screen_focusing_on_data"
+    },
+    {
+      "text": "This booming market, driven by rising chronic diseases and non-invasive diagnostic demand, expects significant annual growth. It's a critical investment in public health.",
+      "image_prompt": "Animated bar graph showing steep growth of 'AI in Endoscopy Market' overlaying a futuristic hospital interior. Data streams flow across the screen.",
+      "camera_effect": "tracking_shot_revealing_increasing_numbers"
+    },
+    {
+      "text": "Beyond medical frontiers, Web3.0 Artificial Intelligence-Generated Content (AIGC) engines are unlocking new creative industries. This shift redefines content creation entirely.",
+      "image_prompt": "Digital artist (wonder, glowing iris reflecting complex code) interacting with a holographic interface, generating fantastical AI art in a cyberpunk studio setting.",
+      "camera_effect": "static_slight_zoom_on_artist_intense_focus"
+    },
+    {
+      "text": "AIGC enables decentralized content ownership and creation, with this market projected to reach hundreds of billions. It transforms digital economies and user experiences.",
+      "image_prompt": "Animated infographic connecting 'AIGC' to 'Web3.0', 'NFTs', 'Creator Economy', showing financial market value expanding rapidly. Glowing data nodes connect.",
+      "camera_effect": "zoom_out_slightly_revealing_complex_network"
+    },
+    {
+      "text": "By 2036, this market will hit $500 billion, impacting millions of lives daily.",
+      "image_prompt": "A futuristic city skyline at dawn, with holographic medical symbols and data streams reflecting on high-tech buildings. Cinematic lighting, dramatic atmosphere.",
+      "camera_effect": "slowly_rising_crane_shot"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
