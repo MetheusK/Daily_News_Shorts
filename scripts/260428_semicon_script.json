@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "PROFIT SHOCK",
+    "narration": "Warning! SK Hynix just revealed the biggest profit secret in the AI chip market, exposing a massive valuation crisis!",
+    "image_description": "A cybernetic eye reflecting a blurred stock chart with a sudden vertical spike, digital glitch effects around the iris, vivid neon red and blue warning lights. Intense focus.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "HBM MARGINS EXPLODE",
+    "image_description": "A hyper-realistic 3D render of a glowing HBM memory stack on a polished silicon wafer. Holographic data streams flow around it in a dark, dramatic setting. 8k resolution, cyberpunk style, center composition with strong backlighting.",
+    "reasoning": "The text 'HBM MARGINS EXPLODE' is direct and intriguing, hinting at significant financial impact for investors. The visual prioritizes a high-tech object (HBM on wafer) rendered in a hyper-realistic, dramatic style, attracting engineers and tech enthusiasts with its quality and relevance to chip technology."
+  },
+  "title": "SK Hynix HBM: The 72% Profit SHOCK & US Chip Strategy",
+  "segments": [
+    {
+      "text": "SK Hynix reports a staggering 72% operating margin from its HBM memory, significantly outpacing Nvidia and TSMC in chip profitability.",
+      "image_prompt": "Close-up of a high-density HBM memory stack, with a faint digital overlay displaying '72% Profit', cinematic lighting, deep blue and gold tones.",
+      "text_overlay": "72% HBM MARGIN"
+    },
+    {
+      "text": "This exceptional margin stems from HBM's critical role in AI accelerators and high-performance GPUs, where demand far exceeds current supply.",
+      "image_prompt": "Abstract representation of data flowing into a powerful GPU, with interconnected HBM modules glowing, illustrating high demand in an AI data center environment. Cyberpunk aesthetic, intense focus.",
+      "text_overlay": "AI GPU DEMAND"
+    },
+    {
+      "text": "Meanwhile, US aims for 10% domestic chip packaging capacity by 2032, bolstering supply chain resilience and reducing overseas dependence.",
+      "image_prompt": "Holographic projection of a US map with glowing nodes indicating future chip packaging facilities, with a timeline overlay reaching '2032'. Industrial, data-driven feel, dramatic side lighting.",
+      "text_overlay": "US PACKAGING PUSH"
+    },
+    {
+      "text": "Achieving this requires substantial CAPEX investments in advanced manufacturing, crucial for improving domestic yields and securing future chip production.",
+      "image_prompt": "A robotic arm precisely placing a wafer into an advanced packaging machine, dramatic side lighting emphasizing precision and high CAPEX. Clean room environment, hyper-realistic.",
+      "text_overlay": "MASSIVE CAPEX NEEDED"
+    },
+    {
+      "text": "AI is fundamentally transforming the entire chip industry, pushing innovation in HBM and advanced packaging, directly influencing company valuations.",
+      "image_prompt": "Dynamic visual of a complex neural network overlaying microchip designs, with glowing lines connecting HBM and packaging symbols, reflecting AI's transformative power. Futuristic, high-tech, through smart glasses perspective.",
+      "text_overlay": "AI RESHAPES VALUATION"
+    },
+    {
+      "text": "This valuation shift impacts future CAPEX decisions and global supply chain strategies immediately.",
+      "image_prompt": "Global map showing interconnected supply chains with digital arrows, highlighting 'CAPEX' and 'Valuation' as key nodes, shifting rapidly. Intense focus on data flow, cybernetic reflections.",
+      "text_overlay": "STRATEGY SHIFT NOW"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
