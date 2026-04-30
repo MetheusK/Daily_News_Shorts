@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "INTEL EXPLODES",
+    "narration": "Warning! Intel's stock just doubled in an unprecedented market explosion, but what hidden technology is truly fueling this historic surge?",
+    "image_description": "A dynamic digital stock chart exploding upwards, data points scattering like sparks. A cybernetic eye, reflecting market data streams, intensely focused on a holographic interface, with dramatic red and blue neon lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "CHIPLET REVOLUTION",
+    "image_description": "A hyper-realistic 3D render of a liquid-cooled chiplet, glowing with intricate internal neon blue fluid channels. Centered on a dark, reflective surface with dramatic side lighting, 8k resolution, cyberpunk style.",
+    "reasoning": "This thumbnail prioritizes a visually striking object (liquid chiplet) over a human, immediately signaling advanced semiconductor technology. The bold 'REVOLUTION' text combined with the futuristic visual creates curiosity about a significant industry shift, attracting both investors interested in market drivers and engineers curious about innovation."
+  },
+  "title": "Intel's 55-Year Stock Boom: The Liquid Chiplet Secret?",
+  "segments": [
+    {
+      "text": "Intel's stock doubled in April, marking its best month in 55 years on Nasdaq. This unprecedented surge signals significant renewed investor confidence in its future.",
+      "image_prompt": "Futuristic stock chart displaying an aggressive upward trend, overlayed with glowing digital data streams. A focused engineer's hand, through smart glasses, pointing at the data.",
+      "text_overlay": "INTEL'S SURGE",
+      "camera_effect": "zoom_in_on_chart"
+    },
+    {
+      "text": "This significant market performance is strongly tied to advancements in the rapidly expanding Liquid Chiplets technology market, crucial for next-gen processing.",
+      "image_prompt": "Abstract visual of data streams flowing from an Intel logo into a shimmering, complex 'Liquid Chiplet' conceptual rendering. Cyberpunk neon glow.",
+      "text_overlay": "CHIPLET DRIVER",
+      "camera_effect": "pan_left_to_right"
+    },
+    {
+      "text": "The Liquid Chiplets market is projected to reach $2.85 billion by 2035, exhibiting an impressive 18.2% Compound Annual Growth Rate.",
+      "image_prompt": "Holographic projection of a growth graph showing a steep 18.2% CAGR, with $2.85B clearly visible. Digital money symbols float around the projection, cinematic lighting.",
+      "text_overlay": "$2.85B BY 2035",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Intel, AMD, and TSMC are spearheading this critical market. Asia Pacific is identified as the leading region for this growth.",
+      "image_prompt": "Digital world map highlighting Asia Pacific in glowing neon, with Intel, AMD, and TSMC logos rotating above it. Data lines connect logos to key manufacturing hubs.",
+      "text_overlay": "KEY PLAYERS LEAD",
+      "camera_effect": "rotate_around_map"
+    },
+    {
+      "text": "Liquid chiplets are vital for managing extreme heat in high-density HBM and GPU arrays, directly improving performance and manufacturing yields.",
+      "image_prompt": "Cross-section diagram of a liquid-cooled chiplet, showing internal fluid channels and hot spots being dissipated. Glitch effects on thermal areas, indicating efficiency.",
+      "text_overlay": "YIELD IMPACT",
+      "camera_effect": "zoom_out_reveal"
+    },
+    {
+      "text": "Expect increased CAPEX from key players focusing on advanced cooling and packaging solutions. This investment is critical for future AI infrastructure.",
+      "image_prompt": "Futuristic cleanroom with robotic arms precisely placing wafers onto advanced packaging machinery, illuminated by dramatic blue and white cinematic lighting. A technician's intense focus observed through smart glasses.",
+      "text_overlay": "CAPEX SURGE",
+      "camera_effect": "dolly_in"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
