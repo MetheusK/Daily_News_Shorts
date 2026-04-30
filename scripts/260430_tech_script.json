@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "APPLE FINALLY CATCHES UP",
+    "narration": "WARNING: Apple users, your iPhone's photo editing is about to change forever, finally catching up to rivals!",
+    "image_description": "Extreme close-up of a smartphone screen reflecting a user's intense focus. The screen displays a photo undergoing dramatic AI transformation with glowing digital effects and glitch warnings. Cyberpunk neon lighting, red mood color.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI PHOTO UPGRADE",
+    "image_description": "A hyper-realistic 3D render of a sleek, dark smartphone with a glowing, intricate AI neural network overlaid on its screen. The screen displays a dramatically enhanced photo. 8k resolution, centered composition, dramatic blue backlighting.",
+    "reasoning": "This thumbnail prioritizes a high-tech object (smartphone with AI visuals) over a human, using clear, impactful text. The futuristic, high-resolution style and dramatic lighting are designed to catch attention and imply significant technological advancement, driving clicks through curiosity and perceived value."
+  },
+  "title": "iOS 27: Apple's HUGE AI Photo Upgrade!",
+  "segments": [
+    {
+      "text": "Apple's iOS 27 is set to integrate advanced AI photo editing tools directly into its Photos app.",
+      "text_overlay": "APPLE AI PHOTOS",
+      "image_prompt": "A sleek iPhone screen displaying the Photos app with an 'AI Enhance' button glowing. Cinematic lighting, subtle data flowing across the screen, user's intense focus reflected.",
+      "camera_effect": "Zoom in on the glowing button"
+    },
+    {
+      "text": "For years, Google Pixel and Samsung Galaxy users have enjoyed these powerful capabilities, leaving iOS behind.",
+      "text_overlay": "ANDROID HAD IT",
+      "image_prompt": "Split screen showing a Google Pixel phone and a Samsung Galaxy phone, both demonstrating AI object removal on a photo. Cyberpunk neon accents, glowing data lines.",
+      "camera_effect": "Quick pan across both phones"
+    },
+    {
+      "text": "Expect features like Magic Eraser for unwanted objects and intelligent portrait retouching, enhancing everyday photos.",
+      "text_overlay": "MAGIC PHOTOS NOW",
+      "image_prompt": "A photo of a beach scene on a phone screen, with a digital 'magic wand' seamlessly removing a person. Focus on the dramatic, instant transformation, glowing effect.",
+      "camera_effect": "Dynamic wipe effect for the 'before/after'"
+    },
+    {
+      "text": "This significantly boosts iPhone user experience, streamlining professional-grade edits directly on device, without third-party apps.",
+      "text_overlay": "EDIT LIKE PRO",
+      "image_prompt": "A user with smart glasses (reflecting data overlays) intensely focusing on an iPhone. Intricate UI elements for photo editing float around the screen. Dramatic side lighting, expression of wonder.",
+      "camera_effect": "Slow pull-back to show the user's focused expression"
+    },
+    {
+      "text": "Apple's strategic move aligns with their broader AI strategy, aiming to bridge the functional gap with Android competitors quickly.",
+      "text_overlay": "APPLE'S AI PUSH",
+      "image_prompt": "A stylized, abstract visualization of Apple's logo merging with intricate AI neural network lines and data streams, glowing in blue and silver. High-tech, futuristic aesthetic.",
+      "camera_effect": "Rotating view of the merging symbols"
+    },
+    {
+      "text": "The integration marks a crucial step toward ubiquitous, instant, AI-powered mobile photography for millions globally, starting soon.",
+      "text_overlay": "FUTURE OF PHOTOS",
+      "image_prompt": "A futuristic cityscape at night, with millions of smartphones glowing in windows and hands, each displaying a perfectly AI-edited photo. Holographic data streams connecting them. Cinematic lighting.",
+      "camera_effect": "Drone shot flying over the cityscape, focusing on the glowing phones"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
