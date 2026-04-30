@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI SUPPLY SHOCK",
+    "narration": "Warning! TSMC's latest moves are shaking the entire AI supply chain, impacting HBM and GPU availability.",
+    "image_description": "Close-up of a cybernetic eye reflecting complex semiconductor wafer schematics with a red digital glitch overlay, dramatic side lighting, intense focus.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "TSMC POWER SHIFT",
+    "image_description": "Hyper-realistic 8k render of a glowing, intricately designed TSMC wafer or a next-gen GPU, centrally composed with dramatic blue and purple cyberpunk backlighting in a dark, clean server room.",
+    "reasoning": "Highlights TSMC's market dominance and hints at strategic shifts, leveraging an appealing technical visual for high click-through, prioritizing objects over humans."
+  },
+  "title": "TSMC's Iron Grip: AI Supply Chain Reassessment",
+  "segments": [
+    {
+      "text": "AI demand is surging, with TSMC now uniquely positioned, controlling over 90% of advanced logic wafer production crucial for HBM and AI GPU components.",
+      "image_prompt": "Diagram showing global AI chip demand growth converging onto a single, dominant TSMC factory icon, blue holographic data streams flowing, industrial setting.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "TSMC recently divested its entire stake in Arm Holdings, securing US$231 million. This strategic move frees up capital for critical CAPEX investments.",
+      "image_prompt": "Digital ledger displaying '+ $231M' with 'Arm Holdings' crossed out, alongside an animated graph showing rising CAPEX projections, focused, cybernetic hand pointing.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "The AI market's expansion now impacts MLCC and Substrates, prompting a value reassessment across the entire Asian semiconductor supply chain by major banks.",
+      "image_prompt": "Complex, interconnected holographic supply chain network diagram with nodes for 'MLCC' and 'Substrates' glowing, surrounded by abstract digital corruption representing revaluation.",
+      "camera_effect": "dolly_zoom"
+    },
+    {
+      "text": "Leading financial institutions, including Citi and Bank of America, are now calling for a significant price surge across specific AI-related components and chip valuations.",
+      "image_prompt": "Stock market ticker displaying 'Citi' and 'BoFA' logos next to upward-trending green arrows, reflecting a determined trader's face through smart glasses, intense focus.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "TSMC's manufacturing yield rates on advanced nodes remain industry-leading, solidifying its control over high-performance computing components essential for future AI infrastructure.",
+      "image_prompt": "Microscopic view of perfectly formed silicon wafers, highly detailed, with '99.X% Yield' superimposed in glowing digital text, representing manufacturing precision, blue glow.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "TSMC's valuation is now critical. Analysts project significant CAPEX increases impacting future margins.",
+      "image_prompt": "A complex holographic display projecting TSMC's stock valuation metrics alongside animated CAPEX expenditure forecasts, emphasizing future financial implications, dark analytical room.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
