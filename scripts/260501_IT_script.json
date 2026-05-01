@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "TECH IS WATCHING",
+    "narration": "Stop scrolling! New tech trends mean brands are about to know *everything* about you, changing daily life faster than you can imagine.",
+    "image_description": "Extreme close-up of a person's face with advanced smart glasses reflecting holographic data streams. Cybernetic details on the glasses, eyes glowing with data. Cinematic lighting with neon blues and purples, subtle digital glitch effects.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "FUTURE TECH IS HERE",
+    "image_description": "A hyper-realistic 3D render of a sleek, transparent smartphone displaying an intricate holographic interface with interconnected data nodes. A metallic, cybernetic hand gently grips the phone, centered against a dark, futuristic cityscape with dramatic backlighting. 8k resolution, cyberpunk aesthetic.",
+    "reasoning": "The image features a futuristic object (transparent smartphone with holographic data) central to the tech trend discussion. The 'cybernetic hand' adds a human-tech fusion element without being a generic 'shocked face'. High contrast and 3D render style will draw attention, and the punchy text creates immediate intrigue about new technology."
+  },
+  "title": "Emerging Tech Trends: How Brands See YOU",
+  "segments": [
+    {
+      "text": "Brands now deploy advanced AI, analyzing billions of data points. This creates hyper-personalized experiences, shaping your online interactions and future product recommendations.",
+      "image_prompt": "Abstract digital network of glowing nodes representing data points converging into a central, stylized AI brain. Futuristic UI elements overlaying the network. Cinematic lighting, deep blue and purple hues.",
+      "text_overlay": "AI PERSONALIZES",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Augmented Reality (AR) and Metaverse platforms are redefining engagement. Expect virtual try-ons, interactive ads, and new digital worlds from major companies by 2025.",
+      "image_prompt": "A person wearing sleek AR glasses, eyes showing intense focus, interacting with holographic virtual clothing models floating in a realistic room. Cyberpunk neon lighting, 'through smart glasses' perspective.",
+      "text_overlay": "AR WORLDS",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Decentralized Web3 technologies offer new digital ownership. NFTs and blockchain secure unique digital assets, empowering users with verifiable data control and identity features.",
+      "image_prompt": "A glowing blockchain network with interconnected hexagonal nodes, one node highlighted to represent an NFT. Digital locks and keys symbolize data security. Dark, technical background, green and gold accents.",
+      "text_overlay": "WEB3 OWNERSHIP",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Generative AI like DALL-E and ChatGPT are changing content creation. Brands are rapidly adopting these tools for marketing, producing vast new media faster than ever before.",
+      "image_prompt": "A digital canvas with an AI creating complex, artistic images from text prompts, visualized as energy flows. Robotic arm subtly hinting at AI control. Dynamic, vibrant colors, cinematic lighting.",
+      "text_overlay": "AI CREATES",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Increased data collection fuels these trends. Focus shifts to ethical AI and privacy, as 60% of consumers demand transparency by 2024 for brand loyalty.",
+      "image_prompt": "A digital padlock icon glowing red within a complex data stream, representing privacy concerns. Bar charts and percentages floating nearby. Serious thought expressed by a subtle, almost obscured face in the background. Dramatic side lighting.",
+      "text_overlay": "DATA ETHICS",
+      "camera_effect": "static"
+    },
+    {
+      "text": "This convergence reshapes consumer journeys entirely. Expect proactive services and hyper-relevant content driven by AI, anticipating your next need before you even realize it.",
+      "image_prompt": "A futuristic personal assistant AI interface (holographic sphere) anticipating user needs, displaying predictive analytics graphs. User's focused cybernetic eyes reflecting the interface. Cinematic lighting, soft glow.",
+      "text_overlay": "FUTURE PREDICTED",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
