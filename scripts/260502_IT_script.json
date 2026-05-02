@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI'S SECRET WEAPON",
+    "narration": "Warning! The AI revolution has a hidden powerhouse accelerating everything you know, faster than ever before!",
+    "image_description": "Extreme close-up on a cybernetic eye, reflecting rapidly scrolling data, with intense blue and red cyberpunk neon lighting. Digital glitch effects. Intense focus.",
+    "mood_color": "neon_blue"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "SILICON GOLD RUSH",
+    "image_description": "Hyper-realistic 3D render of a glowing, intricate semiconductor chip at the center, surrounded by shimmering golden data streams. Dramatic backlighting, 8k resolution, cyberpunk aesthetic.",
+    "reasoning": "The thumbnail focuses on a central, visually striking object (the chip) with a high-contrast, 'gold rush' implication, creating mystery and signaling a significant tech trend for initial clicks."
+  },
+  "title": "AI's Hidden Powerhouse: The Silicon Boom",
+  "segments": [
+    {
+      "text_overlay": "SILICON SURGE",
+      "narration": "Recent industry reports confirm the semiconductor sector is experiencing unprecedented growth, underpinning the entire AI revolution, moving beyond basic tech trends.",
+      "image_prompt": "Animated graph showing exponential growth of semiconductor market value, with vibrant neon lines and digital elements. Concrete, technical, clear.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text_overlay": "MARKET SHIFT",
+      "narration": "Investor's Business Daily highlights soaring AI stock performance, while Kalkine Media details semiconductor momentum exceeding even AI's direct influence in various industries.",
+      "image_prompt": "Split screen: one side displaying AI data centers with glowing servers, the other showing highly detailed, advanced microchips. Concrete, technical, clear.",
+      "camera_effect": "pan_left_right"
+    },
+    {
+      "text_overlay": "POWERING FUTURE",
+      "narration": "The surge stems from global demand for advanced processing power, essential for new AI models, cloud computing, and next-gen smart devices worldwide.",
+      "image_prompt": "Abstract representation of data streams flowing into a glowing, futuristic smart city, emphasizing connectivity and infrastructure. Concrete, technical, clear.",
+      "camera_effect": "dolly_zoom"
+    },
+    {
+      "text_overlay": "SMARTER EVERYDAY",
+      "narration": "This foundational growth implies radically faster AI responsiveness on phones, smarter personal assistants, and groundbreaking advancements in medical tech and autonomous systems.",
+      "image_prompt": "A person wearing sleek smart glasses, data reflecting in the lenses as they interact with a holographic interface. Intense focus, cinematic lighting.",
+      "camera_effect": "slow_push_in"
+    },
+    {
+      "text_overlay": "GLOBAL CONFIDENCE",
+      "narration": "Bloomberg's sector performance analysis corroborates a sustained bull market in these critical technology segments, attracting significant ongoing investment and talent globally.",
+      "image_prompt": "Dynamic stock market charts with clear upward trends, superimposed over a global map showing interconnected lines representing investment flows. Concrete, technical, clear.",
+      "camera_effect": "static"
+    },
+    {
+      "text_overlay": "REVOLUTION NOW",
+      "narration": "Ultimately, this isn't just an AI story. It's the silent, silicon-powered infrastructure revolutionizing every digital interaction, pushing innovation limits daily.",
+      "image_prompt": "Abstract representation of a neural network made of glowing, interconnected circuitry, linking various digital devices in a seamless, high-tech environment. Concrete, technical, clear.",
+      "camera_effect": "circular_reveal"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
