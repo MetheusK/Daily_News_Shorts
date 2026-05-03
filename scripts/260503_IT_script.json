@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "ROBOTS ARE COMING",
+    "narration": "WARNING! The future you imagined is no longer science fiction. It's happening RIGHT NOW!",
+    "image_description": "Extreme close-up of a human eye reflecting a quickly flashing digital interface of a humanoid robot's face, cybernetic glow, determined expression, dramatic red and blue cyberpunk neon lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "CHINA'S ROBOTS",
+    "image_description": "A sleek, hyper-realistic 3D render of a humanoid robot's torso and head, its chest glowing with data patterns, against a dark, futuristic background with dramatic cinematic backlighting, 8k resolution.",
+    "reasoning": "The thumbnail clearly showcases the main subject (humanoid robots) and the key player (China) with a striking, high-tech aesthetic, creating immediate intrigue for clicks."
+  },
+  "title": "China's Robot Revolution: From Phones to Humanoids!",
+  "segments": [
+    {
+      "text": "China's industrial complex, dominant in smartphone manufacturing, now pivots. Billions are shifting supply chains towards humanoid robot production, redefining global tech hardware.",
+      "image_prompt": "A stylized factory floor seamlessly transitioning from automated smartphone assembly lines to humanoid robot body parts, vibrant blue and silver cybernetic lighting, dynamic pan across the factory.",
+      "camera_effect": "dynamic_pan"
+    },
+    {
+      "text": "Existing supply chains for smartphone components offer unparalleled efficiency. This infrastructure is directly transferable, accelerating humanoid robot development and scaling production exponentially.",
+      "image_prompt": "A holographic overlay showing a complex smartphone circuit board dissolving and reforming into a humanoid robot's intricate internal wiring, reflecting data in a glowing iris, zoom into detail.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "Analysts project the global humanoid robot market will exceed $15 billion by 2030. Growth is fueled by demand in logistics, healthcare, and industrial automation sectors.",
+      "image_prompt": "A sleek, glowing bar chart depicting steep market growth for humanoid robots, with distinct icons representing logistics, healthcare, and factory automation in the background, cyberpunk neon glow, upward movement following graph.",
+      "camera_effect": "upward_movement"
+    },
+    {
+      "text": "This strategic shift positions China as a potential global leader in the coming industrial revolution. Major tech firms are investing heavily in advanced robotics research and development.",
+      "image_prompt": "A person with an intense, determined expression looking through smart glasses, a complex holographic projection of a humanoid robot schematic floating before them, dramatic side lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "These sophisticated machines promise to transform services, labor, and domestic tasks. Expect widespread robotic assistance in homes and workplaces to become a reality within years.",
+      "image_prompt": "A futuristic home setting where a humanoid robot is performing a task (e.g., serving a drink, organizing items) while a person watches with wonder, cinematic lighting, slow, smooth pan.",
+      "camera_effect": "slow_pan"
+    },
+    {
+      "text": "Your future just got a hardware upgrade. Is humanity ready?",
+      "image_prompt": "A close-up of a humanoid robot hand slowly reaching out, reflecting a subtle, ambiguous glow, against a slightly blurred, futuristic cityscape, slow zoom in on the hand.",
+      "camera_effect": "slow_zoom"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
