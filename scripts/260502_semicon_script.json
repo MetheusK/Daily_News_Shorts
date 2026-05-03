@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI SHOCKWAVE",
+    "narration": "The AI supercycle isn't just booming; it's permanently destroying the old semiconductor pricing model!",
+    "image_description": "A focused semiconductor industry analyst with cybernetic smart glasses reflecting dynamic AI stock charts. Digital glitch effects and neon red warning lights flash around a collapsing traditional chip cycle graph, set against a cyberpunk backdrop. Cinematic lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI REWIRED CHIPS",
+    "image_description": "Hyper-realistic 3D render of a glowing HBM (High Bandwidth Memory) chip centered, emanating holographic data streams. The background features blurred, subtle cyberpunk city lights. Dramatic backlighting, 8k resolution.",
+    "reasoning": "This thumbnail visually represents the core news (AI rewiring chips, HBM importance) using a visually striking, object-focused image. It appeals to technical understanding and investment interest, prompting clicks for a deeper dive into the 'rewiring' concept without sensationalizing faces."
+  },
+  "title": "AI's Permanent Shift: Chip Cycle Dead?",
+  "segments": [
+    {
+      "text": "AI demand now fundamentally redefines semiconductor pricing. Analysts confirm the traditional chip cycle is obsolete, driven by insatiable HBM and GPU requirements, impacting CAPEX.",
+      "image_prompt": "A holographic graph showing a disrupted, broken cycle pattern, replaced by an aggressively upward trend. A focused engineer with smart glasses observes, data streams reflecting in the lenses. Cinematic lighting.",
+      "text_overlay": "CHIP CYCLE DEAD"
+    },
+    {
+      "text": "Samsung and TSMC intensely compete for advanced wafer production, crucial for AI GPUs. Their yield rates directly impact supply chain stability and CAPEX efficiency in HBM memory.",
+      "image_prompt": "A split screen with one side showing a detailed, glowing 3D render of a Samsung HBM module and the other a TSMC wafer, both emitting digital light. A digital overlay of 'yield percentage' is visible, cinematic lighting.",
+      "text_overlay": "SAMSUNG VS TSMC"
+    },
+    {
+      "text": "Investors identify three AI supercycle growth stocks across the entire stack: design, foundry, and specialized HBM components. Strategic CAPEX deployment optimizes returns.",
+      "image_prompt": "A layered holographic diagram of the semiconductor stack (design, fabrication, packaging) with glowing indicators on three distinct sections. A stylized human hand with cybernetic elements points, deep blue neon lighting.",
+      "text_overlay": "AI STACK STOCKS"
+    },
+    {
+      "text": "Permanent re-wiring sustains higher average selling prices for advanced nodes, irrespective of traditional inventory cycles. This fundamental shift impacts long-term wafer fabrication revenue.",
+      "image_prompt": "A complex circuit board with glowing traces forming an upward arrow. Digital warning lights flash subtly, indicating critical price stability. A data reflection in a focused eye through smart glasses.",
+      "text_overlay": "PRICING REWIRED"
+    },
+    {
+      "text": "Manufacturing yields for 3nm and 2nm processes remain critical. Expanding CAPEX in these areas directly translates to improved profitability and sufficient GPU supply readiness.",
+      "image_prompt": "Extreme close-up of a semiconductor wafer with specific glowing 3nm and 2nm process areas highlighted. A robotic arm precisely places a component, indicating high yield. Intense focus, dramatic lighting.",
+      "text_overlay": "YIELD IS KING"
+    },
+    {
+      "text": "Valuation models must now integrate AI’s permanent demand shift across the entire semiconductor stack.",
+      "image_prompt": "A complex digital valuation model interface, with AI-driven data streams flowing into it, transforming traditional financial graphs. A serious analyst observed through smart glasses, data reflecting in glowing iris. Cyberpunk neon lighting.",
+      "text_overlay": "AI VALUATION"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
