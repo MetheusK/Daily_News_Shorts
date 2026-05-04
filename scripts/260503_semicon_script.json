@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI MARKET SHOCK",
+    "narration": "Stock Alert: A secret AI power shift is reshaping global valuations and your portfolio NOW!",
+    "image_description": "Extreme close-up of a human eye with a cybernetic overlay, reflecting glowing stock charts and digital data streams. Red warning lights flash across the screen with glitch effects. Cinematic lighting, intense focus.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI SUPER CYCLE",
+    "image_description": "A hyper-realistic 3D render of a glowing, intricate GPU chip at the center of a dark, futuristic server room. Holographic data streams emanate from the chip, connecting to complex network nodes. Dramatic backlighting, 8k resolution.",
+    "reasoning": "The glowing GPU clearly represents AI and semiconductors, while 'AI SUPER CYCLE' directly references the news, attracting both investors interested in growth and engineers focused on hardware. The visual is clean, high-contrast, and technically compelling."
+  },
+  "title": "AI Supercycle: Market Cap Shifts & Supply Chain Reality",
+  "segments": [
+    {
+      "text": "May 2026 data confirms tech giants lead global market cap, driven by the AI supercycle. This valuation spike signals strategic long-term shifts.",
+      "image_prompt": "A holographic projection of global market cap rankings, with tech company logos prominently highlighted in blue and green. A stylized graph showing upward trend lines. Cinematic lighting, through smart glasses.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Nvidia's physical AI infrastructure specifically fuels this surge, impacting critical layers of the tech stack. GPU demand remains exceptionally high.",
+      "image_prompt": "A close-up of an advanced NVIDIA GPU, glowing with internal power, being held by a robotic arm in a sterile, futuristic lab environment. Digital readouts of 'GPU DEMAND' overlay the image.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "This intense demand creates significant rallies across Asian supply chains. Key manufacturing partners are scaling CAPEX for increased output.",
+      "image_prompt": "An animated global supply chain map, highlighting a dense network of lines connecting Asian manufacturing hubs. Numerical data showing 'CAPEX Increase' and 'Order Volume' projections. Intense focus on a screen.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "AI-powered growth spans foundational models to edge computing. Advanced HBM memory is a critical bottleneck for further scaling performance.",
+      "image_prompt": "A schematic diagram of a neural network with glowing nodes, focusing on a highlighted section representing HBM memory. Digital corruption effects around the 'bottleneck' area. Glowing iris reflecting data.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Investors track AI chip fabrication and HBM yield rates closely. Engineers address complex integration challenges for next-gen AI systems.",
+      "image_prompt": "A serious-looking engineer in a cleanroom suit examining a wafer under a microscope, with holographic projections of 'Yield Rate' percentages. A determined expression, cinematic side lighting.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "The market cap shift reflects crucial long-term CAPEX planning and HBM supply chain prioritization.",
+      "image_prompt": "A wide shot of a futuristic data center with massive server racks glowing with neon blue light. A holographic bar chart showing 'CAPEX' vs 'HBM Supply' projections. An intense focus through smart glasses on the data.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
