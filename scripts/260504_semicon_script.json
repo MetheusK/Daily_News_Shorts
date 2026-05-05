@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "YIELD CRISIS LOOMS!",
+    "narration": "Urgent warning! A hidden manufacturing crisis threatens the entire semiconductor supply chain, impacting your investments NOW!",
+    "image_description": "A cybernetically enhanced human eye, glowing with neon red digital data reflections, surrounded by glitching circuit board patterns. Red warning lights flash dramatically, creating an urgent, intense focus with cinematic lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "ASML: TRILLION DOLLAR?",
+    "image_description": "Hyper-realistic 8k render of ASML's EUV lithography machine, prominently centered and dramatically backlit with a cold blue glow. Intricate internal components are visible, emphasizing its complexity and importance, against a dark, futuristic factory background.",
+    "reasoning": "This thumbnail highlights ASML's significant market position and trillion-dollar valuation potential, directly appealing to investor curiosity and contrasting the hook's alarm with massive upside opportunity."
+  },
+  "title": "Semiconductor Showdown: Intel's HBM Bet & ASML's Trillion-Dollar Path",
+  "segments": [
+    {
+      "text_overlay": "CRUNCHING HBM",
+      "narration": "The CoWoS packaging crunch now severely limits High Bandwidth Memory (HBM) production, crucial for AI GPUs. This bottleneck impacts global supply chains.",
+      "image_description": "Overhead view of a densely packed circuit board, with holographic projections of 'HBM' and 'GPU' data streams flowing between components. A subtle red digital corruption effect appears around specific chip areas, indicating constraint. Cinematic lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text_overlay": "INTEL'S HBM TEST",
+      "narration": "Intel's ambitious HBM packaging entry faces scrutiny. Meeting critical yield and volume demands is paramount for their future market share.",
+      "image_description": "A technician (seen from behind, focused) examining a high-magnification view of a semiconductor wafer with complex HBM structures, displayed on a holographic interface. Eyes reflecting data through smart glasses. Intense focus, dramatic side lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text_overlay": "MEDIATEK SHIFT",
+      "narration": "MediaTek's strategic Intel hire signals fierce competition in advanced packaging. Chipmakers aggressively secure talent and capacity for next-gen HBM and GPU innovations.",
+      "image_description": "Two robot hands (one with Intel logo, one with MediaTek logo) exchanging a glowing, intricate chip package. Digital data lines connect them. Cyberpunk neon lighting, showcasing industrial precision and competitive transfer.",
+      "camera_effect": "static"
+    },
+    {
+      "text_overlay": "ASML MONOPOLY",
+      "narration": "ASML remains the sole provider of EUV lithography, indispensable for cutting-edge wafers. Their equipment dictates global semiconductor CAPEX investments.",
+      "image_description": "A large, futuristic ASML EUV machine chamber, glowing with internal energy, processing a wafer. A holographic display above shows 'EUV Monopoly' and a rising CAPEX graph. Dark, industrial setting with dramatic lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text_overlay": "TRILLION DOLLAR?",
+      "narration": "ASML's unique market position and pivotal role in the semiconductor CAPEX cycle fuels speculation for a trillion-dollar stock valuation. Investors watch closely.",
+      "image_description": "A glowing, highly detailed 3D render of a single ASML chip, with a rising stock market graph superimposed as a holographic projection above it, surrounded by financial data streams. Cinematic lighting, symbolizing high valuation potential.",
+      "camera_effect": "static"
+    },
+    {
+      "text_overlay": "INTEL: DELIVER?",
+      "narration": "So, the critical question remains: Can Intel truly deliver on these high-stakes HBM promises?",
+      "image_description": "A human figure (back to camera, implying analyst persona) looking intently at a large transparent display showing Intel's manufacturing roadmap and projected HBM yields. Digital data streams reflect in cybernetic-style smart glasses. Serious thought, dramatic lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
