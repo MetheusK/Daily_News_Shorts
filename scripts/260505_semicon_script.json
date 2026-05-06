@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "MARKET BLINDSPOT!",
+    "narration": "A critical shift is happening in semiconductors that most investors are completely missing!",
+    "image_description": "Close-up of a human eye with a cybernetic iris reflecting streams of financial data, digital glitch effects, urgent red warning lights flickering. Intense focus expression.",
+    "mood_color": "neon_green"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "TSMC 3X?",
+    "image_description": "A hyper-realistic 3D render of a glowing, intricate semiconductor chip at the center, surrounded by holographic financial charts and upward arrows. Dark, dramatic backlighting, cyberpunk style.",
+    "reasoning": "This thumbnail immediately poses a high-stakes financial question about a major industry player (TSMC), using a visually striking and technical image to attract both investors and engineers."
+  },
+  "title": "Semiconductor Forecast: TSMC, Packaging & AI's Future",
+  "segments": [
+    {
+      "text": "TSMC stock is predicted to jump 3x by 2030, reaching a valuation driven by unprecedented demand for advanced silicon. This projection signals a monumental shift.",
+      "image_prompt": "A sophisticated TSMC fabrication plant exterior at dawn, with an overlayed, glowing green stock market chart showing a steep upward trajectory. Cinematic lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Key drivers include surging demand for AI chips, high-bandwidth memory (HBM), and advanced GPUs. Capacity expansion CAPEX is critical for this growth.",
+      "image_prompt": "Extreme close-up of interconnected HBM chips on a silicon wafer, emitting a soft blue glow. Data lines visually connecting the components. High detail.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "The Panel Level Packaging market is forecasted for significant growth through 2035. This packaging innovation is crucial for next-gen performance and yields.",
+      "image_prompt": "A holographic blueprint of a Panel Level Package (PLP) rotating slowly. Intricate circuit patterns and transparent layers are visible. Tech-blue lighting.",
+      "camera_effect": "rotate"
+    },
+    {
+      "text": "This expansion is directly driven by escalating AI and High-Performance Computing (HPC) demand. Advanced packaging reduces latency and boosts computational efficiency.",
+      "image_prompt": "A vast data center aisle with rows of server racks, some glowing with red and blue warning lights, reflecting off polished floors. Digital data streams flowing between them. Focus on intense focus.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "Generative AI for chip design is booming, streamlining complex design processes. This accelerates product cycles and improves design yield significantly, impacting CAPEX.",
+      "image_prompt": "A human hand (digital, cybernetic appearance) interacting with a holographic interface showing a complex chip layout being optimized by a glowing AI neural network. Serious thought expression.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "The semiconductor industry's CAPEX strategy now prioritizes advanced packaging and AI infrastructure, reshaping valuation metrics.",
+      "image_prompt": "A serious industry analyst, through smart glasses reflecting intricate data and glowing charts, pointing at a financial projection screen highlighting 'Advanced Packaging' and 'AI Infrastructure' with prominent arrows. Determination in expression. Cinematic lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
