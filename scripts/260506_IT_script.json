@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "TECH DISTRUST WARNING",
+    "narration": "WARNING: New reports confirm massive public distrust in AI and Crypto. Your future interactions just changed forever!",
+    "image_description": "Extreme close-up of a human eye, glowing with a digital red iris, reflecting fragmented AI code and warning symbols. Cinematic lighting, intense focus, subtle glitch effect.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI FEARS REAL?",
+    "image_description": "A stylized, slightly menacing AI processor chip glowing with cool blue and red light, surrounded by abstract data streams, 3D render, 8k resolution, cyberpunk aesthetic. Center composition, dramatic backlighting.",
+    "reasoning": "This thumbnail prioritizes an iconic object (AI chip) with a visually striking, high-contrast, cyberpunk aesthetic. The text 'AI FEARS REAL?' creates instant intrigue and curiosity, prompting clicks by directly addressing public sentiment without needing human expressions."
+  },
+  "title": "The Hidden Truth: Americans Distrust AI, But Tech Surges Ahead!",
+  "segments": [
+    {
+      "text": "Americans exhibit significant distrust towards cryptocurrency and artificial intelligence, as recent reports from BeInCrypto confirm. This growing skepticism impacts public adoption rates.",
+      "image_prompt": "Digital bar graph displaying declining public trust percentages for AI and Crypto. Overlayed with subtle, abstract digital data streams. Clear, technical visuals.",
+      "text_overlay": "DISTURBING DATA",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "Super PACs leveraging AI/crypto narratives in midterms amplifies public distrust. Data privacy and algorithmic influence are becoming critical election issues, noted in the report.",
+      "image_prompt": "Digital voting booth with holographic AI interface, subtle glitch effects. Abstract data flowing around, representing information influence. No specific political symbols.",
+      "text_overlay": "POLITICAL AI",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "Yet, PRWeek's 2026 report reveals agencies predict widespread AI integration. Generative AI for content and personalized customer experiences will become standard practice soon.",
+      "image_prompt": "Whiteboard displaying 'AI Strategy 2026' with flowcharts and holographic projections of business graphs. Professional, clean agency setting, cybernetic elements.",
+      "text_overlay": "AGENCY ADOPTION",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Beyond AI, PRWeek highlights immersive technologies, advanced data analytics, and automation. These are crucial for future business growth and efficiency across sectors, driving innovation.",
+      "image_prompt": "Abstract data streams flowing into a glowing holographic cube, showing various tech icons like VR headsets, gears, and financial charts. Dynamic, futuristic aesthetic.",
+      "text_overlay": "FUTURE TECH",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "This dual reality demands public perception meets rapid tech deployment. Expect smarter interfaces, automated services, and hyper-personalized digital interactions impacting daily life.",
+      "image_prompt": "Person interacting with a minimalist holographic interface through smart glasses, seamlessly controlling smart home devices or reviewing personalized news feed. Intense focus.",
+      "text_overlay": "YOUR DAILY LIFE",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "Businesses are building trust via transparent AI, user-centric design, and ethical data handling. This approach is vital to bridge the growing public perception gap effectively.",
+      "image_prompt": "A digital 'trust meter' filling up with a vibrant green glow, abstract representations of secure data and AI algorithms in the background. Cinematic lighting, positive futuristic feel.",
+      "text_overlay": "BRIDGING THE GAP",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
