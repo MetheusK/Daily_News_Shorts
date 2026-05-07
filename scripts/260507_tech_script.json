@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "TESLA FSD OBSOLETE",
+    "narration": "WARNING! Elon Musk just admitted a massive problem for Tesla FSD owners!",
+    "image_description": "Close-up of a Tesla screen with a 'WARNING' message glowing red, digital glitch overlay, driver's eye through smart glasses reflecting alarm, cyberpunk neon lighting, intense focus.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "TESLA UPGRADE SHOCK",
+    "image_description": "A hyper-realistic 3D render of a futuristic computer chip being physically removed from a Tesla vehicle's dashboard, glowing data streams around the chip, dramatic backlighting, 8k resolution, centered object.",
+    "reasoning": "Focus on the physical upgrade/replacement of a core component (the chip) to hint at a major underlying issue without revealing all, creating strong curiosity and click-through potential."
+  },
+  "title": "Elon's FSD Admission: Tesla's Hardware Upgrade",
+  "segments": [
+    {
+      "text": "Elon Musk confirmed Tesla must replace older FSD computers. Initial hardware cannot support current software, impacting early adopters. This is a significant revelation for many.",
+      "image_prompt": "A digital blueprint of a car's computer system highlighting a specific component with an 'X' over it, cinematic lighting, serious thought expression reflected in a glowing cybernetic eye.",
+      "camera_effect": "zoom_in_out",
+      "text_overlay": "HARDWARE FAILED"
+    },
+    {
+      "text": "This Hardware 3.0 was designed for FSD capability. However, new software iterations demand more processing power, leading to performance limitations for existing units.",
+      "image_prompt": "Abstract visual representation of data streams bottlenecking inside a glowing, futuristic computer chip, intense focus, cyberpunk aesthetic, reflecting data.",
+      "camera_effect": "static",
+      "text_overlay": "PERFORMANCE LIMIT"
+    },
+    {
+      "text": "Owners who purchased Full Self-Driving before 2019 are primarily affected. Their vehicles require a physical hardware swap to maintain current feature parity and functionality.",
+      "image_prompt": "Digital map showing specific geographic regions highlighted in red, indicating early Tesla FSD adoption areas, data points glowing, determined expression.",
+      "camera_effect": "pan_left_right",
+      "text_overlay": "OLD CARS NEEDED"
+    },
+    {
+      "text": "Tesla offers these crucial hardware replacements for free. While beneficial, it signals a significant design overestimation regarding futureproof capability and long-term planning.",
+      "image_prompt": "A futuristic hand (cybernetic arm) presenting a new, sleek computer chip, reflecting data screens in its metallic surface, dramatic side lighting, wonder expression.",
+      "camera_effect": "zoom_out",
+      "text_overlay": "FREE UPGRADE"
+    },
+    {
+      "text": "This highlights the rapid evolution of AI and autonomous driving tech. Hardware must quickly adapt, posing challenges for long-term product roadmaps and consumer expectations.",
+      "image_prompt": "A complex neural network visualization rapidly evolving, with digital 'upgrade' icons appearing, serious thought, glowing iris reflecting data, cyberpunk neon.",
+      "camera_effect": "static",
+      "text_overlay": "AI EVOLVES FAST"
+    },
+    {
+      "text": "This impacts user trust and future tech adoption rates. Customers expect reliable, future-proof systems; proactive hardware upgrade strategies are crucial for sustained market confidence.",
+      "image_prompt": "A diverse group of people looking at a holographic projection of car data and upgrade paths, some with expressions of wonder, others with serious thought, cybernetic lighting.",
+      "camera_effect": "static",
+      "text_overlay": "TRUST IMPACT"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
