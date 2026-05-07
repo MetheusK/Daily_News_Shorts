@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI CHIP CRISIS?",
+    "narration": "Urgent market alert! AI chip packaging constraints are creating a seismic shift in the semiconductor supply chain!",
+    "image_description": "A close-up of a human eye, cybernetic and reflecting a complex circuit board diagram with digital glitch effects. Red warning lights flash across the screen. Cinematic lighting emphasizes intense focus.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI BOTTLENECK!",
+    "image_description": "A hyper-realistic 3D render of a futuristic server rack with glowing blue and red power lines. One section of the rack is glowing intensely red, signifying a bottleneck or critical failure point. 8k resolution, dramatic backlighting.",
+    "reasoning": "The 'bottleneck' concept directly appeals to investors and engineers concerned about supply chain efficiency and market disruptions, while the visually striking imagery promises high-stakes analysis."
+  },
+  "title": "AI Chip Packaging: Intel's Opportunity Amidst Samsung's $1T Surge",
+  "segments": [
+    {
+      "text": "AI chip demand is accelerating, but advanced packaging capacity remains a critical bottleneck for high-performance GPUs and HBM. Yields are strained.",
+      "image_prompt": "Intricate 3D diagram showing multiple layers of chips being stacked, with some layers highlighted in red to denote stress or reduced yield. Technical data overlays.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "Intel's EMIB technology offers a proven alternative for multi-chiplet integration, providing relief for severe AI packaging constraints and supply chain pressures.",
+      "image_prompt": "Animated overlay illustrating Intel's EMIB (Embedded Multi-die Interconnect Bridge) technology, demonstrating how chiplets are connected on a wafer. Digital schematics flow across the screen.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "This strategic opening positions Intel to capture significant CAPEX as major AI developers seek diversified and reliable packaging solutions for future silicon.",
+      "image_prompt": "A stylized factory floor with robotic arms precisely placing semiconductor components. Intel's logo subtly projected onto the workspace, reflecting data in glowing robotic eyes.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Samsung's market cap surged past $1 trillion, driven by robust AI chip demand, particularly its HBM solutions critical for advanced computing.",
+      "image_prompt": "A sleek, metallic Samsung logo with a superimposed '1 TRILLION USD' graphic, overlaid on a backdrop of holographic data representing market growth and AI chip architecture.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "This valuation underscores investor confidence in the AI sector's growth and Samsung’s key role in the high-margin HBM wafer segment.",
+      "image_prompt": "A financial analyst's hand interacting with a holographic stock market interface showing Samsung's rising valuation. The analyst's eye reflects glowing data points, showing intense focus.",
+      "camera_effect": "tilt_down"
+    },
+    {
+      "text": "This valuation surge highlights the critical supply chain implications for advanced packaging.",
+      "image_prompt": "A sophisticated global supply chain map highlighting key manufacturing nodes and shipping routes for semiconductors, with critical advanced packaging hubs flashing red warning lights. Digital corruption effect around stressed areas.",
+      "camera_effect": "dolly_zoom"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
