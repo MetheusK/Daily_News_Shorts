@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "TRILLION DOLLAR SHOCK",
+    "narration": "WARNING: The semiconductor market just flashed a trillion-dollar signal! Are you prepared for this AI surge?",
+    "image_description": "A cybernetic eye, reflecting a rapidly growing bar chart indicating a trillion-dollar market cap, surrounded by digital corruption effects and red warning lights. Cinematic lighting, intense focus with a glowing iris.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "ASIA'S AI DOMINANCE",
+    "image_description": "3D render of a glowing, intricate microchip at the center, with subtle holographic data streams showing Asian market symbols. Dark, cyberpunk background with dramatic blue and purple backlighting. Hyper-realistic, 8k resolution.",
+    "reasoning": "This thumbnail visually emphasizes the core topic (AI chip dominance) and the geographic shift (Asia) using a high-quality, object-focused render. The bold text and striking visual appeal to both investors and engineers, creating strong curiosity for a click."
+  },
+  "title": "AI Chips: Asia's Trillion-Dollar Surge & Market Implications",
+  "segments": [
+    {
+      "text": "Samsung hit a $1 trillion market cap, driven by explosive AI chip demand. Critical for HBM and advanced GPU production, reshaping global tech valuations.",
+      "image_prompt": "Holographic projection of Samsung's stock chart rising sharply, superimposed over abstract GPU architectures. Cyberpunk neon lighting, serious thought.",
+      "camera_effect": "zoom_in",
+      "text_overlay": "SAMSUNG $1T"
+    },
+    {
+      "text": "Asian chipmakers now form the AI rally's epicenter. Companies like TSMC and SK Hynix are capturing significant market share and CAPEX.",
+      "image_prompt": "Animated digital map of Asia highlighting key semiconductor manufacturing hubs (Taiwan, South Korea). Data streams connecting these points, reflecting data in eyes of a determined engineer. Cinematic lighting.",
+      "camera_effect": "pan_left",
+      "text_overlay": "ASIA LEADS AI"
+    },
+    {
+      "text": "Investors increasingly eye specialized ETFs such as SOXX, EWT, and EWY to gain diversified exposure to this high-growth semiconductor sector.",
+      "image_prompt": "Visualizing SOXX, EWT, EWY logos as glowing data nodes in a complex, interconnected financial network. A hand reaching for one of the nodes, through smart glasses. Dramatic side lighting.",
+      "camera_effect": "static",
+      "text_overlay": "INVESTOR ETFS"
+    },
+    {
+      "text": "Massive investments in High-Bandwidth Memory (HBM) and next-gen GPU manufacturing are fueling unprecedented capital expenditures across the supply chain.",
+      "image_prompt": "Close-up of a high-tech wafer being inspected by robotic arm, with abstract representations of HBM stacks and GPU structures in the background. Glowing circuit lines, intense focus of a technician's cybernetic eye.",
+      "camera_effect": "zoom_out",
+      "text_overlay": "HBM, GPU CAPEX"
+    },
+    {
+      "text": "Sustaining high manufacturing yields, especially for cutting-edge wafer technologies and HBM, remains a formidable challenge impacting profitability and supply.",
+      "image_prompt": "Digital display showing complex yield data curves, some with slight red warning indicators, overlaid on a clean room environment. Focused engineer looking at the screen. Cyberpunk aesthetic.",
+      "camera_effect": "pan_right",
+      "text_overlay": "YIELD CHALLENGE"
+    },
+    {
+      "text": "Market valuations reflect aggressive growth. Any unexpected fluctuations in demand or production yields could trigger significant re-evaluations for major players.",
+      "image_prompt": "Dynamic stock charts projected onto translucent screens in a futuristic trading room. A serious-faced analyst observes the data with glowing iris reflecting the market trends. Cinematic lighting.",
+      "camera_effect": "static",
+      "text_overlay": "MARKET VALUATION"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
