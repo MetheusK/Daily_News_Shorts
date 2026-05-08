@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "FUTURE IS HERE",
+    "narration": "WARNING: The technological future you imagined is no longer theory—it's arriving faster than anyone predicted!",
+    "image_description": "A person's intense, focused eyes behind smart glasses, glowing with data reflections, surrounded by dynamic cyberpunk neon lights and subtle digital glitch effects, dramatic side lighting.",
+    "mood_color": "neon_green"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "TECH TAKEOVER",
+    "image_description": "A hyper-realistic 3D render of a futuristic, glowing AI chip integrated with a sleek solar panel, centered composition, dramatic backlighting, 8k resolution, cyberpunk style.",
+    "reasoning": "Combines the two main tech trends (AI and Solar) into a single, high-contrast, visually stunning object, implying powerful new integrations without relying on generic human shock, thus maximizing click-through rate."
+  },
+  "title": "Future Tech Trends: AI & Solar Explode!",
+  "segments": [
+    {
+      "text": "Recent reports highlight AI integrating into daily tasks, from personalized assistants to predictive analytics, boosting user productivity significantly across all sectors.",
+      "image_prompt": "Abstract visual representation of data flowing into a brain icon, clean interface, digital thought bubbles, cinematic lighting.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "Generative AI tools are rapidly evolving, democratizing content creation and automating complex data analysis, transforming industries like marketing, design, and research globally.",
+      "image_prompt": "Holographic interface showing AI generating images and text, a determined hand interacting with it through smart glasses, cinematic lighting.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "TaiyangNews reports new solar PV technologies achieving unprecedented efficiencies, with perovskite and tandem cells leading the charge for commercial deployment within five years.",
+      "image_prompt": "Detailed rendering of advanced solar panels, glowing with energy, showcasing new material textures, clean lab environment, cinematic lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "This solar innovation promises cheaper, more reliable renewable energy, driving a critical global shift towards sustainable power grids and reducing reliance on fossil fuels worldwide.",
+      "image_prompt": "Satellite view of a city grid powered by numerous glowing solar farms, clean energy flow lines, bright and futuristic, cinematic lighting.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "Emerging tech trends are converging, impacting everything from consumer brands to industrial agencies. AI optimizes solar deployment, enhancing operational efficiency and market strategies.",
+      "image_prompt": "Interconnected digital network of various tech icons (AI, solar, data clouds) glowing and linked, representing a unified ecosystem, cinematic lighting.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "This isn't just news; it's a blueprint for the next wave of innovation.",
+      "image_prompt": "A focused individual looking at a holographic blueprint overlaying a futuristic city, expressing wonder and determination, cinematic lighting, through smart glasses.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
