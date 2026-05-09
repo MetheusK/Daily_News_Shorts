@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "CHIP MARKET BUBBLE?",
+    "narration": "WARNING: The semiconductor rally hides critical risks investors are ignoring! Is this a bubble about to burst?",
+    "image_description": "A cybernetically enhanced human analyst's glowing iris reflecting complex data graphs with flashing red warning lights, displaying intense focus. Dramatic side lighting illuminates a face with digital corruption glitch effects around the temples, set against a dark, technical background. Cinematic lighting, 8k resolution.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "SEMICON RISK AHEAD",
+    "image_description": "A hyper-realistic 3D render of a futuristic, high-performance GPU chip glowing with intense neon red light, positioned centrally on a dark, reflective surface. The chip has subtle cracks and digital corruption effects, indicating stress. Dramatic backlighting, 8k resolution, cyberpunk style.",
+    "reasoning": "This thumbnail prioritizes a key object (GPU) central to the AI chip rally. The neon red glow and subtle cracks visually hint at underlying risks despite market gains, compelling investors and engineers to click for deeper analysis."
+  },
+  "title": "Semiconductor Surge: Geopolitical Risks & AI Valuation",
+  "segments": [
+    {
+      "text": "The iShares Semiconductor ETF (SOXX) surged over 40% in April. This aggressive market valuation reflects massive investor confidence in the sector's growth trajectory.",
+      "image_prompt": "Dynamic 3D bar chart showing a 40% increase, overlayed with the SOXX ticker, holographic data streams, reflecting off a polished server rack. Cinematic lighting.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "Primary catalyst: unprecedented demand for AI GPUs and HBM memory. Asian tech giants now drive this new center of gravity, boosting key players' revenues significantly.",
+      "image_prompt": "Close-up of interconnected HBM memory stacks on a GPU die, glowing with blue and green data flow lines. A faint, focused reflection of an engineer's smart glasses with data overlay visible. Cyberpunk neon lighting.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "Geopolitical dynamics, notably potential Trump-Xi summits, place Taiwan's vital chip industry at a critical global crossroad. Supply chain stability remains paramount.",
+      "image_prompt": "Stylized world map with glowing nodes over Taiwan, Washington, and Beijing, connected by dynamic red and blue lines. Digital representation of a serious face with intense focus, looking at the map through smart glasses.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "This political uncertainty directly impacts CAPEX planning and future wafer manufacturing expansion. Yield optimization becomes even more crucial for profitability metrics.",
+      "image_prompt": "Automated robot arm carefully placing a silicon wafer into a fabrication machine, surrounded by cleanroom environment, with digital overlay showing 'Yield %' statistics. Dramatic, clean industrial lighting.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "Current valuations reflect aggressive growth, yet geopolitical risks introduce volatility. Investors must weigh HBM and GPU demand against potential supply chain disruptions.",
+      "image_prompt": "Side-by-side holographic display: one side showing rising stock graphs and HBM/GPU demand, the other showing a broken supply chain link with red warning signals. A focused analyst's hand, reflecting data, points to the disruptions.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "Future growth hinges on sustained AI adoption and resolution of critical manufacturing yield challenges.",
+      "image_prompt": "Digital rendering of a complex wafer pattern, with key areas glowing green (high yield) and red (low yield), surrounded by abstract data streams. Focus on intense determination.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
