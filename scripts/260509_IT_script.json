@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "TECH'S SECRET CRISIS",
+    "narration": "Warning! The tech world is hiding a massive secret about our future, and it impacts everything you do!",
+    "image_description": "Close-up of a human eye with digital data streams reflecting on its surface, looking intensely at a holographic projection of a glitching planet Earth. Cinematic lighting, cyberpunk neon, dramatic side lighting. Red warning lights flashing.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "FUTURE TECH LIES?",
+    "image_description": "3D render of a futuristic server rack intertwined with overgrown digital vines, emitting a faint green glow. In the foreground, a transparent holographic globe showing energy consumption data, with a subtle 'disconnect' error symbol. Hyper-realistic, 8k resolution, dramatic backlighting, centered object.",
+    "reasoning": "Creates intrigue about a hidden truth in tech development, using symbolic objects rather than generic human reactions. The 'disconnect' symbol combined with a tech object hints at the core conflict, prompting a click to learn more."
+  },
+  "title": "AI's Hidden Truth: 2026 Market Surge vs. Climate Reality!",
+  "segments": [
+    {
+      "text": "A significant 2026 market surge is predicted, fueled by emerging tech trends. Roland Fairmont details a NASDAQ rebound, signaling major shifts in global investment landscapes.",
+      "image_prompt": "A vibrant, holographic stock market graph projecting upwards, superimposed over a global map. Dynamic data streams, reflecting data, cinematic lighting.",
+      "text_overlay": "2026 SURGE COMING"
+    },
+    {
+      "text": "MoneyFlare just launched an AI Stock Trading Bot, opening automated investing to the masses. This innovation promises smarter returns and reshapes how individuals engage with financial markets.",
+      "image_prompt": "A sleek, futuristic AI bot interface on a tablet, displaying real-time stock data. A digital hand interacting with the screen. Cyberpunk neon lighting.",
+      "text_overlay": "AI TRADING BOT"
+    },
+    {
+      "text": "This bot democratizes complex trading strategies, leveraging AI for optimal decisions. It shifts investment from human intuition towards algorithmic precision, potentially boosting average user portfolios.",
+      "image_prompt": "Abstract animation of neural networks processing financial data, visualizing complex algorithms. Glowing lines representing data flow, cinematic lighting.",
+      "text_overlay": "AI BOOSTS RETURNS"
+    },
+    {
+      "text": "Fairmont’s analysis highlights three key global tech trends driving the 2026 surge, including advanced AI integration. Expect unprecedented growth in specific sectors impacting daily life globally.",
+      "image_prompt": "A composite image showing three distinct futuristic tech trends (e.g., smart city, quantum computer, sustainable energy grid) merging. Reflecting data, cinematic lighting, 'intense focus' mood.",
+      "text_overlay": "3 GLOBAL TRENDS"
+    },
+    {
+      "text": "However, a new report critically finds emerging technologies are disconnected from our future climate-constrained energy realities. This poses a significant sustainability challenge.",
+      "image_prompt": "A contrasting visual: half lush green landscape, half arid desert with futuristic wind turbines struggling. A subtle digital glitch effect over the arid side. Red warning lights, dramatic lighting.",
+      "text_overlay": "CLIMATE REALITY CHECK"
+    },
+    {
+      "text": "This disconnect means current tech development often overlooks resource limitations, risking future energy crises. Sustainable innovation must become a core focus for the tech industry.",
+      "image_prompt": "A futuristic cityscape powered by green energy, but with subtle digital cracks appearing, hinting at instability. Focus on 'serious thought' in the overall mood, cinematic lighting.",
+      "text_overlay": "FUTURE ENERGY RISK"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
