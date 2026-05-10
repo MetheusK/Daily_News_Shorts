@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "VALUATION WARNING!",
+    "narration": "Stock market alert! A dangerous bubble is forming in semiconductor giants, threatening your AI investments!",
+    "image_description": "Extreme close-up of a trader's face, cybernetic eyes reflecting rapidly shifting red stock market charts and data streams, intense focus, dramatic side lighting with red neon accents.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI BUBBLE?",
+    "image_description": "High-resolution 3D render of a glowing, complex semiconductor wafer with critical pathways highlighted in vivid red, digital error code glitches overlaying parts of the wafer, dark, hyper-realistic background, dramatic backlighting.",
+    "reasoning": "The direct question 'AI BUBBLE?' combined with a visually striking, glitching wafer creates urgency and curiosity for investors and engineers, prompting a click."
+  },
+  "title": "Semiconductor Rally: Dangerous Valuations?",
+  "segments": [
+    {
+      "text": "Semiconductor ETFs like SOXX and SMH have surged, outperforming the S&P 500 by over 2,000% this decade, driven by robust AI demand.",
+      "image_prompt": "Dynamic digital chart showing semiconductor ETFs (SOXX, SMH) dramatically outperforming the S&P 500, with neon green lines against a dark, data-rich background, reflecting intense focus.",
+      "camera_effect": "zoom_in_on_chart",
+      "text_overlay": "SEMICON SURGE"
+    },
+    {
+      "text": "However, a recent 42% rally in SMH signals potentially dangerous valuations. This rapid ascent warrants close investor scrutiny of future earnings.",
+      "image_prompt": "A holographic financial projection displaying a rapidly rising stock graph with a clear 'warning' overlay in red, a serious analyst figure in the foreground, cybernetic eyes reflecting data, dramatic side lighting.",
+      "camera_effect": "pan_across_chart_data",
+      "text_overlay": "VALUATION RISK"
+    },
+    {
+      "text": "The primary driver remains insatiable demand for AI infrastructure, particularly high-performance GPUs and HBM memory crucial for data centers.",
+      "image_prompt": "High-tech server racks glowing with blue and purple light, densely packed with GPUs and HBM modules, digital data streams flowing, industrial scale, cinematic lighting.",
+      "camera_effect": "dolly_zoom_into_server",
+      "text_overlay": "AI FUELS DEMAND"
+    },
+    {
+      "text": "Equipment giant ASML confirms strong growth, critical for increasing wafer capacity and advanced chip production needed for AI accelerators globally.",
+      "image_prompt": "A clean room environment with advanced ASML EUV lithography machines, precise robotic arms handling silicon wafers, glowing optics, 'intense focus' on the manufacturing process, cyberpunk neon elements.",
+      "camera_effect": "track_along_machine",
+      "text_overlay": "ASML DOMINANCE"
+    },
+    {
+      "text": "Sustained CAPEX investments are essential to expand fabrication capabilities. Maintaining high yields on cutting-edge processes remains a core industry challenge.",
+      "image_prompt": "Schematic overlay of a silicon wafer cross-section showing intricate layers, highlighting critical yield points in bright blue, abstract digital graphs displaying CAPEX trends, serious thought expressed through smart glasses.",
+      "camera_effect": "tilt_up_on_wafer",
+      "text_overlay": "CAPEX & YIELD"
+    },
+    {
+      "text": "While AI fuels growth, market participants must distinguish between genuine demand and speculative pricing, impacting long-term sector stability and investor returns.",
+      "image_prompt": "A futuristic trading floor, a data analyst looking at multiple holographic screens displaying complex semiconductor market data, digital corruption effects around high valuation numbers, determination, cinematic lighting.",
+      "camera_effect": "static",
+      "text_overlay": "INVESTOR ALERT"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
