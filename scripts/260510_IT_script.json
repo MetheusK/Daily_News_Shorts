@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI IS HERE",
+    "narration": "Stop what you are doing! The AI revolution isn't coming; it's already here, reshaping your job and future faster than you think!",
+    "image_description": "Extreme close-up of a person's face with glowing cybernetic eyes, reflecting a rapidly scrolling data feed, surrounded by glitch effects and pulsating neon red light. Intense focus, cinematic lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI JOBS LOST?",
+    "image_description": "A sleek, metallic robot hand reaching towards a glowing holographic globe displaying data points and unemployment graphs. Cyberpunk aesthetic, 8k resolution, dramatic backlighting, centered object.",
+    "reasoning": "Highlights the core concern (AI's impact on jobs) with a striking, futuristic visual, prompting curiosity about the extent of its influence."
+  },
+  "title": "AI's Shocking Impact: What 2026 Holds",
+  "segments": [
+    {
+      "text_overlay": "AI LAYOFFS SURGE",
+      "narration": "BeInCrypto reports AI is the leading cause of 2026 layoffs, automating many tasks. This impacts global workforces, especially white-collar sectors, creating significant shifts now.",
+      "image_prompt": "Digital representation of a fluctuating stock market graph with a downward trend, superimposed over a shadowy, thoughtful silhouette of a person looking at a screen. Cinematic lighting.",
+      "camera_effect": "zoom_out_slow"
+    },
+    {
+      "text_overlay": "GLOBAL AI RACE",
+      "narration": "China's 'cyber gap' against OpenAI and Anthropic ignites a critical AI arms race. Nations rapidly develop advanced models for national security and economic dominance.",
+      "image_prompt": "Two glowing, intertwined neural networks (representing different tech entities) on a digital world map, with data streams connecting global cities. Cyberpunk neon lighting, 8k resolution.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text_overlay": "TECH GIANTS LEAD",
+      "narration": "OpenAI and Anthropic launch new AI models daily. This rapid innovation forces competitors to adapt quickly, or risk falling behind in the global tech market.",
+      "image_prompt": "Holographic projection of OpenAI and Anthropic logos above complex server racks, generating flowing data streams. Bright, futuristic lighting, with a reflecting data glow.",
+      "camera_effect": "static"
+    },
+    {
+      "text_overlay": "INDUSTRY TRANSFORMS",
+      "narration": "The 2026 Hospitality Industry Technology Expo, with 50 nations, highlights AI adoption. Conferences address integrating AI for efficiency, revenue, and enhanced customer experience.",
+      "image_prompt": "A bustling futuristic conference hall with holographic displays showing AI interfaces for hotel management, attendees with smart glasses showing intense focus. Cinematic lighting.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text_overlay": "FUTURE OF WORK",
+      "narration": "By 2026, AI will fundamentally redefine job roles across sectors. Understanding this shift is critical for future career planning and achieving economic stability.",
+      "image_prompt": "Person with intense focus through smart glasses, overlayed with glowing UI elements showing data points about job markets and skill graphs. Dramatic side lighting, glowing iris.",
+      "camera_effect": "zoom_in_slow"
+    },
+    {
+      "text_overlay": "ADAPT OR THRIVE",
+      "narration": "Continuous learning and skill adaptation are critical for thriving in AI-driven environments. Education and reskilling initiatives are crucial in this evolving technological landscape. THIS IS THE ONLY WAY TO STOP IT.",
+      "image_prompt": "A hand reaching to interact with a holographic display showing a 'learning path' or 'skill tree' icon, reflecting a determined expression in a glowing iris. Cyberpunk neon lighting, digital corruption effect on edges.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
