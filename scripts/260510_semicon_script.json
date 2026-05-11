@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "FOUNDRY SHOCK!",
+    "narration": "Attention investors! A seismic shift just hit the global chip market, challenging decades of dominance and demanding immediate action!",
+    "image_description": "Extreme close-up of a cybernetic eye reflecting complex semiconductor blueprints and glitching data streams, with an intense focus. Red warning lights pulsate in the background, cinematic lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "CHIP DOMINANCE SHAKES",
+    "image_description": "A hyper-realistic 3D render of a glowing silicon wafer with a subtle Apple logo partially etched onto its surface, suspended dramatically over a futuristic Intel Foundry production line. Cyberpunk neon lighting, 8k resolution, centered object.",
+    "reasoning": "This thumbnail immediately highlights the core conflict and unexpected partnership between Apple and Intel, using iconic brand elements. The 'shaking' dominance creates intrigue for investors and industry insiders, signaling a major market shift."
+  },
+  "title": "Semiconductor Shake-Up: Apple & Intel Reshape Foundry Landscape & Micron's Future",
+  "segments": [
+    {
+      "text": "Apple confirmed a groundbreaking partnership with Intel Foundry, signaling a critical strategic move to diversify its crucial 3nm production away from TSMC's reliance.",
+      "image_prompt": "A split screen showing a stylized Apple logo on one side and a glowing Intel Foundry logo on the other, merging at the center. The number '3nm' is highlighted with digital lines connecting the two logos. Cinematic lighting.",
+      "camera_effect": "Zoom in on '3nm' with a subtle digital ripple effect."
+    },
+    {
+      "text": "This directly challenges TSMC's long-held advanced node dominance, potentially boosting Intel's foundry business significantly by the critical 2025-2026 period.",
+      "image_prompt": "A professional-looking bar chart showing TSMC's market share with a slight projected dip, juxtaposed with Intel Foundry's rising share. A clear timeline extends to 2026. A serious analyst through smart glasses, reflecting market data.",
+      "camera_effect": "Pan across the timeline, highlighting '2025-2026'."
+    },
+    {
+      "text": "Such aggressive diversification aims to proactively de-risk Apple's complex supply chain, crucial for ensuring stable high-volume HBM and GPU chip production yields.",
+      "image_prompt": "A holographic flowchart illustrating a complex semiconductor supply chain, with a prominent 'diversification' arrow. Images of glowing HBM stacks and detailed GPU dies are integrated within the flow. Digital glitch effects for 'de-risk'.",
+      "camera_effect": "Focus on a numerical 'yield' metric, then pan to the HBM and GPU images."
+    },
+    {
+      "text": "Concurrently, Micron is undergoing a significant transformation, now uniquely positioned as the sole US-based advanced memory producer, shifting from cyclical to infrastructure.",
+      "image_prompt": "A hyper-realistic image of a glowing Micron memory wafer, overlaid with bold text: 'US Advanced Storage'. A clean, upward-sloping graph line transitions from wavy (cyclical) to steady (infrastructure).",
+      "camera_effect": "Tilt-shift focus on the glowing wafer, then a quick pan to the graph's transition."
+    },
+    {
+      "text": "This re-rating reflects consistent, foundational demand for advanced storage technology, impacting Micron's future CAPEX planning and its overall market valuation.",
+      "image_prompt": "Financial graphs showing Micron's stock performance stabilizing and rising, with 'CAPEX' and 'VALUATION' highlighted in neon green. In the background, modern server racks with subtle glowing lights. An analyst with intense focus on the data.",
+      "camera_effect": "Dolly zoom on the highlighted CAPEX and Valuation figures."
+    },
+    {
+      "text": "This valuation shift impacts Micron's long-term CAPEX and market position.",
+      "image_prompt": "A serious analyst with glowing iris smart glasses intently analyzing a holographic projection of global market data, reflecting a thoughtful expression. Dramatic side lighting highlights their determined face.",
+      "camera_effect": "Close-up on the data reflection visible in the analyst's cybernetic eyes."
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
