@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "TECH SHIFTING NOW",
+    "narration": "WARNING! The tech world is rapidly changing, and you won't believe what's driving the next big wave!",
+    "image_description": "A dynamic, cyberpunk-style cityscape with data streams cascading, digital glitches, a glowing cybernetic eye reflecting abstract market graphs, dramatic neon lighting. Intense focus expression.",
+    "mood_color": "neon_green"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "TECH BOOM AHEAD",
+    "image_description": "3D render of a stylized, glowing circuit board forming a rising arrow, surrounded by holographic data projections. Dark, hyper-realistic, 8k resolution with dramatic backlighting.",
+    "reasoning": "Highlights future growth and technology visually, using a central object (circuit board arrow) to convey the 'boom' and 'ahead' concept, compelling clicks through visual intrigue and a clear, high-contrast image."
+  },
+  "title": "Future Tech Trends: What's Booming Next?",
+  "segments": [
+    {
+      "text": "The technology sector exhibits a strong upward trend, projecting significant growth amidst market fluctuations. This signals robust market expansion, requiring attention to dynamic, evolving sub-sectors.",
+      "image_prompt": "Futuristic stock market interface displaying an upward trend graph, with abstract data points and cybernetic blue hues. Cinematic lighting.",
+      "camera_effect": "subtle zoom"
+    },
+    {
+      "text": "Sustainable flexible packaging innovations will drive the Box Pouch market to $812.6 million by 2036. This reflects material science tech advancing eco-friendly solutions globally.",
+      "image_prompt": "A sleek, transparent box pouch package rendered in 3D, glowing with eco-friendly green light, reflecting complex molecular structures. Cinematic lighting.",
+      "camera_effect": "slow pan"
+    },
+    {
+      "text": "Premium shelf presentation, leveraging advanced design technologies and consumer data, further fuels this market. This enhances product appeal, directly influencing daily purchasing decisions.",
+      "image_prompt": "A consumer's hand, through smart glasses, interacting with a holographic display showing product packaging design options and real-time purchase data. Focus on glowing iris reflection.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Agricultural technology, exemplified by PotatoEurope 2026 in Germany, highlights tech's impact. Advanced machinery and field innovations significantly boost efficiency and global food production.",
+      "image_prompt": "An advanced robotic arm harvesting glowing, genetically optimized potatoes in a futuristic German field, under dramatic side lighting. Cybernetic sensor lens on robot, reflecting data.",
+      "camera_effect": "tracking shot"
+    },
+    {
+      "text": "These diverse developments create crucial rotation opportunities within the broader technology sector, influencing investment strategies. Identifying these shifts is key for future market understanding.",
+      "image_prompt": "Abstract representation of interconnected technological sectors, glowing lines rotating and shifting, forming a complex network. Focus on dynamic data flow.",
+      "camera_effect": "dolly zoom"
+    },
+    {
+      "text": "These shifts demonstrate technology's constant evolution, creating opportunities for those tracking industry trends closely.",
+      "image_prompt": "A person (viewed from behind) with an intense focus on a multi-screen setup displaying various tech trends and market data, with glowing iris reflections. Cinematic lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
