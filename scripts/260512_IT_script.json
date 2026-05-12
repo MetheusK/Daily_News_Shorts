@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI CHANGES EVERYTHING",
+    "narration": "STOP SCROLLING! AI isn't just coming, it's ALREADY here, changing your job, your home, and your future!",
+    "image_description": "Close-up of a person's eye reflecting a rapidly scrolling feed of AI code and data, with digital glitch effects and urgent red warning lights, intense focus, cinematic lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI TAKES OVER",
+    "image_description": "A sleek, minimalist smart home hub device with a glowing, intricate AI neural network projected above it. The device is centered, hyper-realistic, 8k resolution, with dramatic backlighting in cyber-blue and deep shadows.",
+    "reasoning": "The 'AI Takes Over' text combined with a futuristic, object-focused image creates immediate intrigue and a sense of impending change, encouraging clicks by hinting at a significant shift in daily life."
+  },
+  "title": "AI Is Changing YOUR Life RIGHT NOW!",
+  "segments": [
+    {
+      "text": "AI investment is surging, with top firms pouring billions into development. Experts forecast global AI market growth to exceed 500% by 2030, transforming industries.",
+      "image_prompt": "Holographic projection of a rising stock graph overlaid on a network of glowing data points, dramatic cyberpunk lighting, 8k render, abstract representation of financial growth.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "Smart home security now leverages AI for proactive threat detection. Systems learn routines, identifying anomalies for instant alerts, making homes safer and smarter.",
+      "image_prompt": "Sleek smart home hub interface displaying a real-time security feed with AI anomaly detection highlights, glowing red alerts on a minimalist screen, dark room, cinematic lighting.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "Broadcasting employment faces significant AI disruption. A recent report details AI automating tasks like content generation and scheduling, impacting over 20% of roles.",
+      "image_prompt": "News studio control room with robotic arms editing video on multiple screens, '20% REDUCTION' text subtly integrated into a digital display, serious focus on a human operator's face through smart glasses reflecting data.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "This trend extends beyond media. Analysts predict AI will displace specific tasks across industries, necessitating widespread workforce reskilling by 2027 to adapt.",
+      "image_prompt": "Diverse group of individuals learning in a futuristic digital classroom, holographic projected lessons on coding and AI tools, determined expressions, cinematic lighting, 'SKILL UP' overlay.",
+      "camera_effect": "dolly_zoom"
+    },
+    {
+      "text": "Companies adopt AI for unprecedented efficiency gains and innovation speed. From data analytics to personalized experiences, AI redefines operational benchmarks across sectors.",
+      "image_prompt": "Complex data visualization flowing across multiple screens in a server room, glowing digital pathways, abstract representation of efficiency and innovation, 8k render, dramatic side lighting.",
+      "camera_effect": "track_right"
+    },
+    {
+      "text": "Accessible AI tools mean rapid deployment, even for small businesses. This accelerates innovation, promising smarter systems, but also demanding careful ethical consideration.",
+      "image_prompt": "A robot hand gently interacting with a holographic interface showing ethical guidelines and code, subtle red warning lights for 'caution', cinematic lighting, 'ETHICS' keyword highlighted.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
