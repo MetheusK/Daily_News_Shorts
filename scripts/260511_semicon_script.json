@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI MARKET SHIFT",
+    "narration": "Investors, critical data just dropped: AI stocks are driving the entire market, but a major shift is coming for semiconductor dominance!",
+    "image_description": "A close-up of a human eye, cybernetically enhanced, reflecting rapidly shifting market charts and data streams, with aggressive red warning lights illuminating the face dramatically. Intense focus expression. Cinematic lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI CHIP DOMINANCE",
+    "image_description": "A hyper-realistic 3D render of a glowing, intricate AI processor chip at the center of the frame. Holographic data streams and circuit patterns emanate from it, against a dark, industrial background. Dramatic blue and purple cyberpunk lighting. 8k resolution.",
+    "reasoning": "This thumbnail visually represents the core topic (AI chips) with high detail and a futuristic aesthetic, directly appealing to investors and engineers. The bold text and powerful image create strong clickbait appeal without sensationalism."
+  },
+  "title": "AI's Semiconductor Dominance: What Investors NEED to Know",
+  "segments": [
+    {
+      "text": "AI stocks are fueling over 80% of S&P 500 gains, projecting significant market shifts into 2026. This trend redefines sector valuation.",
+      "image_prompt": "A sophisticated digital S&P 500 chart, with a prominent ascending segment highlighted in neon green, representing AI stocks. Clean data flowing across the screen. Cinematic lighting.",
+      "text_overlay": "80% S&P GAINS",
+      "camera_effect": "dynamic_zoom_in"
+    },
+    {
+      "text": "Targeted exposure via ETFs like SOXX, EWT, and EWY offers strategic investment in this AI-driven semiconductor growth. Watch these closely.",
+      "image_prompt": "Three distinct holographic ETF logos (SOXX, EWT, EWY) presented side-by-side, with subtle upward trend lines and financial data overlays. Analytical focus. Cyberpunk neon lighting.",
+      "text_overlay": "TOP SEMI ETFS",
+      "camera_effect": "static"
+    },
+    {
+      "text": "While AI drives demand, questions emerge regarding TSMC's long-term dominance in the AI era's 'second half'. Competition is intensifying.",
+      "image_prompt": "A modern, clean rendering of a TSMC-like fabrication facility exterior at dusk, with digital network lines converging on it, and a subtle, glowing question mark icon overlay, implying strategic uncertainty. Dramatic side lighting.",
+      "text_overlay": "TSMC CHALLENGED?",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "High Bandwidth Memory (HBM) and advanced GPU manufacturing yields are critical differentiators, impacting future CAPEX and market share.",
+      "image_prompt": "An extreme close-up of HBM stacks intricately placed on a silicon wafer. A robotic arm with glowing blue components is performing a precise placement operation. Hyper-realistic, 8k detail.",
+      "text_overlay": "HBM YIELD CRITICAL",
+      "camera_effect": "dynamic_zoom_out"
+    },
+    {
+      "text": "Future valuation hinges on consistent innovation and operational efficiencies. Investors must scrutinize technology roadmaps and global supply chain resilience.",
+      "image_prompt": "A human hand wearing a high-tech smart glove, pointing at a complex holographic display showing a semiconductor technology roadmap with global supply chain nodes highlighted and interconnected. Serious thought expression. Cinematic lighting.",
+      "text_overlay": "VALUATION DRIVERS",
+      "camera_effect": "tilt_up"
+    },
+    {
+      "text": "Critical for investors: The market is valuing future yield capabilities and specific technology leadership, not just current market share.",
+      "image_prompt": "A dynamic financial graph with key performance indicators (KPIs) like 'Yield' and 'Leadership' prominently highlighted, being analyzed by a person through smart glasses. Glowing iris reflecting data. Determination expression. Cyberpunk lighting.",
+      "text_overlay": "YIELD IS KING",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
