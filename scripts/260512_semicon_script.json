@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI MARKET SHIFT",
+    "narration": "Investor warning: Your portfolio is NOT ready for the coming AI market rewrite. The biggest gains are forming now.",
+    "image_description": "Close-up of a human eye with a glowing, cybernetic iris reflecting rapidly changing stock market data charts and circuit patterns, dramatically lit with red warning lights and glitch effects, intense focus, 8k resolution.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI STOCK WAVE",
+    "image_description": "Hyper-realistic 3D render of a futuristic, glowing AI chip (GPU) at the center, surrounded by holographic financial data charts and server racks in a dark, cyberpunk-style data center. Dramatic blue and purple backlighting, 8k resolution.",
+    "reasoning": "Highlights the core AI chip object with financial data, sparking investor curiosity about the 'wave' and potential gains in the semiconductor sector."
+  },
+  "title": "Semiconductor Forecast: AI's Multi-Trillion Shift",
+  "segments": [
+    {
+      "text": "AI stocks now fuel over 80% of projected S&P 500 gains by 2026. This data underscores AI's unparalleled market influence and capital shift.",
+      "text_overlay": "AI MARKET POWER",
+      "image_prompt": "Animated financial graph showing exponential growth with a superimposed digital brain, cybernetic style, blue and green data lines.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "Analysts predict TSMC stock could jump 3x by 2030, driven by relentless demand for advanced nodes. Their foundry capacity remains critical.",
+      "text_overlay": "TSMC 3X GROWTH",
+      "image_prompt": "Stylized TSMC logo glowing over a globe, reflecting a stock ticker showing upward trend, cinematic lighting, data flowing.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "Tesla's AI5 chip taped out, promising 5x AI4 compute. This HBM-enabled GPU is pivotal for Optimus by 2026, boosting AI hardware capabilities.",
+      "text_overlay": "TESLA AI BREAKTHROUGH",
+      "image_prompt": "Hyper-realistic 3D render of a 'Tesla AI5' chip with intricate glowing circuits, set against a dark, metallic background, focused spotlight.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "The surge in HBM and high-performance GPU demand intensifies. Critical for AI, this drives significant R&D and manufacturing investment across the industry.",
+      "text_overlay": "HBM DEMAND EXPLODES",
+      "image_prompt": "Close-up of HBM stacks on a GPU, glowing data lines connecting them, showing high information density, dark and futuristic setting.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "Increased manufacturing scale introduces yield pressures. Massive CAPEX is essential to expand wafer capacity, ensuring supply meets escalating 2026 demand.",
+      "text_overlay": "CAPEX CRITICAL",
+      "image_prompt": "Robotic arms meticulously handling glowing silicon wafers in a sterile cleanroom, overlaid with a digital 'yield percentage' graphic, dramatic side lighting.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "These developments signal a robust, yet volatile, semiconductor growth cycle. Investors must monitor wafer capacity, yield rates, and HBM advancements closely.",
+      "text_overlay": "INVESTOR ALERT",
+      "image_prompt": "A focused investor, through smart glasses, viewing holographic stock charts and a glowing circuit board, intense focus, cybernetic reflections, cinematic lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
