@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "GOOGLE CHANGED EVERYTHING",
+    "narration": "Stop scrolling! Google just dropped massive AI bombshells that will transform your daily tech use forever!",
+    "image_description": "Extreme close-up of a human eye with a cybernetic glow, reflecting fast-scrolling lines of code and urgent red warning lights, expressing intense focus. Cinematic lighting, cyberpunk style.",
+    "mood_color": "neon_green"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI LAPTOP ERA",
+    "image_description": "A sleek, hyper-realistic 3D render of a futuristic 'Googlebook' laptop, glowing with internal AI circuitry visible through a translucent panel. Centered object with dramatic cyberpunk backlighting. 8k resolution.",
+    "reasoning": "This thumbnail prioritizes the new 'Googlebook' hardware, visually highlighting its AI core. The bold text 'AI LAPTOP ERA' creates immediate intrigue and signals a major shift, driving clicks effectively."
+  },
+  "title": "Google's AI BOMBSHELL: New Laptops & Widgets!",
+  "segments": [
+    {
+      "text_overlay": "ANDROID EVOLUTION",
+      "narration": "Google's Android Show revealed major updates, including 'Googlebook' laptops and innovative 'vibe-coded widgets.' This signals a significant ecosystem shift.",
+      "image_prompt": "Sleek 3D render of a 'Googlebook' laptop open, displaying vibrant, adaptive UI widgets. Screen glows with interactive elements.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text_overlay": "AI LAPTOPS HERE",
+      "narration": "The new 'Googlebook' line introduces AI-native laptops, designed from the ground up to leverage advanced artificial intelligence. Expect unparalleled integration.",
+      "image_prompt": "Close-up of a 'Googlebook' keyboard with a glowing AI core processor visible beneath translucent keys, data streams flowing digitally.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text_overlay": "PERSONAL AI UI",
+      "narration": "'Vibe-coded widgets' dynamically adapt your Android interface based on mood, context, and usage patterns. This offers hyper-personalized user experiences automatically.",
+      "image_prompt": "Smartphone screen displaying dynamic, color-shifting widgets, reflecting data points for 'mood' and 'context' with glowing data streams.",
+      "camera_effect": "static"
+    },
+    {
+      "text_overlay": "ECOSYSTEM SHIFT",
+      "narration": "These innovations aim to deeply embed AI across the entire Android ecosystem, from mobile devices to new computing platforms. User interaction is transforming.",
+      "image_prompt": "Network of glowing lines connecting various Android devices (phone, tablet, 'Googlebook' laptop) radiating from a central AI node. Cyberpunk city background.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text_overlay": "AI IS CORE",
+      "narration": "Google is clearly pushing for a future where AI isn't just a feature, but the core operating principle of all its hardware and software. This is transformative.",
+      "image_prompt": "A human hand (intense focus) interacting with a holographic projection of an AI assistant interface, glowing data, dramatic side lighting.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text_overlay": "AI LIFE INTEGRATION",
+      "narration": "This is Google's biggest AI push yet, integrating intelligence deeply across all products. Expect significant daily life integration soon.",
+      "image_prompt": "Futuristic cityscape at dusk with holographic interfaces reflecting on buildings, showing diverse people using smart devices seamlessly. Cinematic lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
