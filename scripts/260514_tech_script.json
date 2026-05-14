@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "YOUR CAR'S BRAIN",
+    "narration": "WARNING! Your car's AI just got a massive, secret upgrade you NEED to know about now!",
+    "image_description": "Extreme close-up of a futuristic car dashboard with glowing AI interfaces, a driver's eyes reflecting holographic data through smart glasses, dramatic cyberpunk neon lighting, digital glitch effects around the edges.",
+    "mood_color": "neon_green"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "RIVIAN AI UPGRADE",
+    "image_description": "A sleek Rivian R1T vehicle's interior dashboard, focused on a glowing holographic AI assistant interface displaying interactive data points, 3D render, 8k resolution, dramatic blue and purple backlighting.",
+    "reasoning": "This thumbnail clearly showcases the Rivian brand and the 'AI Upgrade' object, using a high-fidelity visual to intrigue viewers about the new feature without needing human reactions."
+  },
+  "title": "Rivian's NEW AI: Your Car Just Got a Brain!",
+  "segments": [
+    {
+      "text": "Rivian recently deployed a significant software update across its R1T and R1S electric vehicles, integrating a new advanced onboard AI assistant.",
+      "overlay_text": "RIVIAN AI LIVE",
+      "image_prompt": "A modern Rivian R1T truck dashboard with a sleek, minimalist interface displaying a glowing AI assistant icon in 8k, cinematic lighting, focused.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "This assistant enhances daily driving by providing natural language commands for navigation, climate control, and media playback functions directly.",
+      "overlay_text": "VOICE COMMANDS NOW",
+      "image_prompt": "A person's intense focus on the road through smart glasses, digital sound wave visualizations emanating from a car's central screen, cyberpunk lighting.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "Users can now manage vehicle settings hands-free, improving safety and convenience during commutes or adventurous off-road trips.",
+      "overlay_text": "SAFER, SMARTER DRIVES",
+      "image_prompt": "A driver's hands firmly on the steering wheel, a glowing iris reflecting a holographic map overlay, intense focus, dramatic side lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "The update is rolling out wirelessly, reaching all eligible Rivian R1 platform vehicles over the next few weeks, ensuring broad accessibility.",
+      "overlay_text": "OVER-AIR UPDATE",
+      "image_prompt": "Digital data streams flowing into a stylized, glowing schematic representation of a Rivian vehicle from above, dark technical background.",
+      "camera_effect": "tracking_shot"
+    },
+    {
+      "text": "This move positions Rivian competitively in the evolving automotive AI space, setting a new standard for in-vehicle smart technology and interaction.",
+      "overlay_text": "FUTURE CARS HERE",
+      "image_prompt": "A futuristic car interior with multiple glowing, interactive AI interfaces on different screens, depicting intense focus and cutting-edge tech, 3D render.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "Further updates promise expanded capabilities, including personalized preferences and enhanced integration with smart home devices, according to Rivian's roadmap.",
+      "overlay_text": "SMART HOME CONNECT",
+      "image_prompt": "A seamless digital connection represented by glowing data lines between a sleek Rivian vehicle and a smart home icon, cyberpunk aesthetic, 8k resolution.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
