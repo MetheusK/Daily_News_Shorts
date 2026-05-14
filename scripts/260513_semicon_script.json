@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI CAPEX TRAP?",
+    "narration": "WARNING! The AI boom's massive CAPEX strategy is hiding a critical market trap for investors!",
+    "image_description": "A close-up of a sophisticated cybernetic eye reflecting complex semiconductor circuit patterns, with digital corruption glitches appearing across the screen, bathed in dramatic red warning lights and cyberpunk neon. Intense focus, serious thought.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "2NM YIELD RISK?",
+    "image_description": "Hyper-realistic 8K 3D render of a glowing, intricate semiconductor wafer at 2nm scale, centered, with microscopic digital warning signs subtly integrated into the patterns, dramatic backlighting, cyberpunk aesthetic, dark background.",
+    "reasoning": "The technical focus on '2nm' combined with 'yield risk' creates intrigue for investors and engineers, prompting a click to understand the core issue and its implications."
+  },
+  "title": "AI's Hidden CAPEX Trap: The 2nm Yield Warning",
+  "segments": [
+    {
+      "text": "The AI boom propels new members into the $1 trillion club, driven by relentless demand for GPU and HBM technologies.",
+      "image_prompt": "Holographic display showing a rising stock chart overlaid with abstract representations of GPU and HBM chips, a hand with smart glasses pointing at the data, cinematic lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "TSMC's record-breaking CAPEX expansion triggers a massive semiconductor equipment prosperity cycle, boosting advanced node capacity for AI.",
+      "image_prompt": "Automated robot arms in a hyper-modern cleanroom assembling advanced semiconductor equipment, glowing blue lights, intricate machinery, dramatic side lighting, intense focus on precision.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "China's semiconductor godfather warns against an exclusive 2nm process fixation, questioning its immediate economic returns and strategic value.",
+      "image_prompt": "A focused, determined professional figure in a high-tech boardroom, with glowing iris reflecting schematic diagrams of 2nm wafers, deep in serious thought, cinematic lighting, digital data overlay.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Chasing bleeding-edge nodes like 2nm involves immense CAPEX, significant yield challenges, and potential ROI impacts across the supply chain.",
+      "image_prompt": "Complex digital flow chart with red glitch effects indicating bottlenecks in a semiconductor supply chain, focused data reflecting eye looking through a tablet, intense, dramatic lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Strategic investment diversifies beyond 2nm, prioritizing proven nodes for HBM packaging, specialized AI accelerators, and robust supply chain resilience.",
+      "image_prompt": "A highly detailed diagram of advanced HBM packaging architecture with integrated AI accelerators, displayed on a transparent screen, with a hand wearing a data-glowing glove making adjustments, cinematic lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Your portfolio's future hinges on evaluating these advanced wafer fabrication investments.",
+      "image_prompt": "A human hand with cybernetic enhancements touching a holographic projection of future stock market graphs interwoven with wafer fabrication facilities, intense focus, dramatic lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
