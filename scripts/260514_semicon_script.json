@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "CAPACITY CRUNCH!",
+    "narration": "Investors, listen up! A $1.5 trillion market is at risk, and geopolitical shifts are shaking the very foundation of chip manufacturing!",
+    "image_description": "A person with glowing cybernetic eyes, intensely focused, digital data streams reflecting on their smart glasses, surrounded by red warning lights and glitching circuit patterns, dramatic cyberpunk lighting, conveying urgent data analysis.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI CHIP SHOCK",
+    "image_description": "3D render of a hyper-realistic glowing AI chip at the center, surrounded by intricate server rack details, holographic data projections in the background, cinematic blue and orange backlighting, 8k resolution, clean and high-contrast.",
+    "reasoning": "The thumbnail focuses on a powerful, high-tech object (AI Chip) with clear text, immediately signaling a major market event and tech topic to investors and engineers, encouraging clicks without sensationalism."
+  },
+  "title": "TSMC's $1.5T AI Warning: Capacity Crunch Ahead",
+  "segments": [
+    {
+      "text": "TSMC forecasts a $1.5 trillion AI semiconductor market by 2030. This growth is driven by intense demand for HBM and advanced GPU solutions.",
+      "image_prompt": "Holographic projection of a rising market graph with 'AI' and '$1.5T' labels, overlaid on a microscopic view of HBM chips, with blue neon accents, cinematic lighting.",
+      "camera_effect": "zoom_in_slow"
+    },
+    {
+      "text": "This unprecedented AI surge reveals a severe global capacity crunch. Existing fabs struggle to scale advanced wafer production for critical components.",
+      "image_prompt": "Overhead shot of a bustling semiconductor cleanroom floor, but with visible digital corruption and red warning overlays indicating stress on machinery and wafer stacks, dramatic side lighting.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "The resulting bottleneck elevates valuation for key foundries and equipment suppliers. Strategic CAPEX deployment becomes paramount for market leadership.",
+      "image_prompt": "Glowing digital representation of stock market valuation curves intersecting with CAPEX expenditure projections, displayed on a translucent screen in a dark, analytical setting, dramatic lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Etron's chairman warns a US-South Korea alliance risks Taiwan's chip industry. This shifts geopolitical supply chain dynamics significantly.",
+      "image_prompt": "Geopolitical map of East Asia highlighting Taiwan, US, and South Korea, with digital lines connecting them, indicating alliance shifts, with 'supply chain' text, illuminated by strategic, dramatic lighting.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "Such alliances introduce new yield risks and manufacturing uncertainties. This impacts long-term profitability and stability across the entire semiconductor sector.",
+      "image_prompt": "Close-up of a perfectly aligned wafer showing digital glitch effects spreading across its surface, symbolizing yield risk, with subtle red warning indicators and dramatic side lighting.",
+      "camera_effect": "zoom_in_fast"
+    },
+    {
+      "text": "This capacity crunch could reshape the AI chip supply chain dynamics by 2030, directly impacting future CAPEX and global valuation.",
+      "image_prompt": "Holographic projection of global semiconductor supply chain, showing stress points and data flow, with integrated circuit patterns, dramatic lighting.",
+      "camera_effect": "zoom_out_slow"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
