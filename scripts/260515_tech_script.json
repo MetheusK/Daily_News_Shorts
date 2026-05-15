@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI WAR ERUPTS",
+    "narration": "WARNING: OpenAI is threatening Apple! The biggest tech fight over YOUR AI is about to begin!",
+    "image_description": "A stylized, glowing Apple logo with digital cracks appearing, juxtaposed with a menacing OpenAI logo shimmering with data, cyberpunk neon lighting, no gore, glitch effects, dramatic side lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "APPLE VS OPENAI?",
+    "image_description": "3D render of a stylized Apple logo shattering into digital shards, with a glowing, intricate neural network pattern in the background, hyper-realistic, 8k resolution, dramatic backlighting, centered object.",
+    "reasoning": "The potential legal conflict between two tech giants over AI control is a high-stakes scenario. A shattered Apple logo symbolizes disruption and controversy, generating intense curiosity and a strong call-to-click."
+  },
+  "title": "OpenAI vs. Apple: The Future of AI!",
+  "segments": [
+    {
+      "text_overlay": "CODEX ON MOBILE",
+      "narration": "OpenAI recently extended its advanced Codex capabilities, enabling code generation and debugging, to ChatGPT users on iOS and Android platforms. This significantly expands mobile AI functionality.",
+      "image_prompt": "A smartphone screen displaying lines of code being written by an AI interface, cybernetic hands, reflecting data on screen, cinematic lighting.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text_overlay": "CODE ANYWHERE",
+      "narration": "This integration allows developers and students to write, test, and debug code directly from their phones, enhancing productivity and learning on-the-go. It democratizes complex programming tasks.",
+      "image_prompt": "A person with intense focus wearing smart glasses, looking at holographic code projections around a tablet, glowing iris reflecting data, cinematic lighting.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text_overlay": "LEGAL THREAT",
+      "narration": "Simultaneously, reports indicate OpenAI is considering legal action against Apple. This concerns proposed integrations of ChatGPT and other AI models into Apple's ecosystem, specifically iOS 18.",
+      "image_prompt": "Two stylized, opposing logos (Apple and OpenAI) on a digital battleground, red warning lights, glitch effects, digital corruption, dramatic side lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text_overlay": "WHY THE FIGHT?",
+      "narration": "The dispute centers on terms of integration, data usage, and the branding prominence of OpenAI's models versus Apple's own developing \"Project Greymatter\" AI. Licensing fees are also a factor.",
+      "image_prompt": "A complex digital contract document with glowing text, showing abstract data streams flowing between two company icons, intense focus reflected in data through smart glasses, cyberpunk neon.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text_overlay": "USER IMPACT",
+      "narration": "This potential legal battle could impact how deeply third-party AI, like ChatGPT, integrates into Apple devices. Users might face restrictions or different feature sets depending on the outcome.",
+      "image_prompt": "A hand trying to access a smartphone with a locked screen showing a futuristic AI interface, digital barrier, cyberpunk neon lighting, determination on face reflected in screen.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text_overlay": "THE AI FUTURE",
+      "narration": "This escalating tension highlights a crucial battle for control over the future of AI accessibility and monetization within major tech platforms. The industry is watching closely.",
+      "image_prompt": "A global digital network with intersecting lines of data flow, illuminated by glowing nodes, representing interconnected tech companies, viewed through cybernetic eyes reflecting data, cinematic lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
