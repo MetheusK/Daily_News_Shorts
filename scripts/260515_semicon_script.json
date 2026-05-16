@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI CHIP CRASH IMMINENT",
+    "narration": "Immediate warning for investors! A Samsung strike could crash the global AI chip market in just 18 days.",
+    "image_description": "A digital representation of a semiconductor wafer with glitching red warning lights, a cybernetic hand reaching towards it, data points reflecting in a glowing iris through smart glasses, dramatic side lighting, cyberpunk aesthetic.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "SAMSUNG STRIKE: 18 DAYS",
+    "image_description": "Hyper-realistic 3D render of a fractured, glowing HBM chip at the center, surrounded by dimly lit server racks and holographic data streams. A subtle digital timer in the background counts down '18 DAYS'. 8k resolution, cyberpunk style, dramatic backlighting.",
+    "reasoning": "High-contrast, object-focused visual (HBM chip) combined with a specific, urgent number ('18 DAYS') creates immediate curiosity and investment relevance, hinting at a critical supply chain disruption without relying on human expressions."
+  },
+  "title": "Samsung Strike Threatens Global AI Chip Market in 18 Days",
+  "segments": [
+    {
+      "overlay_text": "SAMSUNG STRIKE BEGINS",
+      "text": "Samsung Electronics faces its first major labor strike, impacting operations. This immediately concerns global semiconductor manufacturing yields.",
+      "image_prompt": "A pristine cleanroom with paused robotic arms and manufacturing equipment, subtle red warning lights flashing on control panels, a screen displaying 'Yield Rates: Declining', dramatic side lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "overlay_text": "AI CHIP DISRUPTION",
+      "text": "The strike specifically threatens High Bandwidth Memory (HBM) and GPU component production, critical for the booming Artificial Intelligence sector.",
+      "image_prompt": "Extreme close-up of glowing HBM memory stacks integrated onto a GPU circuit board, overlaid with subtle digital corruption and glitch effects, indicating instability, deep blue and red neon lighting.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "overlay_text": "18-DAY THREAT",
+      "text": "Industry analysts project an 18-day stoppage could severely disrupt AI chip availability, straining an already tight global supply chain.",
+      "image_prompt": "A holographic countdown timer displaying '18 DAYS' floating above a complex, detailed blueprint of a wafer fabrication plant. A cybernetic hand points towards the timer, reflecting data, with dramatic, focused lighting.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "overlay_text": "VALUATION RISKS",
+      "text": "Such a disruption could trigger significant CAPEX adjustments and valuation volatility across leading AI hardware manufacturers and their associated stocks.",
+      "image_prompt": "A digital stock market graph showing a sharp downward trend line, overlaid on a futuristic factory floor. The graph reflects in the smart glasses of an engineer with an expression of intense focus and determination, cinematic lighting.",
+      "camera_effect": "dolly_in"
+    },
+    {
+      "overlay_text": "INVESTOR ALERT",
+      "text": "Investors must rigorously assess semiconductor sector exposure, especially firms reliant on Samsung's crucial memory and foundry services.",
+      "image_prompt": "A complex, data-rich interface displaying intertwined global supply chains and generic company logos. Certain nodes on the network are flashing red warning lights, indicating critical points, serious thought expression.",
+      "camera_effect": "tilt_down"
+    },
+    {
+      "overlay_text": "CRITICAL VULNERABILITY",
+      "text": "The semiconductor supply chain remains critically vulnerable to geopolitical shifts and internal labor disputes.",
+      "image_prompt": "A stylized global map with interconnected glowing lines representing supply chains. Some lines are flickering, breaking, or showing glitch effects. Red warning lights emanate from key manufacturing regions, dramatic side lighting.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
