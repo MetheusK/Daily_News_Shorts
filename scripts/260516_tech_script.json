@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "PHONE CAN CODE",
+    "narration": "STOP! Your phone just got an AI upgrade, and it's coding everything!",
+    "image_description": "Close-up of a human hand holding a sleek smartphone, the screen displays rapidly scrolling lines of glowing green code. A single cybernetic eye in the background reflects digital data, expressing intense focus. Dramatic cyberpunk neon lighting illuminates the scene.",
+    "mood_color": "neon_green"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI CODING NOW",
+    "image_description": "A 3D render of a futuristic smartphone, centrally placed, with glowing holographic code emanating from its screen, forming complex patterns. Dark, hyper-realistic background with subtle lens flare. 8k resolution, dramatic backlighting.",
+    "reasoning": "The visually striking image of code emanating from a phone immediately conveys the core concept. 'AI CODING NOW' creates urgency and relevance, appealing to a broad audience interested in AI and mobile tech, thus boosting click-through rate."
+  },
+  "title": "Your Phone Just Became An AI Coder?!",
+  "segments": [
+    {
+      "text": "OpenAI integrated Codex into ChatGPT, bringing powerful code generation capabilities to iOS and Android mobile devices.",
+      "image_prompt": "A stylized smartphone screen displaying elegant, flowing lines of Python code, with a subtle, glowing ChatGPT logo integrated seamlessly. Cinematic lighting, focused on the screen, no visible human elements.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "This update empowers users to write, debug, and understand complex code snippets directly from their phones, enhancing mobile productivity significantly.",
+      "image_prompt": "A human hand, seen from a high angle, interacting with a mobile device, with dynamic code suggestions and syntax highlights appearing in real-time on the screen. The unseen user's expression conveys serious thought and determination, implied by the focused interaction. Dramatic side lighting.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "Codex, the AI model behind GitHub Copilot, now makes professional-grade programming tools accessible to millions globally.",
+      "image_prompt": "An abstract visual representation of an AI neural network, depicted with glowing data streams, intelligently connecting to multiple stylized mobile device icons. The network pulses with blue light, conveying a sense of interconnected power.",
+      "camera_effect": "dolly_zoom"
+    },
+    {
+      "text": "Students can learn coding faster, developers can prototype on the go, and even novices can generate simple scripts instantly.",
+      "image_prompt": "A digital classroom setting. A holographic projection of intricate code, emanating from a smartphone held by an unseen hand, appears before students. Their faces show wonder and intense focus through smart glasses reflecting data. Cyberpunk neon lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "The integration revolutionizes mobile development, offering unprecedented access to sophisticated AI-powered programming assistance anywhere, anytime.",
+      "image_prompt": "A futuristic city skyline in the background, out of focus. In the foreground, a human hand holds a glowing smartphone displaying a complex app interface integrated with live code snippets. The interaction implies intense focus. Cinematic lighting, dramatic perspective.",
+      "camera_effect": "tracking_shot"
+    },
+    {
+      "text": "This new API integration sets a crucial precedent for advanced AI tool accessibility across global mobile users.",
+      "image_prompt": "A global network grid, depicted with interconnected data nodes, each glowing with blue light, all converging towards and connecting with multiple stylized mobile phone icons. The visual emphasizes widespread accessibility.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
