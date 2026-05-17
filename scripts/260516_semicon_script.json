@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "HBM SUPPLY SHOCK",
+    "narration": "Urgent alert! Critical HBM supply chain shifts are reshaping the AI market overnight. Is your portfolio exposed to this major pivot?",
+    "image_description": "An investor's cybernetic eye reflecting a rapidly scrolling stock ticker, with digital glitch effects and red warning lights flashing across the screen. Cinematic lighting, intense focus.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI CHIP REVOLUTION",
+    "image_description": "A hyper-realistic 3D render of interconnected HBM memory stacks on a silicon wafer, glowing with internal data flow. Cyberpunk neon lighting, dark, futuristic background, 8k resolution.",
+    "reasoning": "This thumbnail visually represents the core technology (HBM) and the high-tech, futuristic nature of AI chips. The glowing details and high-contrast composition aim for maximum visual appeal and click-through rate, abstracting from human emotions to focus on the technical core."
+  },
+  "title": "HBM Supply Chain SHOCK: AI Chips & EMIB Reshape Markets",
+  "segments": [
+    {
+      "text": "The HBM supply chain faces a critical pivot. Korean leaders like SK Hynix are shifting focus, creating strategic openings for other players amidst surging AI demand.",
+      "text_overlay": "HBM MARKET PIVOT",
+      "image_prompt": "A detailed schematic diagram of HBM memory stacks under intense focus, with digital data streams flowing around them. Cyberpunk neon lighting, serious thought conveyed through technical detail.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "SK Hynix pivots to EMIB packaging for HBM, boosting density and interconnect efficiency. This advanced strategy aims to solidify their market dominance in critical AI GPU modules.",
+      "text_overlay": "SK HYNIX EMIB",
+      "image_prompt": "Close-up of a microchip with EMIB architecture highlighted by glowing blue lines, seen through a smart glass reflection on a determined engineer's face. Cinematic lighting.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "Taiwanese chipmakers are filling HBM packaging gaps. Their advanced assembly expertise is crucial, bolstering AI chip supply as global demand outstrips current production.",
+      "text_overlay": "TAIWAN FILLS GAPS",
+      "image_prompt": "Robot arms precisely assembling microchip components on a wafer, under dramatic industrial lighting. Focused action, highly technical and clean. No human expressions.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "The AI chip boom redefines emerging markets, necessitating robust AI training infrastructure. This demands unprecedented CAPEX in foundries, driving high-yield HBM wafer production.",
+      "text_overlay": "AI CAPEX SURGE",
+      "image_prompt": "A vast server farm stretching into the distance, holographic data flowing. An engineer's determined face visible through a data-rich visor. Cinematic lighting, intense focus.",
+      "camera_effect": "dolly_zoom"
+    },
+    {
+      "text": "This valuation shift favors agile OSATs and specialized foundries. Investors must rigorously analyze supply chain resilience and manufacturing yields for sustainable growth.",
+      "text_overlay": "VALUATION SHIFT",
+      "image_prompt": "A complex digital supply chain network map, overlaying stock charts, with a serious analyst's face reflecting the data through smart glasses. Cyberpunk neon lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Advanced packaging and HBM yield improvements define competitive edge. Analysts project a 55% HBM market CAGR through 2028, signaling immense long-term valuation.",
+      "text_overlay": "HBM CAGR 55%",
+      "image_prompt": "A glowing 3D bar chart showing exponential growth, projected onto a futuristic factory floor. Cybernetic eyes with reflecting data watch the projection. Dramatic side lighting.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
