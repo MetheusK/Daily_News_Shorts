@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI IS COMING",
+    "narration": "Warning! AI just secretly changed how the World Cup is played. It knows your next move, and your job is next!",
+    "image_description": "Extreme close-up of a cybernetic eye reflecting complex data streams, glowing red iris, digital glitching effects, dramatic side lighting. Intense focus.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI JOBS GONE?",
+    "image_description": "A sleek, futuristic AI robot hand interacting with a holographic display showing global job market charts and upward trendlines for 'AI Skills'. Cyberpunk neon lighting, 8k resolution, centered composition.",
+    "reasoning": "The direct question 'AI JOBS GONE?' taps into widespread anxiety about automation, combined with a futuristic, high-tech visual, compelling immediate clicks."
+  },
+  "title": "AI's Secret World Cup Power-Up & Your Future Job!",
+  "segments": [
+    {
+      "text": "AI made its World Cup debut, using real-time data to analyze player performance. It provides strategies, leveling the competitive field significantly.",
+      "image_prompt": "Soccer stadium at night with holographic data overlays projecting player statistics and strategic lines onto the field. Players as silhouettes, reflecting data. Cinematic lighting.",
+      "camera_effect": "dolly_zoom"
+    },
+    {
+      "text": "Coaches receive instant tactical adjustments, predicting player movements and optimizing formations. This enhances strategic depth previously impossible for humans alone.",
+      "image_prompt": "Coach in dugout, viewing a transparent holographic tablet displaying predictive AI models of a soccer field. Intense focus on their face, neon blue lighting reflecting on glasses.",
+      "camera_effect": "medium_shot"
+    },
+    {
+      "text": "Beyond sports, a new 'Agentic AI' trend is rapidly emerging. These AIs act independently, taking initiative to achieve defined goals, reshaping industries.",
+      "image_prompt": "Abstract representation of interconnected glowing AI nodes forming a complex network. Deep purple and blue hues, creating a sense of wonder and vastness. Macro shot.",
+      "camera_effect": "macro_shot"
+    },
+    {
+      "text": "Agentic AI will impact the labor market profoundly by 2030, automating complex decision-making and project execution in various sectors. This is not simple automation.",
+      "image_prompt": "Modern office environment with holographic AI interfaces displaying dynamic data dashboards. A person observing with serious thought, wearing smart glasses reflecting data. Cyberpunk lighting.",
+      "camera_effect": "wide_shot"
+    },
+    {
+      "text": "Current projections suggest significant shifts, with industries like finance and customer service seeing early adoption. Demand for new AI-adjacent skills will surge.",
+      "image_prompt": "Digital charts showing upward trends in 'AI Skills' and downward trends in 'Routine Tasks', overlaid on a futuristic cityscape. Data flowing across the screen. Cinematic lighting.",
+      "camera_effect": "panning_shot"
+    },
+    {
+      "text": "AI agents will handle 70% of routine tasks by 2030, a massive shift in labor. Prepare now.",
+      "image_prompt": "Human hand shaking a robotic hand, both glowing with data streams. Close-up, reflecting determination and serious thought. Dramatic side lighting, cinematic style.",
+      "camera_effect": "close_up"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
