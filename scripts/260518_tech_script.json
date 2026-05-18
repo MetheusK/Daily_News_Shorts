@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "APPLE'S SECRET DEAL",
+    "narration": "WARNING: Apple is making a secret deal that changes EVERYTHING for your iPhone's future!",
+    "image_description": "Extreme close-up of a cybernetic eye reflecting data streams of Apple and Google logos merging, dramatic red and blue neon lighting, subtle digital corruption effects indicating a critical junction.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "APPLE'S GOOGLE SHOCK",
+    "image_description": "A hyper-realistic 3D render of a glowing Apple logo partially enveloped by a flowing, neon-lit Google search bar, intricate circuit board patterns in the background, cinematic backlighting, 8k resolution.",
+    "reasoning": "The visual paradox of the Apple logo merged with a Google element creates immediate intrigue, prompting clicks to understand this surprising relationship. The stark, direct text reinforces the 'shock' factor."
+  },
+  "title": "Apple's Hidden Google Dependency: EXPOSED!",
+  "segments": [
+    {
+      "text": "Tesla Bull Ross Gerber asserts Apple crucially depends on Google for advanced search and critical AI integration, directly challenging Apple's independence.",
+      "text_overlay": "GERBER'S SHOCK CLAIM",
+      "image_prompt": "Digital representation of Ross Gerber's silhouette with glowing lines connecting to Apple and Google logos, intense focus expression, data analytics overlay.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "This statement targets Apple's new CEO, John Ternus, who now oversees hardware. It highlights deep scrutiny on Apple's long-term AI strategy.",
+      "text_overlay": "NEW CEO CHALLENGED",
+      "image_prompt": "Close-up of a holographic interface displaying John Ternus's profile against a backdrop of Apple product blueprints, reflecting focus in cybernetic eyes, deep blue lighting.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "Google dominates AI-powered search. Apple's Safari browser defaults to Google, a strategic decision costing Apple billions annually for placement.",
+      "text_overlay": "GOOGLE'S AI POWER",
+      "image_prompt": "A shimmering Google search bar glowing on a futuristic smartphone screen, surrounded by complex AI neural network visualizations, dynamic data flow.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "This dependency means your iPhone's core search and AI functions are largely powered by Google's algorithms, affecting daily results and data handling.",
+      "text_overlay": "YOUR IPHONE IMPACTED",
+      "image_prompt": "A user's hand interacting with a smartphone displaying AI search results, a subtle overlay of Google's 'G' logo, viewed through smart glasses reflecting data, focused expression.",
+      "camera_effect": "track_forward"
+    },
+    {
+      "text": "Apple pays Google over $20 billion yearly for search default status. This massive payment underscores Google's undeniable market leverage in AI search.",
+      "text_overlay": "BILLIONS AT STAKE",
+      "image_prompt": "Digital vault opening to reveal glowing stacks of virtual money, intertwined with Apple and Google logos, data analytics projections, dramatic side lighting.",
+      "camera_effect": "dolly_zoom"
+    },
+    {
+      "text": "As AI becomes critical, Apple’s reliance on Google could shape iOS development, ecosystem competition, and privacy handling for millions of global users.",
+      "text_overlay": "FUTURE DEPENDENCY",
+      "image_prompt": "A futuristic data center with intertwined Apple and Google server racks glowing with different colors, reflecting future projections, intense technical focus.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
