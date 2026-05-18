@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "CHIP MARKET SHOCK",
+    "narration": "Warning! A silent power shift is rattling the global semiconductor market, and your investments are directly impacted!",
+    "image_description": "A cybernetically enhanced human eye, reflecting a chaotic digital circuit board with red warning lights and glitch effects. Dramatic side lighting, intense focus in the eye.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI CHIP SHIFT?",
+    "image_description": "A highly detailed, hyper-realistic 3D render of three distinct, glowing AI chips – one with Nvidia's green aesthetic, another with Google's multi-color scheme, and a third with a sleek, minimalist design – on a dark, reflective surface. The Nvidia and Google chips appear slightly elevated, casting a shadow over the third. Cyberpunk aesthetic, 8k resolution, centered composition with dramatic backlighting.",
+    "reasoning": "This thumbnail presents a clear question about market shifts, uses strong visual appeal of glowing AI chips, and leverages curiosity without giving away the full story, maximizing click-through rates for investors and engineers."
+  },
+  "title": "Chip Market SHOCK: Apple Sidelined, $31B AI Bet!",
+  "segments": [
+    {
+      "text": "Apple's long-held chip supplier dominance is eroding. Nvidia and Google now dictate terms, influencing future semiconductor supply chain and Apple's valuation.",
+      "image_prompt": "A digital rendering of the Apple logo cracking and fragmenting, with glowing Nvidia and Google logos emerging beneath. Subtle 'digital corruption' effects and dramatic lighting.",
+      "camera_effect": "dynamic_pan_left_to_right",
+      "text_overlay": "APPLE SHIFTING"
+    },
+    {
+      "text": "TSMC commits a massive $31.28 billion CAPEX for AI chip production. This investment addresses exploding demand for advanced GPU technologies.",
+      "image_prompt": "A blueprint overlay of a futuristic semiconductor fabrication plant, with glowing production lines and holographic text displaying '$31.28B CAPEX'. A large GPU chip outline in the foreground.",
+      "camera_effect": "zoom_in_slow",
+      "text_overlay": "TSMC CAPEX"
+    },
+    {
+      "text": "This capital infusion will expand wafer fabrication, optimizing yields for next-generation AI processors. Efficiency gains are crucial for supply.",
+      "image_prompt": "Extreme close-up of a robotic arm precisely placing a silicon wafer onto a production line. Holographic data streams showing 'yield metrics' in neon green, with an eye reflecting data through smart glasses in the background.",
+      "camera_effect": "slow_dolly_forward",
+      "text_overlay": "YIELD OPTIMIZATION"
+    },
+    {
+      "text": "Nomura hikes Korean chipmaker targets for Samsung and SK Hynix. Their AI-driven surge is attributed to booming demand for high-bandwidth memory, HBM.",
+      "image_prompt": "A split screen showing the Samsung logo on one side and the SK Hynix logo on the other. Between them, a glowing, detailed HBM chip schematic with upward-trending arrow graphs. Cyberpunk neon lighting.",
+      "camera_effect": "static",
+      "text_overlay": "KOREA CHIP SURGE"
+    },
+    {
+      "text": "The escalating demand for HBM is a critical market driver, signaling increased revenue potential. Manufacturers solidify their positions amidst fierce competition.",
+      "image_prompt": "A holographic representation of multiple HBM stacks, data lines connecting to glowing server racks. A focused hand with a glowing iris reflects the HBM data on a screen.",
+      "camera_effect": "dynamic_pan_right_to_left",
+      "text_overlay": "HBM DEMAND"
+    },
+    {
+      "text": "The race for AI dominance reshapes the entire semiconductor landscape.",
+      "image_prompt": "A wide shot of a vast, interconnected digital city representing the global semiconductor landscape, with prominent, glowing pathways converging towards a central 'AI core'.",
+      "camera_effect": "static",
+      "text_overlay": "AI DOMINANCE"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
