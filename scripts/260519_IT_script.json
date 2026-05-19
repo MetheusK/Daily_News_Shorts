@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "TECH TAKEOVER COMING",
+    "narration": "Warning! The biggest tech revolution is already reshaping your daily life and jobs, faster than you think!",
+    "image_description": "A person in intense focus, with glowing data streams reflecting in their cybernetic smart glasses. Cyberpunk neon lighting with dramatic side shadows. Digital corruption effects around the edges convey urgency. Cinematic.",
+    "mood_color": "neon_green"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "FUTURE TECH SHOCK",
+    "image_description": "A hyper-realistic 3D render of a futuristic robotic hand (metallic, sleek design) interacting with a shimmering holographic interface displaying complex data graphs and network nodes. Dramatic blue and purple backlighting creates a cyberpunk feel. 8k resolution, centered composition.",
+    "reasoning": "The image of a futuristic robotic hand on a holographic interface immediately conveys advanced technology and future impact without relying on human expressions. The 'FUTURE TECH SHOCK' text creates intrigue and urgency, ensuring a high click-through rate by hinting at transformative changes."
+  },
+  "title": "Your Life Is Changing: Future Tech Trends Revealed!",
+  "segments": [
+    {
+      "text": "Recent industry reports from the Restaurant Show to Equipment Finance Connect 2026 reveal a critical convergence of advanced technologies, pushing innovation boundaries significantly.",
+      "image_prompt": "A stylized grid of interconnected holographic screens, each displaying different industry icons (restaurant, finance charts, data clouds), linked by glowing data lines. Cinematic lighting, high-tech background.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "The Machine Learning development market is undergoing significant strategic shifts. Expect new solutions to drive market growth, transforming enterprise operations and customer interactions.",
+      "image_prompt": "Abstract representation of neural networks, glowing nodes and intricate connections, focused on a central processing core reflecting cybernetic eyes. Cyberpunk aesthetic, deep blue and purple hues.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "In the restaurant sector, six distinct tech trends emerged, including advanced AI for personalized experiences and automation for efficiency. This enhances user experience dramatically.",
+      "image_prompt": "A futuristic restaurant setting with robotic arms serving food to customers. Holographic menus float above tables, and a person views them with wonder through smart glasses. Warm, inviting cinematic lighting.",
+      "camera_effect": "slide_right"
+    },
+    {
+      "text": "Equipment Finance Connect 2026 also spotlights critical tech innovation. Expect AI-driven analytics, blockchain for transparency, and IoT for asset tracking to reshape financing operations.",
+      "image_prompt": "A sleek, modern financial dashboard displaying real-time equipment leasing data with embedded holographic charts. A professional looks at the screen with intense focus. Cool blue lighting, data reflecting in eyes.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "These innovations directly impact daily life, offering seamless service, smarter financial tools, and highly personalized digital interactions. The user experience is paramount for adoption.",
+      "image_prompt": "Diverse people interacting effortlessly with invisible tech in a vibrant city park: one using an augmented reality display, another ordering food with a gesture. Bright, futuristic urban setting.",
+      "camera_effect": "pan_up"
+    },
+    {
+      "text": "The rapid pace of technological integration suggests a future where these advanced systems are standard. Businesses are investing heavily now to stay competitive in an evolving market.",
+      "image_prompt": "A digital representation of Earth covered in a web of glowing data streams and network connections, seen from space. Dark, dramatic lighting with neon accents, reflecting in cybernetic eyes.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
