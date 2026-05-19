@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "MARKET ALERT!",
+    "narration": "Stop scrolling! TSMC's trillion-dollar AI move just triggered a major semiconductor sector warning!",
+    "image_description": "Extreme close-up of a human eye with cybernetic enhancements, reflecting dynamic stock charts and red downward arrows, digital glitch effects, dramatic red warning lights. Intense focus, cinematic lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI CHIP WAR",
+    "image_description": "Hyper-realistic, glowing 3D render of a futuristic AI chip with complex, intricate internal circuitry, centrally positioned against a dark, dramatic, cyberpunk-style backdrop. Subtle energy bursts or digital cracks emanate from its surface, symbolizing intense competition. 8k resolution.",
+    "reasoning": "This thumbnail directly references the core conflict (AI Chip War) with powerful industry keywords. The high-contrast, futuristic imagery of the chip, a key object, is designed to immediately capture investor and engineer attention, hinting at high stakes without being sensational."
+  },
+  "title": "Semiconductor Showdown: TSMC's AI Play Rocks Rivals",
+  "segments": [
+    {
+      "text": "TSMC targets a staggering $1.5 trillion AI chip valuation, intensifying market competition. This massive CAPEX initiative reshapes future semiconductor industry dynamics and investment flows.",
+      "text_overlay": "TSMC'S $1.5T AI",
+      "image_description": "Holographic display of TSMC's logo, overlaid with complex, glowing AI chip designs and upward-trending financial graphs. Data streams reflecting in a CEO's smart glasses, intense focus.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "This aggressive AI move directly pressures Samsung and Intel. Their HBM and GPU strategies face unprecedented challenges, risking significant market share shifts and competitive valuation impacts.",
+      "text_overlay": "RIVALS UNDER PRESSURE",
+      "image_description": "Split screen showing Samsung and Intel corporate logos, subtly digitally glitching or being overshadowed by a larger, dominant, glowing TSMC chip outline. Dramatic side lighting.",
+      "camera_effect": "pan_left_to_right"
+    },
+    {
+      "text": "Concurrently, Nova, Amtech, and Entegris stocks dipped significantly. This signals potential slowdowns in specific equipment and materials segments, despite the overall AI sector growth.",
+      "text_overlay": "STOCKS DIPPED",
+      "image_description": "Digital dashboard displaying real-time stock tickers for Nova, Amtech, and Entegris with stark red downward arrows. Overlaid with complex technical charts and red warning alert icons. Serious thought expression on an analyst's face, reflected in a monitor.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Achieving high yield on advanced AI wafers is critical for profitability. Any deviation impacts production scalability and delivery schedules, directly affecting CAPEX returns and revenue streams.",
+      "text_overlay": "YIELD CRITICAL",
+      "image_description": "Microscopic view of a silicon wafer, with a digital overlay highlighting 'good' vs. 'defective' dies. A prominent, glowing yield percentage indicator changes, reflecting data. Focused determination on an engineer's face, seen through smart glasses.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "The escalating demand for cutting-edge HBM and GPU production heavily strains existing global supply chains. Resilience, strategic partnerships, and diversified sourcing are crucial for consistent output.",
+      "text_overlay": "SUPPLY CHAIN STRAIN",
+      "image_description": "Complex, interconnected network of glowing lines representing global semiconductor supply chains, flowing into a central data center filled with high-density HBM/GPU server racks. Cyberpunk neon lighting.",
+      "camera_effect": "dynamic_pan"
+    },
+    {
+      "text": "Your move TSMC, Samsung, Intel.",
+      "text_overlay": "THE NEXT MOVE",
+      "image_description": "A futuristic, sleek, glowing AI chip, suspended majestically in a dark, dramatic environment. Subtle, holographic reflections of the TSMC, Samsung, and Intel corporate logos shimmer on its polished surface.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
