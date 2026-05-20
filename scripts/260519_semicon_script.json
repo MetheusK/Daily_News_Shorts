@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "SEMICON ALERT!",
+    "narration": "WARNING: Key semiconductor stocks just crashed, signaling a potential market correction across the entire sector!",
+    "image_description": "A close-up of a semiconductor industry analyst with a cybernetic eye reflecting a volatile stock chart, surrounded by digital corruption and pulsating red warning lights. Intense focus, cinematic lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "CHIP STOCKS: CRASH?",
+    "image_description": "A hyper-realistic 3D render of a glowing, cracked silicon wafer with sharp, red stock market lines diving downwards in the background. Cyberpunk aesthetic, dramatic backlighting, 8k resolution.",
+    "reasoning": "The cracked silicon wafer and plummeting stock lines immediately convey a negative trend in the semiconductor sector, while the question 'CRASH?' incites strong curiosity for investors and industry insiders."
+  },
+  "title": "Semicon Stocks Plunge: Investor Alert!",
+  "segments": [
+    {
+      "text": "Sensata Technologies, Nova, Photronics, Amtech, and Monolithic Power Systems stocks all traded down today, signaling immediate market volatility and investor sentiment shifts.",
+      "image_prompt": "A financial analyst with smart glasses, data flowing over the lenses, intently observing multiple stock charts on holographic displays. Cinematic lighting, serious thought.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "This broad downturn follows cautious Q1 reports and revised 2024 guidance from several key mid-tier chip suppliers, directly impacting analyst price targets.",
+      "image_prompt": "Close-up of a server rack with blinking red warning lights, a blurred schematic of a semiconductor factory in the background. Digital corruption effect, dramatic side lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Critical indicators suggest softening demand for certain mature node technologies, alongside growing inventory corrections from previous over-ordering trends.",
+      "image_prompt": "A schematic of a silicon wafer cross-section with red warning overlays, illustrating defects or inventory surplus. High-detail, technical drawing with glowing elements.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Despite Nvidia's anticipated May 20th event, the broader sector faces headwinds, especially concerning advanced node demand and future AI infrastructure CAPEX.",
+      "image_prompt": "A stylized 3D render of a high-performance GPU, glowing with intense blue light, juxtaposed with a descending red line graph. Cyberpunk neon aesthetic, dramatic lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Persistent concerns about fluctuating manufacturing yields and ongoing inventory adjustments across the wafer fabrication supply chain are weighing on valuations.",
+      "image_prompt": "Robotic arm delicately placing a silicon wafer onto an inspection platform, reflected light in the cybernetic eye of a technician observing precise movements. Intense focus.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "This valuation shift impacts future CAPEX, influencing 2025 HBM supply chains and GPU market stability.",
+      "image_prompt": "A complex holographic projection of a global supply chain map, highlighting critical factories and logistics routes, with key data reflecting in a glowing iris. Determination.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
