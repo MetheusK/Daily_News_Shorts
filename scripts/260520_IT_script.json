@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI'S NEW BRAIN",
+    "narration": "WARNING! A massive shift in AI infrastructure just happened, and it will change EVERYTHING you know about technology!",
+    "image_description": "Extreme close-up, dynamic, fast-paced shot of a server rack with pulsating neon blue and red lights, glitch effects on holographic data projections. A pair of intense, cybernetic eyes reflecting data streams are visible through smart glasses in the foreground, cinematic lighting.",
+    "mood_color": "neon_green"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI POWER UNLEASHED",
+    "image_description": "Hyper-realistic 8k render of a glowing, futuristic server rack with intricate, illuminated components and holographic data projections, centered with dramatic backlighting against a dark, industrial background. Cyberpunk aesthetic.",
+    "reasoning": "This thumbnail prioritizes a high-contrast, visually striking object (the server rack) directly symbolizing AI infrastructure, appealing to tech enthusiasts and general users curious about the future of AI without relying on human faces. The 'AI POWER UNLEASHED' text is punchy and creates immediate intrigue."
+  },
+  "title": "AI's Infrastructure Surge: What You Need To Know NOW!",
+  "segments": [
+    {
+      "text": "HIVE Digital Technologies just sealed significant AI infrastructure deals, massively boosting global computing power. This is huge for the future.",
+      "image_prompt": "Stylized graphic showing interconnected data centers across a glowing digital globe, dynamic data flow lines.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "These deals involve building and upgrading the super-powerful data centers and hardware essential for training advanced AI models and applications.",
+      "image_prompt": "Close-up of a high-performance GPU array within a server, glowing circuits, hyper-realistic, with 'AI COMPUTE' text overlay in futuristic font.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Billions are being invested, accelerating AI capabilities for businesses worldwide, from cutting-edge research to everyday consumer products.",
+      "image_prompt": "Animation of digital currency symbols (bitcoins, dollars) flowing into a stylized, abstract representation of a data cloud or network, neon glow.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "Experts believe these massive infrastructure investments will rapidly advance AI development, bringing sophisticated applications to market much faster.",
+      "image_prompt": "A digital timeline graphic with futuristic milestones highlighting 'AI ACCELERATION', glowing indicators, cinematic lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "This will impact sectors like healthcare diagnostics, personal smart assistants, and autonomous systems, making advanced AI more accessible for everyone.",
+      "image_prompt": "Split screen showing holographic interfaces: one displaying a medical scan, another a smart home control, and a third a self-driving car UI, all with a subtle AI glow.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "The future is now.",
+      "image_prompt": "Futuristic cityscape at night with glowing data streams intertwining, a singular, brilliant light source in the distance representing innovation. Cyberpunk aesthetic, 8k resolution.",
+      "camera_effect": "zoom_in_slow"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
