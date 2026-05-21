@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI STOCK ALERT",
+    "narration": "WARNING: The AI chip boom is pushing specific semiconductor stocks to extreme valuations. Are you diversified?",
+    "image_description": "A close-up of a cybernetic eye, reflecting a rapidly scrolling stock ticker with green and red data points, dramatic red neon lighting, intense focus, digital glitch effect.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI CHIP EXPLOSION",
+    "image_description": "Hyper-realistic 3D render of a futuristic GPU chip glowing with intense blue and green energy, surrounded by miniature server racks in the background, cyberpunk aesthetic, dramatic backlighting, 8k resolution, centered composition.",
+    "reasoning": "Highlights the core topic (AI chips) with an explosive, high-tech visual, drawing attention to market growth and innovation. The text is punchy and direct, appealing to investors."
+  },
+  "title": "AI Chip Stocks Soar: The Real Story Behind Semiconductor Gains",
+  "segments": [
+    {
+      "text": "Marvell Technology, onsemi, NXP, and Skyworks shares surged this week. This reflects robust demand for advanced AI-related semiconductor components.",
+      "image_prompt": "A screen displaying stock charts for Marvell, onsemi, NXP, and Skyworks, showing upward trends, overlaid with holographic data streams, intense focus on the screen, cinematic lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "This AI chip manufacturing boom powers equipment stocks, particularly in advanced etching processes. Critical for next-gen GPU and HBM production.",
+      "image_prompt": "A sophisticated semiconductor etching machine in action, lasers precisely shaping a silicon wafer, with glowing internal components, technical schematics overlaid, dramatic side lighting.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "Major fabs are increasing CAPEX, signaling sustained investment in AI infrastructure. Manufacturing yields remain crucial for profitability and supply chain stability.",
+      "image_prompt": "A complex factory floor with robotic arms moving large silicon wafers, data projections showing 'CAPEX' and 'Yield' percentages, determined expression on a engineer's face (through smart glasses), cinematic lighting.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "Companies supplying lithography, deposition, and highly advanced etching tools are witnessing significant order upticks. Essential for complex wafer fabrication.",
+      "image_prompt": "Close-up of a silicon wafer with intricate circuit patterns under a microscope, a robotic arm placing it onto a new machine, digital blueprint overlays, intense focus, cybernetic reflecting data on eye.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "While growth is strong, investors must scrutinize current valuations. High demand for AI chips could lead to future oversupply.",
+      "image_prompt": "A professional investor staring intensely at a holographic financial chart showing projected growth and potential oversupply curve, through smart glasses reflecting data, serious thought, dramatic blue lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "The long-term outlook depends on sustained AI adoption and geopolitical stability. Monitoring inventory levels and production expansion is key.",
+      "image_prompt": "A global map projected holographically, highlighting manufacturing hubs and data lines, with overlayed inventory charts and expansion plans, determined individual analyzing the data, cinematic lighting.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
