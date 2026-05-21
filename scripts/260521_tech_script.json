@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI'S SILENT MASTER",
+    "narration": "WARNING! The true architect behind AI's biggest breakthroughs has a past you NEED to know now!",
+    "image_description": "Extreme close-up of a person's face (similar to Andrej Karpathy, but stylized) with cybernetic eyes reflecting complex data streams, dramatic side lighting, digital corruption overlay, intense focus. Cinematic, 8k.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI MASTERMIND",
+    "image_description": "A glowing neural network circuit board, hyper-realistic, 8k resolution, centered with dramatic blue and purple backlighting, reflecting intricate holographic data projections. Cyberpunk style.",
+    "reasoning": "Combines mystery and a powerful tech object, hinting at the force behind AI innovation, to drive clicks and avoid generic human faces."
+  },
+  "title": "Uncovering Andrej Karpathy: The AI Architect's True Impact",
+  "segments": [
+    {
+      "text": "Andrej Karpathy, a pivotal figure in AI, fundamentally shaped modern machine learning advancements. His groundbreaking journey is essential for understanding.",
+      "image_prompt": "A high-resolution image of a neural network visualizer, complex algorithms flowing, with a subtle Karpathy-like silhouette in the background, focused expression, cinematic lighting.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "Holding a Ph.D. from Stanford University, Karpathy specialized in deep learning and computer vision techniques. His strong academic foundation is evident.",
+      "image_prompt": "A digital rendering of Stanford's main quad, overlaid with holographic formulas and research papers, 'AI' illuminated in glowing text. Cyberpunk aesthetic.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "As former Director of AI at Tesla, he spearheaded Autopilot Vision, significantly advancing self-driving capabilities. His impact was transformative.",
+      "image_prompt": "A futuristic electric car driving autonomously on a highway, with data streams reflecting in its windshield, 'Autopilot' text overlay, intense focus, cinematic lighting.",
+      "camera_effect": "tracking_shot"
+    },
+    {
+      "text": "At OpenAI, Karpathy significantly contributed to developing large language models. He influenced fundamental advancements shaping current AI technology.",
+      "image_prompt": "A server room with glowing blue lights, intricate network cables, a large holographic 'OpenAI' logo, and abstract data flowing across screens. Hyper-realistic, 8k.",
+      "camera_effect": "dolly_zoom"
+    },
+    {
+      "text": "His departure from OpenAI in February 2024 sparked industry-wide discussions. This significant move carries major implications for AI's future.",
+      "image_prompt": "A digital abstract representation of a breaking chain or a split path, symbolic of a significant departure, with glowing red and blue lines, '2024' subtly embedded, glitch effects.",
+      "camera_effect": "fast_cut"
+    },
+    {
+      "text": "So, what's next for AI's open-source future? His next move is eagerly anticipated.",
+      "image_prompt": "A conceptual image of a futuristic roadmap or a blank holographic screen awaiting input, representing an unknown future, with cybernetic eyes (from a digital avatar) looking forward, full of wonder. Cinematic lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
