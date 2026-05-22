@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI STOCK SHOCK",
+    "narration": "Forget everything you know about AI stocks! A massive market shift just began!",
+    "image_description": "Extreme close-up of a cybernetic eye reflecting complex market data, glowing iris, intense focus, digital glitch effects, red warning lights, cinematic lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "NEW AI KINGS",
+    "image_description": "Hyper-realistic 3D render of a glowing, futuristic AI processor chip with intricate, illuminated circuits, centered on a dark, reflective surface, dramatic blue and purple backlighting, 8k resolution.",
+    "reasoning": "Highlights the 'new winners' theme and AI core, using a visually stunning object to capture attention and imply a shift in power."
+  },
+  "title": "AI's Next Wave: Beyond Giants",
+  "segments": [
+    {
+      "text": "The AI boom is evolving beyond primary GPU and memory suppliers, redistributing CAPEX. New beneficiaries are emerging across the semiconductor supply chain.",
+      "image_prompt": "Stylized holographic global map showing interconnected glowing data lines radiating from various semiconductor manufacturing and design hubs, focusing on supply chain nodes, dynamic, clear.",
+      "text_overlay": "AI SHIFT"
+    },
+    {
+      "text": "Western Digital, Himax Technologies, and Teradyne Inc. recently posted significant share gains. This indicates investor interest broadening across sub-sectors.",
+      "image_prompt": "Dynamic stock charts showing steep upward trends for three distinct company logos (representing WD, Himax, Teradyne), overlaid with a transparent digital hand pointing with intense focus at the highest point, reflecting data, cinematic lighting.",
+      "text_overlay": "WINNERS EMERGE"
+    },
+    {
+      "text": "Western Digital's data storage, Himax's display drivers, and Teradyne's chip testing solutions are critical. Each plays a distinct role in AI's expanding infrastructure demands.",
+      "image_prompt": "Detailed schematic diagram visualizing different interconnected layers of the semiconductor supply chain – from design to manufacturing, testing, and data storage – with critical nodes glowing distinctively, precise, technical.",
+      "text_overlay": "SUPPLY CHAIN"
+    },
+    {
+      "text": "While TSMC and Samsung Foundry remain central to high-end HBM and GPU production, the AI market's growth now pulls in diverse component and service providers.",
+      "image_prompt": "Two large, prominent, glowing AI chip icons (representing TSMC and Samsung) slightly blurred in the background, while three smaller, equally glowing and intricately designed component icons (representing WD, Himax, Teradyne) move sharply into focus in the foreground, connected by data streams, cyberpunk neon lighting.",
+      "text_overlay": "DIVERSIFY"
+    },
+    {
+      "text": "Maintaining high manufacturing yields across this expanded ecosystem is paramount. Any disruption in specialized components could impact overall AI hardware delivery timelines and costs.",
+      "image_prompt": "Extreme close-up of a pristine silicon wafer under microscopic view, showing intricate patterns, with a holographic display overlaying a critical yield percentage (e.g., '98.5% Yield'), a blurred robotic arm operating in the background, sharp, technical focus, dramatic side lighting.",
+      "text_overlay": "YIELD CRITICAL"
+    },
+    {
+      "text": "The valuation debate for HBM and GPU suppliers intensifies.",
+      "image_prompt": "Complex algorithmic visualization of HBM and GPU pricing models, with interwoven data points and fluctuating graphs, a subtle glowing overlay of 'Valuation Debate' text, abstract and data-driven, reflecting the intensity of the debate, cinematic lighting.",
+      "text_overlay": "VALUATION SHIFT"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
