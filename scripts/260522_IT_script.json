@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI IS RIGGING MARKETS",
+    "narration": "WARNING! A new AI secret is manipulating global markets and your investments are at risk NOW!",
+    "image_description": "A highly intense close-up of a human eye (cybernetic, reflecting data), reflecting a fast-scrolling stock ticker with red digital glitch effects. Cyberpunk neon lighting, dramatic side lighting, showing intense focus.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI MARKET CRASH",
+    "image_description": "A holographic projection of a rapidly plummeting stock market graph (glowing red and green) over a gleaming, futuristic server rack. The graph is overlaid with abstract binary code. 3D Render, Cyberpunk, 8k resolution, centered object with dramatic backlighting.",
+    "reasoning": "The phrase 'AI MARKET CRASH' creates immediate urgency and fear, paired with a high-tech visual of the AI-driven market, leading to high click-through rates. It prioritizes objects (server rack, holographic graph) over humans."
+  },
+  "title": "AI's Market Takeover: New Bot Unveiled!",
+  "segments": [
+    {
+      "text": "AI earnings are supercharging tech stocks, driving significant market momentum across financial markets. This surge impacts major global indices.",
+      "image_prompt": "Digital representation of rising stock charts, superimposed over a glowing, abstract neural network. Cinematic lighting, hyper-realistic, 8k resolution.",
+      "camera_effect": "Zoom out, revealing a global map."
+    },
+    {
+      "text": "The Nasdaq Composite shows powerful, consistent growth, heavily fueled by rapid AI innovations. Key tech firms are leading this upward trend.",
+      "image_prompt": "A dynamic infographic displaying the Nasdaq Composite logo with an upward-trending arrow, surrounded by stylized icons of AI chips and data streams. Cyberpunk aesthetic, 8k resolution.",
+      "camera_effect": "Panning shot across the infographic."
+    },
+    {
+      "text": "Cloud computing stocks are directly benefiting from intense, new AI-driven demand. Critical infrastructure is proving crucial for sector expansion.",
+      "image_prompt": "A vast, futuristic data center with rows of glowing server racks, connected by bright data lines. Holographic projections of cloud icons in the foreground. Dramatic side lighting, 8k resolution.",
+      "camera_effect": "Dolly forward through the server racks."
+    },
+    {
+      "text": "Analysts report four specific cloud computing stocks are capitalizing on this boom. Their services power complex AI operations.",
+      "image_prompt": "Four distinct, glowing hexagonal logos representing cloud computing companies, interconnected by energetic light beams, floating above a detailed circuit board landscape. 3D render, 8k resolution.",
+      "camera_effect": "Focus on each logo in sequence, then pull back."
+    },
+    {
+      "text": "MoneyFlare, a major player, just unveiled its new AI stock trading bot. This advanced tool aims to capitalize on real-time market signals.",
+      "image_prompt": "A digital interface displaying MoneyFlare's logo and an advanced trading bot dashboard with real-time data feeds and algorithm visualizations. A robotic hand (cybernetic, reflecting data) gestures towards the screen. 8k resolution.",
+      "camera_effect": "Close-up on the trading bot interface."
+    },
+    {
+      "text": "MoneyFlare's bot offers faster, signal-based trading.",
+      "image_prompt": "Abstract visual representing rapid data processing: light-speed information streams converging into a central glowing orb, with 'SIGNAL' and 'TRADE' keywords flashing in neon. 8k resolution.",
+      "camera_effect": "Fast, sharp cut to this visual."
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
