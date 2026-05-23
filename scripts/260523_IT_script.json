@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI IS TAKING OVER",
+    "narration": "Warning! The AI revolution is accelerating faster than you think, completely changing how you live and move!",
+    "image_description": "Extreme close-up of a human eye with a cybernetic glowing iris, reflecting rapidly scrolling lines of code and data, cinematic lighting, red warning lights pulsing, intense focus expression.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "ROBOTAXI FUTURE?",
+    "image_description": "Hyper-realistic 3D render of a sleek, futuristic robotaxi without a driver, centered on a dark cyberpunk street with dramatic neon blue and purple backlighting, 8k resolution, glowing digital interface inside.",
+    "reasoning": "This thumbnail generates curiosity about autonomous vehicles and the future of transport, prompting a click to learn more about the implications."
+  },
+  "title": "AI's Robotaxi Takeover: What You Need To Know NOW!",
+  "segments": [
+    {
+      "text": "China's auto industry is rapidly integrating AI and robotaxis, showcased recently at the Beijing Auto Show. This signals a massive shift in urban transportation.",
+      "image_prompt": "Futuristic car interior with holographic map displayed, empty driver's seat, sleek design, blue and white lighting.",
+      "camera_effect": "dynamic zoom out"
+    },
+    {
+      "text": "Major Chinese manufacturers unveiled advanced robotaxi prototypes, featuring L4 autonomous driving capabilities. This promises a future of fully self-driving urban fleets.",
+      "image_prompt": "A sleek, empty robotaxi driving itself on a neon-lit city street at night, reflective surfaces, no human visible.",
+      "camera_effect": "tracking shot"
+    },
+    {
+      "text": "The Beijing Auto Show became a hub for AI innovation, with over 20 new AI-powered vehicle models debuted. Experts predict mass deployment by 2028.",
+      "image_prompt": "Wide shot of a modern auto show floor, many sleek concept cars, large digital displays showing AI interfaces, cinematic lighting.",
+      "camera_effect": "pan right"
+    },
+    {
+      "text": "Beyond cars, companies like Lenovo report significant growth, driven by their aggressive AI strategy. AI processors are fueling innovation across devices.",
+      "image_prompt": "Lenovo laptop with a glowing blue AI circuit diagram overlayed, data streaming on screen, cybernetic human hands interacting with a virtual keyboard, intense focus.",
+      "camera_effect": "close up"
+    },
+    {
+      "text": "This AI integration means more than just cars; it's transforming home devices, services, and work efficiency. Prepare for seamless AI interaction daily.",
+      "image_prompt": "Person in a smart home setting, interacting with a holographic interface projected from a smart device, expression of wonder and serious thought, dramatic side lighting.",
+      "camera_effect": "dolly in"
+    },
+    {
+      "text": "Global AI investments hit $150 billion in Q1 2024, indicating unprecedented acceleration. Companies are racing to deploy AI solutions now.",
+      "image_prompt": "Abstract visualization of data flow and glowing network lines forming a digital city background, indicating rapid technological development, cyberpunk aesthetic.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
