@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI SHIFT ALERT",
+    "narration": "Warning: The AI semiconductor landscape is radically shifting, impacting your portfolio and future tech investments!",
+    "image_description": "Close-up of a human eye, seen through smart glasses, reflecting chaotic data streams and digital glitch effects, with a dramatic red warning overlay. Cyberpunk neon lighting, intense focus.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI STOCK SHIFT",
+    "image_description": "Hyper-realistic 8k render of a glowing, advanced AI processor chip at the center, surrounded by holographic data streams and intricate circuit patterns. Dramatic backlighting, cyberpunk aesthetic. No human elements.",
+    "reasoning": "Highlights the core theme (AI, stocks, shift) with a clear, technically appealing image of an AI chip, drawing in investors and engineers interested in the market's evolution and potential gains."
+  },
+  "title": "Semiconductor Shift: AI Stock Rebalance Alert",
+  "segments": [
+    {
+      "text": "Investors are now diversifying from TSMC, seeking new opportunities among other AI beneficiaries. This reflects a strategic re-evaluation of valuation models.",
+      "image_prompt": "A complex digital network map showing arrows diverging from a central node labeled 'TSMC' towards multiple other glowing nodes. Data streams flowing dynamically. Cinematic lighting.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "Nvidia and key Asian chip giants are cashing in on the AI gold rush. This includes firms specializing in HBM and advanced packaging, critical for current AI demands.",
+      "image_prompt": "Split screen: left shows a stylized Nvidia GPU with glowing circuits, right shows a microscopic view of HBM memory stacks being assembled, cybernetic aesthetic. Intense focus.",
+      "camera_effect": "split_screen_pan"
+    },
+    {
+      "text": "Nasdaq Composite surged 0.64% to 26,461, demonstrating broad AI rally extension. Qualcomm notably gained 11% on strong AI chip performance.",
+      "image_prompt": "A futuristic stock ticker interface displaying upward trends and specific company logos, with 'Qualcomm' highlighted showing +11%. Digital data visualization. Dramatic side lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "The diversification is driven by factors beyond foundry services, including advanced CAPEX investments in HBM manufacturing and higher memory yields across the supply chain.",
+      "image_prompt": "Schematic diagram of a semiconductor manufacturing cleanroom, focusing on wafer fabrication and HBM integration, with holographic projections of yield data. Intense focus.",
+      "camera_effect": "dolly_zoom"
+    },
+    {
+      "text": "This rebalance indicates increasing importance of diverse component suppliers and advanced material science. Supply chain resilience now hinges on multiple critical nodes.",
+      "image_prompt": "A robotic arm precisely placing a tiny, glowing component onto a complex circuit board, surrounded by transparent data screens showing supply chain metrics. Cyberpunk neon.",
+      "camera_effect": "tracking_shot"
+    },
+    {
+      "text": "The shift signals intensified competition in AI hardware and growing demand for specialized chip architectures beyond traditional CPU/GPU designs. Focus remains on innovation.",
+      "image_prompt": "A glowing, futuristic AI chip blueprint unfolding in a holographic display, with a cybernetic hand reaching towards it in a gesture of serious thought and determination, reflecting data.",
+      "camera_effect": "slow_pan"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
