@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "TSM STOCK ALERT",
+    "narration": "Investor Warning! A major fund just dumped TSM shares. Is the semiconductor market signaling a hidden shift?",
+    "image_description": "Extreme close-up of a trader's cybernetic eye reflecting a flashing red stock chart, digital glitch effects, red warning lights, dramatic side lighting, intense focus.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "TSM: SELL? HOLD?",
+    "image_description": "A hyper-realistic 3D render of a glowing TSMC wafer on a dark, reflective surface, with subtle digital data flowing around it, dramatic blue and red backlighting, 8k resolution, cyberpunk style.",
+    "reasoning": "The thumbnail focuses on a key industry object (TSM wafer) and presents a direct investment question, creating immediate intrigue for investors and industry insiders."
+  },
+  "title": "Semiconductor Shift: TSM Sell-off & Market Signals",
+  "segments": [
+    {
+      "overlay_text": "TSM SELL-OFF",
+      "text": "GPS Wealth Strategies significantly reduced its Taiwan Semiconductor position. This institutional move impacts TSM's valuation and market sentiment, signaling caution among some funds.",
+      "image_prompt": "Digital display showing 'TSM - REDUCED' with an overlay of institutional portfolio data graphs, dark background, cinematic lighting, reflecting data.",
+      "camera_effect": "static"
+    },
+    {
+      "overlay_text": "HBM DEMAND",
+      "text": "TSM, a global foundry leader, is crucial for HBM and GPU production. This reduction could reflect profit-taking or re-evaluation amidst ongoing CAPEX cycles and supply chain dynamics.",
+      "image_prompt": "Schematic of a high-tech foundry floor, subtle digital data flowing over machinery, showing HBM/GPU wafers in production, cyberpunk neon lighting, engineers with smart glasses.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "overlay_text": "SHARES SOARING",
+      "text": "Meanwhile, Western Digital, Himax, and Teradyne shares are soaring. These companies represent critical storage, display drivers, and essential semiconductor test equipment sectors.",
+      "image_prompt": "Split screen showing upward trending stock charts for Western Digital, Himax, Teradyne, against a backdrop of data storage units and microchips, dramatic side lighting.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "overlay_text": "MARKET DIVERGENCE",
+      "text": "This divergence highlights sector-specific demand. High demand for test equipment implies robust manufacturing yields. Storage and display drivers also show strong market strength.",
+      "image_prompt": "Robotic arm precisely placing a component on a PCB, with a holographic display showing yield metrics, 'digital corruption' style glow, focused and technical, intense focus.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "overlay_text": "INTEL CHALLENGE",
+      "text": "Intel faces intense competition, grappling with significant foundry expansion and regaining process leadership. Its investment viability remains a complex discussion for astute investors.",
+      "image_prompt": "A complex 3D render of an Intel chip architecture, intricate and detailed, with analytical overlays, cinematic lighting, emphasizing serious thought through glowing iris.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "overlay_text": "SUPPLY CHAIN SHIFT",
+      "text": "Overall, the semiconductor market exhibits nuanced performance. While some niche sectors thrive, major foundry players face scrutiny regarding long-term growth and supply chain stability.",
+      "image_prompt": "A global digital map highlighting key manufacturing hubs and supply routes, with data streams indicating flow and potential bottlenecks, 'red warning lights' in critical zones.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
