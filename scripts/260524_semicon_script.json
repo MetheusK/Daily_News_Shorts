@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI SHOCKWAVE",
+    "narration": "WARNING: The AI market just surged, but few understand the true cost!",
+    "image_description": "Extreme close-up of an investor's eye, reflecting dynamic, upward-trending stock charts with red warning lines, digital glitch effects around the iris, cybernetic enhancement, dramatic side lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "CHIP DOMINATION",
+    "image_description": "Hyper-realistic 3D render of a glowing, intricate NVIDIA GPU chip at the center, surrounded by holographic data streams and blue/purple neon lights in a dark, cyberpunk server room. Cinematic backlighting, 8k resolution.",
+    "reasoning": "Prioritizes a powerful, central object (GPU) with high-tech aesthetics and a strong, action-oriented title to grab investor and engineer interest, implying market leadership."
+  },
+  "title": "NVIDIA's AI Surge: Market Impact & Supply Risks",
+  "segments": [
+    {
+      "text": "Nvidia just shattered estimates with $81.6 billion revenue, boosting dividends 25-fold. This confirms an unprecedented, surging demand for high-performance AI GPUs across global data centers.",
+      "image_prompt": "A stylized, glowing NVIDIA GPU chip at the center of a rapidly expanding digital network graph, reflecting strong market performance and data flow. Cinematic lighting.",
+      "camera_effect": "zoom in",
+      "text_overlay": "NVIDIA REVENUE SURGE"
+    },
+    {
+      "text": "The AI semiconductor age firmly establishes itself as the global economy's strategic heart. Massive CAPEX flows into advanced manufacturing, driven by insatiable AI infrastructure demands.",
+      "image_prompt": "A panoramic view of a futuristic semiconductor fabrication plant, robotic arms precisely assembling wafers under dramatic blue and white lights. Cyberpunk neon aesthetic.",
+      "camera_effect": "dolly shot",
+      "text_overlay": "AI ECONOMY CORE"
+    },
+    {
+      "text": "UBS identifies ASML as a top stock pick, underscoring its pivotal role in advanced lithography. Their EUV systems are indispensable for producing next-gen, high-density wafers vital for AI.",
+      "image_prompt": "A detailed close-up inside an ASML EUV machine, showing an intricate array of mirrors and precision lasers illuminating a silicon wafer. High-tech, focused lighting.",
+      "camera_effect": "static",
+      "text_overlay": "ASML CRITICAL TECH"
+    },
+    {
+      "text": "High Bandwidth Memory (HBM) is paramount for AI acceleration, yet its complex manufacturing demands precise engineering. Maintaining high yields on these intricate HBM stacks remains a critical yield challenge.",
+      "image_prompt": "A cross-section diagram of an HBM memory stack with glowing data pathways, showing tiny wires connecting layers, digital readouts displaying yield percentages. Holographic style.",
+      "camera_effect": "pan up",
+      "text_overlay": "HBM YIELD CHALLENGE"
+    },
+    {
+      "text": "Current valuations reflect robust future growth projections, but geopolitical dynamics intensify supply chain risks. Secure sourcing of critical materials and smooth logistics are crucial for sector stability.",
+      "image_prompt": "A holographic globe displaying interconnected global supply routes, some flashing red warning indicators, overseen by an analyst with intense focus through smart glasses reflecting complex data streams.",
+      "camera_effect": "static",
+      "text_overlay": "SUPPLY CHAIN RISK"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
