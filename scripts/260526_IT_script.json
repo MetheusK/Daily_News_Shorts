@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI SEES EVERYTHING",
+    "narration": "Warning! A new AI secretly watches every brand you see online, changing your world without you even knowing!",
+    "image_description": "Close-up of a high-tech, cybernetic eye with glowing iris, reflecting streams of data and brand logos, dramatic cyberpunk neon lighting, digital glitch effect, intense focus.",
+    "mood_color": "neon_green"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "LOGO DETECT AI",
+    "image_description": "Hyper-realistic 3D render of a stylized, glowing AI chip central on a dark server rack, surrounded by holographic streams of brand logos, cinematic dramatic backlighting, 8k resolution, cyberpunk style.",
+    "reasoning": "Direct statement about AI monitoring + intriguing visual of core tech creates curiosity and urgency, prompting clicks."
+  },
+  "title": "Invisible AI: Your Brands Are Being Watched!",
+  "segments": [
+    {
+      "text": "The Brand Logo Detection AI is booming. This tech instantly identifies company logos across all visual content, from videos to live streams, with unprecedented precision.",
+      "text_overlay": "AI SEES BRANDS",
+      "image_prompt": "A futuristic data stream showcasing various brand logos flowing rapidly across a holographic display, with a glowing cybernetic hand reaching towards it, cinematic lighting, 8k render.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "This market is skyrocketing, projected to reach $7.5 billion by 2029. Growth is fueled by massive demands for digital advertising and crucial brand protection strategies.",
+      "text_overlay": "BILLIONS BY 2029",
+      "image_prompt": "A sleek, minimalist digital graph showing an upward trend, with numerical data points glowing neon green, overlaid with subtle, blurred brand logos in the background, 8k render, cyberpunk aesthetic.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "For marketing, companies deploy this AI for real-time brand monitoring. They track logo visibility, campaign effectiveness, and competitor presence across social media instantaneously.",
+      "text_overlay": "ADS ARE SMARTER",
+      "image_prompt": "A person wearing smart glasses, with data streams and brand logos reflecting in the lenses, looking intensely focused at a holographic ad, dramatic side lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Beyond ads, it's vital for content moderation and security. Platforms flag copyright infringements; governments track illegal activities linked to specific brand imagery.",
+      "text_overlay": "FAKE PRODUCTS?",
+      "image_prompt": "Digital corruption and glitch effects on a screen displaying a known brand logo, with a red warning light flashing across it, conveying detection of counterfeits, cyberpunk style, high contrast.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "This technology subtly reshapes our digital world daily. From personalized ads to moderated content, AI-driven logo detection is quietly influencing how we interact online.",
+      "text_overlay": "DAILY LIFE CHANGES",
+      "image_prompt": "A composite image showing a city street overlayed with a subtle, transparent layer of detected brand logos, indicating pervasive AI monitoring in daily life, through smart glasses perspective, cinematic lighting.",
+      "camera_effect": "dolly_zoom"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
