@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "TRADE WAR SHOCK",
+    "narration": "Forget what you think you know about the US-China tech war. The numbers reveal a shocking truth for investors!",
+    "image_description": "A cybernetically enhanced analyst figure with glowing data-reflecting eyes through smart glasses, showcasing intense focus. Cinematic lighting, with dynamic digital corruption effects flowing across the screen, highlighting US and China economic data points in red warning lights.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "CHINA CHIP REVENUE",
+    "image_description": "A hyper-realistic 3D render of a complex semiconductor wafer, centrally composed, with glowing interconnected data lines. Subtle abstract elements of the US and Chinese flags are integrated into the data flow. Dramatic blue and red cyberpunk backlighting, 8k resolution.",
+    "reasoning": "This thumbnail uses a compelling, object-focused visual (wafer) with high-contrast lighting and a clear, intriguing text 'CHINA CHIP REVENUE' to directly address the core news, drawing clicks by hinting at unexpected market dynamics."
+  },
+  "title": "US Chips in China: Revenue Surge!",
+  "segments": [
+    {
+      "text": "US chipmakers in China reported significant revenue growth, defying trade tensions. Hurun's list confirms unexpected market resilience.",
+      "image_prompt": "A sophisticated financial chart showing an upward trend, specifically highlighting 'US Chip Revenue China', overlaid on a stylized, glowing map of China with key tech hubs illuminated. Cinematic lighting.",
+      "text_overlay": "US CHINA REVENUE"
+    },
+    {
+      "text": "Despite escalating US-China export controls, these firms adapted effectively, successfully leveraging strong local market demand.",
+      "image_prompt": "Digital gears turning seamlessly, with subtle representations of US and Chinese flag motifs intertwined, symbolizing complex, adapting supply chains. High-tech interface elements visible. Cyberpunk neon lighting.",
+      "text_overlay": "DEFYING TENSIONS"
+    },
+    {
+      "text": "Concurrently, Huawei announced a major chip design breakthrough, further intensifying the tech rivalry and signaling China's advanced capabilities.",
+      "image_prompt": "An intricate, glowing microchip design displayed on a holographic interface, emanating blue light, representing a new architecture. An engineer with focused expression in the background. Dramatic side lighting.",
+      "text_overlay": "HUAWEI BREAKTHROUGH"
+    },
+    {
+      "text": "This points to a bifurcated market: US firms capitalize on consumer demand, while China aggressively drives advanced manufacturing locally.",
+      "image_prompt": "A split screen visual: one side shows a bustling digital marketplace with consumer tech, the other shows a pristine, automated cleanroom environment with robotic arms. Reflecting data on surfaces. Neon lighting.",
+      "text_overlay": "MARKET IMPLICATIONS"
+    },
+    {
+      "text": "Investors must re-evaluate sector valuations. US companies gain diversified revenue, but China's CAPEX boosts competition significantly.",
+      "image_prompt": "Dynamic stock tickers and financial charts overlaying an advanced semiconductor factory floor. A cybernetic hand pointing to data points on a holographic screen. Cinematic lighting.",
+      "text_overlay": "CAPEX SHIFT"
+    },
+    {
+      "text": "Both sides adapt strategically. US firms localize operations; China innovates. The global semiconductor landscape is rapidly shifting.",
+      "image_prompt": "A complex, interconnected network of glowing data lines and circuits forming a global map, representing the evolving semiconductor ecosystem. Intense focus, determination in the visual. Dramatic lighting.",
+      "text_overlay": "GLOBAL SHIFT"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
