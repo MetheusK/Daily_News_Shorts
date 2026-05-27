@@ -1,0 +1,63 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI COLLAPSE ALERT",
+    "narration": "WARNING: The future of Artificial Intelligence just hit a wall! Global AI ambitions are collapsing NOW!",
+    "image_description": "A digital representation of a glowing neural network rapidly fragmenting into geometric shards, with data streams glitching, surrounded by dramatic red warning lights and cyberpunk neon, reflecting in a cybernetic eye, intense focus.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI RESET?",
+    "image_description": "A hyper-realistic 3D render of a pristine, glowing AI processor chip with a digital 'X' overlay, partially submerged in dark, swirling data streams, dramatic backlighting, 8k resolution, cyberpunk aesthetic, centered object.",
+    "reasoning": "The question mark combined with the 'AI RESET' text creates immediate curiosity about the implications of current events on AI, while the striking visual of a blocked chip highlights the core issue."
+  },
+  "title": "AI Reset to Zero: Government Kryptonite Strikes!",
+  "segments": [
+    {
+      "text": "New government actions are injecting 'kryptonite' into global AI. US and China's tech ambitions now face a serious slowdown, forcing an industry-wide reset.",
+      "image_prompt": "A holographic globe showing interconnected data streams, intersected by a glowing red barrier symbol, with subtle digital glitch effects, cinematic lighting.",
+      "camera_effect": "dynamic zoom",
+      "text_overlay": "GLOBAL AI HIT",
+      "overlay_text_color": "neon_green"
+    },
+    {
+      "text": "US policymakers, driven by national security concerns, are implementing tighter export controls on advanced AI chips. This restricts access to crucial hardware components for key players.",
+      "image_prompt": "A sophisticated, glowing microchip being gently held by a robotic arm, with a digital red 'STOP' sign appearing as an overlay, focused and sharp, cybernetic aesthetic, dramatic side lighting.",
+      "camera_effect": "slow pan",
+      "text_overlay": "US BLOCKS CHIPS",
+      "overlay_text_color": "yellow"
+    },
+    {
+      "text": "Similarly, China is responding with its own strategic directives, aiming for self-sufficiency while facing supply chain disruptions. This creates complex hurdles for their domestic AI innovation.",
+      "image_prompt": "A stylized map of China with glowing data pathways, some pathways appearing digitally corrupted or blocked, reflecting in a pair of smart glasses worn by a person with intense focus, cyberpunk neon.",
+      "camera_effect": "slight tilt",
+      "text_overlay": "CHINA'S RESPONSE",
+      "overlay_text_color": "neon_green"
+    },
+    {
+      "text": "These measures, including specific technology bans and investment scrutiny, are designed to curb rival advancements. Analysts highlight this as unprecedented, fundamentally altering the competitive landscape.",
+      "image_prompt": "A digital interface displaying complex policy documents and legal codes, with highlighted sections showing 'ban' or 'restricted' keywords, overlaid with data visualizations, dramatic side lighting.",
+      "camera_effect": "quick cuts",
+      "text_overlay": "NEW TECH BANS",
+      "overlay_text_color": "yellow"
+    },
+    {
+      "text": "'Reset to Zero' means forced strategic re-evaluation. Companies now navigate fractured global supply chains, impacting research timelines and future development directions significantly.",
+      "image_prompt": "A 3D render of a futuristic factory floor with robotic arms stalled or reconfiguring, surrounded by broken supply chain diagrams, depicting digital corruption and glitch effects, dramatic low lighting.",
+      "camera_effect": "cinematic push-in",
+      "text_overlay": "FORCED REBOOT",
+      "overlay_text_color": "neon_green"
+    },
+    {
+      "text": "That's why AI isn't a race anymore. It's a strategic reset.",
+      "image_prompt": "A stylized digital finish line collapsing into fragmented data, with 'AI RACE' text dissolving, replaced by a solid, stark 'RESET' symbol, reflecting data, glowing iris, cyberpunk neon.",
+      "camera_effect": "static",
+      "text_overlay": "GAME OVER?",
+      "overlay_text_color": "red"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
