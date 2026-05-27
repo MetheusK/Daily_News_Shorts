@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "MARKET ALERT!",
+    "narration": "Stop everything! Your portfolio is about to be impacted by a hidden surge in semiconductor valuations!",
+    "image_description": "Close-up of a human eye with a glowing cybernetic iris reflecting dynamic stock market data, surrounded by holographic financial graphs, dramatic red and blue neon lighting, intense focus expression, digital glitch effects around the edges.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI CHIP BOOM",
+    "image_description": "Hyper-realistic 3D render of a glowing, intricately designed AI GPU chip centered on a dark, reflective surface. Background features blurred, futuristic server racks with soft blue and purple lighting. 8k resolution, cinematic dramatic backlighting.",
+    "reasoning": "The 'AI CHIP BOOM' text combined with a visually striking, high-tech object immediately communicates the core topic. The cyberpunk aesthetic appeals to the target audience of engineers and investors, creating high contrast and intrigue for a click without relying on sensationalized human expressions."
+  },
+  "title": "Semiconductor Surge: NVDA & TSMC's AI Rally Explained",
+  "segments": [
+    {
+      "text": "NVIDIA surged 23.5%, TSMC jumped 19.7% since April, TSMC hitting $412 premarket. This rally signals robust sector strength.",
+      "image_prompt": "Dynamic digital stock chart overlayed on a stylized wafer, glowing green lines indicating upward trend, 'TSM' and 'NVDA' tickers visible, cinematic lighting, data reflecting in a determined, focused eye.",
+      "text_overlay": "NVDA SOARS",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "The primary catalyst is relentless AI chip demand, particularly GPUs. Hyperscalers drive unprecedented order volumes, impacting foundry utilization and profitability.",
+      "image_prompt": "Abstract representation of AI neural network glowing within a server rack, holographic data streams flowing between GPU chips, intense blue and white lighting, a serious analyst's hands interacting with a transparent data screen.",
+      "text_overlay": "AI DRIVING",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "AMD and NVIDIA are deepening investments in Taiwan's semiconductor ecosystem. This strengthens critical supply chain partnerships, ensuring long-term manufacturing stability.",
+      "image_prompt": "Overhead view of a miniature, illuminated map of Taiwan with glowing lines connecting major semiconductor facilities, robotic arms assembling microchips in the foreground, intense focus from an engineer observing a complex schematic.",
+      "text_overlay": "TAIWAN CORE",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "Advanced node manufacturing yields are paramount for these gains. Achieving high yield for leading-edge wafers directly influences production capacity and market leadership.",
+      "image_prompt": "Close-up of a perfectly patterned silicon wafer under a microscope, showing extremely high yield with no visible defects, with digital metrics for 'Yield %' displayed, dramatic side lighting, analytical expression.",
+      "text_overlay": "YIELD CRITICAL",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Sustained high HBM demand is pivotal, stressing memory packaging. The tight supply environment for HBM chips boosts GPU component valuation significantly.",
+      "image_prompt": "Cross-section visualization of HBM (High Bandwidth Memory) stacks within a GPU, glowing data pathways, visual representation of high-density packaging, cybernetic eyes reflecting complex schematics, intense blue lighting.",
+      "text_overlay": "HBM POWER",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "This valuation surge reflects aggressive CAPEX and unprecedented HBM demand.",
+      "image_prompt": "Financial dashboard displaying 'CAPEX' and 'HBM Demand' metrics with aggressive upward trajectories, overlaid on a futuristic semiconductor factory floor, determined industry insider observing data on a transparent screen.",
+      "text_overlay": "CAPEX SURGE",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
