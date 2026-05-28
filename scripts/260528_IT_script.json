@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI IS UNSTOPPABLE",
+    "narration": "Warning! A new report confirms AI is growing at an unprecedented rate, threatening entire industries by 2035!",
+    "image_description": "Extreme close-up of a cybernetic eye reflecting complex AI algorithms and glowing data streams, with digital glitch effects and red warning lights, cinematic lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "$5 TRILLION AI",
+    "image_description": "3D render of a futuristic, glowing brain model surrounded by intricate data streams and network lines. The brain is centered, with dramatic backlighting against a dark, tech-infused background. Hyper-realistic, 8k resolution, cyberpunk style.",
+    "reasoning": "The massive '$5 TRILLION' figure combined with 'AI' creates immediate intrigue and signals a significant economic shift, compelling users to click and understand the scale of impact."
+  },
+  "title": "AI's $5 Trillion Future: Impacting YOU!",
+  "segments": [
+    {
+      "text": "Artificial Intelligence's global market is projected to expand by nearly $5,000 Billion by 2035, according to Yahoo Finance. This signifies a massive economic transformation.",
+      "image_prompt": "A vibrant 3D render of a glowing digital graph showing a steep upward trend, with 'AI $5 TRILLION' numbers overlayed, representing market growth, clear and technical.",
+      "camera_effect": "dynamic_zoom_in"
+    },
+    {
+      "text": "This unparalleled growth is fueled by breakthroughs in machine learning and data processing, integrating AI across diverse sectors from global finance to logistics.",
+      "image_prompt": "An abstract network of glowing data lines connecting various city skylines and industrial icons. The lines reflect data in a cybernetic eye, showing intense focus.",
+      "camera_effect": "panning_left"
+    },
+    {
+      "text": "Specifically, the healthcare industry is seeing rapid AI integration, with significant trends noted by May 2026. This improves diagnostics and personalized patient care efficiency.",
+      "image_prompt": "A holographic medical scan overlayed with real-time AI diagnostics, viewed through smart glasses worn by a person with an expression of serious thought, cinematic lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Smart technology trends are also transforming European HOAs dramatically. AI now manages energy, security systems, and communal services, enhancing residents' daily living.",
+      "image_prompt": "A futuristic smart home interface displayed on a tablet, showing energy usage dashboards and multiple security camera feeds, accented with cyberpunk neon glow.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "These advancements signify a future where AI deeply integrates into daily life, simplifying complex tasks and optimizing personal and public environments.",
+      "image_prompt": "A person interacting with a holographic interface, their hands manipulating data streams and 3D objects with an intense focus, dramatic side lighting casting shadows.",
+      "camera_effect": "dolly_zoom"
+    },
+    {
+      "text": "Expect this pervasive AI evolution to reshape industries, creating vast new opportunities and driving innovation across global markets through 2035.",
+      "image_prompt": "A global network overlaying a circuit board pattern, with glowing data points highlighting major cities. Hyper-realistic, 8k resolution, clear and impactful.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
