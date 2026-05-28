@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI BOTTLENECK AHEAD",
+    "narration": "Urgent warning for investors: TSMC's looming bottleneck could crash AI valuations by 2026!",
+    "image_description": "A dynamic, close-up of a human eye with data streams reflecting in its cybernetic iris, intensely focused on a glowing holographic chart showing a sharp red decline, dramatic cyberpunk lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "TSMC'S AI CRISIS",
+    "image_description": "A complex 3D render of a TSMC wafer, partially illuminated by red warning lights, with holographic data streams projecting from its surface, set against a dark, hyper-realistic server room background. 8k resolution.",
+    "reasoning": "The thumbnail clearly identifies the core company and problem (AI Crisis) with a visually striking, technical object, appealing directly to industry insiders and investors for high click-through rates."
+  },
+  "title": "TSMC: The AI Bottleneck Threatening Your Portfolio",
+  "segments": [
+    {
+      "text": "Bismarck Brief reports TSMC risks becoming an AI bottleneck by 2026. This impacts advanced chip supply chains significantly.",
+      "image_prompt": "A complex 3D render of a TSMC wafer, partially obscured by digital corruption, red warning lights flickering. Cinematic lighting, hyper-realistic.",
+      "camera_effect": "Zoom in slowly."
+    },
+    {
+      "text": "Critical HBM and AI GPU production heavily relies on TSMC's leading-edge manufacturing processes. Demand outstrips current capacity.",
+      "image_prompt": "A close-up of a high-bandwidth memory (HBM) stack and an AI GPU chip, glowing with internal circuitry, technical schematic overlay. Dramatic side lighting.",
+      "camera_effect": "Pan across details."
+    },
+    {
+      "text": "NVIDIA's stock forecast projects a 43% upside by 2026, reaching $303.96, indicating immense demand pressure on chip supply.",
+      "image_prompt": "A digital stock ticker displaying NVIDIA's symbol and a 43% green arrow, superimposed over an investor with intense focus looking through smart glasses. Cyberpunk neon lighting.",
+      "camera_effect": "Static, slight zoom on glasses."
+    },
+    {
+      "text": "Taiwan shares recently exceeded 44,000 due to a general tech rebound. This contrasts with specific AI manufacturing constraints.",
+      "image_prompt": "A dynamic graph of the Taiwan stock exchange index rising, with a subtle overlay of a silicon wafer blueprint in the background. Cinematic lighting.",
+      "camera_effect": "Smooth upward pan."
+    },
+    {
+      "text": "Escalating demand for advanced nodes creates significant challenges in manufacturing yields and operational efficiency, raising production costs.",
+      "image_prompt": "A zoomed-in view of a complex semiconductor production line, with some digital data flowing over machinery, highlighting a specific yield metric on a monitor. Dramatic side lighting.",
+      "camera_effect": "Slow-motion view of robotic arm."
+    },
+    {
+      "text": "This is why CAPEX projections and manufacturing yields remain critical for AI's future.",
+      "image_prompt": "A futuristic data center, with servers glowing blue and red, a holographic display showing CAPEX numbers and yield percentages. Cyberpunk neon lighting.",
+      "camera_effect": "Wide shot, then rapid cut."
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
