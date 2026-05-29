@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "YOUR FUTURE IS HERE",
+    "narration": "WARNING: Your daily life is about to be drastically transformed by technology you didn't even know existed!",
+    "image_description": "Extreme close-up of a cybernetic eye reflecting complex data streams, glowing iris, urgent red warning lights flickering, dramatic side lighting, intense focus.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI IS HERE",
+    "image_description": "3D render of a glowing, intricate AI chip at the center of a neural network, cyberpunk aesthetic, hyper-realistic, 8k resolution, dramatic blue and purple backlighting.",
+    "reasoning": "This thumbnail uses a powerful, central object (AI chip) with high-contrast, cyberpunk styling. 'AI IS HERE' is a concise, impactful statement, directly signaling the core topic and generating curiosity for the general public."
+  },
+  "title": "AI & Health: The Future Changing Your Life Now!",
+  "segments": [
+    {
+      "text": "HLTH forecasts radical shifts by 2026. AI transforms user experiences and industry platforms now. It's not hype; it's active, impacting daily global interactions.",
+      "image_prompt": "Abstract data flow connecting glowing network nodes, dynamic tech patterns forming a futuristic landscape, cinematic lighting, 8k resolution.",
+      "camera_effect": "dynamic_pan"
+    },
+    {
+      "text": "Digital health booms. Wearables and AI diagnostics redefine patient care. Advanced health insights become globally accessible, moving beyond traditional hospital settings rapidly.",
+      "image_prompt": "Futuristic smartwatch displaying dynamic health data on a holographic interface, a focused person's hand interacting, reflecting data in a glowing iris, cinematic lighting.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "AI-powered MarTech tailors your online experience. Personalized content and proactive recommendations mean AI often anticipates your needs, subtly yet powerfully shaping interactions.",
+      "image_prompt": "Person in a modern setting interacting with a transparent smart screen, personalized content flowing, intense focus on their face, cyberpunk neon lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Smart Tech Korea (STK) acts as a crucial investment hub. It connects innovators with capital, accelerating smart tech development and significantly boosting market growth now.",
+      "image_prompt": "Digital handshake between two holographic figures over a complex data visualization of financial charts, upward trends, cybernetic glow, dramatic side lighting.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "This convergence creates intuitive user experiences. Seamless smart device interactions and predictive systems dynamically adapt, anticipating needs and personalizing daily habits effortlessly.",
+      "image_prompt": "Person wearing sleek AR glasses, a holographic interface seamlessly integrated into their view, expressing wonder and determination, cinematic lighting, future tech environment.",
+      "camera_effect": "dynamic_pan"
+    },
+    {
+      "text": "The 2026 digital health wave, combined with immediate AI deployments, signals rapid smart tech integration. This fundamentally reshapes every aspect of our lives, starting now.",
+      "image_prompt": "Fast-forward view of a futuristic city with shimmering data streams and glowing pathways, subtle digital corruption effects around towering buildings, conveying change.",
+      "camera_effect": "tracking_shot"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
