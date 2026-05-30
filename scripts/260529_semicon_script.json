@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "MARKET SHOCK!",
+    "narration": "Semiconductor valuations are soaring, but are investors missing the hidden risk in this AI-driven frenzy?",
+    "image_description": "Extreme close-up of a cybernetic eye reflecting a volatile stock chart, digital glitch effects, red warning lights flashing, indicating market instability. Intense focus in the glowing iris.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "CHIP TRILLIONAIRES",
+    "image_description": "A hyper-realistic 3D render of a glowing, intricately designed AI chip at the center. Holographic data streams in shades of blue and green flow around it, reaching towards the viewer. Cyberpunk style with dramatic backlighting, 8k resolution, centered object.",
+    "reasoning": "This thumbnail directly highlights the core news (AI chips, high valuation) with a powerful, futuristic visual that appeals to both investors and tech enthusiasts, prompting a click."
+  },
+  "title": "AI's Trillion-Dollar Chip Boom: What Investors Miss",
+  "segments": [
+    {
+      "text": "SK Hynix officially entered the exclusive $1 Trillion market capitalization club, a landmark valuation driven by its strategic focus on high-demand AI components.",
+      "image_prompt": "A hyper-realistic 3D render of the SK Hynix logo with a holographic '$1 Trillion' overlay, superimposed on a detailed, glowing circuit board background. Cyberpunk aesthetic, clean lines, cinematic lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "This places SK Hynix alongside industry giants like Nvidia, Broadcom, TSMC, and Samsung, underscoring the AI sector's profound market re-shaping.",
+      "image_prompt": "A dynamic montage of company logos (Nvidia, Broadcom, TSMC, Samsung, SK Hynix) interconnected by glowing blue data lines, forming a futuristic network diagram. 3D render with dramatic backlighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "The primary catalyst is explosive demand for High Bandwidth Memory (HBM) modules, crucial for next-generation AI accelerators and GPUs.",
+      "image_prompt": "Extreme close-up of HBM (High Bandwidth Memory) stacks integrated onto a GPU die. Blue holographic data streams emanate from the chip, showcasing intricate micro-etching. Cinematic lighting, focus on detail.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Analysts project the Philadelphia Semiconductor Index (SOX) could reach 5000 within ten years, reflecting sustained growth and sector expansion.",
+      "image_prompt": "A sophisticated digital stock chart displaying the Philadelphia Semiconductor Index (SOX), trending sharply upwards with a clear projection point at 5000. Overlayed with dynamic market data and green futuristic lines. Cyberpunk style.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Investor confidence in semiconductor valuation is soaring, prompting significant CAPEX increases in advanced manufacturing, particularly for AI-centric fabs.",
+      "image_prompt": "A small team of engineers (2-3 people) in a high-tech cleanroom environment, wearing futuristic protective gear. Their faces show intense focus as they look at a large, transparent holographic projection displaying factory expansion plans. Dramatic side lighting illuminates their determined expressions. Eyes are visible through smart glasses reflecting data.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "This valuation surge, driven by HBM and GPU demand, signals potential CAPEX shifts and future yield optimization needs across the sector.",
+      "image_prompt": "A complex, automated wafer manufacturing line within a state-of-the-art semiconductor fab. Robotic arms are precisely handling and placing components on silicon wafers. Glowing blue light illuminates the high-yield production process, emphasizing precision and efficiency. Cinematic lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
