@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI JUST CHANGED!",
+    "narration": "Warning! Everything you knew about artificial intelligence just changed overnight!",
+    "image_description": "Extreme close-up of a human eye with cybernetic reflections, displaying rapidly scrolling data and digital glitch effects. Intense focus, surrounded by pulsating neon green warning lights, cinematic lighting.",
+    "mood_color": "neon_green"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "CHIP REVOLUTION?",
+    "image_description": "A hyper-realistic 3D render of a glowing, intricately designed microchip at the center of a swirling holographic data sphere. Dark, dramatic background with subtle blue and purple atmospheric light, 8k resolution.",
+    "reasoning": "The 'CHIP REVOLUTION?' text combined with a visually striking, futuristic microchip creates curiosity and a sense of imminent technological change, compelling users to click."
+  },
+  "title": "Future Tech Alert: Huawei, AI & Robots",
+  "segments": [
+    {
+      "text": "Huawei announced a potential breakthrough with a new chip scaling law, promising vastly improved efficiency and performance for future AI systems.",
+      "image_prompt": "Intricate 3D render of a futuristic microchip glowing subtly with data streams flowing over its surface, dramatic side lighting, focused and serious.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "This could redefine compute power, driving advancements across all sectors, from data centers to personal devices, especially in AI processing capabilities.",
+      "image_prompt": "Clean server racks with pulsating blue and white indicator lights, connected by glowing light trails representing high-speed data transfer. Focus on efficiency, cinematic lighting.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "Industry leaders like Lim Meng Hoong attended the Science x AI Summit 2026, focusing on accelerating AI collaboration and future trends.",
+      "image_prompt": "A sophisticated, minimalist conference stage with holographic projections displaying interconnected global networks and complex AI algorithms. Professional, focused expressions on unseen participants.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "This collaboration signifies intense development, aiming to integrate advanced AI into daily applications faster than anticipated across various industries.",
+      "image_prompt": "Diverse human hands reaching towards a central glowing orb of data, representing collaboration and integration. Dark background, dramatic side lighting, conveying wonder.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "The Mobile Robot Middleware Market is projected for significant growth by 2030, driven by enhanced AI and processing from these hardware advancements.",
+      "image_prompt": "Sleek, modular mobile robots operating autonomously in a stylized futuristic warehouse, interacting seamlessly with packages and data interfaces. Cyberpunk neon lighting.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "Expect smart environments and autonomous systems to become pervasive, transforming logistics, healthcare, and daily personal assistance by 2030.",
+      "image_prompt": "A futuristic city street with autonomous delivery robots, smart traffic lights, and people interacting with holographic interfaces from smart glasses. Dynamic, cyberpunk neon lighting, expressions of wonder.",
+      "camera_effect": "track_forward"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
