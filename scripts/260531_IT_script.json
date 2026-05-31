@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI IS HERE",
+    "narration": "Warning! The AI revolution isn't coming, it's already here, reshaping YOUR future and career drastically!",
+    "image_description": "Extreme close-up of a human eye, reflecting digital code and data streams. The iris glows with a subtle neon blue, suggesting a cybernetic enhancement. Intense focus and determination are visible. Dramatic red and black cinematic lighting with glitch effects on the edges.",
+    "mood_color": "neon_red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI REVOLUTION",
+    "image_description": "A sophisticated, glowing 3D render of a neural network or a stylized holographic brain projecting complex data visualizations in a futuristic, dark server room environment. Hyper-realistic, 8k resolution, dramatic blue backlighting.",
+    "reasoning": "Highlights the core AI topic with a visually stunning, technical image that evokes wonder and complexity, drawing clicks from those interested in the future of technology."
+  },
+  "title": "AI: Your Future Just Changed!",
+  "segments": [
+    {
+      "text": "Global AI adoption is rapidly accelerating. A recent report highlights over 60% of businesses actively exploring AI integration, up 25% from last year, driven by efficiency gains.",
+      "image_prompt": "Digital map of the world with glowing nodes representing businesses, connected by data lines. A rising bar graph showing 60% increase, cyber-futuristic style.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "Key sectors like finance, healthcare, and manufacturing are seeing significant shifts. AI automates routine tasks, leading to an estimated 30% reduction in operational costs by 2025.",
+      "image_prompt": "Three holographic icons representing finance (stock chart), healthcare (DNA helix), and manufacturing (robotic arm). Digital overlay showing 30% cost reduction, sleek UI.",
+      "camera_effect": "pan_left_to_right"
+    },
+    {
+      "text": "Job markets are transforming, not just disappearing. Studies predict 97 million new AI-related jobs by 2025, demanding skills in data science, machine learning, and prompt engineering.",
+      "image_prompt": "A futuristic classroom scene with students wearing smart glasses, looking at holographic displays showing code and data models. A glowing text overlay of '97 Million Jobs'.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Society is adapting to AI daily. From personalized learning algorithms to smart city management, AI enhances citizen services, impacting millions through data optimization.",
+      "image_prompt": "Overhead view of a smart city with autonomous vehicles and glowing data pathways. A reflective screen showing personalized AI insights for education, cinematic lighting.",
+      "camera_effect": "drone_shot_pull_back"
+    },
+    {
+      "text": "Ethical AI development is now critical. Major tech firms are investing billions into responsible AI frameworks to ensure fairness and transparency in these powerful systems.",
+      "image_prompt": "A futuristic meeting room with diverse professionals engaged in serious thought, looking at a holographic display showing complex AI ethics guidelines and data security symbols. Dramatic side lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Azerbaijan's initiatives mirror global trends. Their government is investing $100 million into national AI strategy programs, aiming for a 15% GDP boost by 2030 through innovation.",
+      "image_prompt": "A stylized map of Azerbaijan with glowing digital pathways and holographic indicators of $100 million investment and '15% GDP Boost'. Cyberpunk aesthetic.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
