@@ -1,0 +1,46 @@
+{
+  "hook_plan": {
+    "overlay_text": "TRILLION DOLLAR ALERT",
+    "narration": "Massive AI stock gains are exploding, but analysts are misjudging the next trillion-dollar player!",
+    "image_description": "Close-up of a human eye with digital data reflections, surrounded by glowing red warning lights and glitch effects, intense focus, cyberpunk style, cinematic lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "NEXT $1 TRILLION?",
+    "image_description": "Hyper-realistic 3D render of a gleaming, futuristic AI processor chip at the center, surrounded by rising holographic stock charts and digital dollar symbols. Dramatic backlighting, 8k resolution, deep blue and gold tones.",
+    "reasoning": "Poses a direct question about future market leaders, hinting at massive growth beyond current giants, triggering investor curiosity."
+  },
+  "title": "AI's Next Trillion-Dollar Stock: Beyond Nvidia",
+  "segments": [
+    {
+      "text": "AI-driven semiconductor valuation is surging. After Micron and AMD, a new contender is projected for the $1 Trillion Club by 2026, redefining market leadership.",
+      "image_prompt": "Holographic projection of rising stock charts over a detailed wafer map, with digital currency symbols floating, cinematic lighting, data reflecting in cybernetic eyes, serious thought.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "While Micron and AMD have shown strong growth in HBM and GPU sectors, the market seeks diversification beyond established AI leaders like NVIDIA.",
+      "image_prompt": "Side-by-side display of Micron and AMD logos glowing on server racks, a high-density HBM chip render, focus on data flow, deep blue tones, tech engineer analyzing data.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Unexpectedly, certain AI sector stocks have already demonstrated gains of 67% to 121% in 2026 projections, significantly outpacing NVIDIA's performance metrics.",
+      "image_prompt": "Dynamic digital graph showing steep upward trajectories for multiple stocks, one prominently labeled '+121%' eclipsing another labeled 'NVIDIA', cyberpunk neon lighting, through smart glasses view.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "This shift indicates expanding CAPEX in AI infrastructure beyond traditional GPU suppliers. Investors must assess new players' yield efficiency and future supply chain stability.",
+      "image_prompt": "Complex blueprint of a semiconductor manufacturing plant with data overlays showing CAPEX allocation, robot arm adjusting a silicon wafer, focused engineer's silhouette, dramatic side lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Analyzing patent filings and foundry partnerships hints at a critical shift. Future $1 Trillion valuations depend on HBM integration and advanced wafer manufacturing.",
+      "image_prompt": "Close-up of a scientist's hand wearing smart gloves, interacting with a holographic display of a 3D HBM stack and a wafer diagram, glowing iris reflecting data, serious thought, determination.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
