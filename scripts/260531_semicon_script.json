@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "STOCK ALERT!",
+    "narration": "Micron's critical deadline approaches! Is your investment portfolio prepared for this inevitable semiconductor market shift?",
+    "image_description": "Close-up of a cybernetic hand pointing at a rapidly changing digital stock chart, data streams reflecting in a glowing iris, urgent red warning lights, cinematic lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI RACE HOT",
+    "image_description": "A hyper-realistic 3D render of a glowing, intricate AI processor chip at the center, surrounded by dynamic holographic data streams and circuit patterns. Dark, cyberpunk background with dramatic blue and purple backlighting, 8k resolution.",
+    "reasoning": "The thumbnail prioritizes an iconic object (AI chip) and uses compelling cyberpunk aesthetics to convey cutting-edge technology and intense competition, appealing to both investors and engineers for the 'AI Race' theme."
+  },
+  "title": "Semicon Alert: Micron, AI Infra, Samsung Strategy",
+  "segments": [
+    {
+      "text_overlay": "MICRON DEADLINE JUNE 24",
+      "narration": "Investors face a critical June 24 Micron stock decision. Upcoming earnings and market sentiment will dictate post-valuation shifts.",
+      "image_description": "Digital stock chart with a prominent 'BUY/SELL' decision overlay, reflecting in the cybernetic eyes of an analyst with intense focus, cinematic lighting.",
+      "camera_effect": "zoom_in_on_data_point"
+    },
+    {
+      "text_overlay": "AI INFRA BOOM",
+      "narration": "AI infrastructure firms Lumentum (+121%) and Applied Materials (+67%) are outpacing Nvidia's gains, signaling a sector-wide shift.",
+      "image_description": "Holographic projection of Lumentum and Applied Materials logos with rising percentage charts, complex server racks in a data center background, cyberpunk neon lighting.",
+      "camera_effect": "panning_across_data_center"
+    },
+    {
+      "text_overlay": "BEYOND THE GPU",
+      "narration": "This surge indicates investment beyond GPUs, focusing on optical components, manufacturing equipment, and the broader AI supply chain.",
+      "image_description": "Microscopic view of silicon wafer manufacturing, with highlighted data streams pointing to different components and stages, detailed technical imagery.",
+      "camera_effect": "macro_shot_of_wafer"
+    },
+    {
+      "text_overlay": "SAMSUNG CHALLENGES TSMC",
+      "narration": "Samsung Foundry introduces an 'AI factory' turnkey model, aiming to significantly challenge TSMC's dominance in advanced manufacturing.",
+      "image_description": "Futuristic cleanroom factory floor with robotic arms assembling advanced semiconductor components, blue and white neon lighting, demonstrating precision.",
+      "camera_effect": "tracking_assembly_line"
+    },
+    {
+      "text_overlay": "YIELD RACE INTENSIFIES",
+      "narration": "This turnkey approach promises faster production, higher yields, and streamlined processes for HBM and GPU fabrication, impacting CAPEX.",
+      "image_description": "Blueprint overlay of a sophisticated cleanroom showing optimized production flow, with green highlights indicating efficiency and yield improvements, digital analysis graphics.",
+      "camera_effect": "overhead_view_digital_analysis"
+    },
+    {
+      "text_overlay": "FUTURE VALUATION",
+      "narration": "The outcome directly influences future market valuations for all foundry players, making yield and efficiency paramount in the AI race.",
+      "image_description": "Digital display showing abstract stock market trends with fluctuating lines in glowing green and red, reflected in a serious engineer's smart glasses, cinematic lighting.",
+      "camera_effect": "slow_push_into_screen"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
