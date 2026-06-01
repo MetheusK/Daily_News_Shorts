@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI TECH SHOCK",
+    "narration": "WARNING! A global tech war is reshaping AI's future! This directly impacts your next smart device!",
+    "image_description": "Extreme close-up of a cybernetic eye reflecting a complex, glitching network of glowing data lines, with intense red warning lights pulsing dramatically. Cinematic lighting, cyberpunk aesthetic.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "CHIP WAR LOOMS",
+    "image_description": "A hyper-realistic 3D render of a glowing, intricate AI chip at the center, emitting blue and purple holographic data streams. A dark, high-contrast background with subtle circuit board patterns. Dramatic backlighting, 8k resolution.",
+    "reasoning": "The combination of 'CHIP WAR' (conflict, high stakes) and 'LOOMS' (impending threat) generates urgency and curiosity. The object-focused visual is clean, high-tech, and directly relevant, encouraging clicks."
+  },
+  "title": "AI Chip War: Redesigning Future Tech",
+  "segments": [
+    {
+      "text": "US export curbs now restrict China's access to advanced AI chips. This policy aims to limit Beijing's technological progress, reshaping the global semiconductor landscape significantly.",
+      "image_prompt": "A dynamic digital map of the world, highlighting data flow lines being severed or redirected between the US and China. Red warning lights flash across the connections. Cinematic lighting.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "Consequently, China must rapidly redesign its entire AI chip industry. Billions are now pouring into domestic R&D to forge self-sufficient semiconductor solutions.",
+      "image_prompt": "A complex, glowing schematic of an AI circuit board transforming and evolving, with futuristic, high-tech factories visible in the background. Cyberpunk neon lighting, serious thought conveyed by a subtle human figure in the background (focus on schematic).",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "Major players like Huawei and SMIC are now spearheading this drive. Their goal is significant domestic AI chip breakthroughs, targeting advanced nodes by 2025.",
+      "image_prompt": "Holographic projections of company logos (Huawei, SMIC) interacting with streams of complex data on a dark, futuristic console. A digital clock visibly ticks down towards '2025'. Cinematic lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "This geopolitical tech tension is causing global supply chain disruptions. It could impact innovation timelines and increase costs for consumers everywhere, affecting future AI products.",
+      "image_prompt": "Stylized interlocking gears, with some gears visibly cracking and breaking apart, symbolizing supply chain disruption. Dynamic red and orange light reflections. Intense focus from a cybernetic hand reaching for a broken gear.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "At its core, the US rationale centers on national security concerns. Advanced AI chip technology is deemed critical, with military applications a significant apprehension.",
+      "image_prompt": "A stylized, glowing neural network diagram overlaid with subtle digital lock icons, representing restricted access. A determined-looking person's face (intense focus) through smart glasses observing secure data streams. Cinematic lighting.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "This unprecedented shift could lead to the emergence of two separate global AI ecosystems. This impacts future tech compatibility, innovation standards, and worldwide market dynamics.",
+      "image_prompt": "A split screen effect, showing two distinct, glowing, interconnected digital cities or networks, slowly drifting apart to emphasize divergence. Cyberpunk neon lighting, high contrast.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
