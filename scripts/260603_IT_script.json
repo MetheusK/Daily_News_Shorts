@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI POWER CRISIS",
+    "narration": "Warning! The AI revolution is hitting a massive, hidden wall, impacting everything you do online!",
+    "image_description": "A dramatic shot of a futuristic data center with pulsing red warning lights and digital corruption glitch effects over server racks. A cybernetic eye in the foreground reflects power consumption graphs. Cinematic lighting, cyberpunk style.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI'S WEAK SPOT",
+    "image_description": "A hyper-realistic 3D render of a glowing, intricate AI processor chip centered within a stylized server rack, surrounded by entangled power cables. Dramatic side lighting, deep shadows, 8k resolution, cyberpunk aesthetic.",
+    "reasoning": "Highlights the core technological challenge (AI's infrastructure) with a visually stunning, object-focused image. The 'weak spot' text creates intrigue, driving clicks."
+  },
+  "title": "The Hidden Truth About AI's Explosive Growth",
+  "segments": [
+    {
+      "text": "AI innovation is accelerating, fueling daily apps from content creation to predictive analytics. Tech giants report unprecedented demand for processing power, shaping our digital lives.",
+      "image_prompt": "Dynamic infographic showing interconnected AI-powered apps and services, with glowing neural network overlays. Futuristic city skyline in background.",
+      "camera_effect": "Zoom in on glowing network",
+      "text_overlay": "AI IS EVERYWHERE"
+    },
+    {
+      "text": "This explosive AI growth fuels unprecedented demand for vast new data centers worldwide. These facilities are critical infrastructure, processing petabytes of data every second.",
+      "image_prompt": "A stylized, massive data center exterior shot, highly futuristic, with glowing power lines converging towards it under a stormy sky.",
+      "camera_effect": "Pan out to reveal scale",
+      "text_overlay": "DATA CENTERS BOOM"
+    },
+    {
+      "text": "However, these powerful centers consume immense energy, generating vast heat. Solving power supply, cooling, and environmental impact is a critical, expensive challenge for scalability.",
+      "image_prompt": "Inside a server room, racks glowing stylized red hot, with cooling mist effects and digital corruption on holographic monitors. Focus on heat warnings.",
+      "camera_effect": "Slow zoom on glowing server racks",
+      "text_overlay": "POWER PROBLEM"
+    },
+    {
+      "text": "Mitsubishi Heavy Industries identifies \"structural tension\" as AI's biggest hurdle: the gap between computational demand and physical infrastructure limits. This impacts future innovations.",
+      "image_prompt": "Abstract representation of a digital grid or network under stress, with glowing stress points and limited energy flow. A stylized digital brain connects to constrained power sources.",
+      "camera_effect": "Slow rotation around the abstract grid",
+      "text_overlay": "THE AI BOTTLENECK"
+    },
+    {
+      "text": "This infrastructure bottleneck directly impacts AI service development and accessibility. Slower scaling means delayed features and higher operational costs for advanced AI applications globally.",
+      "image_prompt": "A person with sleek smart glasses looking intently at a holographic interface showing a progress bar stuck or slowing down, with futuristic city lights in the background.",
+      "camera_effect": "Static shot with subtle interface animation",
+      "text_overlay": "SLOWER AI?"
+    },
+    {
+      "text": "Urgent innovation in energy efficiency, modular data center designs, and advanced cooling technologies is paramount. Solving this tension ensures AI's sustainable and rapid advancement.",
+      "image_prompt": "A clean, highly advanced data center concept art, showing new, efficient, glowing blue cooling systems and green energy symbols integrated into modular server units. Cinematic lighting.",
+      "camera_effect": "Zoom in on advanced cooling systems",
+      "text_overlay": "INNOVATE OR LIMIT"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
