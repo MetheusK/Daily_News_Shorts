@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI IS HERE",
+    "narration": "Warning! AI's silent takeover is accelerating faster than you think.",
+    "image_description": "Close-up of a person's face, intense focus in their expression. Their eyes glow with a subtle cybernetic blue light, reflecting lines of green binary code. Dramatic side lighting casts deep shadows, enhancing a serious, determined look. Digital corruption and glitch effects subtly distort the background, with faint red warning lights flashing.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI'S NEXT MOVE?",
+    "image_description": "A hyper-realistic 3D render of a massive, glowing microchip at the center, surrounded by intricate, interconnected server racks that form a complex network. Holographic blue and green data streams flow across the entire structure. The setting is a dark, futuristic data center with dramatic, high-contrast cyberpunk lighting. 8k resolution.",
+    "reasoning": "The question in the text creates immediate curiosity, prompting a click. The stylized image of a microchip and server racks forming a network directly links AI to its essential infrastructure, hinting at the depth of the story without revealing specifics, ensuring a high click-through rate."
+  },
+  "title": "AI: Beyond Your Screen",
+  "segments": [
+    {
+      "text": "AI is experiencing unprecedented investment. Top AI stocks are attracting massive capital, signaling a market shift, showing robust confidence in future AI capabilities.",
+      "image_prompt": "Animated data graph showing exponential upward curve of investment, with a glowing 'AI' symbol prominently featured. The graph pulses with vibrant neon green lines, against a clean, technical background.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "Fueling this growth are AI data centers. Demand for their immense processing power has surged, with projected capacity needs increasing 5x by 2030, driving innovation.",
+      "image_prompt": "A visually stunning, hyper-realistic interior of a vast AI data center. Rows of sleek, glowing server racks stretch into the distance. Subtle, pulsing energy lines connect the racks, conveying immense processing power. Cyberpunk lighting.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "However, this growth creates structural tension. Power grids and supply chains struggle to keep pace with demand for specialized chips and cooling, posing significant hurdles.",
+      "image_prompt": "Dynamic infographic illustrating a strained power grid. Stylized electrical currents shown as red, jagged lines, attempting to connect to a complex diagram of microchips and cooling systems. Subtly cracked lines imply tension. Cinematic lighting.",
+      "camera_effect": "shake_light"
+    },
+    {
+      "text": "AI’s reach is expanding to unexpected sectors. Bazooka's CIO utilizes AI for supply chain optimization and market analysis, proving its versatility beyond just tech.",
+      "image_prompt": "A vibrant, abstract depiction of a candy factory conveyor belt with holographic data projections floating above it. These projections show logistic routes and market trends. A futuristic smart-glasses wearer with a determined expression, visible through the lenses, observes the data. Cyberpunk neon lighting.",
+      "camera_effect": "dolly_zoom"
+    },
+    {
+      "text": "This widespread AI integration means smarter products and services are coming. From your daily commute to grocery shopping, AI quietly refines your entire experience.",
+      "image_prompt": "A smooth, cinematic montage transition between three everyday scenes: a smart home interface, a self-driving car on a futuristic road, and a smart retail store display. Each scene subtly integrates glowing blue AI interface overlays, demonstrating seamless enhancement. Clear, bright lighting.",
+      "camera_effect": "fast_cuts"
+    },
+    {
+      "text": "Analysts predict this trend will only intensify, with AI becoming integral to critical infrastructure and personalized user interactions across every industry globally.",
+      "image_prompt": "A futuristic city skyline at dusk, bathed in cyberpunk neon lights. Intertwined digital network lines, glowing blue and green, seamlessly connect buildings and infrastructure, symbolizing widespread AI integration. High resolution.",
+      "camera_effect": "fly_through"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
