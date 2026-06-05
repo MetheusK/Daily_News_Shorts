@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "TSMC WARNING!",
+    "narration": "Stop scrolling! TSMC's record gains hide a critical market shift you NEED to understand!",
+    "image_description": "Close-up of a semiconductor analyst's eyes through smart glasses, reflecting digital data streams and flashing red warning lights. Intense focus, dramatic cyberpunk lighting, subtle digital corruption glitch effect around the edges to convey urgency.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "TSMC: NEW ERA?",
+    "image_description": "A hyper-realistic 3D render of a glowing, intricate silicon wafer centered, surrounded by holographic data projections showing abstract stock charts and AI chip schematics. Dramatic backlighting with deep blue and neon green accents, 8k resolution.",
+    "reasoning": "This thumbnail prioritizes a core object (silicon wafer) and technical data, appealing directly to engineers and investors. 'New Era?' creates intriguing mystery without sensationalism, prompting a click to understand the strategic implications."
+  },
+  "title": "TSMC's Silent Strategy: AI Demand & Valuation Shift",
+  "segments": [
+    {
+      "text": "TSMC delivered a staggering 2,095% gain over ten years, setting a benchmark for semiconductor investors. This valuation surge reflects its critical foundry position.",
+      "image_prompt": "A digital representation of a soaring stock chart overlaid on a futuristic server rack with glowing blue lights. Cinematic lighting, sharp data lines.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "Global AI chip demand, particularly for HBM and advanced GPUs, continues to soar, pushing foundry capacity limits worldwide. TSMC is central here.",
+      "image_prompt": "Holographic projection of intricate GPU and HBM chip designs, surrounded by flowing data streams. Dark, high-tech lab environment, focused engineer observing through smart glasses with a determined expression.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "Despite immense demand, TSMC prioritizes sustainable growth, opting against aggressive, immediate price hikes for its advanced wafer production.",
+      "image_prompt": "A close-up of a highly polished silicon wafer, subtly glowing, held by a precise robotic arm. An analytical overlay displays 'Price Stability' data points. Cinematic side lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "This strategy aims to stabilize supply chains and maintain long-term client relationships over short-term CAPEX maximization, impacting industry dynamics.",
+      "image_prompt": "Interconnected global supply chain network visualized as glowing lines on a world map, with 'CAPEX' and 'Supply Stability' keywords highlighted. A cybernetic hand points to a strategic node.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "TSMC is working intensely to meet this demand, focusing on optimizing manufacturing yields for cutting-edge processes to maintain quality and output.",
+      "image_prompt": "An automated cleanroom environment with robotic arms precisely handling wafers, displaying '99% Yield Optimization' on a holographic screen. A cybernetic eye, reflecting technical data, observes with intense focus.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "Investors must analyze this long-term approach: does steady expansion outweigh immediate profit, or will competitors capitalize on pricing restraint?",
+      "image_prompt": "Two diverging paths on a glowing digital roadmap, labeled 'Sustainable Growth' and 'Aggressive Profit'. A thoughtful, serious expression on an analyst's face, seen through smart glasses.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
