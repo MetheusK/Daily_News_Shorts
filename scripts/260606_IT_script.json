@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI JOB CRISIS?",
+    "narration": "WARNING! The AI job crisis you fear is NOT what it seems!",
+    "image_description": "Close-up of a person's cybernetic eye reflecting complex data graphs, with a red warning overlay. Intense focus, dramatic side lighting, digital glitch effects.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI JOB TRUTH",
+    "image_description": "3D render of a futuristic job market graph, rising dramatically, projected from a central glowing AI processor chip. Cyberpunk aesthetic, hyper-realistic, 8k resolution, dramatic backlighting, clean composition.",
+    "reasoning": "The 'AI Job Truth' text creates curiosity by implying a hidden story, while the object-focused, high-contrast image is visually striking and professional for higher click-through rates."
+  },
+  "title": "AI: Jobs safe? The REAL impact!",
+  "segments": [
+    {
+      "text": "Contrary to popular belief, AI's impact on employment is evolving rapidly. Investor's Business Daily reports surging interest in top AI stocks.",
+      "image_prompt": "Financial stock ticker showing upward trend, superimposed with a neural network graphic. Cinematic lighting, glowing data streams.",
+      "camera_effect": "zoom_in",
+      "text_overlay": "AI STOCKS SOAR"
+    },
+    {
+      "text": "A recent Yale Budget Lab study reveals AI is *not* significantly hindering hiring. This challenges widespread predictions of mass job displacement.",
+      "image_prompt": "Digital graph showing employment rates stable or increasing, with a subtle AI brain graphic in the background. A person with intense focus looking at data through smart glasses.",
+      "camera_effect": "static",
+      "text_overlay": "JOBS SAFE?"
+    },
+    {
+      "text": "Instead, AI is shifting job landscapes, creating demand for new roles in development, management, and ethical oversight, surprising experts.",
+      "image_prompt": "Holographic job descriptions appearing from a digital factory floor, showing roles like 'AI Ethicist' or 'Prompt Engineer'. Focus on wonder, cyberpunk neon lighting.",
+      "camera_effect": "pan_left",
+      "text_overlay": "NEW ROLES EMERGE"
+    },
+    {
+      "text": "Enterprises now adopt structured approaches for AI agent development. This signifies a move beyond experimentation into mature, integrated solutions.",
+      "image_prompt": "Complex flow chart diagramming AI agent development, with corporate logos subtly integrated. Cinematic lighting, a person demonstrating serious thought.",
+      "camera_effect": "zoom_out",
+      "text_overlay": "AI MATURING FAST"
+    },
+    {
+      "text": "A structured approach ensures AI agents are efficient, scalable, and secure. It minimizes risks and maximizes return on investment for businesses globally.",
+      "image_prompt": "Abstract network of interconnected AI agents represented by glowing nodes, with secure data flowing between them. Determination expression on a person looking at a screen.",
+      "camera_effect": "dynamic_pan",
+      "text_overlay": "SMARTER AI"
+    },
+    {
+      "text": "The strategic development of AI agents now focuses on augmenting human capabilities, driving unprecedented innovation across all sectors.",
+      "image_prompt": "A stylized human hand gently interacting with a holographic interface showing complex data and creative designs. Cyberpunk neon lighting, through smart glasses view.",
+      "camera_effect": "static",
+      "text_overlay": "HUMAN + AI"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
