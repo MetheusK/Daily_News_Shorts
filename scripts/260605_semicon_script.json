@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "CHIP CRISIS DEEPENS",
+    "narration": "Stop scrolling! TSMC just issued a critical warning that will reshape your AI investment strategy!",
+    "image_description": "A focused, determined analyst's cybernetic eyes reflecting a glitched-out, red-tinted server rack. Digital corruption effects cascade across the screen, with dramatic side lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "TSMC 2026 WARNING",
+    "image_description": "A hyper-realistic 3D render of a glowing silicon wafer, partially cracked with red warning lights emanating from the fissures. A robotic hand reaches for it in the background, set against a dark, dramatic, cyberpunk-inspired lab.",
+    "reasoning": "The 'TSMC' brand name combined with a specific year '2026' and the 'WARNING' text immediately signals a high-stakes, time-sensitive industry alert. The cracked wafer hints at production issues, appealing to both investors and engineers seeking critical insights."
+  },
+  "title": "TSMC's AI Chip Warning: Market Impact & Future Tech",
+  "segments": [
+    {
+      "text": "TSMC warns AI chip shortages will persist for years, impacting GPU and HBM availability through 2026. This signals sustained demand.",
+      "image_description": "A cybernetic analyst's hand points at a holographic chart displaying a rising demand curve for AI chips with a prominent '2026' marker, rendered with intense focus and cyberpunk neon lighting.",
+      "camera_effect": "dynamic zoom"
+    },
+    {
+      "text": "Stable current pricing hides future increases post-2026 due to intensive CAPEX needs and wafer manufacturing complexities. Yields are critical.",
+      "image_description": "A complex 3D render of an advanced silicon wafer fabrication line with glowing robotic arms. Close-up on a perfect wafer with dramatic, sharp lighting highlighting intricate patterns.",
+      "camera_effect": "slow pan"
+    },
+    {
+      "text": "Power Integrations and Microchip Technology shares plummeted, reflecting market sensitivity to supply chain stress and valuation concerns in the sector.",
+      "image_description": "A high-resolution stock chart displaying a sharp decline, overlaid with digital 'WARNING' glitch effects. A person views this through smart glasses, their glowing iris reflecting the data.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Nanotube Random-Access Memory market growth is forecast to accelerate by 2035, crucial for next-gen AI and Edge Computing architectures.",
+      "image_description": "A glowing, intricate 3D model of a nanotube RAM structure, floating holographically above a complex circuit board, illuminated with subtle blue and green cyberpunk light.",
+      "camera_effect": "dynamic zoom"
+    },
+    {
+      "text": "Investors must analyze long-term supply-demand dynamics and CAPEX cycles for HBM and advanced GPU production in this evolving landscape.",
+      "image_description": "An analyst with intense focus, their cybernetic eyes reflecting multiple holographic screens displaying complex market data streams and supply chain maps. Cinematic lighting highlights their serious thought.",
+      "camera_effect": "slow pan"
+    },
+    {
+      "text": "This valuation discrepancy demands investor attention now.",
+      "image_description": "A close-up of a high-resolution stock ticker displaying critical, rapidly changing data, with a single, crucial data point highlighted intensely in red. Dramatic side lighting.",
+      "camera_effect": "static focus"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
