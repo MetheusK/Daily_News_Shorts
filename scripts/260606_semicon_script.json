@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI CHIP SHOCK",
+    "narration": "Stop scrolling! Ignoring this AI chip alliance could cost your portfolio millions. The market is shifting FAST.",
+    "image_description": "Extreme close-up of a complex microchip with glowing, neon data streams pulsating through its circuits. A pair of intense, cybernetic eyes, reflecting data readouts, look through smart glasses at the chip. Digital glitch effects and urgent red warning lights flicker across the screen, cinematic lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "TSMC NVDA POWER",
+    "image_description": "A hyper-realistic 3D render of a glowing NVIDIA GPU chip seamlessly integrated onto a TSMC silicon wafer. The wafer emits a soft, blue-green light, contrasting with the vibrant orange glow of the GPU. Dramatic backlighting, cyberpunk style, 8k resolution. Focus on the central object.",
+    "reasoning": "This thumbnail visually represents the core alliance (TSMC + NVIDIA) and its power in AI chips, appealing directly to both investors interested in market dominance and engineers intrigued by cutting-edge technology. The high-contrast, object-focused image is designed for maximum click-through rate."
+  },
+  "title": "TSMC & NVIDIA: The AI Chip Market Re-Defined",
+  "segments": [
+    {
+      "text": "TSMC and NVIDIA have forged a critical alliance, embedding AI at the heart of advanced chipmaking. This redefines sector growth trajectories and market expectations.",
+      "image_prompt": "A holographic display showing 'TSMC' and 'NVIDIA' logos merging over a detailed blueprint of a sophisticated AI chip design. Cinematic lighting, intense focus.",
+      "text_overlay": "CORE ALLIANCE",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "TSMC now targets over 30% of its total revenue from AI-related semiconductors by 2028. This represents a significant capital expenditure shift and growth forecast.",
+      "image_prompt": "A digital dashboard displaying a rising revenue graph with 'AI Revenue: 30% Target by 2028' highlighted. A person with focused, glowing cybernetic eyes intently watches the data. Dramatic side lighting.",
+      "text_overlay": "TSMC: 30% AI",
+      "camera_effect": "static"
+    },
+    {
+      "text": "NVIDIA, a primary driver, secures HBM capacity from TSMC to fuel its next-gen AI GPUs. This solidifies their market lead in high-performance computing valuations.",
+      "image_prompt": "A close-up of an HBM (High Bandwidth Memory) stack on a silicon wafer, with glowing blue data lines connecting it seamlessly to a schematic design of an NVIDIA GPU. Technical, focused lighting.",
+      "text_overlay": "NVIDIA HBM FUEL",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "Manufacturing yields for cutting-edge HBM and AI GPUs remain a critical bottleneck. Supply chain stability is paramount for meeting this unprecedented AI demand surge.",
+      "image_prompt": "An industrial robotic arm meticulously placing a tiny chip onto a complex wafer. Digital warning indicators (red glitch effects) appear on parts of the wafer, symbolizing yield challenges. Intense focus, dramatic lighting.",
+      "text_overlay": "YIELD BOTTLENECK",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "This strategic partnership impacts global CAPEX cycles and defines future semiconductor valuation models. Investors must analyze yield efficiency and R&D spending closely.",
+      "image_prompt": "A dynamic financial candlestick chart overlaid with flowing digital data streams, reflecting in the smart glasses of an analyst with a serious, determined expression. Cyberpunk neon lighting.",
+      "text_overlay": "INVESTOR IMPLICATIONS",
+      "camera_effect": "tilt_up"
+    },
+    {
+      "text": "Your move on this critical valuation hinges entirely on understanding these complex supply chain and manufacturing yield dynamics. Stay tuned.",
+      "image_prompt": "A complex network diagram representing global semiconductor supply chains, with key nodes (factories, logistics hubs) highlighted. The diagram fades slightly into a digital representation of a silicon wafer. Intense focus on the data.",
+      "text_overlay": "CRITICAL VALUATION",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
