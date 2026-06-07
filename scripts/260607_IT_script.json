@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI NEWS SHOCK",
+    "narration": "Warning! Your daily news just got a radical AI upgrade, and you won't believe how fast it's changing everything!",
+    "image_description": "A person viewed through smart glasses, their cybernetic eyes reflecting a rapidly scrolling news feed with glitching headlines. Intense focus expression, cinematic red and blue neon lighting, digital corruption effects.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI OWNS NEWS",
+    "image_description": "3D render of a glowing, stylized AI neural network brain, centered on a dark background, with holographic news headlines projected around it. Hyper-realistic, cyberpunk neon lighting, 8k resolution.",
+    "reasoning": "This image directly showcases the core concept of 'AI controlling news' with a high-tech, futuristic visual, sparking intense curiosity and prompting a click to understand this powerful new dynamic."
+  },
+  "title": "Your News Is Now AI-Powered! (UAE First)",
+  "segments": [
+    {
+      "text": "Your daily news consumption is about to be radically transformed. Artificial intelligence just took a huge, unprecedented leap in media.",
+      "image_prompt": "Close-up of a digital news ticker rapidly scrolling, overlaid with abstract AI circuit patterns. Technical, clear.",
+      "camera_effect": "fast_pan"
+    },
+    {
+      "text": "19Network in the UAE has officially launched the region's first fully AI-powered newsroom, redefining how stories are created and delivered.",
+      "image_prompt": "Stylized rendering of a futuristic newsroom console with glowing screens showing AI-generated text and graphics. Concrete, technical.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "This advanced system now generates reports, analyzes data, and even writes broadcast scripts, operating at an unprecedented speed and scale.",
+      "image_prompt": "Holographic display showing data points connecting to form coherent news articles, with a robotic arm indicating analysis. Clear, technical.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "The technology enables 24/7 news cycle coverage, delivering hyper-personalized content, reaching massive audiences with tailored information daily.",
+      "image_prompt": "Global map with glowing data streams converging on various continents, representing real-time information flow. Concrete, technical.",
+      "camera_effect": "slow_zoom_out"
+    },
+    {
+      "text": "While promising rapid information dissemination, it raises critical questions about journalistic integrity, potential biases, and future employment roles.",
+      "image_prompt": "A serious person with intense focus looking at a screen displaying an AI-generated article, cinematic lighting. Follows human element rules.",
+      "camera_effect": "dolly_zoom"
+    },
+    {
+      "text": "Experts forecast this AI integration will quickly become the industry standard, fundamentally changing how everyone accesses and trusts media.",
+      "image_prompt": "A complex network of interconnected servers, glowing with blue and green data lines, symbolizing a global AI news infrastructure. Technical, clear.",
+      "camera_effect": "cinematic_sweep"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
