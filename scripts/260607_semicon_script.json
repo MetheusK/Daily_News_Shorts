@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI STOCK ALERT",
+    "narration": "WARNING: Geopolitical crisis threatens immediate collapse for critical AI stock valuations!",
+    "image_description": "A close-up of a human eye, cybernetically enhanced, reflecting a glitching world map with red 'danger zone' overlays. Digital data streams flow across the iris. Urgent red and blue cyberpunk neon lighting. Intense focus.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI CRASH AHEAD?",
+    "image_description": "A highly detailed, hyper-realistic 3D render of a cracked silicon wafer, glowing red lines emanating from the fractures, set against a dark, metallic server rack background. Dramatic backlighting with subtle smoke effects. 8k resolution.",
+    "reasoning": "The cracked wafer visually represents danger and a core semiconductor component. The question mark in the text creates curiosity, while the imagery is high-contrast and technically focused, appealing to investors and engineers without relying on human emotion."
+  },
+  "title": "Geopolitical Impact: AI Stocks & Semiconductor Outlook",
+  "segments": [
+    {
+      "text_overlay": "GLOBAL THREAT",
+      "narration": "Global market analysts issue urgent warnings: escalating geopolitical instability directly threatens AI stock valuations and semiconductor supply chain resilience.",
+      "image_description": "A holographic display showing a global supply chain network, key sections highlighted in red with digital corruption effects. A human hand, wearing smart glasses reflecting data, points at a critical node. Cinematic lighting.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text_overlay": "AVOID AI STOCKS",
+      "narration": "Specifically, investors are advised to avoid certain AI stocks until the Iran conflict resolves, highlighting immediate sector-wide risk for portfolios.",
+      "image_description": "A stylized stock market chart with a sharp downward trend, overlaid with a faint, glitching map of the Middle East. Digital data streams flowing, urgent red warning lights. A serious figure with glowing iris eyes observes. Intense focus.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text_overlay": "INTEL CPU BET",
+      "narration": "Concurrently, Intel's CEO, Lip-Bu Tan, strategically bets on a CPU revival for their AI-driven turnaround, challenging dominant GPU-centric market narratives.",
+      "image_description": "A split screen: one side showing a sleek, futuristic CPU design with glowing circuits, the other a powerful GPU render with dynamic energy flows. A figure with intense focus, reflecting digital schematics in their smart glasses. Cyberpunk lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text_overlay": "ETF RESILIENCE",
+      "narration": "These divergent industry strategies prompt closer investor scrutiny. Key semiconductor ETFs like EWT, EWY, and SOXX are now showing varied resilience.",
+      "image_description": "Three distinct, glowing holographic financial charts (representing EWT, EWY, SOXX) interacting in a complex data field. A serious analyst, with digital reflections in their eyes, observes. Dramatic side lighting.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text_overlay": "YIELD VOLATILITY",
+      "narration": "Manufacturing yields, crucial for advanced HBM memory and high-performance GPU production, now face potential volatility and unprecedented operational challenges.",
+      "image_description": "An extreme close-up of a hyper-realistic HBM stack and a GPU die, both displaying slight digital corruption at the edges, hinting at yield issues. Glitching data overlays. Technical, focused lighting.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text_overlay": "CAPEX SHIFTS",
+      "narration": "Prepare for significant shifts in semiconductor CAPEX and valuation models.",
+      "image_description": "A vast, futuristic semiconductor fabrication facility floor, dark and imposing, with red warning lights flashing across robotic arms. A single human figure with glowing data-reflecting smart glasses stands in the foreground, determined expression. Cinematic lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
