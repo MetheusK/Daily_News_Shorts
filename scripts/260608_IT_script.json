@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI IS UNLEASHED",
+    "narration": "WARNING! AI just got a terrifying upgrade that will change EVERYTHING you know about technology!",
+    "image_description": "Close-up of a human eye with a glowing cybernetic iris reflecting complex data streams, intense focus, dramatic cyberpunk neon lighting, digital glitch effects, no gore.",
+    "mood_color": "neon_green"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI'S NEW BRAIN",
+    "image_description": "Hyper-realistic 3D render of a futuristic, glowing AI processor chip at the center of a complex neural network, dramatic backlighting, cyberpunk aesthetic, 8k resolution, no human elements.",
+    "reasoning": "Focus on a powerful, mysterious AI core object to intrigue viewers about the technological advancement, promising deep insights into the future of AI."
+  },
+  "title": "NVIDIA + SK hynix: The AI Game Changer!",
+  "segments": [
+    {
+      "text": "NVIDIA and SK hynix announced a multiyear tech partnership, crucial for future AI. They target next-gen memory solutions, accelerating advanced AI development significantly.",
+      "image_prompt": "Split screen showing NVIDIA logo and SK hynix logo merging digitally, clean and modern design, subtle data streams connecting them, cinematic lighting.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "Their goal: advance memory for 'AI factories' – massive data centers for intensive AI training and inference. This partnership significantly boosts AI processing power.",
+      "image_prompt": "Futuristic server racks glowing with data, holographic projections of neural networks, clean data center environment, cybernetic lighting, no humans.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "This partnership boosts memory performance and efficiency, crucial for large AI models. Expect faster AI responses and complex capabilities in your daily applications.",
+      "image_prompt": "Digital visualization of data flowing rapidly through interconnected nodes, representing high-speed memory, with a smartphone displaying an AI assistant, cinematic lighting.",
+      "camera_effect": "tracking_shot"
+    },
+    {
+      "text": "SK hynix's High Bandwidth Memory (HBM) is key for NVIDIA's AI platforms. This innovation delivers unprecedented data throughput for complex AI workloads.",
+      "image_prompt": "Close-up of a stack of HBM memory chips, glowing blue lines indicating data flow, microscopic detail, clean white background with subtle tech patterns, cinematic lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "This strategic alliance directly impacts developers and users. More powerful AI means smarter assistants, better recommendations, and richer digital experiences for everyone.",
+      "image_prompt": "A diverse group of people (students, professionals) looking at holographic interfaces, expressions of wonder and focus, showing AI enhancing their tasks. Cyberpunk lighting, reflections of data in smart glasses.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "This multiyear commitment ensures sustained innovation for future AI generations. It solidifies their leadership, profoundly shaping the artificial intelligence landscape.",
+      "image_prompt": "Abstract representation of a growing network of interconnected glowing nodes, symbolizing long-term AI growth and future potential, cinematic lighting, no humans.",
+      "camera_effect": "dolly_zoom"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
