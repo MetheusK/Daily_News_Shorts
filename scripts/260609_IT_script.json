@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI IS WATCHING",
+    "narration": "They don't want you to know how fast AI is taking over everything!",
+    "image_description": "Close-up of a human eye reflecting abstract digital data streams, glowing iris, cybernetic enhancement, dramatic side lighting, red warning lights, intense focus, 8k resolution.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI DOMINATION?",
+    "image_description": "3D render of a futuristic server farm with glowing holographic data streams, central AI core, sleek metallic finish, cyberpunk style, hyper-realistic, 8k resolution, dramatic backlighting, no humans.",
+    "reasoning": "The question 'AI DOMINATION?' paired with a powerful, abstract visual of AI infrastructure creates intrigue and a sense of massive change, driving clicks. It avoids alarmism but hints at profound technological shifts."
+  },
+  "title": "AI's Secret Takeover: What They Aren't Telling You",
+  "segments": [
+    {
+      "text": "Global AI investments are skyrocketing, reaching unprecedented levels. This fuels rapid development, pushing AI into every industry, impacting future innovations significantly.",
+      "image_prompt": "Digital graph showing exponential growth, overlaid on a futuristic cityscape, reflecting data streams, cinematic lighting, no people, high-tech.",
+      "camera_effect": "zoom_in",
+      "text_overlay": "AI BOOM!"
+    },
+    {
+      "text": "Oracle remains central to enterprise tech. Their advanced cloud infrastructure and databases are crucial powerhouses, driving AI and critical business applications globally.",
+      "image_prompt": "Stylized server rack with glowing blue data cables, Oracle logo subtly integrated, cinematic lighting, digital corruption effect, high-tech, no humans.",
+      "camera_effect": "pan_left",
+      "text_overlay": "ORACLE POWER"
+    },
+    {
+      "text": "New multi-domain technologies, seen at Eurosatory 2026, integrate advanced AI. These systems merge diverse data streams for complex, real-time decision-making across platforms.",
+      "image_prompt": "Holographic interface showing multiple data feeds converging (e.g., maps, sensors, predictive models), human hands interacting, intense focus, cyberpunk neon, through smart glasses.",
+      "camera_effect": "pan_right",
+      "text_overlay": "INTEGRATED AI"
+    },
+    {
+      "text": "This AI development translates directly to your daily life. Expect smarter apps, personalized services, and increased automation, simplifying complex tasks more efficiently.",
+      "image_prompt": "Person using a futuristic transparent tablet with an AI assistant interface, glowing hands, wonder expression, dramatic side lighting, cybernetic elements.",
+      "camera_effect": "zoom_out",
+      "text_overlay": "YOUR DAILY AI"
+    },
+    {
+      "text": "Focus shifts to predictive AI, anticipating needs before they arise. From smart cities to personalized health, data analysis drives proactive, intelligent environments rapidly.",
+      "image_prompt": "City skyline with glowing data overlay showing predictive patterns, futuristic architecture, cinematic lighting, glowing iris, 8k resolution.",
+      "camera_effect": "slide_up",
+      "text_overlay": "PREDICTIVE FUTURE"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
