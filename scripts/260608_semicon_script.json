@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "MARKET WHIPLASH",
+    "narration": "Attention investors! A trillion-dollar semiconductor selloff just dramatically reversed. What's truly driving this market whiplash?",
+    "image_description": "A determined, serious investor, cybernetic eyes reflecting volatile stock charts with neon red and green lines, dramatic cyberpunk lighting, digital corruption glitch effect around the edges, focused gaze through smart glasses, 8k resolution.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "SEMI REBOUND?",
+    "image_description": "Hyper-realistic 3D render of a glowing semiconductor wafer, centered, with holographic stock market data overlays in dynamic green and red. Dark, cinematic background with dramatic backlighting. 8k resolution.",
+    "reasoning": "The mysterious question mark and industry-specific object (wafer) with financial data immediately convey high-stakes relevance to investors and engineers, encouraging a click to understand the 'rebound'."
+  },
+  "title": "Semiconductor Stocks: TSM Surge & AI PC Alliance Impact",
+  "segments": [
+    {
+      "text_overlay": "SEMI VOLATILITY",
+      "text": "Semiconductor stocks recently saw a trillion-dollar selloff, followed by a swift market rebound. This volatility indicates deep investor uncertainty.",
+      "image_prompt": "Dynamic stock charts showing extreme upward and downward arrows, rendered in a 3D cyberpunk style with neon light trails. Dramatic side lighting, reflecting market volatility, 8k resolution.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text_overlay": "TSM SURGE +3.78%",
+      "text": "Taiwan Semiconductor Manufacturing Co. (TSM) surged 3.78% on June 8th, signaling renewed confidence in leading-edge foundry capabilities.",
+      "image_prompt": "A pristine, hyper-realistic render of the TSMC logo, glowing with a vibrant green halo, positioned over abstract digital data streams. Cinematic backlighting, 8k resolution.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text_overlay": "AI PC ALLIANCE",
+      "text": "Nvidia and Microsoft's new AI PC alliance aims to redefine computing. This strategic move impacts future hardware and software integration for AI.",
+      "image_prompt": "Stylized, interconnected Nvidia and Microsoft logos merging into a futuristic AI brain chip design. Cinematic neon lighting, complex circuit lines, 3D render, high-tech aesthetic, 8k resolution.",
+      "camera_effect": "static"
+    },
+    {
+      "text_overlay": "KOREA SIDELINED?",
+      "text": "Concerns arise that this Nvidia-Microsoft alliance could sideline South Korea in the burgeoning AI PC era, impacting key component suppliers.",
+      "image_prompt": "A holographic, translucent map of South Korea with abstract red warning lines and digital glitch effects. A circuit board overlay representing industry, dramatic lighting, 8k resolution.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text_overlay": "VALUATION SHIFT",
+      "text": "These shifts directly influence semiconductor valuation models. Investors are re-evaluating long-term growth prospects amidst evolving market dynamics.",
+      "image_prompt": "A serious industry analyst, seen through smart glasses, intensely focused on a glowing, complex digital valuation graph projected in front of them. Cybernetic eyes reflecting data, dramatic side lighting, 8k resolution.",
+      "camera_effect": "static"
+    },
+    {
+      "text_overlay": "CAPEX & HBM",
+      "text": "This valuation shift impacts future CAPEX decisions and supply chain resilience for HBM and GPU production.",
+      "image_prompt": "Highly detailed, stacked HBM memory modules integrated into a futuristic GPU board. A robotic arm hovers, illustrating precision manufacturing, dramatic blue and white cinematic lighting, 8k resolution.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
