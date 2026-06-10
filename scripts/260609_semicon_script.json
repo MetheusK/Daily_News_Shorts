@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "FOUNDRY WAR",
+    "narration": "Urgent alert: TSMC's AI chip dominance is facing an unprecedented challenge, threatening market stability!",
+    "image_description": "A close-up of a hyper-realistic silicon wafer with data corruption glitches, red warning lights reflecting in a cybernetic eye with glowing iris, dynamic camera shake effect.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "INTEL STRIKES BACK?",
+    "image_description": "A 3D render of a futuristic, glowing silicon wafer fragment, with stylized 'G' and 'I' symbols subtly merging on its surface. Dark, hyper-realistic, 8k resolution with dramatic backlighting. No human elements.",
+    "reasoning": "This thumbnail creates immediate intrigue by hinting at a major industry shift involving key players (Intel, Google implied by 'G' and 'I') without giving away the full story, encouraging a click to understand the 'strike back'."
+  },
+  "title": "AI Chip Foundry Battle: Intel vs. TSMC",
+  "segments": [
+    {
+      "text": "Intel Foundry secured Google's next-gen AI chips, marking a major shift in the foundry landscape. This positions Intel as a significant alternative to TSMC.",
+      "image_prompt": "An extreme close-up of an Intel clean room with a robotic arm precisely placing a silicon wafer. A holographic projection of the Google logo subtly appears on the wafer's surface. Cinematic lighting, focused determination.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "This deal directly challenges TSMC’s AI chip dominance, especially concerning advanced packaging. Intel's CAPEX investments are now yielding strategic client wins.",
+      "image_prompt": "A complex 3D render of an HBM stack, with a stylized TSMC logo partially obscured by rapidly streaming digital data. The data reflects in a cybernetic eye, indicating intense focus and analysis.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "Meanwhile, TSMC signals price hikes, citing strained capacity due to soaring AI chip demand. This suggests tight supply for high-end GPUs and HBM.",
+      "image_prompt": "A holographic global supply chain map with red 'price hike' indicators appearing over chip manufacturing hubs, particularly Taiwan. A digital overlay of rising red lines indicating cost pressure. Focused expression through smart glasses.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "High demand pushes leading-edge wafer fab utilization to extremes, pressuring manufacturing yields. Both 3nm and 2nm nodes face significant production challenges.",
+      "image_prompt": "Close-up of a silicon wafer displaying intricate circuit patterns, with subtle digital glitch effects highlighting potential yield defects. A red warning light blinks on a console reflected in a glowing iris.",
+      "camera_effect": "dolly_zoom"
+    },
+    {
+      "text": "Asia's fund managers are struggling to keep pace with the AI chip rally's rapid valuation shifts. Market analysts are re-evaluating long-term growth prospects.",
+      "image_prompt": "Dynamic stock market charts showing rapid upward spikes, superimposed with complex digital data streams. A pair of hands intensely working on a holographic keyboard, analyzing complex graphs, with dramatic side lighting.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "The foundry battle intensifies as Intel leverages U.S. CHIPS Act incentives and aggressive CAPEX. This reshapes supply chain resilience and global chip manufacturing.",
+      "image_prompt": "A futuristic cityscape dominated by multiple glowing semiconductor fabrication plants. One prominent fab subtly incorporates an American flag motif. A determined cybernetic eye reflects complex data streams about global manufacturing. Cyberpunk neon lighting.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
