@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "FUTURE IS NOW",
+    "narration": "Stop scrolling! What if I told you the next generation of AI is already here, rapidly reshaping your world for 2026?",
+    "image_description": "Close-up of a human eye reflecting complex holographic data streams and glowing blue cybernetic patterns. Intense focus expression. Cinematic lighting, deep blues and purples.",
+    "mood_color": "neon_green"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI 2026: SHOCK",
+    "image_description": "A hyper-realistic 3D render of a glowing, intricate AI chip at the center, surrounded by abstract, interconnected data nodes in a dark, cyberpunk environment. Dramatic backlighting with neon blue and purple accents. 8k resolution.",
+    "reasoning": "The 'AI 2026: SHOCK' text combines a clear topic with an intriguing descriptor. The visual prioritizes a high-tech object (AI chip) over a human, making it immediately recognizable and distinct in a feed, emphasizing the future focus."
+  },
+  "title": "AI & Tech Trends 2026: Your Future Unpacked",
+  "segments": [
+    {
+      "text": "The Artificial Intelligence market is exploding, projected to reach billions by 2026. This fuels innovation across industries, from finance to daily consumer applications. Experts predict significant economic shifts.",
+      "image_prompt": "Abstract representation of exponential growth graph, intertwining with glowing digital cityscape. Cinematic lighting, blue and gold hues. Focus on 'wonder' in digital context.",
+      "camera_effect": "zoom_out_slow"
+    },
+    {
+      "text": "HR technology is rapidly evolving. By June 2026, predictive analytics and AI-driven automation will streamline recruitment, training, and employee management. Efficiency gains are enormous across workplaces.",
+      "image_prompt": "Holographic dashboard displaying employee analytics and smart scheduling. A person's hand, seen through smart glasses, interacting with the display. Intense focus expression. Cyberpunk neon lighting.",
+      "camera_effect": "pan_right_slow"
+    },
+    {
+      "text": "Litigation trends for 2026 show increased tech use. AI-powered tools are analyzing vast data, influencing legal strategy and compliance globally. Data privacy and ethics become crucial in courtrooms.",
+      "image_prompt": "Abstract legal scales made of data nodes, balancing. Glimmering red warning lights indicate 'data breach' near one side. Digital corruption effects on surrounding text. Determined expression.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Top AI stocks are outperforming, driven by huge investor interest. Companies pioneering new AI models see massive capital influx, impacting market valuations and future technological development. It's a gold rush.",
+      "image_prompt": "Dynamic stock market chart with glowing green lines, overlaid on a circuit board pattern. Digital coins raining down. Focused expression of determination. Cinematic lighting, green and blue.",
+      "camera_effect": "zoom_in_fast"
+    },
+    {
+      "text": "AI's impact on daily life by 2026 is undeniable. Enhanced smart assistants, personalized services, and adaptive interfaces are becoming standard, simplifying complex tasks for everyone globally.",
+      "image_prompt": "A smartphone screen displaying a highly intuitive, AI-powered personal assistant interface. Reflections of a person's amazed eyes in the screen. Wonder expression. Warm, inviting cinematic lighting.",
+      "camera_effect": "tilt_up_slow"
+    },
+    {
+      "text": "Expect more sophisticated AI integrations. The next two years will redefine how we work, interact, and govern with intelligent systems at the forefront of global innovation. Prepare for 2026.",
+      "image_prompt": "Panoramic view of a futuristic smart city at dusk, with interconnected autonomous vehicles and glowing data pathways. A person standing, looking out, cybernetic eyes reflecting the city lights. Serious thought expression. Dramatic side lighting.",
+      "camera_effect": "dolly_zoom"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
