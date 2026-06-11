@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI UNDER ATTACK!",
+    "narration": "Warning! The most critical tech breakthrough is now the world's biggest target.",
+    "image_description": "Close-up of a digital brain pulsating with data, surrounded by glitch effects and red warning lights. A cybernetic eye reflects a digital lock icon. Cinematic lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI TARGETED!",
+    "image_description": "A hyper-realistic 3D render of a glowing, complex AI chip at the center, surrounded by abstract digital code streams. Dramatic side lighting, dark background, 8k resolution.",
+    "reasoning": "Object-focused, high contrast, and direct urgent text immediately conveys the core conflict of AI being a target, driving clicks."
+  },
+  "title": "AI Under Siege: The New Tech War",
+  "segments": [
+    {
+      "text": "Technology is now the primary target. The AI sector, specifically, faces unprecedented attacks from sophisticated China-nexus adversaries.",
+      "image_prompt": "A stylized digital map showing interconnected nodes being highlighted in red, with data streams flowing towards a central, glowing AI core. Cinematic lighting, cyberpunk style.",
+      "camera_effect": "zoom_in",
+      "text_overlay": "MOST TARGETED"
+    },
+    {
+      "text": "These threat groups are actively hunting AI intellectual property and advanced research. Their goal is to gain strategic advantages in critical next-gen AI capabilities.",
+      "image_prompt": "Abstract visual representation of data being siphoned from a server rack. Digital 'hunting' scope overlay with AI models as targets. Cyberpunk neon lighting.",
+      "camera_effect": "pan_left",
+      "text_overlay": "HUNTING AI"
+    },
+    {
+      "text": "The implications are significant for global innovation and security. If AI breakthroughs are compromised, future applications from health to defense are at risk.",
+      "image_prompt": "Holographic display showing diverse AI applications (medical imaging, autonomous vehicles) with subtle digital corruption or red warning overlays. Dramatic side lighting.",
+      "camera_effect": "static",
+      "text_overlay": "FUTURE AT RISK"
+    },
+    {
+      "text": "This intense focus on AI extends to the critical semiconductor industry. Companies like ASE Technology are crucial, producing the hardware powering this AI race.",
+      "image_prompt": "Extreme close-up of a semiconductor wafer with intricate circuitry, glowing with internal light. Robotic arm placing a microchip. Hyper-realistic, 8k resolution.",
+      "camera_effect": "zoom_out",
+      "text_overlay": "CHIPS ARE KEY"
+    },
+    {
+      "text": "Despite threats, AI development continues to surge. Investors are closely tracking artificial intelligence trends and top AI stocks, showing strong market confidence.",
+      "image_prompt": "Dynamic infographic showing AI stock market growth trends, with rising bar charts and green arrows. A glowing 'AI' text integrated into the chart. Cinematic lighting.",
+      "camera_effect": "pan_right",
+      "text_overlay": "AI BOOM CONTINUES"
+    },
+    {
+      "text": "This creates a unique challenge: balancing rapid innovation with robust cybersecurity measures. Protecting AI’s future requires vigilance across the entire tech ecosystem.",
+      "image_prompt": "A person with determined expression, looking through smart glasses at a complex cybersecurity dashboard. Data lines converge on a central protected AI icon. Cyberpunk neon, dramatic lighting.",
+      "camera_effect": "zoom_in",
+      "text_overlay": "PROTECTING INNOVATION"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
