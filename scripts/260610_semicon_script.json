@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "FOUNDRY WAR BEGINS",
+    "narration": "Stock Alert! A critical shift in the semiconductor supply chain just dropped, and it will redefine AI valuations!",
+    "image_description": "A close-up of a human eye (cybernetic, reflecting complex data streams), wide with intense focus, surrounded by glitching digital interface elements and red warning lights. Cinematic lighting, cyberpunk neon style.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "INTEL VS TSMC?",
+    "image_description": "A 3D render of a glowing, hyper-realistic silicon wafer fragmented in two, with one side featuring an Intel logo glowing blue and the other a TSMC logo glowing green, suspended over a dark server rack array. Dramatic backlighting, 8k resolution, centered composition.",
+    "reasoning": "This thumbnail clearly visually represents the core conflict of chip foundry competition (Intel vs. TSMC) and the high stakes of AI chip production, appealing directly to investors and engineers with a clean, high-tech aesthetic for maximum click-through."
+  },
+  "title": "AI Chip War: Google Shifts Orders, Intel's Big Play",
+  "segments": [
+    {
+      "text": "World Edge AI HBM chip market analysis predicts robust growth, driven by escalating GPU demand for advanced computing. Valuations reflect this critical component's expanding role.",
+      "image_prompt": "Holographic 3D render of a High Bandwidth Memory (HBM) chip stack, glowing with blue data lines, superimposed over server racks with cyberpunk neon lighting. Focus: Serious thought.",
+      "overlay_text": "HBM DEMAND SOARS"
+    },
+    {
+      "text": "TSMC, the dominant foundry, reports strong AI-driven orders, confirming its lead in advanced wafer fabrication. High yields underpin investor confidence in its CAPEX strategy.",
+      "image_prompt": "Inside a futuristic TSMC cleanroom. Robotic arms are precisely placing glowing silicon wafers onto a production line. A cybernetic engineer with smart glasses observes with intense focus. Cinematic lighting.",
+      "overlay_text": "TSMC DOMINATES AI"
+    },
+    {
+      "text": "However, Google's reported shift of some TPU orders to Intel foundry operations signals a potential competitive pivot. This diversifies AI supply chain reliance.",
+      "image_prompt": "A digital representation of Google's 'G' logo smoothly transitioning into Intel's logo, with complex data streams flowing between them. In the background, server racks and circuit board schematics.",
+      "overlay_text": "GOOGLE SHIFTS FOUNDRY"
+    },
+    {
+      "text": "Intel's IFS gains a significant boost, attracting CAPEX for increased foundry capacity. This move tests Intel's leading-edge process yield capabilities on a large scale.",
+      "image_prompt": "Close-up of a determined engineer (cybernetic elements, reflecting data in eyes) overseeing a holographic blueprint of a new Intel foundry. Dramatic side lighting, industrial setting.",
+      "overlay_text": "INTEL'S BIG BET"
+    },
+    {
+      "text": "Despite this, significant doubts remain regarding Intel's long-term competitive yield stability and manufacturing scalability against established leaders for high-volume GPU production.",
+      "image_prompt": "A complex data visualization with rising and falling bar graphs for yield rates, some segments showing red warning lights and glitch effects, implying uncertainty. A hand in the foreground points to a critical data point.",
+      "overlay_text": "YIELD DOUBTS REMAIN"
+    },
+    {
+      "text": "This foundry dynamic introduces new variables for semiconductor stock valuations, impacting long-term CAPEX planning and HBM supply chain strategies for AI giants.",
+      "image_prompt": "A stylized stock market chart with glowing lines and numbers, overlayed with abstract representations of HBM chips and data packets. A focused analyst figure, seen through smart glasses, observes the screen.",
+      "overlay_text": "VALUATION IMPACT"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
