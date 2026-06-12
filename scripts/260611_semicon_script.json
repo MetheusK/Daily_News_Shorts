@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI CHIP ALERT!",
+    "narration": "Urgent Warning! The AI chip race just intensified, directly impacting your investments and global tech future!",
+    "image_description": "A close-up of a digital circuit board with critical components glowing red. A cybernetic eye with a data-reflecting iris in the background, showing alarm. Glitch effects over the entire image. Dramatic, aggressive red lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI FOUNDRY WAR",
+    "image_description": "Hyper-realistic 3D render of two distinct, highly detailed semiconductor wafers, one subtly etched 'TSMC' and the other 'Samsung', positioned on a dark, glowing circuit board. Dramatic backlighting with a mix of blue and orange neon. Focus is on the intricate details of the wafers themselves.",
+    "reasoning": "The 'AI FOUNDRY WAR' text implies high stakes and competition. The visual of two competing wafers is direct, technical, and avoids human elements, adhering to the 'object-focused' rule, thus appealing to both investors and engineers seeking clarity on industry dynamics without resorting to clickbait faces."
+  },
+  "title": "AI Foundry Rebound: Samsung & TSMC Battle",
+  "segments": [
+    {
+      "text": "Samsung Foundry reports significant rebound, driven by rising demand for AI chip deals. Analysts project strong Q3 revenue growth from specialized AI wafer orders.",
+      "image_prompt": "A holographic display showing a positive revenue chart with 'Q3' highlighted, overlaid on a clean room background. A robotic arm is carefully placing a glowing silicon wafer. Cinematic blue and white lighting.",
+      "text_overlay": "SAMSUNG REBOUNDS"
+    },
+    {
+      "text": "Google is actively discussing chip production with Samsung, diversifying its supply chain. This signals increased confidence in Samsung's advanced process technology capabilities.",
+      "image_prompt": "A split screen: one side showing a stylized Google logo, the other a Samsung logo. Connecting lines symbolize data flow and supply chain diversification. A digital map of global supply routes in the background. Serious, focused expressions on unseen engineers through smart glasses reflecting data.",
+      "text_overlay": "GOOGLE DIVERSIFIES"
+    },
+    {
+      "text": "However, TSMC maintains its primary role for key Google chip orders, especially for advanced HPC GPUs. Their mature 3nm yields remain critical for market leaders.",
+      "image_prompt": "An intricate 3nm chip design glowing on a transparent screen. A serious engineer, seen from behind, intensely focusing on the design. Overhead cinematic lighting highlights the chip's complexity. Digital metrics displaying '3nm Yield' and 'HPC GPU'.",
+      "text_overlay": "TSMC DOMINANCE"
+    },
+    {
+      "text": "The surge in HBM memory demand, integral to AI accelerators, directly impacts foundry capacity. Manufacturers are reallocating CAPEX for HBM and advanced packaging.",
+      "image_prompt": "Close-up of stacked HBM memory modules glowing with intense blue light. Digital data streams flow around them. Text overlays 'HBM Demand Surge' and 'CAPEX Allocation'. Focused, determined human eyes through smart glasses reflecting the data.",
+      "text_overlay": "HBM DEMAND EXPLODES"
+    },
+    {
+      "text": "This competitive foundry landscape offers AI semiconductor stock opportunities. Investors are closely monitoring valuation metrics for key players like Samsung and TSMC.",
+      "image_prompt": "A holographic stock market ticker displaying fluctuating semiconductor stock prices. Green and red data points flow across the screen. A hand (not a person's face) pointing to a 'VALUATION' chart. Cyberpunk neon lighting.",
+      "text_overlay": "INVESTOR FOCUS"
+    },
+    {
+      "text": "Analyst consensus suggests 2024 CAPEX expansions by major foundries will increase overall wafer supply for next-gen AI chips.",
+      "image_prompt": "A futuristic factory floor with robotic arms expanding capacity, producing glowing wafers. Digital display shows '2024 CAPEX' and 'Wafer Supply'. Dramatic, cinematic side lighting.",
+      "text_overlay": "FUTURE WAFER SUPPLY"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
