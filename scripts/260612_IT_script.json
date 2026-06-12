@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "DRONES UNLEASHED",
+    "narration": "Warning: The sky just changed forever! Autonomous drones are breaking free from human limits.",
+    "image_description": "A close-up of a person's intense, determined eye, reflecting a swarm of glowing, futuristic drones flying across a cyberpunk cityscape at night. Dramatic side lighting, neon green hues, digital glitch effects around the reflection.",
+    "mood_color": "neon_green"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "DRONES GONE ROGUE?",
+    "image_description": "A hyper-realistic 3D render of a sleek, advanced drone with glowing blue accents, soaring over a vast, futuristic landscape at dawn. The drone is center-framed with dramatic backlighting, 8k resolution, cinematic style.",
+    "reasoning": "The question mark in 'DRONES GONE ROGUE?' creates immediate intrigue and encourages a click by hinting at unknown possibilities, while the hyper-realistic drone showcases the tech directly."
+  },
+  "title": "Long-Range Drones Just Changed Everything",
+  "segments": [
+    {
+      "text": "Avilus just achieved an 800km remote UAV flight milestone, a record-breaking autonomous journey. This redefines long-range drone capabilities for commercial applications.",
+      "image_prompt": "A futuristic long-range drone mid-flight over a desolate, vast landscape, showing extreme distance. A subtle digital overlay highlights '800km'. Cinematic lighting, clear skies.",
+      "text_overlay": "AVILUS FLIGHT SHOCKS"
+    },
+    {
+      "text": "This wasn't just distance; it demonstrated advanced battery management, precise navigation, and robust communication protocols. It's a significant leap in drone endurance.",
+      "image_prompt": "Abstract visual representation of a drone's internal systems: glowing circuits, battery cells, and data streams indicating navigation and communication signals. Blue and green hues, technical schematics.",
+      "text_overlay": "WHY IT MATTERS"
+    },
+    {
+      "text": "MarketsandMarkets projects massive growth in the UAV market, now accelerating due to such milestones. This enables new logistics, inspection, and security services.",
+      "image_prompt": "A dynamic infographic showing an upward arrow on a holographic graph representing market growth, with icons of drone-enabled logistics, inspection, and security services appearing around it. Cyberpunk neon.",
+      "text_overlay": "MARKET EXPLOSION"
+    },
+    {
+      "text": "Imagine drone deliveries reaching remote areas, emergency aid deployment, or infrastructure monitoring without human pilot limits. This is real-world impact.",
+      "image_prompt": "A drone gently lowering a package to a remote, modern home in a visually appealing, slightly stylized setting. Focus on smooth, efficient operation, cinematic lighting.",
+      "text_overlay": "FUTURE DELIVERY?"
+    },
+    {
+      "text": "This long-range capability integrates with emerging smart tech in retail (CStore Momentum) and Pro AV (AVIXA/Caretta), pushing automation beyond traditional limits.",
+      "image_prompt": "Interconnected holographic networks linking images of a drone, a smart retail store display, and a modern Pro AV conference room, demonstrating seamless data flow. Futuristic, clean design.",
+      "text_overlay": "SMART TECH CONNECTS"
+    },
+    {
+      "text": "The implications for surveillance, rapid response, and accessibility are monumental, driving significant market expansion.",
+      "image_prompt": "A wide-angle view of a futuristic city skyline with multiple drones flying various missions (delivery, surveillance). High-tech feel, cinematic lighting, a sense of wonder and determination.",
+      "text_overlay": "GAME CHANGER"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
