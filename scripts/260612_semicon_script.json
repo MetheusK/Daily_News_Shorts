@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "WAFER SHOCK!",
+    "narration": "Foundry revenue is up, but a looming wafer price hike could crush your portfolio. Get ready for impact!",
+    "image_description": "A digital human figure with glowing cybernetic eyes displaying data overlays, intensely focused on a holographic wafer price chart with rapidly rising red lines. Dramatic cyberpunk lighting with digital glitch effects.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "CHIP PRICE HIKE?",
+    "image_description": "A hyper-realistic 3D render of a silicon wafer, glowing with internal circuitry patterns. Center-focused composition with dramatic blue and orange backlighting. 8k resolution.",
+    "reasoning": "The iconic silicon wafer immediately identifies the industry. 'CHIP PRICE HIKE?' poses a critical financial question, creating urgency and mystery for investors and engineers, driving clicks."
+  },
+  "title": "Semicon Alert: Wafer Prices & TSMC's Q1 Dominance",
+  "segments": [
+    {
+      "text": "Global foundry revenue surged 3.7% in Q1, reaching $30.8 billion, primarily fueled by robust AI chip demand and high-performance GPU orders.",
+      "image_prompt": "Holographic projection of a rising bar chart titled 'Foundry Revenue Q1', with stylized AI chip designs and GPU components subtly integrated. Cyberpunk aesthetic.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "TSMC solidified its market leadership, capturing over 60% of foundry share in Q1. Advanced process nodes, like 3nm and 5nm, propelled this significant growth.",
+      "image_prompt": "Digital map of global foundries with TSMC's logo prominently highlighted. A professional's hand with smart glasses points to Taiwan on a digital globe, reflecting data.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "Despite recent revenue gains, new industry reports signal impending wafer price increases, directly affecting major customers and likely impacting margins by Q3.",
+      "image_prompt": "A financial ledger displaying 'Wafer Manufacturing Costs' with numbers subtly increasing, overlaid with digital warning lights and glitch effects. Intense focus expression.",
+      "camera_effect": "close_up"
+    },
+    {
+      "text": "This imminent price pressure will significantly impact High Bandwidth Memory (HBM) and advanced GPU manufacturers, potentially driving up end-product costs.",
+      "image_prompt": "Detailed schematics of an HBM stack and a high-performance GPU, with red data streams visually connecting them, symbolizing cost transfer. Cinematic lighting.",
+      "camera_effect": "dolly_zoom"
+    },
+    {
+      "text": "Investors are now closely evaluating TSMC's stock valuation amidst these market dynamics. Current analyst consensus suggests a 'buy' rating before July.",
+      "image_prompt": "Stock market interface showing TSMC ticker with a rising trend line, clearly reflected in the glowing iris of a cybernetic eye or through smart glasses worn by a focused analyst.",
+      "camera_effect": "tilt_down"
+    },
+    {
+      "text": "This valuation shift impacts future CAPEX and HBM pricing strategies.",
+      "image_prompt": "A sleek, modern automated factory floor with advanced robotics, focusing on a silicon wafer being processed. Components glow with reflective data, under dramatic side lighting.",
+      "camera_effect": "slow_push_in"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
