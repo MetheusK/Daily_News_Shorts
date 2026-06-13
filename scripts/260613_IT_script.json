@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "REALITY IS OBSOLETE",
+    "narration": "Warning! Your screens are obsolete. A new visual reality is emerging, and it will change everything you see!",
+    "image_description": "Close-up of a human eye with a complex digital HUD reflecting on its surface, glowing cybernetic iris, dramatic cinematic side lighting, digital glitch effects, deep blue and red neon colors. Intense focus, 8k resolution.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "3D IS REAL",
+    "image_description": "3D Render of a glowing holographic pyramid projecting detailed data in a dark, futuristic server room. Cyberpunk style, 8k resolution, dramatic backlighting, centered object composition, high contrast.",
+    "reasoning": "This image immediately conveys advanced 3D technology in a visually striking, futuristic way, creating intrigue and a 'wow' factor. It avoids human expressions and focuses on the tech itself, compelling viewers to click to understand 'how' 3D is real."
+  },
+  "title": "Your Screens Are OBSOLETE: The 3D Future is HERE!",
+  "segments": [
+    {
+      "text": "The 3D Display Market will hit $380.69 billion by 2030. A staggering 19% CAGR signals rapid tech adoption, fundamentally shifting visual experience standards.",
+      "text_overlay": "MARKET EXPLOSION",
+      "image_prompt": "Dynamic infographic of a rising bar chart for '3D Display Market', glowing lines, dollar signs, with a digital city background, cyberpunk style, 8k render.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "Forget glasses. Volumetric and holographic displays are here, creating true immersive, real-world depth. This technology means next-generation visuals are arriving now, transforming interactions.",
+      "text_overlay": "BEYOND GLASSES",
+      "image_prompt": "Holographic projection of a complex 3D human anatomy model floating in a surgeon's hands, surrounded by subtle glowing data streams. Cinematic lighting, medical context, intense focus.",
+      "camera_effect": "pan_across"
+    },
+    {
+      "text": "Impact is diverse: medical imaging gains precision, gaming becomes hyper-realistic, and industrial design offers true spatial manipulation. Data visualization transforms completely.",
+      "text_overlay": "NEW INTERACTION",
+      "image_prompt": "Gamer wearing smart glasses (reflecting data) interacting with a hyper-realistic 3D environment in a cyberpunk room, hands gesturing, focused expression. Neon lights, dramatic side lighting.",
+      "camera_effect": "slow_push"
+    },
+    {
+      "text": "Key companies, from display manufacturers to content creators, are heavily investing. R&D is accelerating to meet this expanding consumer and enterprise demand. Expect rapid innovations.",
+      "text_overlay": "TECH RACE",
+      "image_prompt": "Abstract visual representation of data flow and glowing circuit board patterns converging, depicting rapid R&D and investment. Futuristic tech lab background, 8k render.",
+      "camera_effect": "glitch_transition"
+    },
+    {
+      "text": "Daily life changes: soon, no more flat screens. From education to entertainment, immersive interactions will become standard, blurring digital and physical realities.",
+      "text_overlay": "DAILY SHIFT",
+      "image_prompt": "Family in a futuristic living room interacting with a large, vibrant 3D holographic display showing educational content and entertainment simultaneously. Wonder expression, cinematic lighting, 8k resolution.",
+      "camera_effect": "slow_zoom"
+    },
+    {
+      "text": "The implications are profound. This isn't just an upgrade; it’s a foundational shift. Our perception of digital content and interaction is fundamentally being redefined.",
+      "text_overlay": "FUTURE REDEFINED",
+      "image_prompt": "A vast digital landscape with floating 3D architectural models and holographic data visualizations, viewed through a person's smart glasses (glowing iris). Determination expression, cyberpunk city background, 8k resolution.",
+      "camera_effect": "ascending_drone_shot"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
