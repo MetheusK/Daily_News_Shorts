@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI JOB WARNING",
+    "narration": "WARNING! AI isn't just coming for jobs, it's already here, reshaping YOUR future faster than you think!",
+    "image_description": "Extreme close-up of a cybernetic eye reflecting complex data streams, dramatic red and blue cyberpunk lighting, intense focus, digital glitch effect on the screen.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI TAKES JOBS?",
+    "image_description": "Hyper-realistic 8k render of a glowing, intricate neural network chip at the center of a server rack, dramatic backlighting, cybernetic blue and purple hues, reflecting complex data patterns. No humans.",
+    "reasoning": "Poses a direct question about AI's impact on jobs, using a futuristic tech object to pique curiosity and encourage a click."
+  },
+  "title": "AI's Shocking Dual Future Revealed!",
+  "segments": [
+    {
+      "text": "New data reveals 60% of Americans fear AI job loss. However, 70% believe it will cure cancer, showcasing AI's profound, dual societal impact.",
+      "image_prompt": "Split screen: left shows a person with a focused, serious thought expression looking at a digital job board with glitching text; right shows a glowing, abstract DNA strand or medical symbol. Cinematic lighting.",
+      "camera_effect": "pan_left_to_right"
+    },
+    {
+      "text": "Automation forecasts predict significant job shifts by 2030, particularly in manufacturing and data entry roles. Millions globally face potential displacement.",
+      "image_prompt": "A futuristic factory floor with automated robotic arms, data processing screens in the background, no humans visible, hyper-realistic.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "AI's healthcare potential is immense. Algorithms accelerate drug discovery and diagnostics, offering new hope for untreatable conditions and personalized medicine.",
+      "image_prompt": "Holographic display of a human cell structure being analyzed by glowing AI algorithms, a digital medical cross icon appearing on screen, cinematic blue lighting.",
+      "camera_effect": "dolly_in"
+    },
+    {
+      "text": "This AI revolution, both its challenges and promises, is fundamentally powered by exponential data growth and high-performance memory demands.",
+      "image_prompt": "Abstract representation of vast data streams flowing into a sleek, glowing server rack with advanced memory modules, cyberpunk aesthetic.",
+      "camera_effect": "rotate"
+    },
+    {
+      "text": "Micron Technology's CEO emphasizes complex memory manufacturing. This is crucial for scaling AI infrastructure, supporting massive computational requirements globally.",
+      "image_prompt": "Close-up of a Micron memory chip with intricate circuit patterns, glowing softly, overlaid with a subtle blueprint-like graphic, dramatic side lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "AI's trajectory is undeniable, shaping job markets and scientific discovery with increasing force.",
+      "image_prompt": "A panoramic view of a futuristic city skyline with holographic projections displaying data and job market trends, a glowing digital brain in the sky, 8k resolution.",
+      "camera_effect": "zoom_in_slowly"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
