@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI CHIP WARNING",
+    "narration": "Major crisis brewing in AI chips! TSMC's bottleneck is creating a massive market shock you need to know NOW!",
+    "image_description": "Extreme close-up of a cybernetic eye reflecting complex AI chip designs with red warning lights flashing, digital corruption glitching around the iris, dramatic cyberpunk lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI CHIP CRUNCH",
+    "image_description": "A glowing, hyper-realistic 3D render of a future AI chip on a wafer, partially obscured by digital static/glitch, with a prominent red 'X' overlay, dark, dramatic backlighting, 8k resolution.",
+    "reasoning": "Highlights the core problem (AI chip crunch) with a clear visual of a damaged/disrupted chip, creating urgency and mystery for a higher click-through rate. Focuses on an object as per rules."
+  },
+  "title": "AI Chip CRISIS: Google, Samsung & TSMC Shockwave",
+  "segments": [
+    {
+      "text": "Google explores Samsung for its next-gen ‘Icefish’ TPU, a strategic shift driven by TSMC’s severe AI chip capacity crunch. This impacts future GPU supply.",
+      "image_prompt": "A sleek, futuristic Google logo merging with a Samsung logo on a microchip, holographic data flowing between them, blueprint background, serious tone, cinematic lighting.",
+      "text_overlay": "GOOGLE SHIFTS",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "The 'Icefish' TPU targets advanced AI inference, crucial for Google's large language models. Samsung’s foundry offers 4nm process tech, a competitive edge.",
+      "image_prompt": "A detailed, glowing 3D render of a 'Icefish' TPU chip with neural network connections emanating, technical schematics in background, intense focus, cyberpunk neon lighting.",
+      "text_overlay": "ICEFISH TPU",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "Samsung's advanced HBM memory integration and packaging capabilities are critical. Their yield rates for 2.5D packaging are now a key decision factor.",
+      "image_prompt": "Robotic arm precisely placing HBM stacks onto a silicon interposer on a wafer, focus on micro-scale precision, blue and white light, reflecting data in a glowing iris of a smart glasses-wearing engineer.",
+      "text_overlay": "SAMSUNG YIELD",
+      "camera_effect": "static"
+    },
+    {
+      "text": "This partnership could diversify Google’s AI chip supply chain, mitigating risks associated with single-foundry dependence. Market dynamics for AI hardware are changing.",
+      "image_prompt": "Interconnected global supply chain map on a holographic display, data lines rerouting from one factory icon to another, strategic look, dramatic side lighting.",
+      "text_overlay": "SUPPLY SHIFT",
+      "camera_effect": "dolly_zoom"
+    },
+    {
+      "text": "Jefferies flags AI stock correction risks, citing increased IPOs and high valuations. A supply chain disruption could exacerbate market volatility and investor concern.",
+      "image_prompt": "Stock market charts showing downward trend with red warning overlays, subtle digital glitch effects, reflecting in a serious investor's smart glasses, cinematic lighting.",
+      "text_overlay": "AI STOCK RISK",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "This capacity crunch could redefine AI chip valuations and long-term supply chain dynamics, impacting future CAPEX.",
+      "image_prompt": "Holographic projection of a complex semiconductor supply chain, glowing data lines, financial charts in background, dramatic lighting, intense focus.",
+      "text_overlay": "CAPEX IMPACT",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
