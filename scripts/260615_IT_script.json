@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI IS WATCHING",
+    "narration": "Warning! Your online world is about to change forever, and not everyone is happy about it!",
+    "image_description": "A person's cybernetic eyes reflecting data streams, surrounded by rapid digital glitch effects and urgent red warning lights, cinematic lighting, intense focus.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "GEN Z FIGHTS AI",
+    "image_description": "A hyper-realistic 3D render of a stylized 'No AI' symbol overlaid on a futuristic holographic interface, with a subtle human hand reaching towards it, cyberpunk neon lighting, 8k resolution, dramatic backlighting.",
+    "reasoning": "This thumbnail uses a strong, easily recognizable symbol ('No AI') combined with futuristic tech imagery, creating a clear conflict that appeals to curiosity and targets younger audiences interested in tech trends and social movements. It's direct, high-contrast, and action-oriented, prompting a click to understand the 'fight'."
+  },
+  "title": "Gen Z's Secret War Against AI: Your Tech Future Revealed!",
+  "segments": [
+    {
+      "text": "The dynamic pricing software market is projected for massive growth, reaching $6.9 billion by 2030, with a 14.6% CAGR from 2026.",
+      "text_overlay": "PRICES SOAR!",
+      "image_prompt": "Hyper-realistic 3D render of upward-trending financial graphs exploding out of a smartphone screen, dollar signs raining down, cyberpunk neon lighting, 8k resolution.",
+      "camera_effect": "dynamic zoom"
+    },
+    {
+      "text": "This means more real-time adjustments for products and services you consume, driven by AI algorithms tailored to demand and your behavior.",
+      "text_overlay": "AI DECIDES!",
+      "image_prompt": "Abstract AI neural network visualizing data flowing into e-commerce interfaces, prices digitally changing in real-time on various products, dramatic side lighting.",
+      "camera_effect": "pan left to right"
+    },
+    {
+      "text": "Online entertainment platforms are adopting AI for personalization, enhancing user experience through tailored content, improved security, and unique recommendations daily.",
+      "text_overlay": "CUSTOM FEED!",
+      "image_prompt": "Holographic streaming interface displaying personalized content recommendations, glowing security shield icons, a user's cybernetic eye reflecting the screen, cinematic lighting.",
+      "camera_effect": "slow zoom in"
+    },
+    {
+      "text": "However, a significant counter-trend emerges: Gen-Z is increasingly embracing 'anti-AI' sentiment, prioritizing human-made content and authentic experiences.",
+      "text_overlay": "GEN Z REVOLTS!",
+      "image_prompt": "Young person with a determined expression looking skeptically at a screen displaying AI-generated content, a stylized 'No AI' digital banner appearing, dramatic side lighting.",
+      "camera_effect": "fast cut"
+    },
+    {
+      "text": "This pushback highlights a growing demand for transparency and ethical AI usage, influencing how future platforms will need to balance automation with user values.",
+      "text_overlay": "ETHICS FIRST!",
+      "image_prompt": "Digital scales balancing a glowing AI symbol on one side and a human hand symbol on the other, surrounded by lines of code with 'ethical' keywords highlighted in neon, cyberpunk aesthetic.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "The impact on daily user experience will be substantial, shifting how we engage with digital content permanently.",
+      "text_overlay": "NEW REALITY!",
+      "image_prompt": "A futuristic digital city skyline seen through smart glasses, with data overlays and dynamic interfaces, reflecting the user's determined eye, cinematic lighting.",
+      "camera_effect": "dolly zoom out"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
