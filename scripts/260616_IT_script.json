@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "PRICES ARE CHANGING!",
+    "narration": "WARNING! Your online prices are no longer stable; algorithms are now reacting to your every move!",
+    "image_description": "Extreme close-up of a human eye, cybernetically enhanced, reflecting dynamic price charts and flashing data streams. Digital glitch effects and red warning lights around the iris. Cinematic lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI PRICE SHOCK",
+    "image_description": "A glowing, futuristic computer chip at the center of a swirling vortex of data streams, reflecting dollar signs. Hyper-realistic 3D render, cyberpunk aesthetic, with dramatic backlighting. 8k resolution.",
+    "reasoning": "This thumbnail clearly communicates 'AI' and 'price impact' using a visually striking object, adhering to the object-first rule and cyberpunk style for high click-through rates."
+  },
+  "title": "The Hidden AI Changing Every Price Online",
+  "segments": [
+    {
+      "text": "The Dynamic Pricing Software market will surge to $6.9 billion by 2030. Expect a 14.6% annual growth (CAGR) from 2026, reshaping how products are valued globally.",
+      "image_prompt": "3D render of a futuristic stock chart with a sharp upward trajectory, overlaid with glowing dollar signs and data points, dramatic backlighting, 8k.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "This AI-driven software constantly adjusts prices. It reacts to demand, inventory, competitor moves, and *your* real-time online behavior. Personalized pricing is here.",
+      "image_prompt": "Cyberpunk AI interface displaying multiple fluctuating metrics (demand, inventory, user activity) dynamically adjusting a product price in real-time. Neon lighting, 8k.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "Online entertainment platforms are leveraging dynamic pricing. This enhances UX, security, and personalization in streaming, gaming, and content delivery, tailoring your experience.",
+      "image_prompt": "Holographic display showing a personalized entertainment dashboard with various content options and subtle, changing subscription prices. Focused human eyes through smart glasses, cinematic lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Industrial innovation from events like SENSOR+TEST 2026 underpins this. Advanced sensors gather the massive datasets crucial for these intelligent pricing algorithms to function.",
+      "image_prompt": "Complex network of interconnected industrial sensors feeding glowing data streams into a central processing unit, represented as a neural network, cybernetic, 8k.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "For you, this means highly personalized offers, but also prices that fluctuate instantly. Your every interaction now directly influences what you see and pay.",
+      "image_prompt": "Close-up of a person's hand holding a smartphone, the screen showing an e-commerce page with prices subtly morphing. The person has an intense, thoughtful expression. Dramatic side lighting.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "So, get ready for an industry-wide overhaul, driven by these unseen forces shaping tomorrow.",
+      "image_prompt": "Epic shot of a global digital network connecting various industries and smart cities, glowing data pathways intertwining, hyper-realistic, 8k.",
+      "camera_effect": "dolly_zoom"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
