@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "MIND CONTROL IS REAL",
+    "narration": "Stop scrolling! A secret war for your mind just escalated, and humanity just changed forever!",
+    "image_description": "Extreme close-up of a human eye with a complex, glowing cybernetic iris, reflecting lines of data. Red warning lights flash rapidly around the eye, with subtle digital glitch effects across the screen. Cinematic lighting, intense focus.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "CHINA'S BRAIN TECH",
+    "image_description": "A hyper-realistic 3D render of a glowing, translucent BCI chip embedded within a holographic representation of a human brain. The chip emits neon blue light, with intricate data streams flowing outwards. Dark, cyberpunk background with dramatic backlighting. 8k resolution.",
+    "reasoning": "Highlights the key player and the core technology with a visually stunning, high-contrast object. The 'China's Brain Tech' phrasing immediately identifies the subject and implies a major development, creating curiosity."
+  },
+  "title": "China's BCI Beats Neuralink: Future Shock!",
+  "segments": [
+    {
+      "text": "China has officially launched its first Brain-Computer Interface (BCI) human trials, achieving a major global milestone in advanced neural technology.",
+      "image_prompt": "Technical diagram of a sleek, futuristic BCI implant integrating into a glowing, translucent brain model. Data streams flow from the implant. Cinematic lighting.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "This puts China ahead of Elon Musk’s Neuralink in delivering what he termed 'Jesus-level' brain interface capabilities to patients.",
+      "image_prompt": "Two stylized, glowing holographic brain models side-by-side. The left brain (representing China) glows with vibrant green data lines, while the right brain (Neuralink) shows subtle blue lines. A digital 'VS' graphic between them. Cyberpunk neon lighting.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "The trials aim to help paralyzed patients regain control of limbs and communicate, dramatically improving daily life through direct thought command.",
+      "image_prompt": "A person with intense focus, looking through smart glasses that project an interface showing a robotic arm moving. Cybernetic elements are subtly visible near the temple. Dramatic side lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Researchers utilized micro-electrode arrays implanted directly into the motor cortex, interpreting neural signals with unprecedented precision and speed.",
+      "image_prompt": "Extreme close-up, high-magnification view of tiny, glowing micro-electrode arrays precisely positioned on a digital brain surface. Data pulses emanating from the electrodes. Hyper-realistic, 8k detail.",
+      "camera_effect": "dolly_out"
+    },
+    {
+      "text": "Initial reports indicate a response time under 50 milliseconds, demonstrating a significant leap in seamless human-machine integration and control.",
+      "image_prompt": "Dynamic digital display showing '50 ms' in large, bold green text, overlaid on an animated brainwave pattern. A subtle, rapid green pulse emanates from the center. Cinematic lighting.",
+      "camera_effect": "dynamic_wipe"
+    },
+    {
+      "text": "This breakthrough could reshape medical treatments, enable enhanced human capabilities, and ignite a new era of direct neural interaction globally.",
+      "image_prompt": "A holographic projection of a futuristic cityscape where smart prosthetics and advanced interfaces are subtly integrated into daily life scenes. Neon light glows from various tech elements. Wide, sweeping shot.",
+      "camera_effect": "drone_shot"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
