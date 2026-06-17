@@ -1,0 +1,46 @@
+{
+  "hook_plan": {
+    "overlay_text": "CAPACITY CRUNCH!",
+    "narration": "Urgent warning! A critical AI chip capacity crunch is deepening, threatening industry stability and your investments!",
+    "image_description": "Extreme close-up on a cybernetic human eye reflecting complex semiconductor schematics and flashing red warning lights. Digital glitch effects are spreading across the screen, indicating system instability. Cinematic, aggressive lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "TSMC CHALLENGE AHEAD",
+    "image_description": "A hyper-realistic 8k render of a glowing, intricate HBM memory stack, central and vertically oriented. Subtle digital glitch lines emanate from its base. Dramatic, dark cyberpunk lighting with deep blue and red accents, emphasizing its complexity and a hint of instability.",
+    "reasoning": "The thumbnail focuses on a key industry object (HBM stack) and hints at a challenge ('TSMC Challenge Ahead') to create intrigue for both investors and engineers, encouraging a click without giving away the full story immediately."
+  },
+  "title": "TSMC Capacity Crunch & AI Chip Battle 2026!",
+  "segments": [
+    {
+      "text": "TSMC faces deepening HBM and GPU capacity constraints extending into 2026. This bottleneck impacts high-performance AI chip production, crucial for market growth and supply chain stability.",
+      "image_prompt": "A complex 3D render of a TSMC factory floor with HBM stacks, digital projections of capacity charts. A serious engineer observes data on a transparent screen through smart glasses, cinematic lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Google's strategic shift to Samsung for future AI chips signals major diversification. This move reduces reliance on single-source suppliers, impacting competitive dynamics and future foundry CAPEX allocations.",
+      "image_prompt": "Two corporate logos (Google, Samsung) with a digital handshake animation. A precise robotic arm transfers a glowing AI chip between two stylized futuristic factory modules, reflecting data on its metallic surface.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Despite capacity concerns, Aletheia Capital raised TSMC's price target to NT$3,500. Investor confidence remains high due to long-term AI demand, pushing valuations even amidst manufacturing challenges.",
+      "image_prompt": "A stylized stock chart for TSMC showing a sharp upward trend, overlaid with intricate golden AI chip designs. A person with an intense focus is analyzing market data on a holographic display, cinematic lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Japan solidifies its strategic position in the AI era semiconductor supply chain. Specializing in advanced materials, manufacturing equipment, and critical components, Japan ensures global wafer production integrity.",
+      "image_prompt": "A holographic 3D map of Japan with glowing network lines connecting to global semiconductor supply chain nodes. Advanced, clean room manufacturing equipment for wafer production is visible in the foreground, illuminated by neon lights.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "These shifts directly influence future CAPEX spending and yield optimization strategies. Manufacturers will heavily invest in new fabs and processes to meet AI chip demand, impacting long-term profitability.",
+      "image_prompt": "Dynamic data streams flowing into a futuristic semiconductor fabrication plant, visualizing CAPEX bar charts and yield curves. A precise robotic arm works on a silicon wafer under dramatic side lighting, digital corruption subtly visible on the yield curve for emphasis.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
