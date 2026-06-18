@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI PACKAGING WAR",
+    "narration": "Warning: The AI chip packaging war just exploded! Korea's dominance is under severe threat.",
+    "image_description": "Close-up of a cybernetically enhanced eye, reflecting holographic schematics of advanced packaging, digital corruption glitch effects, intense red warning lights, dramatic cyberpunk lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "HBM SHOCKER",
+    "image_description": "Hyper-realistic 3D render of a stacked HBM memory module integrated onto a glowing silicon interposer with visible glass substrate layers, surrounded by abstract digital data streams, dark background, dramatic blue and purple backlighting, 8k resolution.",
+    "reasoning": "Focus on the critical HBM technology and emerging glass substrate innovation, appealing directly to engineers and investors interested in advanced packaging, creating visual intrigue for high CTR."
+  },
+  "title": "TSMC Glass Substrates vs. Samsung's Gains: AI Packaging Heats Up!",
+  "segments": [
+    {
+      "text": "TSMC accelerates glass substrate technology development, crucial for next-generation AI and HBM packaging. This tactical pivot aims to secure future high-density GPU demand.",
+      "image_prompt": "Close-up of a transparent glass substrate with glowing circuit traces, intricate 3D stacked chip architecture visible, held by a robotic arm, cinematic lighting.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "Korea now risks losing its critical AI packaging lead, especially with TSMC's aggressive CAPEX into advanced materials and complex wafer integration for HBM.",
+      "image_prompt": "High-tech factory floor, automated machinery working on large silicon wafers, data overlay showing CAPEX figures, intense blue and white industrial lighting.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "Meanwhile, Samsung Foundry secured major contracts, adding Nvidia, Tesla, and Qualcomm. This signals robust demand for its advanced process nodes despite competition.",
+      "image_prompt": "Holographic display showing company logos (Nvidia, Tesla, Qualcomm) above a detailed 3D render of a Samsung advanced logic chip, cybernetic hand pointing, neon lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "The intense competition pressures manufacturing yields for cutting-edge components. Both giants push lithography and packaging to extreme efficiency levels.",
+      "image_prompt": "Complex micro-machinery optimizing a wafer surface, digital readout of 'Yield %' statistics, green data lines, intense focus, dramatic side lighting.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "TSMC stock (TSM) rose 3.01% on June 17th, reflecting investor confidence in its long-term strategic investments and AI sector dominance, impacting valuation.",
+      "image_prompt": "Stock market graph with a rising TSM ticker, digital lines converging on a cybernetically focused eye, glowing iris reflecting data, serious thought, dramatic lighting.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "This accelerates the industry's shift towards advanced packaging and heterogenous integration strategies.",
+      "image_prompt": "Futuristic cleanroom technician (intense focus, smart glasses reflecting data) examining a next-gen multi-chip module with glowing interconnections, cinematic lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
