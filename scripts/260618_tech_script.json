@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "FREE FIRE SECRET!",
+    "narration": "Stop scrolling! Garena Free Fire just dropped a hidden advantage you're missing out on TODAY.",
+    "image_description": "A hand with cybernetic glowing lines holding a smartphone, a mysterious digital vault door opening on the screen, reflecting in a glowing iris, dramatic blue and purple cyberpunk lighting. Intense focus.",
+    "mood_color": "neon_green"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "FREE CODE BOOST",
+    "image_description": "A hyper-realistic 3D render of a glowing digital chest emblazoned with 'FF' (Free Fire logo), surrounded by floating holographic data fragments, on a dark, reflective surface with dramatic backlighting. 8k resolution.",
+    "reasoning": "This thumbnail highlights a clear benefit (boost) and the game. The mysterious digital chest implies valuable, exclusive content, enticing clicks without resorting to sensationalism. It's object-focused and high quality."
+  },
+  "title": "Garena Free Fire MAX: Daily Codes Explained",
+  "segments": [
+    {
+      "text_overlay": "DAILY CODES",
+      "text": "Garena Free Fire MAX consistently provides daily redeem codes, a key player retention strategy. These limited-time codes offer significant in-game advantages.",
+      "image_prompt": "Garena Free Fire MAX game UI showing a prominent redeem code input field, glowing text input, cybernetic design elements, clear and sharp.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text_overlay": "JUNE 18 REWARDS",
+      "text": "For June 18, 2026, new codes were released, valid for 24 hours only. Players access them via a specific redemption site, ensuring fair distribution.",
+      "image_prompt": "Screenshot of the official Garena Free Fire redemption website, showing '18 June 2026' date prominently, with a subtle digital overlay and data lines, hyper-realistic.",
+      "camera_effect": "static"
+    },
+    {
+      "text_overlay": "UNLOCK REWARDS",
+      "text": "These codes unlock exclusive virtual items, including powerful weapon skins, unique character outfits, and valuable in-game currency like diamonds instantly.",
+      "image_prompt": "Close-up cinematic shot of several highly detailed, glowing in-game items (e.g., futuristic weapon skin, detailed character outfit) rotating holographically, dramatic spotlight.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text_overlay": "PLAYER LOYALTY",
+      "text": "This daily reward system cultivates significant player loyalty, encouraging consistent logins. Millions participate globally, boosting overall game activity and engagement.",
+      "image_prompt": "Dynamic data visualization chart showing a sharp spike in active user logins for a mobile game over time, with numbers like 'Millions of Players' displayed, animated digital trend lines.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text_overlay": "INSTANT ACCESS",
+      "text": "The redemption process is streamlined: users input codes on the official website, receiving rewards directly in their game mailbox within minutes, guaranteed.",
+      "image_prompt": "First-person view through smart glasses, an augmented reality overlay showing a user interface for inputting alphanumeric codes, reflecting a determined eye in the corner of the lens, cyberpunk neon glow.",
+      "camera_effect": "static"
+    },
+    {
+      "text_overlay": "GAME GROWTH",
+      "text": "This strategic engagement balances free access with premium content. It maintains a robust, active community crucial for long-term game success and market presence.",
+      "image_prompt": "A stylized 3D render of a glowing digital globe with interconnected lines representing a global gaming community, the Garena Free Fire MAX logo subtly integrated, against a futuristic city skyline with dramatic side lighting.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
