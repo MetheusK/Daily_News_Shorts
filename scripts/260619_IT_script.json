@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "FUTURE SHOCK!",
+    "narration": "Warning! The future isn't coming... it's already here, accelerating faster than you can imagine!",
+    "image_description": "A person looking through futuristic smart glasses, their cybernetic eyes reflecting rapidly scrolling data feeds and holographic projections. Surroundings are cyberpunk neon lighting with digital glitch effects. Expression of intense focus.",
+    "mood_color": "neon_green"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "2026 TECH EXPLOSION",
+    "image_description": "A complex 3D render of interconnected, glowing data nodes forming an abstract network. Abstract light trails represent rapid growth and innovation. Hyper-realistic, 8k resolution, with dramatic blue and purple backlighting. No humans.",
+    "reasoning": "The abstract visual and bold text create a sense of mystery and urgency about '2026 Tech Explosion', compelling clicks without relying on generic human reactions."
+  },
+  "title": "2026 Tech Trends: What You NEED To Know!",
+  "segments": [
+    {
+      "text": "InfoComm 2026 kicks off its inaugural Media Day, unveiling groundbreaking innovations across display and communication technologies. Expect smart environments and immersive experiences.",
+      "image_prompt": "A sleek, holographic display showing architectural blueprints and interactive user interfaces projected in a futuristic room. Cinematic lighting.",
+      "camera_effect": "slow_pan_left_to_right"
+    },
+    {
+      "text": "These innovations promise to redefine daily interactions, blending seamless augmented reality with intuitive human-computer interfaces. User experience becomes paramount by 2026.",
+      "image_prompt": "A person's hands (with no specific identifying features) interacting with a transparent, gesture-controlled tablet displaying an urban overlay. Cinematic lighting, focusing on precise hand movements.",
+      "camera_effect": "smooth_zoom_out"
+    },
+    {
+      "text": "Meanwhile, advanced AI and automation are transforming critical sectors like poultry technology. Data-driven insights are boosting efficiency and sustainability in food production by 2026.",
+      "image_prompt": "A futuristic, sleek robotic arm with glowing sensor lights delicately tending to controlled-environment agriculture. The setting is a clean, high-tech indoor farm.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Driving much of this innovation, the global helium market forecasts exponential growth to 2032. It’s vital for cryogenics, quantum computing, and advanced manufacturing.",
+      "image_prompt": "A stylized, glowing depiction of a complex quantum computer chip, with intricate circuits illuminated in cool blue and white. Data streams flow subtly around it.",
+      "camera_effect": "slow_zoom_in"
+    },
+    {
+      "text": "Helium's scarcity makes its increasing demand critical for next-generation MRI, fiber optics, and chip fabrication. This underlines its foundational role in all future tech.",
+      "image_prompt": "A detailed cross-section diagram of an MRI machine, showing glowing internal components and magnetic fields, with digital data flowing through its structure. Cyberpunk aesthetic.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "The full impact of these shifts will emerge by 2032.",
+      "image_prompt": "A digital clock rapidly advancing through years, then freezing prominently on '2032'. A matrix-like code effect overlays the background.",
+      "camera_effect": "fast_zoom_in"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
