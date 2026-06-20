@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "TSM'S CAPACITY CRISIS",
+    "narration": "WARNING: TSMC stock surged, but a hidden production crisis threatens the entire AI semiconductor market!",
+    "image_description": "A futuristic stock chart rapidly glitching from green to red, overlaid with a cybernetic eye reflecting complex data streams, dramatic red warning lights flashing, deep shadows, intense focus.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "TSMC CAPACITY CRITICAL",
+    "image_description": "A hyper-realistic 3D render of a glowing silicon wafer being held by a robotic arm, surrounded by holographic data projections showing 'Capacity: 98%' and 'Demand: Rising', with dramatic cyberpunk backlighting. 8k resolution.",
+    "reasoning": "Highlights a critical supply chain and capacity issue with high-tech visuals, directly appealing to investors and engineers through a clear, urgent technical challenge."
+  },
+  "title": "TSMC's Hidden Crisis: Stock Surge vs. Production Limits",
+  "segments": [
+    {
+      "text": "Taiwan Semiconductor Manufacturing Co Ltd (TSM) saw a 6.86% stock surge on June 19th. However, this masks looming production capacity issues.",
+      "text_overlay": "TSM STOCK SURGE",
+      "image_prompt": "A serious analyst with smart glasses, eyes reflecting a dynamic stock ticker, superimposed over a discreet TSMC logo, cinematic blue lighting, deep focus."
+    },
+    {
+      "text": "TSMC's current production capacity is nearing its absolute limit, specifically for advanced nodes critical for AI GPU manufacturing and HBM.",
+      "text_overlay": "CAPACITY LIMITS",
+      "image_prompt": "A 3D render of a densely packed cleanroom with robotic arms assembling wafers, a holographic overlay showing a red '98% Capacity' warning, detailed technical environment."
+    },
+    {
+      "text": "This bottleneck might force major clients like Tesla and Google to consider Samsung Foundry for their crucial next-generation chip orders.",
+      "text_overlay": "CLIENT SHIFT RISK",
+      "image_prompt": "Two stylized corporate logos (Tesla, Google) with arrows pointing towards a Samsung logo, all as glowing holographic projections over a circuit board, viewed with intense focus."
+    },
+    {
+      "text": "ASML remains indispensable, a €638 billion titan whose EUV lithography tools are the bottleneck for cutting-edge wafer fabrication yields.",
+      "text_overlay": "ASML'S BOTTLE NECK",
+      "image_prompt": "An ASML EUV machine (stylized, futuristic) with glowing internal components, reflecting the cybernetic eyes of an engineer, dramatic industrial lighting, high detail."
+    },
+    {
+      "text": "The soaring demand for high-bandwidth memory (HBM) and AI GPUs intensifies pressure on existing foundry capacity and yield optimization.",
+      "text_overlay": "HBM DEMAND EXPLODES",
+      "image_prompt": "A server rack overflowing with glowing AI GPU cards and HBM stacks, data streams flowing, viewed through smart glasses with intense focus, cyberpunk neon."
+    },
+    {
+      "text": "This scenario directly impacts 2024 CAPEX allocations. The subsequent HBM and GPU pricing adjustments remain critical for market valuation and supply chain.",
+      "text_overlay": "CAPEX & HBM IMPACT",
+      "image_prompt": "A digital representation of financial graphs showing fluctuating CAPEX and HBM prices, viewed by an analyst with cybernetic eyes, deep in serious thought, data reflections, cinematic lighting."
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
