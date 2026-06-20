@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "FUTURE IS HERE",
+    "narration": "A secret revolution is unfolding in tech! Everything you know is about to change drastically, and it's happening right now!",
+    "image_description": "A person with intense focus, looking through smart glasses that reflect rapidly scrolling data streams and glowing lines of code, cinematic lighting, with subtle red warning lights flickering across the screen, digital corruption effect on the edges of the frame.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI QUANTUM LEAP",
+    "image_description": "Hyper-realistic 3D render of a glowing quantum processor chip at the center, intricately connected to a stylized neural network. Holographic medical data and floating abstract AI algorithms surround the core, all bathed in dramatic blue and purple cyberpunk lighting. 8k resolution, centered composition.",
+    "reasoning": "This thumbnail prioritizes impactful objects (quantum chip, AI algorithms, medical data) over humans, highlighting the core technological convergence. 'AI QUANTUM LEAP' is punchy and hints at massive advancement, creating curiosity for high CTR."
+  },
+  "title": "AI, Quantum & MedTech: The New Tech Frontier!",
+  "segments": [
+    {
+      "text": "MedTech is evolving. Innovation now focuses on integrated patient \"pathways\" rather than isolated products. This promises a future of personalized, data-driven health experiences for everyone.",
+      "image_prompt": "Holographic projection of a seamless patient journey flowchart, integrated with biometric data visualizations, cybernetic blue lighting, 3D render.",
+      "camera_effect": "dynamic zoom on data points"
+    },
+    {
+      "text": "AI is central to this MedTech revolution, leveraging patient data for predictive insights. It's creating seamless, efficient, and highly personalized treatment plans across healthcare systems.",
+      "image_prompt": "Visual representation of AI algorithms analyzing complex medical data streams, glowing neural network overlaying X-rays, futuristic sterile lab environment, focused expression.",
+      "camera_effect": "panning across data"
+    },
+    {
+      "text": "Quantum computing's arrival is imminent, enabling businesses to slash \"expensive guesswork.\" This technology promises to solve previously intractable problems, unlocking vast new value streams.",
+      "image_prompt": "Abstract visual of a quantum computer's qubits glowing and interacting, creating complex data patterns, dramatic purple and green neon lighting, 8k render, no human elements.",
+      "camera_effect": "rotating view"
+    },
+    {
+      "text": "Thousands of CIOs convened at Info-Tech LIVE 2026 in Las Vegas. Their agenda: mastering AI execution and generating unprecedented enterprise value from new tech.",
+      "image_prompt": "Dynamic infographic displaying 'Info-Tech LIVE 2026' with 'CIOs' and 'AI Execution' keywords highlighted, set against a neon-lit Las Vegas skyline, digital glitch effect.",
+      "camera_effect": "fast cut"
+    },
+    {
+      "text": "These converging trends—AI, quantum capabilities, and integrated tech solutions—are reshaping markets globally. They're accelerating innovation and redefining daily life.",
+      "image_prompt": "A complex network of glowing lines connecting icons representing AI, Quantum, and MedTech, forming a global map, abstract futuristic city backdrop, dynamic energy effects.",
+      "camera_effect": "sweeping camera motion"
+    },
+    {
+      "text": "This shift signals a profound transformation across industries.",
+      "image_prompt": "A digital iris reflecting abstract data patterns, intense focus, cybernetic glowing elements, dramatic side lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
