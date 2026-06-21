@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "MARKET WARNING!",
+    "narration": "The tech market just shattered historic concentration levels! Are you prepared for the inevitable crash or surge?",
+    "image_description": "A cybernetically enhanced trader with data reflecting in glowing irises, focused intensely on multiple holographic screens showing volatile stock charts with red and green spikes. Dramatic side lighting, glitch effects on the data. Intense focus expression.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "SEMICON VALUATION SHOCK",
+    "image_description": "A hyper-realistic 8k render of a glowing, intricate silicon wafer at the center of a dark server room. Blue and gold cyberpunk neon lights reflect off the metallic racks. Focus on the detailed circuitry of the wafer, dramatic backlighting, 3D render.",
+    "reasoning": "Highlights the core semiconductor object and hints at high stakes (valuation shock) for investors and engineers, using a clean, technically advanced aesthetic to draw clicks."
+  },
+  "title": "Semicon Stocks Surge: IT Sector's Historic Market Concentration Explained",
+  "segments": [
+    {
+      "text": "The IT sector now comprises 38% of MSCI USA and 44% of MSCI EM Indices. This historic concentration signals unprecedented tech dominance in global markets.",
+      "image_prompt": "A digital representation of global stock market indices, with a large, glowing segment highlighting 'IT' dominance. Data flows in a complex, structured manner on a dark background.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "Taiwan Semiconductor (TSM) stock surged 6.86% on June 20th. This significant single-day gain reflects robust investor confidence and strong market demand.",
+      "image_prompt": "A holographic projection of TSM's stock chart with a sharp upward spike, reflected in a serious engineer's smart glasses. Digital green lines indicate growth against a dark, technical background.",
+      "camera_effect": "panning_left"
+    },
+    {
+      "text": "TSM's performance indicates high wafer demand, driving increased CAPEX projections. Capacity expansion is critical for advanced chip manufacturing yields moving forward.",
+      "image_prompt": "Automated robot arms precisely handling silicon wafers in a sterile, brightly lit cleanroom. Blue and white industrial lighting. Focus on precision and scale of manufacturing.",
+      "camera_effect": "slow_dolly"
+    },
+    {
+      "text": "Analysts forecast a 'super semiconductor' to rival Nvidia and Broadcom by 2026. This implies significant shifts in future market valuation and competitive landscape.",
+      "image_prompt": "A futuristic data visualization comparing three distinct, glowing semiconductor company logos, one growing rapidly to surpass others. Cyberpunk neon city background, intense focus on the growing logo.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "The surge is largely driven by escalating demand for High Bandwidth Memory (HBM) and next-gen GPUs. These are essential for AI and data center expansion globally.",
+      "image_prompt": "Close-up of interconnected HBM stacks on a GPU, with glowing data pathways. Technical schematic overlays in blue and green. Intense focus on the intricate design.",
+      "camera_effect": "panning_right"
+    },
+    {
+      "text": "Understanding these valuation dynamics and managing manufacturing yield challenges are paramount for both investors and engineers navigating this volatile market.",
+      "image_prompt": "An investor's gloved hand (technical, not human-like) pointing at a complex holographic financial model displaying yield curves and stock valuations. Serious thought expression on a background monitor.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
