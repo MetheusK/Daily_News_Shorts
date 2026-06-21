@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI IS COMING!",
+    "narration": "WARNING: AI just changed everything you thought you knew about money and how industries work!",
+    "image_description": "Extreme close-up of a human eye, cybernetic, reflecting glowing data streams of financial charts, dramatic red warning lights in the background, intense focus, cinematic lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI MONEY SHOCK",
+    "image_description": "3D render of a stylized, glowing brain circuit board intricately woven with holographic dollar signs and rapidly flowing data streams, set against a dark, hyper-realistic, 8k background with cyberpunk neon lighting and dramatic backlighting.",
+    "reasoning": "The combination of 'AI MONEY SHOCK' and a visually stunning, object-focused image of AI and finance creates immediate intrigue and signals a major financial story, compelling users to click over generic human reactions."
+  },
+  "title": "AI's Billion-Dollar Takeover: Industries Redefined!",
+  "segments": [
+    {
+      "text": "The AI spending boom is real, driving massive investment into various industries. Analysts now identify key sectors experiencing unprecedented capital influx due to this tech revolution.",
+      "image_prompt": "Overhead shot of a bustling financial trading floor, holographic data projections displaying rapidly rising stock charts, cinematic lighting.",
+      "text_overlay": "AI BOOM!",
+      "camera_effect": "dynamic_pan_zoom"
+    },
+    {
+      "text": "Industrial giants are prime beneficiaries. Companies like Keysight Technologies see increased demand, fueling innovations for essential AI infrastructure. This signifies a fundamental economic shift.",
+      "image_prompt": "Intricate server racks glowing with blue light, data cables weaving dynamically, focused engineer in background, serious thought, dramatic side lighting.",
+      "text_overlay": "INDUSTRIAL AI!",
+      "camera_effect": "zoom_in_focus"
+    },
+    {
+      "text": "In the UK, the travel tech industry is undergoing a major transformation. Significant AI investment is surging, redefining how services operate across booking and payment platforms.",
+      "image_prompt": "Holographic map of the UK with data points indicating travel routes and financial flows, sleek futuristic interface, reflecting data, cybernetic eyes.",
+      "text_overlay": "UK TRAVEL TECH!",
+      "camera_effect": "fast_dolly"
+    },
+    {
+      "text": "This shift is notable: mobile app adoption for traditional booking and payments set to decline by 2026. AI-powered platforms rapidly replace older, less efficient methods.",
+      "image_prompt": "A smartphone screen displaying a glitching travel app, superimposed with an AI neural network diagram, digital corruption effects, red warning lights.",
+      "text_overlay": "APPS DYING!",
+      "camera_effect": "quick_cut"
+    },
+    {
+      "text": "Keysight Technologies specifically demonstrates sustained AI demand. Their innovative solutions are crucial for developing and testing advanced AI systems, reinforcing industrial growth globally.",
+      "image_prompt": "High-tech laboratory with engineers interacting with complex machinery, holographic AI schematics floating above, intense focus, cinematic lighting.",
+      "text_overlay": "KEYSIGHT LEADS!",
+      "camera_effect": "slow_push_in"
+    },
+    {
+      "text": "This AI-driven transformation isn't just about stocks; it’s restructuring entire economies. Industries are re-evaluating core operations, investing billions into smarter, autonomous systems.",
+      "image_prompt": "Abstract data visualization of economic growth, glowing lines representing capital flow, reflecting data on a digital globe, deep blue and green hues.",
+      "text_overlay": "ECONOMY SHIFT!",
+      "camera_effect": "orbital_movement"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
