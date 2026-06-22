@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "TSMC SHOCKWAVE",
+    "narration": "Breaking news: TSMC just surged 6.86%! Is your portfolio ready for this industry earthquake?",
+    "image_description": "Close-up of a human eye with a glowing, cybernetic iris reflecting dynamic stock charts and green upward arrows. Digital corruption and red warning lights glitching around the edges, dramatic side lighting.",
+    "mood_color": "neon_green"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "TSMC: AI POWER",
+    "image_description": "Hyper-realistic 3D render of a glowing silicon wafer with intricate circuit patterns, centered on a dark, reflective surface. Energetic green and blue cyberpunk neon lights illuminate the wafer from below. 8k resolution, dramatic backlighting.",
+    "reasoning": "Highlights TSMC's core product (wafer) and its connection to AI power, using a visually stunning, high-contrast image to attract clicks from tech and investment audiences."
+  },
+  "title": "TSMC's 6.86% Surge: The AI Foundry Advantage Explained",
+  "segments": [
+    {
+      "text": "TSMC shares surged 6.86% on June 21st, pushing market cap significantly. This rise reflects strong investor confidence in its foundry leadership.",
+      "image_prompt": "Dynamic stock chart with a prominent green arrow soaring upwards for TSM, superimposed on a background of abstract digital data streams. Cinematic lighting, investor focus.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "Demand for HBM memory and advanced GPU production, crucial for AI, drives this valuation. TSMC remains key for high-volume wafer output.",
+      "image_prompt": "3D render of an advanced HBM stack interconnected with a high-performance GPU chip on a circuit board, glowing with blue and green data lines. Hyper-realistic, tech focus.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "TSMC's pure-play foundry model profits from *all* AI chip innovators. Sustained CAPEX ensures cutting-edge process technology and robust supply chains.",
+      "image_prompt": "Futuristic semiconductor manufacturing facility, with robotic arms precisely handling silicon wafers in a cleanroom. Background displays CAPEX investment data as a holographic projection. Intense focus.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Consistent high manufacturing yield across N3 and N2 nodes remains a competitive advantage. This operational efficiency mitigates production risks for clients.",
+      "image_prompt": "Microscopic view of a perfect silicon wafer surface, highlighted with glowing gridlines indicating high yield. Data overlays showing 'N3' and 'N2' node information. Cyberpunk lighting.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "The XSD ETF, tracking the broader semiconductor sector, views this strength as foundational. It indicates robust industry fundamentals beyond individual firms.",
+      "image_prompt": "Digital representation of interconnected semiconductor companies forming a network, with the XSD ETF logo at the center, glowing with analytical data points. Reflecting data.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "Current valuations reflect future growth projections for AI hardware. Monitoring foundry utilization rates and sustained CAPEX will be critical for investors.",
+      "image_prompt": "A focused investor looking at a holographic display showing complex financial models, foundry utilization graphs, and CAPEX projections. Eyes reflecting data, serious thought, dramatic side lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
