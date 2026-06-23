@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "HBM YIELD SHOCK",
+    "narration": "Market Alert! SK Hynix just blindsided Samsung with HBM dominance, changing AI's future!",
+    "image_description": "Extreme close-up of a human eye through smart glasses, reflecting complex circuit board patterns and glowing HBM stacks. Digital glitch effects and red warning lights pulsate around the iris. Cinematic lighting, intense focus expression.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "HBM WAR UNFOLDS",
+    "image_description": "Hyper-realistic 3D render of a glowing HBM memory stack, intricately linked to a powerful AI GPU chip. The chips are centered on a dark, futuristic server rack background with dramatic backlighting. 8k resolution.",
+    "reasoning": "This thumbnail prioritizes a high-contrast, technical subject (HBM/GPU) over humans, using industry keywords and hinting at intense market competition ('WAR') to attract investor and engineer clicks. The 3D render and dramatic lighting enhance visual appeal."
+  },
+  "title": "HBM Dominance: SK Hynix vs. Samsung & AI Chip Revolution",
+  "segments": [
+    {
+      "text": "SK Hynix has dramatically surpassed Samsung in High Bandwidth Memory (HBM) production. Their HBM3 and HBM3e now command over 90% market share, reshaping the AI memory sector.",
+      "image_prompt": "Stylized graphic showing a large HBM memory stack dominating a market share pie chart, with a smaller sliver for competitors. Cyberpunk neon glow.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "This HBM dominance is critical, powering Nvidia's leading AI GPUs. High-performance HBM directly correlates with AI accelerator efficiency and data throughput demands, fueling demand.",
+      "image_prompt": "Close-up of a high-end GPU with glowing HBM modules integrated. Data streams visualized as light traces. Focused light on the GPU core.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "Such market leadership positions SK Hynix for significant valuation upside, with whispers of a potential US listing. This attracts major CAPEX and investor focus on advanced memory.",
+      "image_prompt": "Holographic stock chart showing rapid upward trajectory, overlaid on a backdrop of server racks with subtle green glow. Digital financial data scrolling.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Concurrently, Synopsys's Multiphysics Fusion aims to revolutionize AI chip design. This holistic approach integrates physics-aware tools, optimizing for performance, power, and yield from concept.",
+      "image_prompt": "Intricate 3D render of a futuristic AI chip design, with highlighted areas indicating multiphysics simulations. A focused hand (cybernetic, reflecting data) gestures over a holographic blueprint.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "Better design methodologies, like Synopsys', are vital for achieving higher manufacturing yields on complex AI wafers. This directly impacts the cost and speed of next-gen GPU production.",
+      "image_prompt": "Microscopic view of a silicon wafer with glowing circuits. Some areas show 'digital corruption' or 'glitch effects' symbolizing yield issues, transitioning to perfect, vibrant circuits.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "The electronic components market outlook forecasts sustained growth through 2035, driven by AI and data centers. Strategic investments in HBM and design tools are paramount for future success.",
+      "image_prompt": "Futuristic cityscape made of data servers and illuminated by neon lines, with holographic projections of growth charts and AI symbols. Cinematic lighting.",
+      "camera_effect": "dolly_zoom"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
