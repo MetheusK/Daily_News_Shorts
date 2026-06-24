@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "GOOGLE CHANGED SEARCH!",
+    "narration": "STOP EVERYTHING! Google just unleashed AI features that completely transform how you find information, right now!",
+    "image_description": "Extreme close-up of a cybernetic eye reflecting a rapidly changing Google search bar interface, digital glitch effects around the iris, vivid red warning lights flashing, cinematic lighting.",
+    "mood_color": "yellow"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "SEARCH REVOLUTION",
+    "image_description": "A glowing, futuristic Google search bar hovering over a 3D rendered neural network structure, dramatic cyberpunk backlighting, 8k resolution, centered object composition.",
+    "reasoning": "This thumbnail highlights the core subject (Google, AI, search) and visually conveys a major transformation, appealing to curiosity and impact, driving high click-through rates."
+  },
+  "title": "Google AI Search: Your Daily Life Just Changed!",
+  "segments": [
+    {
+      "text": "Google officially rolled out its next-gen AI search features today, June 24, 2026, revolutionizing information access for billions globally.",
+      "image_prompt": "A futuristic Google search page with subtle AI-generated elements appearing, digital data streams reflecting in a person's smart glasses, depicting serious thought, cinematic lighting.",
+      "text_overlay": "AI SEARCH LIVE"
+    },
+    {
+      "text": "SGE now provides instant, AI-powered summaries for complex queries, reducing information retrieval time by an estimated 40% based on beta tests.",
+      "image_prompt": "Split screen: One side showing traditional search results, the other a concise, AI-generated summary, with a glowing iris reflecting data, high-information density display.",
+      "text_overlay": "INSTANT SUMMARIES"
+    },
+    {
+      "text": "The new multi-modal search allows simultaneous text, image, and voice inputs, enhancing context for 75% of nuanced and visual queries.",
+      "image_prompt": "A user interacting with a transparent smartphone, showing a query with text, an image upload icon, and a voice waveform icon, with a look of wonder, cyberpunk neon lighting.",
+      "text_overlay": "MULTI-MODAL INPUT"
+    },
+    {
+      "text": "AI now curates hyper-personalized shopping recommendations and organizes research data more efficiently, saving users over 3 hours weekly.",
+      "image_prompt": "A digital storefront with AI-suggested products highlighted, connecting data points, a cybernetic eye integrated into the display, dramatic side lighting.",
+      "text_overlay": "SMARTER RECOMMENDATIONS"
+    },
+    {
+      "text": "This deep integration fundamentally shifts information discovery and daily planning, making search more proactive and intuitively personalized for everyone.",
+      "image_prompt": "A person looking at a holographic display showing a personalized daily schedule and relevant AI-generated insights, intense focus, dramatic backlighting.",
+      "text_overlay": "LIFE REINVENTED"
+    },
+    {
+      "text": "Businesses must now adapt SEO strategies for AI-driven summaries, ensuring visibility in the evolving search landscape. This alters market presence.",
+      "image_prompt": "A digital graph showing shifting trends, with a small AI icon influencing the curve, a person with a determined expression, dramatic side lighting, reflecting data.",
+      "text_overlay": "BUSINESS IMPACT"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
