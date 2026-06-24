@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "TSMC SHOCK!",
+    "narration": "WARNING: TSMC just hit customers with brutal 7nm price hikes, sparking market instability!",
+    "image_description": "A cybernetic eye reflecting complex circuit board patterns, neon red digital corruption effects spreading across the screen, urgent cinematic lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "CHIP HIKE ALERT",
+    "image_description": "Hyper-realistic 3D render of a glowing silicon wafer being held by a robot hand, dramatic backlighting, dark industrial background, cyberpunk style.",
+    "reasoning": "This thumbnail clearly communicates 'chip price increase' with a striking, industry-specific visual (wafer, robot hand) appealing directly to investors and engineers, ensuring high click-through without alarmist human expressions."
+  },
+  "title": "TSMC 7nm Price Surge: Market Impact & Stock Drop",
+  "segments": [
+    {
+      "text": "TSMC has initiated significant 7nm wafer price increases, catching key customers off guard. This move follows similar actions by memory giants.",
+      "image_prompt": "Macro shot of a 7nm wafer, showing intricate circuit patterns, with a subtle digital overlay indicating price increase.",
+      "camera_effect": "zoom_in",
+      "text_overlay": "7NM PRICES SOAR"
+    },
+    {
+      "text": "Samsung and SK Hynix previously raised HBM and DRAM prices, establishing a trend. TSMC's 7nm hike solidifies broad foundry market shifts.",
+      "image_prompt": "Three glowing microchips stacked, representing HBM, with data streams flowing, cinematic lighting.",
+      "camera_effect": "pan_left",
+      "text_overlay": "MEMORY INFLATION"
+    },
+    {
+      "text": "Despite price hikes, TSMC's stock (TSM) dropped 5.08% on June 23rd, signaling market valuation concerns and potential demand shifts.",
+      "image_prompt": "Digital stock chart showing a sharp decline, overlaid on a blueprint of a factory floor, intense focus.",
+      "camera_effect": "static",
+      "text_overlay": "TSM STOCK DROP"
+    },
+    {
+      "text": "The 7nm node, crucial for GPUs and AI accelerators, faces supply chain stability challenges. CAPEX decisions are now heavily impacted.",
+      "image_prompt": "An advanced GPU board with visible 7nm chips, emitting a subtle blue glow, through smart glasses reflecting data.",
+      "camera_effect": "tilt_up",
+      "text_overlay": "GPU SUPPLY RISK"
+    },
+    {
+      "text": "Yield optimization and advanced packaging, including 3D IC innovations, are critical for maintaining margins amidst these hikes and supply pressures.",
+      "image_prompt": "Diagram of a 3D IC stack, holographic effect, with engineers in the background intensely focused on monitors, dramatic side lighting.",
+      "camera_effect": "pan_right",
+      "text_overlay": "YIELD CRITICAL"
+    },
+    {
+      "text": "Investors must scrutinize long-term contracts and future CAPEX projections for HBM and advanced wafer technologies.",
+      "image_prompt": "Close-up on a digital screen displaying complex financial data and wafer schematics, a determined hand pointing, cyberpunk neon lighting.",
+      "camera_effect": "static",
+      "text_overlay": "ANALYZE CAPEX"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
