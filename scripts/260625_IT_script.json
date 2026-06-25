@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI IS WATCHING",
+    "narration": "WARNING: The AI takeover isn't coming; it's already here, reshaping YOUR world!",
+    "image_description": "Extreme close-up of a human eye with a glowing cybernetic iris, reflecting complex data streams. Intense focus expression with dramatic red warning lights and cinematic lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI SHOCKER",
+    "image_description": "A hyper-realistic 3D render of a futuristic glowing AI chip at the center of a complex neural network diagram. Dark, dramatic cyberpunk background with neon accents. 8k resolution.",
+    "reasoning": "This thumbnail prioritizes a powerful, iconic AI object over a human face, leveraging a high-contrast, cyberpunk aesthetic to convey advanced technology and intrigue, aiming for high click-through rates."
+  },
+  "title": "AI's Secret Takeover: What 2026 Holds!",
+  "segments": [
+    {
+      "text": "Global AI market projections indicate rapid expansion, reaching trillions by 2030, signifying widespread integration across every major sector.",
+      "text_overlay": "GLOBAL AI SURGE",
+      "image_prompt": "Vibrant animated global map with glowing AI network nodes, 3D data flows connecting major cities. Concrete, technical style.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "Personalized AI assistants now deeply integrate into daily routines. Predictive analytics anticipate user needs, enhancing experiences in smart homes and mobile devices.",
+      "text_overlay": "AI KNOWS YOU",
+      "image_prompt": "A sleek smart home interface displaying personalized schedules and recommendations, controlled by a holographic AI assistant with glowing data. Cinematic lighting.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "Industries like healthcare and finance leverage AI for efficiency gains, automating complex tasks, and processing vast data sets with unparalleled accuracy.",
+      "text_overlay": "BIZ AI BOOST",
+      "image_prompt": "Medical data visualization with AI diagnostics, overlaid with a secure financial trading dashboard showing digital numbers. Cinematic lighting, clear technical visuals.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Discussions surrounding AI ethics and data privacy intensify as adoption rates climb annually. Regulations like GDPR are evolving to address AI's impact.",
+      "text_overlay": "ETHICS DILEMMA",
+      "image_prompt": "A stylized data stream with 'privacy' and 'ethics' warning symbols, digital corruption effects, set against a blurred human figure in intense focus. Dramatic lighting.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "Edge AI and explainable AI are enabling more robust, secure, and decentralized intelligent systems. This pushes AI processing closer to data sources.",
+      "text_overlay": "NEW AI FRONTIERS",
+      "image_prompt": "Close-up of a miniaturized AI chip glowing on a circuit board, with holographic representations of decentralized networks. Cyberpunk style, detailed tech.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "The future of AI is here, driving unprecedented changes in everyday life and industry operations.",
+      "text_overlay": "AI'S NEW ERA",
+      "image_prompt": "A cityscape at night, overlaid with glowing data streams and holographic interfaces, reflecting future tech.",
+      "camera_effect": "tracking_shot"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
