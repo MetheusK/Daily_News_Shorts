@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "MARKET ALERT!",
+    "narration": "URGENT investor warning! TSM stock just plunged 6.62% in one day. Is this an AI chip market crisis?",
+    "image_description": "Extreme close-up of a cybernetic eye reflecting a flickering stock chart with a sharp red downward arrow, digital glitch effects, aggressive red warning lights. Cinematic lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "CHIP MARKET SHOCK",
+    "image_description": "Hyper-realistic 3D render of a glowing, stacked HBM chip on a dark, industrial server rack. Dramatic blue and red backlighting emphasizing competition. Ultra-sharp, 8k resolution, centered composition.",
+    "reasoning": "The thumbnail focuses on a key industry object (HBM chip) and uses high-contrast, dramatic lighting to convey market impact, appealing to industry insiders and investors without resorting to human shock expressions."
+  },
+  "title": "TSM Drop & AI Memory Race: Investor Alert!",
+  "segments": [
+    {
+      "text": "Taiwan Semiconductor Manufacturing Co. (TSM) shares dipped 6.62% on June 24th. This significant drop follows broader tech sector volatility.",
+      "image_prompt": "Digital stock chart with a sharp downward red line, ticker 'TSM' prominently displayed. Overlay of financial data streams.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "The decline reflects investor concern over potential shifts in AI chip demand and rising CAPEX pressures across the global foundry sector.",
+      "image_prompt": "Abstract representation of global supply chains converging on a silicon wafer, with subtle red warning lights indicating pressure points. Cyberpunk aesthetic.",
+      "camera_effect": "zoom out slightly"
+    },
+    {
+      "text": "Meanwhile, SK Hynix has reportedly surpassed Samsung in high-bandwidth memory (HBM) for AI GPUs, securing critical supply deals.",
+      "image_prompt": "Close-up of stacked HBM chips glowing with a blue digital light. A holographic '1st Place' icon appears above a stylized 'SK Hynix' logo.",
+      "camera_effect": "pan across chip stack"
+    },
+    {
+      "text": "This HBM leadership provides a significant competitive edge, especially with increasing demand from key AI clients like Nvidia for next-generation GPUs.",
+      "image_prompt": "Graphic depicting a competitive race between two advanced robotic arms, one (SK Hynix) reaching for a glowing HBM chip slightly ahead of the other (Samsung).",
+      "camera_effect": "dolly zoom"
+    },
+    {
+      "text": "The global semiconductor industry, particularly AI chips, is now a strategic resource race, akin to oil, redefining national economic priorities and supply chains.",
+      "image_prompt": "World map with glowing nodes representing major chip manufacturing hubs and AI data centers, interconnected by digital data streams. Dramatic top-down perspective.",
+      "camera_effect": "flyover perspective"
+    },
+    {
+      "text": "This shift underscores a critical market valuation concern for long-term investors.",
+      "image_prompt": "A serious, intensely focused analyst, seen through smart glasses reflecting complex financial data, looking at a holographic projection of market trends. Cinematic side lighting, cyberpunk neon.",
+      "camera_effect": "slow zoom on analyst's eyes"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
