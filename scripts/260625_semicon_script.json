@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "VALUATION ALERT!",
+    "narration": "Critical warning for tech investors! The memory market's new highs hide a dangerous valuation trap.",
+    "image_description": "A serious-faced semiconductor analyst with glowing cybernetic eyes reflecting complex stock charts, surrounded by red digital warning lights and subtle glitch effects, cinematic lighting, intense focus.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "MEMORY VALUATION GAP",
+    "image_description": "Hyper-realistic 8k render of stacked HBM (High Bandwidth Memory) chips with holographic financial charts overlayed, dramatically backlit with blue and gold light, centered composition, emphasizing potential, no human elements.",
+    "reasoning": "Highlights a key financial paradox for investors (high stock, low valuation) using a central, technical object, sparking curiosity and appealing to industry insiders with HBM focus."
+  },
+  "title": "Intel Foundry War & Memory Valuation Paradox: Investor Brief",
+  "segments": [
+    {
+      "text": "Intel is aggressively expanding its foundry services, targeting advanced process nodes. This directly challenges TSMC and Samsung Foundry's market dominance.",
+      "image_prompt": "A hyper-realistic 3D render of a futuristic semiconductor fabrication plant (fab) with robotic arms working on silicon wafers, dramatic blue and white cinematic lighting, 'INTEL' logo subtly integrated, intense focus on manufacturing.",
+      "camera_effect": "pan_left",
+      "text_overlay": "INTEL FOUNDRY PUSH"
+    },
+    {
+      "text": "This move will intensify CAPEX competition, potentially impacting future wafer pricing and manufacturing yields across the industry, particularly for 3nm and 2nm nodes.",
+      "image_prompt": "Digital infographic showing diverging CAPEX projections for global foundries, highlighting 3nm and 2nm nodes, with a subtle red warning overlay indicating intense competition, data-driven style, no human elements.",
+      "camera_effect": "zoom_in",
+      "text_overlay": "CAPEX WAR LOOMS"
+    },
+    {
+      "text": "Concurrently, memory stocks, especially DRAM and NAND suppliers like Samsung and SK Hynix, have recently reached significant new price highs on strong demand.",
+      "image_prompt": "Dynamic stock market chart showing a sharp upward trend for memory sector indices, with digital green data streams flowing across the screen, reflecting strong market performance, no human elements.",
+      "camera_effect": "static",
+      "text_overlay": "MEMORY STOCKS SURGE"
+    },
+    {
+      "text": "Driving this surge is robust demand for HBM for AI GPUs and increased enterprise SSD adoption, pushing revenue projections upward for leading manufacturers.",
+      "image_prompt": "Extreme close-up of a high-performance HBM (High Bandwidth Memory) stack interconnected with a powerful AI GPU chip, glowing with internal processing light, cybernetic aesthetic, focused and detailed.",
+      "camera_effect": "zoom_out",
+      "text_overlay": "AI GPU DRIVERS"
+    },
+    {
+      "text": "Despite record stock prices, many memory sector valuations, particularly Price-to-Book and EV/Sales multiples, remain significantly below their historical peaks.",
+      "image_prompt": "A complex financial dashboard displaying various valuation metrics (P/B, EV/Sales) for memory companies, with a clear discrepancy between stock price graphs and valuation indicators, calm blue and white light, analytical focus.",
+      "camera_effect": "pan_right",
+      "text_overlay": "VALUATION MYSTERY"
+    },
+    {
+      "text": "Current memory valuations are still below historical averages, indicating potential for significant upside.",
+      "image_prompt": "Holographic projection of a semiconductor chip on a futuristic analyst's desk, with an upward arrow signifying 'potential', surrounded by subtle, optimistic green data streams, serious but hopeful mood, reflecting data in a glowing iris.",
+      "camera_effect": "static",
+      "text_overlay": "UPSIDE POTENTIAL"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
