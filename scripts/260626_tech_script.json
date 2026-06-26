@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "MARKET CRASH ALERT",
+    "narration": "Urgent Warning! A hidden market trigger just wiped out billions, impacting major tech titans overnight!",
+    "image_description": "A close-up of a cybernetic eye reflecting a rapidly crashing stock market graph with digital glitch effects. Red warning lights flash dramatically across the scene, intense focus.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "TECH BILLIONS GONE",
+    "image_description": "A hyper-realistic 8k 3D render of a fractured, glowing circuit board, with streams of digital data flowing away from the cracks. Dark, metallic background with dramatic blue and red backlighting, centered composition.",
+    "reasoning": "The visual of a broken, 'bleeding' tech component symbolizes massive financial loss, combined with the bold text, it creates immediate curiosity and urgency for clicks without using a human face."
+  },
+  "title": "Accenture's Shockwave: Billions Wiped in Tech Market",
+  "segments": [
+    {
+      "text": "US Markets just saw a multi-billion dollar wipeout, significantly impacting valuations across the tech sector. This shift directly affected major investors.",
+      "text_overlay": "MARKET CRASH",
+      "image_prompt": "Digital stock market graph showing a steep decline, overlaid with subtle glitch effects. A focused financial analyst's face with a glowing iris reflecting data, dramatic side lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "The catalyst? A recent forecast from Accenture, the global IT services giant, signaling a slowdown in enterprise spending on digital transformation.",
+      "text_overlay": "ACCENTURE WARNING",
+      "image_prompt": "A holographic projection of Accenture's stylized logo or a financial chart, with a gloved hand (technical, with integrated tech) pointing at a downturn. Cyberpunk neon lighting.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "Accenture's projections indicate businesses are delaying large IT projects and AI integrations, causing investor concerns about future revenue growth for tech firms.",
+      "text_overlay": "TECH DELAYS",
+      "image_prompt": "Abstract visual representing stalled digital transformation: glowing data streams fragmented and tangled, a human figure (intense focus) looking at a complex, halted network diagram through smart glasses.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "This slowdown means less demand for cloud services, software solutions, and consulting, directly influencing the market capitalization of key tech players.",
+      "text_overlay": "LESS DEMAND",
+      "image_prompt": "Server racks in a futuristic data center, some screens showing 'offline' or 'low activity', with a shimmering, almost depleted energy effect around them. Dramatic shadows emphasize emptiness.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "While Musk’s companies were among those affected, this event highlights a broader market recalibration, pushing investors to reassess tech sector growth expectations.",
+      "text_overlay": "MARKET SHIFT",
+      "image_prompt": "A high-tech boardroom scene, figures in silhouette (serious thought), observing a large holographic global market map displaying downward trends and red warning indicators. Cinematic lighting.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "Companies reliant on enterprise tech budgets face increased scrutiny. Expect a more cautious approach to investments in upcoming digital initiatives.",
+      "text_overlay": "CAUTION AHEAD",
+      "image_prompt": "A digital roadway stretching into the future with a prominent red 'CAUTION' sign integrated into the holographic path. Glowing blue and red lines, determined expression on a human face wearing smart glasses.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
