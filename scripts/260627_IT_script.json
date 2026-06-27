@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI REPLACES YOU",
+    "narration": "WARNING! AI isn't just a trend; it's already replacing jobs, and your career could be next!",
+    "image_description": "Extreme close-up of a human eye with 'cybernetic' implants, reflecting lines of code and a glitching unemployment graph. The eye shows intense focus. Dramatic red warning lights flash across the scene with cinematic lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI JOB CRISIS",
+    "image_description": "A hyper-realistic 3D render of a robotic hand with glowing blue joints, precisely deleting lines of code that represent human job titles on a holographic screen. The background is a dark, cyberpunk city with dramatic backlighting. 8k resolution.",
+    "reasoning": "The thumbnail evokes immediate curiosity about job security and the future of work. The futuristic robot hand deleting 'jobs' creates a strong visual metaphor, promising high-stakes information about AI's impact."
+  },
+  "title": "The AI Job Revolution Is Here",
+  "segments": [
+    {
+      "text": "In China, AI \"optimization\" now equates to job displacement. Thousands of tech workers are impacted as companies re-evaluate roles, marking a significant shift in employment strategies.",
+      "image_prompt": "A dimly lit, vast server room, with glowing data flowing over multiple screens. A blurred figure of a worker, seen through smart glasses, looking at a digital termination notice on a screen. Cinematic lighting, showing serious thought.",
+      "camera_effect": "dolly zoom",
+      "text_overlay": "CHINA'S AI SHIFT"
+    },
+    {
+      "text": "Tech analyst Jeff Kagan highlights AI's radical impact on PR and advertising. AI automates content creation and data analysis, reshaping industry demands and required skill sets significantly.",
+      "image_prompt": "A sleek, digital billboard displaying vivid AI-generated marketing content, with a futuristic city skyline in the background. Holographic data overlays float around the content, showing creative possibilities.",
+      "camera_effect": "pan left",
+      "text_overlay": "ADVERTISING RESHAPED"
+    },
+    {
+      "text": "Investment forecasts for 2026 strongly favor tech stocks and AI trends. Market analysts predict substantial growth, with AI at the forefront of driving economic expansion and innovation.",
+      "image_prompt": "A holographic stock market graph showing a steep upward trend, with glowing AI chips and circuits embedded in the background, symbolizing the core technology. Cyberpunk neon lighting illuminates the scene.",
+      "camera_effect": "tilt up",
+      "text_overlay": "INVEST IN AI"
+    },
+    {
+      "text": "AI's efficiency reduces the need for human input in repetitive tasks. This \"optimization\" directly leads to leaner workforces, especially in sectors relying heavily on data processing and routine operations.",
+      "image_prompt": "A high-precision robotic arm with glowing joints, meticulously sorting and placing data chips in a futuristic, automated factory setting. Dynamic lighting emphasizes its precise movements, demonstrating determination in the process.",
+      "camera_effect": "zoom in slowly",
+      "text_overlay": "AUTOMATION SOARS"
+    },
+    {
+      "text": "Experts emphasize reskilling and upskilling for the future workforce. Individuals must adapt to new AI-driven tools and roles, focusing on creative and strategic thinking to remain competitive.",
+      "image_prompt": "A person wearing advanced smart glasses, with a glowing iris reflecting lines of code, intently looking at an interactive holographic interface that displays different skill trees and learning modules. Cyberpunk aesthetic with dramatic side lighting, showing wonder and intense focus.",
+      "camera_effect": "tracking shot",
+      "text_overlay": "SKILLS ARE KEY"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
