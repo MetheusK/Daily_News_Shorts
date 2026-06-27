@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "YIELD CRISIS ALERT",
+    "narration": "Massive production failures are threatening semiconductor profits! Is your portfolio next?",
+    "image_description": "Extreme close-up of a human eye reflecting digital red warning lights and glitching circuit board schematics, intensely focused through smart glasses. Cinematic lighting, cyberpunk neon, urgent mood.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "CHIP YIELD CRASH",
+    "image_description": "A hyper-realistic 3D render of a silicon wafer with severe digital corruption and prominent cracks, illuminated by dramatic red backlighting, against a dark, industrial background. 8k resolution, centered object.",
+    "reasoning": "This thumbnail uses a clear, high-contrast object (a damaged wafer) with strong negative keywords ('CRASH') to immediately convey crisis. It appeals to engineers by showing a technical failure and investors by implying market impact, driving clicks effectively without relying on human faces."
+  },
+  "title": "Semiconductor Yield Shock: Why the Sell-Off?",
+  "segments": [
+    {
+      "text": "Recent semiconductor sell-offs stem from escalating concerns over manufacturing complexities and supply chain vulnerabilities impacting profitability across major players.",
+      "image_prompt": "A downward-trending stock chart overlaid with a complex, interwoven global supply chain diagram, showing digital corruption effects on certain nodes.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "Samsung Electronics faces an impending production crisis, primarily linked to suboptimal HBM yield rates for critical next-gen AI accelerators. This impacts CAPEX utilization.",
+      "image_prompt": "A holographic display showing a futuristic factory floor with red warning indicators over HBM wafer fabrication equipment, a human technician with intense focus via smart glasses scrutinizing data.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "Lower HBM yields directly constrain GPU production, slowing AI model development and potentially delaying crucial data center expansions for key industry clients.",
+      "image_prompt": "A cybernetic hand holding a glowing GPU chip, reflecting lines of code and data streams, dramatic side lighting. The chip itself shows subtle glitch effects.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Conversely, Micron Technology anticipates a $1T+ valuation by 2026, driven by robust AI memory demand, particularly high-bandwidth memory, signaling a clear market segment split.",
+      "image_prompt": "A futuristic 3D render of multiple HBM stacks ascending towards a glowing '1 Trillion' dollar sign, surrounded by swirling digital data streams in blue and green hues.",
+      "camera_effect": "tilt_up"
+    },
+    {
+      "text": "Manufacturing yield remains the paramount metric. Discrepancies between targeted and actual wafer output directly impact profitability, CAPEX returns, and competitive positioning.",
+      "image_prompt": "A microscopic view of a perfect silicon wafer next to a fractured, digitally corrupted wafer, symbolizing high vs. low yield, with a glowing iris of a cybernetic eye scrutinizing them.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "Investors and engineers must scrutinize foundry reports closely. Future growth hinges on resolving these yield challenges and securing advanced HBM capacity across the supply chain.",
+      "image_prompt": "A professional analyst with an intense, determined expression looking at multiple screens displaying complex semiconductor yield data and supply chain logistics. Cyberpunk neon lighting, dramatic side light.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
