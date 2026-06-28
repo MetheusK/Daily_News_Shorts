@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI STOCK SHOCK",
+    "narration": "Attention Investors! Is your AI portfolio built on shaky ground? Chip valuations are under intense pressure RIGHT NOW.",
+    "image_description": "Close-up of a serious industry analyst with an intense focus, illuminated by dramatic cyberpunk neon lighting, with digital data flowing across his smart glasses, reflecting fluctuating stock charts. Subtle red glitch effects convey urgency.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "TSMC AI POWER",
+    "image_description": "Hyper-realistic 8k 3D render of a glowing, intricate silicon wafer centered, surrounded by abstract server racks in a dark, dramatic setting. Cinematic backlighting emphasizes the core object.",
+    "reasoning": "The thumbnail directly highlights TSMC's strength with a powerful, object-focused image, contrasting the hook's alarm for high click-through rates. It visually conveys the core message of AI dominance."
+  },
+  "title": "TSMC's Unshakeable AI Dominance Amidst Market Scrutiny",
+  "segments": [
+    {
+      "text": "Intel's AI strategic outlook faces significant market scrutiny, impacting investor confidence in their long-term CAPEX efficiency and competitive positioning.",
+      "text_overlay": "INTEL CHALLENGE",
+      "image_prompt": "An industry analyst with an intense focus, seen through smart glasses reflecting a digital warning sign over Intel's logo, set in a futuristic server room with dramatic side lighting and subtle red glitch effects."
+    },
+    {
+      "text": "Meanwhile, Taiwan Semiconductor (TSM) is emerging as a critical, unshakeable bedrock for global AI infrastructure development.",
+      "text_overlay": "TSMC BEDROCK",
+      "image_prompt": "A close-up of a complex 3D render of a silicon wafer, glowing with internal circuitry, with holographic data streams flowing around it. Cyberpunk neon lighting highlights the detail."
+    },
+    {
+      "text": "Their leading-edge manufacturing yields and advanced packaging are indispensable for producing high-bandwidth memory (HBM) and powerful AI GPUs.",
+      "text_overlay": "HBM INDISPENSABLE",
+      "image_prompt": "A robotic arm with glowing joints precisely assembling high-bandwidth memory (HBM) modules onto a GPU board, viewed from a 'cybernetic eye' perspective, digital readouts overlaying the scene."
+    },
+    {
+      "text": "TSMC benefits from every AI chip produced, regardless of which design firm \"wins\" the end-market AI race. This ensures consistent demand.",
+      "text_overlay": "AI CHIP DEMAND",
+      "image_prompt": "A futuristic control room showing a holographic global supply chain map, with a focused engineer observing data streams representing consistent demand for TSMC-produced AI chips, cinematic lighting."
+    },
+    {
+      "text": "This unique foundry model offers a robust valuation, insulating TSM from the volatile performance of specific AI application providers.",
+      "text_overlay": "STABLE VALUATION",
+      "image_prompt": "A projection of a stable, upward-trending stock chart for TSM against a backdrop of volatile, erratic lines for other tech companies, reflected in the focused eyes of an investor wearing smart glasses, dramatic lighting."
+    },
+    {
+      "text": "TSMC's strong position guarantees critical leverage in the intensifying AI infrastructure race.",
+      "text_overlay": "AI LEVERAGE",
+      "image_prompt": "A highly detailed, technical render of a semiconductor manufacturing cleanroom, with glowing machinery and a sense of critical precision. 'Reflecting data' in a cybernetic eye, showing a central powerful chip."
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
