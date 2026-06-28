@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI IS FIRING",
+    "narration": "Warning! The AI revolution is here, and it's already eliminating jobs faster than you think!",
+    "image_description": "A digital screen showing a 'Termination Notice' with glitching text, binary code falling like rain, and a subtle silhouette of a robot's hand replacing a human's on a keyboard, red warning lights, cinematic lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI JOB CRASH",
+    "image_description": "A hyper-realistic 3D render of a server rack with glowing red warning lights, a holographic projection of a downward trending graph overlayed, focusing on the central rack, cyberpunk aesthetic, 8k resolution.",
+    "reasoning": "The bold, alarming text combined with a visually striking, object-focused image of AI infrastructure in distress creates immediate curiosity and urgency, driving clicks by suggesting a major, impactful event."
+  },
+  "title": "AI Layoffs 2026: The Tech Job Shift",
+  "segments": [
+    {
+      "text_overlay": "TECH JOBS SHIFT",
+      "text": "Major tech firms are restructuring. Reports indicate significant workforce reductions, with AI integration driving these shifts across companies by 2026.",
+      "image_prompt": "A futuristic office environment with sleek AI robots collaborating with a few humans, a digital calendar showing '2026' highlighted, cinematic lighting, focused expressions.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text_overlay": "70% AUTOMATED",
+      "text": "New data reveals AI tools automate up to 70% of tasks, impacting traditional roles. This efficiency gain translates into fewer positions for manual data processing and support.",
+      "image_prompt": "A screen displaying a percentage chart with '70%' prominently, showing a progress bar filling, lines of code dissolving into digital mist, analytical style, dramatic side lighting.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text_overlay": "ROLES DISRUPTED",
+      "text": "Mid-level coding, data analysis, and support roles face the most significant disruption. AI's advanced learning capabilities are swiftly replacing repetitive human functions.",
+      "image_prompt": "A holographic projection of a human silhouette with certain areas (head, hands) being replaced by glowing data nodes, symbolizing automated functions, cyberpunk aesthetic, intense focus.",
+      "camera_effect": "dolly_zoom"
+    },
+    {
+      "text_overlay": "GLOBAL TREND",
+      "text": "Memeburn's report confirms this isn't isolated; a global 'AI layoffs' trend is expected. Major tech firms are proactively planning for these structural workforce changes.",
+      "image_prompt": "A stylized global map with glowing red markers over tech hubs, a subtle 'Memeburn' logo integrated into a news feed graphic, dramatic lighting, 3D render.",
+      "camera_effect": "static"
+    },
+    {
+      "text_overlay": "RESKILL NOW",
+      "text": "New roles like AI ethics specialists and prompt engineers are surging. Professionals must rapidly acquire new skills to navigate this evolving landscape and secure future employment.",
+      "image_prompt": "A person wearing smart glasses, the lenses reflecting lines of code and diagrams, intense focus, digital data flowing around them, symbolizing learning and adaptation, cybernetic feel.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text_overlay": "AI'S NEXT WAVE?",
+      "text": "This shift is redefining the future of work and industry. Are you ready for AI's next wave?",
+      "image_prompt": "A dynamic shot of interconnected neural networks glowing, reaching towards a distant cityscape, symbolizing transformation, optimistic yet uncertain, 3D render, dramatic lighting.",
+      "camera_effect": "slow_pan_up"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
