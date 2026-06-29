@@ -1,0 +1,46 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI IS COMING",
+    "narration": "WARNING! A silent revolution is here, fundamentally reshaping industries and your daily life, much faster than you think.",
+    "image_description": "Extreme close-up of a cybernetic eye reflecting abstract data patterns and glitch effects, with a subtle red warning light glowing from the pupil. Cinematic lighting, intense focus.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI'S NEW BOSS",
+    "image_description": "Hyper-realistic 3D render of a stylized, glowing AI chip central to a complex, interconnected server rack. Dramatic blue and purple cyberpunk backlighting, 8k resolution, centered composition.",
+    "reasoning": "The text 'AI's New Boss' creates immediate intrigue about who (or what) is now leading AI integration. The visually striking, high-contrast image of an AI chip, rather than a generic person, makes it stand out and look futuristic, attracting clicks from tech enthusiasts and the curious public alike."
+  },
+  "title": "The AI Revolution: Who's Leading & Where It's Going",
+  "segments": [
+    {
+      "text": "Bain & Company reveals a crucial shift: the CIO is now AI's primary enabler. This repositions IT leadership to drive enterprise-wide AI adoption, impacting strategic technology decisions profoundly.",
+      "image_prompt": "A serious, determined Chief Information Officer (CIO) persona, seen through smart glasses reflecting holographic AI dashboards. Cinematic lighting, cybernetic visual style.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "Standard Bots is pioneering AI-native robotics, redefining industrial automation. These smart systems are transforming manufacturing floors, significantly boosting efficiency and precision in tasks.",
+      "image_prompt": "Futuristic robotic arm with intricate glowing joints, precisely assembling a complex electronic component on an automated line. Dramatic side lighting, hyper-realistic, 8k resolution.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "An 'AI Infrastructure Investment Boom' is projected through 2026. Intellectia AI highlights massive capital flow into foundational AI tech, signaling strong long-term market growth and stock performance.",
+      "image_prompt": "A visually striking 3D render of soaring financial bar graphs, intricately woven with glowing circuit board patterns. Dynamic blue and green neon lighting, representing growth and technology.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "This coordinated surge means AI is moving beyond data centers. From automated production lines to smarter enterprise systems, AI's tangible impact on daily products and services is accelerating.",
+      "image_prompt": "Split screen: left side shows robotic arms efficiently packaging products; right side shows a person using a sleek, futuristic smart device with a look of wonder and satisfaction. Cyberpunk lighting.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "Companies are aggressively integrating AI for unparalleled efficiency gains and innovation. This strategic pivot ensures competitiveness, fundamentally reshaping operational frameworks across all industries globally.",
+      "image_prompt": "Interlocking, abstract 3D gears with glowing, interconnected lines representing data flow and efficiency. A central AI neural network symbol illuminates the core. Dramatic side lighting.",
+      "camera_effect": "rotate"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
