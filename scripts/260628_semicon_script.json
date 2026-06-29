@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "TSMC SHOCKWAVE",
+    "narration": "WARNING: TSMC's dominance is under severe threat! A new AI chip supply chain crisis is unfolding!",
+    "image_description": "Dynamic shot: A digital representation of a silicon wafer fragmenting with red warning lights, a cybernetic eye in the background reflecting glitching data, urgent, dramatic, cyberpunk style.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "CHIP WAR LOOMS",
+    "image_description": "A hyper-realistic 3D render of a fractured silicon wafer, with glowing red fault lines, placed centrally on a dark, reflective surface. Distant factory silhouettes in dramatic backlighting. 8k resolution, cyberpunk aesthetic.",
+    "reasoning": "The fractured wafer symbolizes industry disruption and risk. 'CHIP WAR LOOMS' creates urgency and intrigue, appealing to investors and engineers to click for critical analysis on supply chain stability."
+  },
+  "title": "Semiconductor Alert: TSMC Under Pressure?",
+  "segments": [
+    {
+      "text": "Apple explores Intel and Samsung for AI chip production, reducing TSMC reliance amidst surging GPU demand. Diversification is key.",
+      "image_prompt": "Holographic blueprint of a complex AI chip, projected over a global map showing interlinking factory supply routes, 'Intel', 'Samsung', 'TSMC' logos glowing.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "This diversification challenges TSMC's revenue forecasts, impacting its near-monopoly in leading-edge wafer manufacturing. Market shifts are evident.",
+      "image_prompt": "Digital overlay on a microscopic view of a silicon wafer, showing data analytics indicating market share percentages with TSMC's share slightly receding, clear, technical.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "ASML, with a $56 billion TSMC CAPEX tailwind, faces geopolitical headwinds. Crucial EUV equipment exports are at risk.",
+      "image_prompt": "A sleek, futuristic ASML EUV lithography machine, illuminated by dramatic side lighting, with subtle digital 'red warning lines' or 'glitch effects' around it, indicating political tension.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "The complex interplay of advanced process nodes and HBM integration introduces yield challenges, making supply chain resilience critical for AI compute.",
+      "image_prompt": "Microscopic view of a silicon wafer showing minor defects, digital yield percentage counter overlay, focused and precise, high-tech lab setting.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "EDA leader Synopsys shows strong strategic focus, positioning itself on the NASDAQ-100 radar, crucial for chip design and manufacturing optimization.",
+      "image_prompt": "A glowing, intricate network of data streams converging towards a large, stylized 'Synopsys' logo, with the NASDAQ-100 symbol visible in the background, sleek, cybernetic feel.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Investors must monitor supply chain shifts and geopolitical risks. These influence CAPEX, yield stability, and future semiconductor valuations.",
+      "image_prompt": "A human hand, fitted with sleek smart glasses reflecting dynamic financial charts, intensely focused on a holographic projection of semiconductor market data, cybernetic eyes reflecting data, dramatic lighting.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
