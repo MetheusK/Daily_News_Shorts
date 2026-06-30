@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "APPLE IS HACKED!",
+    "narration": "URGENT WARNING! Apple's next iPhone just leaked in a massive cyberattack on their supplier!",
+    "image_description": "Extreme close-up of a cybernetic eye reflecting binary code and a glitching Apple logo, dramatic red warning lights, intense focus, cinematic lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "IPHONE 18 LEAKS!",
+    "image_description": "Hyper-realistic 3D render of a sleek, futuristic iPhone, partially transparent showing intricate internal components. Digital glitch effects spread across the screen, set against a dark, cyberpunk-inspired backdrop with dramatic neon blue and red lighting. 8k resolution, centered object.",
+    "reasoning": "This thumbnail visually highlights the core conflict (iPhone leak) and the product itself. The 3D render, glitches, and dramatic lighting create immediate intrigue and a sense of a major tech security event, driving clicks."
+  },
+  "title": "iPhone 18 Leaked & Meta's AI Delay: Tech Chaos Explained!",
+  "segments": [
+    {
+      "text": "Tata Group, a key Apple supplier, confirmed a major cyberattack. This breach exposed unreleased iPhone 18 Pro photos and confidential supplier lists.",
+      "text_overlay": "TATA BREACHED",
+      "image_prompt": "Server farm with data streams, digital red alarm, 'hacked' text overlay, cinematic lighting, focused on glowing server indicators.",
+      "camera_effect": "quick zoom"
+    },
+    {
+      "text": "The leaked iPhone 18 Pro images detail new design elements, offering an unprecedented look into Apple's upcoming hardware innovations years ahead.",
+      "text_overlay": "IPHONE 18 SHOCK",
+      "image_prompt": "Holographic blueprint of a futuristic smartphone floating, showcasing intricate internal components, glowing lines, cybernetic style, focused with dramatic lighting.",
+      "camera_effect": "slow pan"
+    },
+    {
+      "text": "This incident exposes critical vulnerabilities within global supply chains. Even giants like Apple face immense risks from third-party cyber threats, impacting product secrecy.",
+      "text_overlay": "SUPPLY CHAIN RISK",
+      "image_prompt": "Abstract global network map with nodes flashing red. Data packets flowing through disrupted pathways, digital corruption effect, dark background, cinematic lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Meanwhile, Meta continues to delay its new AI model release to developers. This repeated postponement raises significant questions about its AI readiness.",
+      "text_overlay": "META AI STALLS",
+      "image_prompt": "Futuristic abstract human head with a glowing, intricate AI brain, overlaid with a digital 'pause' symbol, blue neon lighting, serious thought expression (digital manifestation).",
+      "camera_effect": "push in"
+    },
+    {
+      "text": "Amidst Meta's delays, Google seized the opportunity. It's aggressively promoting its own AI solutions, potentially gaining a substantial lead in the developer ecosystem.",
+      "text_overlay": "GOOGLE'S AI LEAD",
+      "image_prompt": "Two stylized corporate logos (Meta and Google) on a digital battlefield. Google's logo is brighter, expanding, showing dominance. Cyberpunk aesthetic, dramatic side lighting.",
+      "camera_effect": "fast pan"
+    },
+    {
+      "text": "These events signify a turbulent tech landscape: compromised device security alongside fierce, escalating competition in the rapidly evolving generative AI space.",
+      "text_overlay": "TECH LANDSCAPE SHIFTS",
+      "image_prompt": "Dynamic digital graph with multiple lines representing tech trends, some sharply falling, others rising. Binary code rain effect, dramatic side lighting, focused on data visualization.",
+      "camera_effect": "zoom out"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
