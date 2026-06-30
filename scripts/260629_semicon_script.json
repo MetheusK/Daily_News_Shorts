@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "DRAM SHOCK!",
+    "narration": "A critical shift in the DRAM supply chain is underway, threatening existing giants and redefining global semiconductor power!",
+    "image_description": "Close-up of a human eye with a glowing, cybernetic iris reflecting complex circuit diagrams and a red warning symbol, dramatic red neon lighting, intense focus, digital glitch effect.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "DRAM REVOLUTION",
+    "image_description": "A highly detailed 3D render of advanced DRAM modules stacked vertically, with a holographic supply chain network overlay stretching globally, against a dark, dramatic background. Blue and white neon accents, 8k resolution.",
+    "reasoning": "The visual of interconnected chips and a global network directly relates to memory and supply chain, attracting investors and engineers by highlighting a significant industry change without using human faces."
+  },
+  "title": "TSMC's DRAM Shift: Investor & Engineer Alert",
+  "segments": [
+    {
+      "text": "TSMC is partnering with Winbond to reconstruct a local DRAM supply chain, reducing reliance on the top three global memory giants.",
+      "image_prompt": "Digital handshake between two corporate logos (TSMC and Winbond) over a schematic of a silicon DRAM wafer, high-tech, cinematic lighting.",
+      "text_overlay": "TSMC DRAM DEAL"
+    },
+    {
+      "text": "This strategic move aims to diversify memory sourcing, enhancing Taiwan's semiconductor independence and supply chain resilience for critical components.",
+      "image_prompt": "Complex, interconnected global supply chain network diagram with a highlighted node for Taiwan, 3D render, data flowing, serious.",
+      "text_overlay": "REDUCE DEPENDENCE"
+    },
+    {
+      "text": "The microprocessor market forecasts a 7.00% CAGR by 2035, indicating surging demand that requires robust and diversified memory production capacity.",
+      "image_prompt": "Holographic projection of a rising bar chart for market growth over a circuit board, cybernetic hands pointing, analytical focus.",
+      "text_overlay": "MARKET GROWTH 7%"
+    },
+    {
+      "text": "Hyperscalers are driving the AI era, demanding high-bandwidth memory (HBM) and advanced DRAM. This partnership addresses future AI infrastructure needs.",
+      "image_prompt": "Server racks stretching into a futuristic data center, glowing blue light, AI neural network overlay, intense focus of a data engineer.",
+      "text_overlay": "AI DEMAND"
+    },
+    {
+      "text": "Localizing DRAM production could significantly optimize manufacturing yields and operational efficiency, leveraging TSMC's advanced process expertise.",
+      "image_prompt": "Detailed view of a silicon wafer undergoing inspection, light refracting, robotic arm, 'yield analysis' display, high tech cleanroom.",
+      "text_overlay": "YIELD OPTIMIZATION"
+    },
+    {
+      "text": "This shift impacts global CAPEX allocation and future GPU development, directly influencing investor valuation models.",
+      "image_prompt": "Abstract representation of financial data charts overlapping with GPU architecture blueprints, dramatic side lighting, determined investor gaze through smart glasses.",
+      "text_overlay": "INVESTOR IMPACT"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
