@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI JOB MYTH?",
+    "narration": "Forget what you heard! They're saying AI will steal your job, but the truth just dropped, and it's far more surprising!",
+    "image_description": "A person with intense focus, their cybernetic eyes reflecting a rapidly scrolling digital stock market graph, dramatic red and neon blue cyberpunk lighting. Glitch effects subtly overlay the image.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "ROBOT COMPANIONS",
+    "image_description": "A hyper-realistic 3D render of a sleek, futuristic humanoid robot's polished metal hand gently extended towards a digital projection of a human hand, set against a dark, dramatically backlit background with subtle green data streams flowing around it. The robot's hand is central.",
+    "reasoning": "This thumbnail leverages curiosity about AI's impact on human interaction and the 'new' aspect of companionship robots, using a visually stunning object-focused image for high click-through."
+  },
+  "title": "AI Jobs & Robot Friends: The Future's Here!",
+  "segments": [
+    {
+      "text_overlay": "AI BOOSTS ECONOMY",
+      "narration": "Deloitte reports AI is driving significant economic growth and productivity gains globally, crucially, without impacting jobs negatively—at least not yet.",
+      "image_prompt": "Holographic projection of a rising economic growth chart with 'AI' labeled as the driver, cinematic lighting, deep blue and gold hues, reflecting in a data engineer's determined eye.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text_overlay": "INDUSTRY 4.0 BOOM",
+      "narration": "This growth fuels the Industry 4.0 market, projected through 2035, integrating smart tech like IoT, AI, and robotics across various sectors.",
+      "image_prompt": "Futuristic factory floor with automated robotic arms working efficiently, holographic data overlays showing connectivity, cybernetic eyes of an observer reflecting the scene, dramatic side lighting.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text_overlay": "SMART TECH EVOLVES",
+      "narration": "Key components include advanced automation, data analytics, and cloud computing, transforming manufacturing and service industries worldwide by 2035.",
+      "image_prompt": "Abstract representation of interconnected data nodes and cloud servers, glowing lines of information flowing, digital corruption effect on certain nodes, intense focus on a glowing iris, cyberpunk neon lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text_overlay": "ROBOT COMPANIONS HERE",
+      "narration": "UBTech just launched lifelike humanoid robots in China, designed for companionship, showcasing advanced AI integration into daily life.",
+      "image_prompt": "Close-up of a sophisticated humanoid robot's face with expressive, gentle features and glowing cybernetic eyes, interacting with a human through smart glasses, cinematic lighting.",
+      "camera_effect": "slow_zoom"
+    },
+    {
+      "text_overlay": "AI CHANGES LIVES",
+      "narration": "These robots highlight AI's evolving role beyond industry, offering personal assistance and emotional connection, impacting future social dynamics significantly.",
+      "image_prompt": "A humanoid robot gently offering a glowing, holographic tablet to a person with an expression of wonder, cyberpunk pink and purple lighting, reflections in the person's eyes through smart glasses.",
+      "camera_effect": "dolly_zoom"
+    },
+    {
+      "text_overlay": "FUTURE IS NOW",
+      "narration": "This convergence of AI-driven productivity and human-centric robotics forecasts a radically different technological landscape by 2035.",
+      "image_prompt": "A high-angle shot overlooking a futuristic smart city skyline at night, glowing data pathways connecting buildings, dramatic side lighting, digital glitch effect on horizon.",
+      "camera_effect": "drone_shot_reveal"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
