@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "CHIP OPEC WARNING",
+    "narration": "Attention, investors! A silent crisis is unfolding in semiconductors. ASML just became the new OPEC of chips, and your portfolio is at risk!",
+    "image_description": "A close-up of a human eye with a cybernetic implant, reflecting a complex holographic ASML machine schematic. Intense focus, dramatic side lighting, with subtle digital glitch effects in the background. Mood: urgent, red/neon.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "ASML: NEW OPEC?",
+    "image_description": "A hyper-realistic 3D render of an ASML EUV lithography machine, glowing with intricate internal light paths, centered against a dark, industrial, cyberpunk-style background. 8k resolution, dramatic backlighting.",
+    "reasoning": "The provocative question 'ASML: NEW OPEC?' immediately sparks curiosity about market control and investment implications, attracting both investors and industry professionals. The powerful, detailed visual of the machine reinforces ASML's technological dominance."
+  },
+  "title": "ASML: The New OPEC of Chips & Your AI Portfolio",
+  "segments": [
+    {
+      "text": "ASML is now termed the 'New OPEC of Chips,' controlling crucial EUV lithography. This advanced wafer fabrication is globally essential for high-end semiconductor production.",
+      "image_prompt": "A detailed 3D render of an ASML EUV machine, glowing with intricate internal light paths, showcasing its complexity and precision.",
+      "camera_effect": "Dolly Zoom"
+    },
+    {
+      "text": "ASML's monopolistic grip is vital for high-end GPU and AI accelerator production. This makes it a strategic choke point in the global supply chain.",
+      "image_prompt": "A digital representation of a global supply chain map with a prominent red highlight over the Netherlands (ASML's location), with data streams flowing out.",
+      "camera_effect": "Pan left"
+    },
+    {
+      "text": "The advanced chip packaging market is surging with significant forecasted growth. It's essential for integrating HBM and complex multi-chip modules for AI.",
+      "image_prompt": "A close-up, hyper-realistic shot of stacked HBM memory chips interconnected with glowing digital traces, emphasizing density and complexity.",
+      "camera_effect": "Zoom in"
+    },
+    {
+      "text": "TSMC, a key ASML customer, expands CAPEX for advanced packaging and leading-edge wafer production. This is crucial for NVIDIA's AI dominance.",
+      "image_prompt": "A robotic arm precisely placing a silicon wafer onto an advanced packaging unit within a pristine cleanroom environment, focused on precision.",
+      "camera_effect": "Track right"
+    },
+    {
+      "text": "NVIDIA's valuation hinges on GPU innovation and secure supply chain access. TSMC's advanced packaging directly impacts NVIDIA's HBM-driven AI accelerators.",
+      "image_prompt": "A holographic display showing NVIDIA's stock chart overlaid with glowing GPU schematics, data reflecting in a focused eye through smart glasses.",
+      "camera_effect": "Tilt up"
+    },
+    {
+      "text": "Investors must analyze ASML's leverage, TSMC's CAPEX, and NVIDIA's HBM demand. These dictate future semiconductor market valuations and strategic industry shifts.",
+      "image_prompt": "A person (displaying intense focus, wearing sleek smart glasses) viewing a complex holographic display of interconnected semiconductor company logos and real-time stock trends.",
+      "camera_effect": "Static, subtle zoom"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
