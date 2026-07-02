@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "VALUATION ALERT",
+    "narration": "Stop scrolling! NVIDIA's CEO just revealed the next trillion-dollar semiconductor giant. Your portfolio needs this update NOW!",
+    "image_description": "A serious analyst's face with cybernetic eyes reflecting rapidly fluctuating red and green stock charts. The scene is lit with dramatic, aggressive neon red and blue lighting, with digital glitch effects appearing around the edges of the screen, creating a sense of urgency. Intense focus expression.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "MARVELL'S RISE",
+    "image_description": "A highly detailed, 3D render of a futuristic microchip, glowing with internal blue and green circuitry, centered on a dark, reflective industrial surface. Holographic projections of 'MRVL' stock symbols and growth arrows float dynamically above it. Hyper-realistic, 8k resolution, dramatic backlighting, cyberpunk aesthetic.",
+    "reasoning": "The thumbnail focuses on a specific company (Marvell) and a massive valuation prediction ('Rise'), using a compelling, object-centric visual that hints at future growth and market shifts, appealing directly to investors seeking the 'next big thing' without being alarmist."
+  },
+  "title": "Semicon Stock Alert: Marvell's Trillion-Dollar Prophecy & AI Packaging",
+  "segments": [
+    {
+      "text": "TSMC just reported a record NT$1.98 trillion profit, solidifying its top 10 global ranking. This valuation confirms unparalleled manufacturing efficiency and market dominance in advanced wafer fabrication.",
+      "image_prompt": "A high-angle shot of a massive, pristine semiconductor cleanroom. Robotic arms meticulously handle large silicon wafers under bright, focused lighting. A prominent digital overlay displays 'NT$1.98 TRILLION PROFIT' in a sleek font. Cinematic lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "NVIDIA CEO Jensen Huang predicts Marvell Technology could become the next trillion-dollar company. This signals immense growth potential driven by key strategic positioning within AI infrastructure.",
+      "image_prompt": "A stylized 3D render of Marvell Technology's corporate logo, glowing with vibrant blue and green light, positioned centrally above a complex server rack with intricate, intertwining data streams. A subtle 'MRVL' stock ticker overlay hovers digitally.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "Marvell's growth hinges on AI packaging demand for ASICs and high-speed interconnects. This niche supports GPU and HBM integration, driving revenue forecasts through 2035.",
+      "image_prompt": "Extreme close-up of a high-bandwidth memory (HBM) stack integrated onto an interposer, surrounded by tiny, intricate circuit traces. Holographic data streams in blue and white flow around the component, emphasizing AI packaging. Intensely focused view.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "AI packaging demands specialized resin for IC carrier boards. Market forecasts project significant growth to 2035, revealing a crucial supply chain bottleneck for advanced chips.",
+      "image_prompt": "Macro shot of a robotic arm precisely dispensing a viscous, glowing yellow resin onto a complex circuit board substrate, highlighting industrial precision. Digital warnings in red indicate 'Supply Chain Stress' on a holographic display nearby.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Achieving high manufacturing yields for complex AI components requires substantial CAPEX in advanced packaging. Material availability directly impacts production volume and yield rates.",
+      "image_prompt": "An engineer with cybernetic eyes reflecting real-time data visualizations of yield rate percentages and CAPEX charts, intensely focused on a transparent holographic display. Dramatic side lighting illuminates their face, showing determination.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "This valuation shift impacts future CAPEX decisions, reshaping the competitive landscape for 2025 GPU and HBM supply chains.",
+      "image_prompt": "A futuristic data center corridor lined with powerful GPU racks radiating heat and intricate light patterns. Digital projections on the floor show converging global supply chain routes for components. Cinematic lighting, serious thought expression on a dimly visible figure.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
