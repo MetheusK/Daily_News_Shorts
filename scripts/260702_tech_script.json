@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "YOUR PHONE IS DEAD",
+    "narration": "Warning! Elon Musk's secret AI project just made your smartphone obsolete overnight.",
+    "image_description": "Extreme close-up of a person's eye with a glowing, cybernetic iris reflecting complex data streams, digital glitch effects in red and neon blue, dramatic side lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "MUSK'S NEW AI",
+    "image_description": "A sleek, futuristic, minimalist AI device prototype, glowing with subtle internal lights, centered on a dark, hyper-realistic, high-tech background with dramatic backlighting. 8k resolution, cyberpunk style.",
+    "reasoning": "The thumbnail text is punchy and uses a high-profile name (Musk) combined with a buzzword (AI) to create immediate curiosity. The object-focused image is clean, intriguing, and adheres to the 'no generic shocked faces' rule, maximizing click-through rate by hinting at a revolutionary new gadget."
+  },
+  "title": "Elon Musk's AI Phone Killer: What We Know",
+  "segments": [
+    {
+      "text": "SpaceX is quietly developing an AI device prototype, as confirmed by recent reports. This project is directly led by Elon Musk, hinting at significant innovation.",
+      "image_prompt": "SpaceX logo with subtle AI neural network overlay, futuristic design, glowing tech lines, cybernetic aesthetic.",
+      "camera_effect": "static",
+      "text_overlay": "SPACE-AI DEVICE"
+    },
+    {
+      "text": "Reports suggest the device sounds 'phone-ish,' possibly integrating advanced communication via Starlink. It aims for ubiquitous, global connectivity.",
+      "image_prompt": "Holographic globe with Starlink satellites beaming data to a stylized, sleek device outline held by a digital hand, neon blue light trails.",
+      "camera_effect": "zoom_in",
+      "text_overlay": "STARLINK PHONE"
+    },
+    {
+      "text": "The prototype utilizes cutting-edge AI, not just for data processing, but for intuitive user interaction. This could redefine personal computing interfaces dramatically.",
+      "image_prompt": "Abstract AI neural network visual, glowing nodes connecting, reflecting in the focused eyes of a person wearing smart glasses, dramatic purple and blue lighting.",
+      "camera_effect": "pan_right",
+      "text_overlay": "INTUITIVE AI"
+    },
+    {
+      "text": "Imagine seamless control over smart devices and information, transcending current smartphone limitations. It offers a new paradigm for digital interaction daily.",
+      "image_prompt": "Person interacting with a seamless holographic interface projected from a discreet device, surrounded by futuristic smart home devices, cinematic lighting.",
+      "camera_effect": "zoom_out",
+      "text_overlay": "DAILY AI IMPACT"
+    },
+    {
+      "text": "This could eliminate network dead zones, providing global access to AI services from remote locations. Data transfer speeds are expected to be revolutionary.",
+      "image_prompt": "Desert landscape with a single, glowing, minimalist device connecting to a satellite dish in the sky via a bright data beam, dramatic sunset lighting.",
+      "camera_effect": "static",
+      "text_overlay": "GLOBAL CONNECTIVITY"
+    },
+    {
+      "text": "Industry experts predict this device could launch within two years, potentially disrupting the entire mobile technology market significantly.",
+      "image_prompt": "A timeline graphic displaying '2 Years' prominently, transforming a generic smartphone into a sleek, futuristic AI device, digital disruption effects in red.",
+      "camera_effect": "pan_left",
+      "text_overlay": "MARKET SHAKER"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
