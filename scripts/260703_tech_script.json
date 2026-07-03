@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "SECRET AI PHONE?",
+    "narration": "Stop everything! SpaceX just revealed a secret AI phone to investors, but Musk says it's a total lie!",
+    "image_description": "A cybernetic eye with glowing iris reflecting a holographic schematic of a sleek, futuristic smartphone. Dramatic side lighting, digital glitch effect, red warning lights. Intense focus.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "MUSK DENIES AI",
+    "image_description": "A hyper-realistic 3D render of a futuristic, minimalist smartphone with faint glowing circuit lines, superimposed with a bold red 'X' over its screen. Dark, dramatic cyberpunk background, 8k resolution, centered object.",
+    "reasoning": "This thumbnail highlights the core conflict (Musk's denial) and features a futuristic tech object, creating immediate intrigue and a clear visual focus to maximize clicks."
+  },
+  "title": "SpaceX AI Phone: Musk's DENIAL!",
+  "segments": [
+    {
+      "text": "Recent reports from Technology Org claimed SpaceX showcased an AI handset prototype to investors. This device reportedly integrates Starlink capabilities, promising new communication.",
+      "image_prompt": "A futuristic smartphone with a faint Starlink logo on screen, connected to a satellite dish in the background, holographic data streams flowing. Cinematic lighting.",
+      "camera_effect": "zoom_in",
+      "text_overlay": "SPACE AI PHONE"
+    },
+    {
+      "text": "Sources indicated the device, potentially leveraging custom AI chips, promised advanced satellite connectivity and innovative user experiences, beyond standard smartphone features.",
+      "image_prompt": "Close-up of a smartphone screen displaying an AI assistant interface, with holographic neural network lines. A person's 'Intense focus' reflected through smart glasses.",
+      "camera_effect": "pan_left",
+      "text_overlay": "STARLINK POWER"
+    },
+    {
+      "text": "Elon Musk swiftly responded on X, declaring the reports 'utterly false' and denying any prototype presentation. His two-word clarification spread rapidly globally.",
+      "image_prompt": "A stylized 'X' logo glowing on a digital screen, with 'utterly false' appearing as a glitch text overlay. A person's hand typing rapidly with a focused expression. Cyberpunk neon.",
+      "camera_effect": "static",
+      "text_overlay": "MUSK DENIES"
+    },
+    {
+      "text": "This strong denial raises questions about the source of the initial report, sparking debate across tech media, including The Times of India and Deccan Herald.",
+      "image_prompt": "Digital news headlines scrolling rapidly across a globe made of data points, showing different publication logos. A person observing with 'Serious thought'. Dramatic side lighting.",
+      "camera_effect": "zoom_out",
+      "text_overlay": "SOURCE MYSTERY"
+    },
+    {
+      "text": "An AI-powered Starlink phone would revolutionize remote communication, offering unparalleled global access and challenging existing mobile network infrastructures significantly.",
+      "image_prompt": "Satellite constellations orbiting Earth, with glowing lines connecting to a sleek smartphone on the ground. 'Wonder' in a user's expression via a cybernetic visor. Cinematic lighting.",
+      "camera_effect": "dolly_zoom",
+      "text_overlay": "GLOBAL IMPACT"
+    },
+    {
+      "text": "Despite Musk’s denial, the concept highlights ongoing industry interest in integrating satellite internet directly into personal devices for unprecedented connectivity solutions.",
+      "image_prompt": "Abstract representation of data flowing from a satellite to a sleek phone, with glowing energy lines. Focus on the technological connection. Cyberpunk neon, 8k resolution.",
+      "camera_effect": "static",
+      "text_overlay": "FUTURE CONNECT"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
