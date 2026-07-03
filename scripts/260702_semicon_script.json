@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI YIELD SHOCK",
+    "narration": "WARNING: The hidden truth about AI chip manufacturing yields is about to shock your portfolio!",
+    "image_description": "A close-up of a semiconductor wafer with critical digital defects highlighted in red, reflecting worried eyes behind smart glasses, glitch effects, urgent cyberpunk neon lighting, intense focus.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "CHIP OVERLOAD?",
+    "image_description": "A hyper-realistic 3D render of a massive, glowing GPU at the center, surrounded by towering server racks in a dark, high-tech data center. Subtle red warning lights on server units, dramatic backlighting, 8k resolution, cyberpunk aesthetic.",
+    "reasoning": "The question 'CHIP OVERLOAD?' directly addresses the core tension of the news (demand vs. potential saturation/valuation risk) and uses a compelling object (GPU) to attract industry investors and engineers. The visual is high-contrast and evokes a sense of both power and potential strain, inviting a click."
+  },
+  "title": "AI Chip Market: Demand Surge vs. CAPEX Risk",
+  "segments": [
+    {
+      "text": "Samsung Foundry reports 4nm capacity is fully utilized, driven by escalating AI GPU and HBM chip demand. This signals exceptionally robust current market conditions for advanced nodes.",
+      "text_overlay": "4NM FULL CAPACITY",
+      "image_prompt": "A glowing 4nm silicon wafer with intricate circuit patterns, overlaid with ethereal data streams, viewed through smart glasses reflecting a focused cybernetic eye, cinematic lighting."
+    },
+    {
+      "text": "Simultaneously, Samsung accelerates 2nm development and invests heavily in next-generation AI equipment. This demands substantial CAPEX for future wafer production capabilities to stay competitive.",
+      "text_overlay": "2NM CAPEX PUSH",
+      "image_prompt": "A futuristic robotic arm precisely placing a microscopic 2nm chip into a complex assembly, digital schematics projected onto the surface, reflecting in a technician's glowing iris with determination."
+    },
+    {
+      "text": "Meta's re-evaluated computing power strategy hints at a potential market recalibration. This raises critical questions about sustained, exponential AI chip demand velocity going forward.",
+      "text_overlay": "META DEMAND SHIFT",
+      "image_prompt": "A sprawling server rack array with some units showing dimming red warning lights, while a holographic chart depicting slowing growth hovers nearby, conveying serious thought with dramatic side lighting."
+    },
+    {
+      "text": "The 'other side of AI trade' discussion highlights potential valuation risks. Current GPU and HBM demand might not entirely justify aggressive future capacity expansion and CAPEX, potentially creating an oversupply.",
+      "text_overlay": "AI VALUATION RISK",
+      "image_prompt": "Financial charts with an unsustainable upward trend line overlaid on a detailed silicon wafer, a data-driven glowing iris reflecting the complex data, cyberpunk neon glow."
+    },
+    {
+      "text": "Analyst concerns intensify regarding an eventual mismatch between projected supply and actual market demand. Increased wafer fabrication CAPEX could significantly outpace sustainable AI growth projections.",
+      "text_overlay": "SUPPLY OVERSHOOT",
+      "image_prompt": "A vast, automated semiconductor factory floor filled with advanced manufacturing equipment, subtle red warning lights flickering on some machines, emphasizing concentrated focus with cinematic lighting."
+    },
+    {
+      "text": "This divergence signals rising CAPEX risk for future AI supply.",
+      "text_overlay": "CAPEX RISK AHEAD",
+      "image_prompt": "A complex global supply chain network visualized as a glowing neural network with some broken or tenuous links, viewed through smart glasses reflecting critical data analysis."
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
