@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI CHIP SHOCKER",
+    "narration": "Urgent alert! A massive shift just rocked the AI chip supply chain, directly impacting TSMC's market dominance!",
+    "image_description": "A close-up of a sophisticated 2nm wafer, cracked diagonally with digital glitching effects, reflecting a worried cybernetic eye through smart glasses. Red warning lights flash across a dark, high-tech control room.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "TSMC VS SAMSUNG",
+    "image_description": "A hyper-realistic 3D render of two glowing, intricate 2nm semiconductor chips, one with a stylized 'S' (Samsung) and the other with 'T' (TSMC), positioned on a futuristic chessboard-like surface, illuminated by dramatic blue and orange cyberpunk neon lighting, 8k resolution.",
+    "reasoning": "This thumbnail visually pits the two industry giants against each other, highlighting the core conflict and advanced technology. The clear, high-contrast image and strong company identifiers will attract clicks from investors and engineers interested in the foundry war."
+  },
+  "title": "Samsung Lands 2nm AI Chip Deal: TSMC Market Shift",
+  "segments": [
+    {
+      "text": "Samsung Foundry is nearing a pivotal deal with Anthropic for 2nm AI chip production, significantly challenging TSMC's leadership in cutting-edge logic manufacturing.",
+      "text_overlay": "SAMSUNG 2NM WIN",
+      "image_prompt": "Futuristic cleanroom environment, a robotic arm precisely placing a wafer with a glowing Anthropic logo onto a Samsung Foundry manufacturing tool, dramatic side lighting, intense focus.",
+      "camera_effect": "push_in"
+    },
+    {
+      "text": "This strategic pivot from a major AI developer like Anthropic signals a potential re-evaluation of foundry partners, impacting future HBM and GPU supply chains.",
+      "text_overlay": "FOUNDRY RE-EVAL",
+      "image_prompt": "A holographic display showing interconnected global supply chain nodes, with one major path diverting from TSMC to Samsung, reflecting data in a glowing iris.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "Samsung's aggressive CAPEX investments in Gate-All-Around (GAA) technology for 3nm and 2nm processes are now showing tangible results, improving yield and competitiveness.",
+      "text_overlay": "CAPEX PAYOFF",
+      "image_prompt": "An engineer with intense focus, wearing smart glasses that show complex GAA transistor schematics, standing beside glowing 2nm wafer fabrication equipment, cinematic lighting.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "Securing this Anthropic deal indicates Samsung's 2nm process yields and performance are becoming viable for high-volume, performance-critical AI accelerator chips.",
+      "text_overlay": "YIELD VALIDATION",
+      "image_prompt": "A pristine 2nm wafer under a microscopic view, displaying perfectly formed chip patterns with a green 'PASS' indicator, reflecting data from a cybernetic eye.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "The competition intensifies for advanced node foundry market share. This development could influence valuations of key players in the semiconductor manufacturing sector.",
+      "text_overlay": "VALUATION IMPACT",
+      "image_prompt": "Digital stock market charts for TSMC and Samsung, showing a converging trend line, with data flowing like neon streams, focused expression.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "Diversifying foundry sources reduces reliance on a single vendor, mitigating future supply chain risks and fostering innovation for next-generation AI architectures.",
+      "text_overlay": "SUPPLY CHAIN DIVERSIFY",
+      "image_prompt": "A complex digital network diagram showing multiple robust supply paths for semiconductor components, with data streams glowing blue and green, serious thought expression.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
