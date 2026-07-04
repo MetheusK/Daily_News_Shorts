@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "GADGETS SOAR!",
+    "narration": "Warning! Your next tech purchase is about to cost a fortune!",
+    "image_description": "Extreme close-up of a fragmented, glitching smartphone screen displaying a rapidly increasing price graph, surrounded by cyberpunk neon red warning lights, reflected in an intense eye seen through smart glasses, cinematic dramatic lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI TAX!",
+    "image_description": "A hyper-realistic 3D render of a glowing, intricate AI chip fragmenting into digital currency symbols (e.g., dollar signs, euro signs), against a dark, dramatic background with cyberpunk backlighting. Centered object, 8k resolution.",
+    "reasoning": "This thumbnail visually connects 'AI' with 'cost' in a striking, object-focused way, immediately prompting curiosity about how AI impacts gadget prices."
+  },
+  "title": "AI Chip Crisis: Gadget Prices Will SOAR!",
+  "segments": [
+    {
+      "text_overlay": "CHIP CRUNCH",
+      "narration": "A significant AI chip shortage is now projected to impact consumer gadget prices, with increases expected to extend well into 2026.",
+      "image_prompt": "Close-up of a high-tech AI chip with shimmering data lines, superimposed with a subtle red 'warning' overlay, clear and factual, dramatic side lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text_overlay": "DEMAND SURGE",
+      "narration": "Unprecedented demand for powerful AI accelerators, fueled by large language models and advanced computing, is outstripping manufacturing capacity globally.",
+      "image_prompt": "Digital network graph with numerous glowing nodes connecting to a central, overwhelmed server icon, illustrating high demand, cyberpunk neon lighting.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text_overlay": "GADGETS HIT",
+      "narration": "Consumers will see higher prices for smartphones, laptops, smart home devices, and other AI-integrated electronics due to these rising component costs.",
+      "image_prompt": "Collection of sleek, modern gadgets (smartphone, laptop, smart speaker) with a subtle upward trend arrow graphic overlaid, demonstrating price increase, cinematic lighting.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text_overlay": "SUPPLY STRAIN",
+      "narration": "Major tech companies like Nvidia, TSMC, and Samsung are struggling to meet the escalating chip requirements, straining the entire supply chain.",
+      "image_prompt": "Abstract visualization of a global supply chain, interconnected lines leading to glowing silicon wafers, representing chip production, with digital corruption effects.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text_overlay": "2026 IMPACT",
+      "narration": "Industry analysts predict price hikes could range from 5% to 15% on affected devices, with the situation stabilizing closer to late 2026.",
+      "image_prompt": "Financial bar chart showing an upward trend, with '2026' highlighted and red warning lights, overlaid on a blueprint of a modern factory floor, technical and clear.",
+      "camera_effect": "static"
+    },
+    {
+      "text_overlay": "FUTURE TECH",
+      "narration": "This chip crunch could also slow down the rollout of new AI features and innovations in upcoming consumer devices, affecting user experience.",
+      "image_prompt": "Holographic projection of future smart interfaces and devices appearing slightly blurred or delayed, indicating a slowdown, viewed by intense eyes reflecting data, cinematic lighting.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
