@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI WAR ESCALATES",
+    "narration": "WARNING! A secret tech war just erupted, changing AI and global power dynamics forever!",
+    "image_description": "Extreme close-up of a cybernetic eye reflecting complex AI code, surrounded by digital glitch effects and subtle red warning lights. Intense focus, cinematic lighting, cyberpunk style.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "3D CHIP REVOLUTION",
+    "image_description": "A highly detailed, glowing 3D-stacked microchip at the center, surrounded by ethereal holographic data streams. Cyberpunk style, 8k resolution, dramatic backlighting, dark background.",
+    "reasoning": "The visually stunning 3D chip object combined with a strong, intriguing claim about a 'revolution' creates immediate curiosity and high click-through potential."
+  },
+  "title": "China's 3D AI Chip Secret Revealed: The Tech War Just Changed!",
+  "segments": [
+    {
+      "text": "Chinese firms pioneer 3D stacking for AI chips. This new technique boosts processing power, helping bypass existing tech controls, accelerating independent AI development efforts.",
+      "image_prompt": "Animated render of a 3D-stacked microchip, glowing with circuit lines, data flowing between layers. Cyberpunk style, cinematic lighting, sharp focus.",
+      "camera_effect": "dynamic zoom"
+    },
+    {
+      "text": "3D stacking layers chips vertically, dramatically increasing density and speed. This allows more powerful AI calculations in smaller, more efficient packages for future devices.",
+      "image_prompt": "Cross-section animation showing multiple silicon wafers stacked with tiny interconnects, data streams visualized in neon blue. Technical, clean, hyper-realistic.",
+      "camera_effect": "pan left to right"
+    },
+    {
+      "text": "This strategic shift by China's AI chip sector is a direct response to global supply chain challenges. It's fueling massive investment into self-sufficient, high-performance computing solutions.",
+      "image_prompt": "Holographic projection of a global supply chain network with red highlights on restricted areas, cybernetic hands reaching for glowing chip schematic. Intense focus, dramatic lighting.",
+      "camera_effect": "static with subtle pulse"
+    },
+    {
+      "text": "Such advanced AI processing is no longer confined to offices. It's now deploying into demanding real-world environments, transforming industries like large-scale construction operations.",
+      "image_prompt": "Drone's eye view of a futuristic construction site, animated AI robots and machinery moving autonomously, glowing data lines overlaying the scene. Determination in the machines, cinematic lighting.",
+      "camera_effect": "smooth drone shot"
+    },
+    {
+      "text": "On construction sites, AI optimizes logistics, monitors safety protocols, and predicts issues. It processes massive data streams, preventing costly delays and enhancing worker protection.",
+      "image_prompt": "Augmented reality view through smart glasses, overlaying safety warnings and optimal paths on a real construction worker's perspective. Intense focus, cinematic lighting.",
+      "camera_effect": "POV shot"
+    },
+    {
+      "text": "These powerful 3D stacked chips will enable smarter infrastructure, hyper-efficient manufacturing, and revolutionary AI applications impacting our daily lives and global economies profoundly.",
+      "image_prompt": "Panoramic view of a futuristic smart city integrated with glowing data networks, self-driving vehicles, and automated systems, all powered by unseen advanced AI. Wonder, dramatic side lighting.",
+      "camera_effect": "slow cinematic reveal"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
