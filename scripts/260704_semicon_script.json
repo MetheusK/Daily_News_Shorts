@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI STOCK WARNING",
+    "narration": "INVESTOR ALERT! The AI semiconductor market is about to rewrite every valuation you know.",
+    "image_description": "A focused, intense individual with glowing cybernetic eyes, reflecting complex, volatile stock charts and glitching semiconductor wafer diagrams. Dramatic red neon lighting highlights the tension, suggesting digital corruption.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI CHIP EXPLOSION",
+    "image_description": "A hyper-realistic 3D render of a highly intricate, glowing AI processor chip, centrally placed within a cutting-edge server rack. Cyberpunk blue and purple lights emanate from the chip and rack, set against a dark, dramatic background. 8k resolution.",
+    "reasoning": "This thumbnail prioritizes a visually striking, high-tech object (AI chip) over a human, using cyberpunk aesthetics and dramatic lighting to attract investors and tech enthusiasts with a clear, impactful message."
+  },
+  "title": "AI Chip Market: Meta's $6.5B Bet Explained",
+  "segments": [
+    {
+      "text": "The AI in Semiconductor market is forecast to surge significantly towards 2035, driven by unprecedented hyperscale AI compute demand and innovation.",
+      "image_prompt": "A holographic projection of a rapidly ascending bar chart representing market growth towards 2035, with intricate AI chip schematics overlaying a vast, futuristic server farm background. Cinematic lighting, deep blue hues.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "Meta Platforms commits an audacious $6.5 billion to turbocharge its cloud infrastructure and AI capabilities. This signals aggressive, critical industry expansion.",
+      "image_prompt": "A stylized Meta logo integrated into a towering server rack, glowing with digital energy. Lines of data flow between servers, illustrating a massive financial investment powering cloud and AI expansion. Cyberpunk neon lighting.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "This massive investment fuels demand for high-performance GPUs and HBM memory. Next-gen AI models require extreme computational power and data throughput capacities.",
+      "image_prompt": "An extreme close-up of glowing HBM (High Bandwidth Memory) stacks precisely integrated onto a GPU board, intricate circuit patterns illuminated with electric blue and purple neon light. Intense focus on the technical detail.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "The World Semiconductor Microelectronics market reflects this trend, anticipating sustained growth beyond 2030. Advanced fabrication nodes become critical bottlenecks for supply.",
+      "image_prompt": "A global map displaying bright, interconnected nodes representing semiconductor manufacturing hubs. Some nodes flash red, signifying critical bottlenecks in advanced fabrication. Data streams flow between hubs. Dramatic side lighting.",
+      "camera_effect": "dolly_zoom"
+    },
+    {
+      "text": "Valuations across the semiconductor supply chain are adjusting to this AI-driven paradigm shift. Efficient yield management is paramount for maintaining profitability.",
+      "image_prompt": "A pristine, highly reflective silicon wafer showcasing perfect yield, overlaid with dynamic stock market ticker tape showing rising valuations. A human hand with smart glasses intensely examines data reflecting on the wafer's surface. Serious thought.",
+      "camera_effect": "tilt_up"
+    },
+    {
+      "text": "This exponential demand redefines industry CAPEX strategies.",
+      "image_prompt": "A robotic arm with extreme precision placing a microscopic component onto a semiconductor wafer in an ultra-cleanroom environment. Focus on precision and the futuristic technology involved in CAPEX allocation. Cinematic lighting.",
+      "camera_effect": "slow_zoom_out"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
