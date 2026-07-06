@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "MARKET SHOCKWAVE",
+    "narration": "Attention investors! The semiconductor market just delivered a seismic shockwave, and you need to understand why NOW!",
+    "image_description": "A financial analyst with cybernetic smart glasses reflecting dynamic stock charts and glowing green upward arrows. Intense focus, dramatic side lighting, digital glitch effects. Cinematic lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "CHIP STOCKS EXPLODE",
+    "image_description": "A hyper-realistic 3D render of a glowing, futuristic CPU chip at the center, surrounded by holographic financial data charts and rising stock lines. Dark, cyberpunk background with dramatic blue and green neon lighting. 8k resolution, centered object.",
+    "reasoning": "The direct, urgent text combined with a visually stunning, industry-specific object attracts investors and tech enthusiasts, promising high-value information about the soaring chip market."
+  },
+  "title": "Semicon Soars: $1.5T Market & AI's Impact",
+  "segments": [
+    {
+      "text": "Chip stocks have surged 157% over the past 12 months, significantly outperforming broader market indices due to unprecedented demand.",
+      "text_overlay": "CHIP STOCKS SOAR",
+      "image_prompt": "A digital stock chart displaying a dramatic upward trend with glowing green lines, overlayed on a complex circuit board, cinematic lighting, data reflecting in a single cybernetic eye in the corner. Through smart glasses.",
+      "camera_effect": "subtle zoom"
+    },
+    {
+      "text": "Industry forecasts now project the semiconductor market will exceed $1.5 trillion by 2027, necessitating massive CAPEX investments globally.",
+      "text_overlay": "$1.5T MARKET",
+      "image_prompt": "A holographic projection of a global supply chain network over a stylized world map, showing data flowing between fabs, with monetary symbols, intense focus, cyberpunk neon. Cinematic lighting.",
+      "camera_effect": "subtle zoom"
+    },
+    {
+      "text": "This explosive growth is fundamentally fueled by relentless AI infrastructure expansion, directly driving demand for advanced HBM and high-performance GPUs.",
+      "text_overlay": "AI FUELS GROWTH",
+      "image_prompt": "Close-up of intricately designed GPU wafers, glowing with internal light, being handled by a robotic arm in a cleanroom, dramatic side lighting, serious thought, data reflecting in a glowing iris.",
+      "camera_effect": "subtle zoom"
+    },
+    {
+      "text": "Optimizing manufacturing yields for cutting-edge HBM and specialized AI GPUs remains paramount, impacting global wafer output and critical supply chain stability.",
+      "text_overlay": "YIELD CRITICAL",
+      "image_prompt": "A complex semiconductor manufacturing line, highlighting wafers moving through process steps, with a digital overlay showing 'yield rate' data, red warning lights indicating tight tolerances. Determined expression, dramatic lighting.",
+      "camera_effect": "subtle zoom"
+    },
+    {
+      "text": "Astute investors are intensely scrutinizing foundry capacity, geopolitical risks, and specific technology roadmaps to identify sustainable long-term valuation.",
+      "text_overlay": "INVESTOR ALERT",
+      "image_prompt": "A person (seen from behind, wearing smart glasses reflecting complex financial charts and geopolitical maps) intensely analyzing multiple holographic screens, cinematic lighting, intense focus.",
+      "camera_effect": "subtle zoom"
+    },
+    {
+      "text": "The valuation debate for HBM and GPU producers accelerates.",
+      "text_overlay": "HBM/GPU VALUATION",
+      "image_prompt": "A stylized representation of HBM stacks and GPU processors, with complex data streams interlinking, creating a visual tension, seen through smart glasses reflecting analysis, cyberpunk neon. Serious thought.",
+      "camera_effect": "subtle zoom"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
