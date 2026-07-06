@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "TESLA'S AI SHOCKER",
+    "narration": "WARNING: Tesla just capped AI spending, sending a ripple through the entire tech industry!",
+    "image_description": "Close-up of a digital circuit board with a bright red 'LIMIT' overlay, glitching data streams, reflecting a determined, cybernetic eye through smart glasses, dramatic side lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "TESLA AI BUDGET",
+    "image_description": "A highly detailed 3D render of a futuristic credit card with a prominent '200' hologram, glowing with neon blue light, embedded within a server rack, dramatic cyberpunk backlighting.",
+    "reasoning": "This thumbnail clearly highlights the company (Tesla), the core topic (AI), and the key number (200), using an object-centric, high-contrast, and futuristic aesthetic to grab attention."
+  },
+  "title": "Tesla's $200 AI Cap: What It Means For YOU",
+  "segments": [
+    {
+      "text": "Tesla has imposed a strict $200 weekly spending limit for employees using external AI services. This policy impacts developers and researchers across various departments.",
+      "image_prompt": "A modern, minimalist corporate office setting with a holographic projection showing a dollar sign and '$200' limit, employees in intense focus, cinematic lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "The restriction applies to popular third-party AI tools like OpenAI's ChatGPT and Google's Gemini. It directly affects projects requiring powerful, external AI computation.",
+      "image_prompt": "A human hand interacting with a transparent holographic interface displaying various recognizable AI logos (ChatGPT, Gemini) with a subtle digital 'restricted' symbol, glowing iris reflecting data.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "This move primarily aims to manage escalating cloud computing costs associated with AI model consumption. Unchecked access can lead to significant, unbudgeted expenditures.",
+      "image_prompt": "A high-tech server room with glowing blue data streams, an abstract digital graph showing rapidly rising cost curves, subtle red warning lights, intense focus.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "The cap also encourages employees to optimize their AI usage, potentially driving more efficient internal AI tool development and resource allocation within Tesla's infrastructure.",
+      "image_prompt": "A complex neural network visualization with optimized data flow paths, superimposed over a digital interface showing 'efficiency' metrics, reflective cybernetic eyes observing.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "This decision signals a broader trend in big tech: balancing rapid AI innovation with crucial financial prudence. Other companies might soon follow Tesla's cost-saving example.",
+      "image_prompt": "A futuristic cityscape skyline at night, stylized data lines connecting multiple corporate buildings, showing a subtle digital ripple effect, dramatic lighting.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "While internal, this could influence future AI features in Tesla products, promoting more optimized and integrated AI for users, potentially impacting self-driving capabilities.",
+      "image_prompt": "A futuristic car interior dashboard displaying AI-assisted driving metrics and a glowing map, reflecting a user's determined expression through smart glasses, cinematic lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
