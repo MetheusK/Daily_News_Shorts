@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI YIELD CRUNCH",
+    "narration": "Warning! AI's rapid expansion faces a brutal yield crisis impacting your portfolio!",
+    "image_description": "Close-up of a complex circuit board with glowing red error lights, intricate digital glitch effects, data streams reflecting in a cybernetic eye with 'panicked' data patterns, dramatic cinematic lighting, mood_color: red",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "SEMI CRUNCH",
+    "image_description": "Hyper-realistic 3D render of interconnected server racks in a data center, with a single, highly detailed, glowing AI chip at the center. Subtle digital corruption lines emanate from the chip, dramatic backlighting, 8k resolution.",
+    "reasoning": "Highlights a core industry challenge directly tied to AI and market performance, compelling clicks from investors and engineers seeking deep analysis."
+  },
+  "title": "Semiconductor Boom: AI Bottlenecks & Strategic Plays",
+  "segments": [
+    {
+      "text": "Data center AI demand faces critical bottlenecks. HBM memory and advanced GPU supply are constrained, impacting immediate growth projections and CAPEX deployment.",
+      "image_prompt": "Futuristic server racks with holographic data streams indicating strain, a figure with smart glasses showing 'intense focus' on complex data analysis, cinematic lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "HBM manufacturing yields remain challenging, directly affecting NVIDIA and AMD's ability to scale AI GPU production. This impacts overall supply chain efficiency.",
+      "image_prompt": "Extreme close-up of a complex HBM stack on a wafer, with subtle red warning indicators on some layers, reflecting in a glowing iris, cyberpunk neon lighting.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "Despite supply constraints, chip stocks soared 157% in the past year. Industry valuation nears $1.5 trillion by 2027, driven by sustained AI adoption optimism.",
+      "image_prompt": "Upward-trending stock chart overlayed on a polished silicon wafer, reflecting a 'serious thought' investor's face through smart glasses, dramatic side lighting.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "TSMC's Winbond DRAM deal secures long-term supply, acting as critical 'insurance' for future manufacturing capacity. This mitigates risks in volatile supply chains.",
+      "image_prompt": "Holographic representation of a global semiconductor supply chain network, with a glowing green node labeled 'TSMC-Winbond', viewed by an analyst with 'determination' through a cybernetic eye.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "These strategic moves and yield dynamics will significantly shape chip ETF performance. Investors must analyze core manufacturing metrics beyond market sentiment.",
+      "image_prompt": "Abstract data visualization showing market fluctuations and interconnected data points, with a clean overlay of 'Chip ETFs' text, viewed through smart glasses with 'wonder' at the complexity, dramatic cinematic lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "The next 12 months will redefine semiconductor valuation metrics.",
+      "image_prompt": "A futuristic digital clock counting down seconds, reflecting in a cybernetic eye with 'intense focus' on the rapidly changing numbers, cyberpunk neon lighting.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
