@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI DATA LEAK",
+    "narration": "WARNING: A tech giant just BANNED its staff from using a popular AI due to massive security fears!",
+    "image_description": "A close-up of a digital padlock with data streams visually leaking from its seams, glowing red warning lights flashing, glitching code appearing in the background. Cinematic lighting, conveying digital corruption.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI BANNED?",
+    "image_description": "A hyper-realistic 3D render of a stylized Anthropic Claude logo or a generic AI brain icon. A large, stark red 'NO ENTRY' or 'X' symbol is boldly overlaid. The background is a dark, intricate cyberpunk server room with subtle blue data flows and dramatic backlighting. 8k resolution.",
+    "reasoning": "The 'AI BANNED?' question creates immediate intrigue and suspicion. The prominent 'NO ENTRY' symbol over a recognizable AI concept visually reinforces the hook, prompting users to click and discover which AI was banned and why, appealing to general curiosity about AI risks."
+  },
+  "title": "Tech Giant Bans Popular AI Over Security Fears!",
+  "segments": [
+    {
+      "text": "Alibaba Group has ordered its thousands of employees to immediately stop using Anthropic's Claude AI for all internal company operations.",
+      "text_overlay": "ALIBABA BANS AI",
+      "image_prompt": "A futuristic digital representation of the Alibaba logo, pixelating and glitching, with a bright red 'STOP' sign overlaid. Technical, clear visuals with dramatic side lighting.",
+      "camera_effect": "dynamic zoom in"
+    },
+    {
+      "text": "This drastic directive stems from significant security concerns regarding potential data leakage and intellectual property risks posed by the AI model.",
+      "text_overlay": "SECURITY FEARS",
+      "image_prompt": "Visual of encrypted data packets rapidly flowing away from a secure server icon. A digital lock icon in the foreground is visually breaking apart with red warning signals. Cyberpunk neon lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Specifically, Alibaba fears that confidential company information, if entered into Claude, could be inadvertently used to train its public model.",
+      "text_overlay": "DATA LEAK RISK",
+      "image_prompt": "A conceptual diagram showing data streams originating from a corporate laptop icon, flowing into a cloud symbol prominently labeled 'AI Public Model,' with a bright red warning overlay. Concrete, technical aesthetic.",
+      "camera_effect": "pan left to right"
+    },
+    {
+      "text": "This move highlights growing industry-wide caution about integrating third-party AI tools into sensitive corporate workflows and data environments.",
+      "text_overlay": "INDUSTRY WARNING",
+      "image_prompt": "A group of tech professionals (silhouettes) with glowing smart glasses, expressions of intense focus, observing a complex central AI interface. Cinematic lighting, implying serious thought.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "It underscores the critical need for robust data governance and emphasizes developing secure, private AI solutions, especially for enterprises.",
+      "text_overlay": "PRIVATE AI NEED",
+      "image_prompt": "A holographic shield visually protecting an array of complex data bytes and server racks, with 'Data Governance' text appearing dynamically. Futuristic, technical, and clear.",
+      "camera_effect": "zoom out"
+    },
+    {
+      "text": "Analysts note this trend could lead to more companies investing in their own internal, safeguarded AI, shaping the future of enterprise AI adoption.",
+      "text_overlay": "FUTURE AI SHIFT",
+      "image_prompt": "A clean, ultra-modern server room with a prominent diagram illustrating an internal, self-contained AI system glowing with a digital blue light. Concrete, technical, clear.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
