@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "2026 IS HERE!",
+    "narration": "WARNING: The future of technology is accelerating beyond imagination. 2026 will change everything you know!",
+    "image_description": "A human face with an expression of intense focus and determination, seen through smart glasses, reflecting streams of holographic data about AI and IoT. Cyberpunk neon lighting casts dramatic side shadows. Digital corruption effect around the edges.",
+    "mood_color": "neon_green"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "TECH SHOCK 2026!",
+    "image_description": "A stylized 3D render of interconnected glowing microchips forming a complex network, with a holographic AI brain represented as a glowing orb at the center. Dark, dramatic backlighting, 8k resolution, distinct cyberpunk aesthetic. No human faces visible.",
+    "reasoning": "The 'TECH SHOCK' phrase combined with the specific year 2026 creates immediate intrigue and urgency, signaling a near-future impact. The object-focused, high-contrast visual is cinematic and eye-catching without relying on generic 'shocked' human expressions, aligning with the rules."
+  },
+  "title": "2026: The AI & IoT Future Arrives!",
+  "segments": [
+    {
+      "text": "Industry leaders are already forecasting 2026. Major shifts in AI and IoT are accelerating rapidly, impacting daily life sooner than expected.",
+      "image_prompt": "A digital clock counting down to 2026, with dynamic data streams flowing around it, conveying a sense of urgency. Cinematic lighting, concrete, clear visuals.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "The 'Summit of Things 2026,' hosted by IoT Marketing, gathers key analysts. This event will unveil critical insights into future connectivity.",
+      "image_prompt": "A stylized, glowing holographic logo for 'Summit of Things 2026' on a futuristic podium, surrounded by miniature smart devices and connected networks. Concrete, clear visuals.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "Industry analyst Jeff Kagan delivers the keynote, highlighting revolutionary IoT trends. His perspective is crucial for understanding upcoming tech landscapes.",
+      "image_prompt": "A digitally enhanced portrait of a confident male industry analyst (generic, no specific person) presenting a holographic chart on IoT growth. Intense focus in his eyes. Cinematic lighting, concrete, clear visuals.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Sports Video Group's 'Executive Perspectives 2026' also confirms these trends. Leaders discuss business and technology merging across various sectors.",
+      "image_prompt": "Multiple high-resolution screens displaying charts and graphs, with one central screen showing interconnected business and tech icons. Concrete, clear visuals.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "Investor's Business Daily reports continuous AI growth. Artificial intelligence trends are shaping markets, with top AI stocks signaling significant investment potential.",
+      "image_prompt": "A clear stock market ticker display with upward trending AI charts, overlaid with abstract, glowing neural network graphics. Concrete, clear visuals.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "These convergences mean intelligent systems are embedding everywhere, from smart homes to advanced industrial operations. Get ready for comprehensive tech transformation.",
+      "image_prompt": "Futuristic city skyline with glowing holographic interfaces, flying drones delivering packages, and visible data streams flowing between buildings. Cyberpunk aesthetic, cinematic lighting.",
+      "camera_effect": "dolly_zoom_out"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
