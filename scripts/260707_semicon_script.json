@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "CHIP MARKET CRASH?",
+    "narration": "URGENT WARNING! Semiconductor stocks just faced a brutal selloff, despite massive profit surges!",
+    "image_description": "A digital representation of a stock chart rapidly plummeting, with red glitch lines distorting a close-up of a human eye reflecting binary code. Cyberpunk neon lighting, aggressive dramatic side lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI CHIP FEARS",
+    "image_description": "A hyper-realistic 3D render of a glowing HBM chip at the center, surrounded by fractured silicon wafers. Holographic red stock graphs are plunging in the background. Cinematic lighting, 8k resolution.",
+    "reasoning": "This thumbnail uses clear, iconic semiconductor objects (HBM, wafers) combined with market fear indicators (plunging graphs, fractures) to appeal directly to investors and engineers, creating urgency and intrigue for the 'AI chip fears' narrative."
+  },
+  "title": "Semiconductor Selloff: AI Cooling Fears Emerge Despite Profit Surge",
+  "segments": [
+    {
+      "text": "Samsung reported an astounding 1,800% profit surge, driven by robust memory demand and HBM sales. Yet, Nasdaq semiconductor stocks plunged post-earnings.",
+      "image_prompt": "A digital screen displaying Samsung's logo with a towering 1,800% profit growth bar chart in bright green, contrasted with a smaller red plummeting stock graph for Nasdaq. Data points reflecting in a serious analyst's smart glasses, cinematic lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "This paradoxical reaction, coupled with DeepSeek's AI service concerns, fueled 'AI Cooling Fears.' Nikkei dropped nearly 1,500 points, breaching 69,000.",
+      "image_prompt": "An intense focus on a glowing digital map of the Nikkei index showing a sharp decline, overlaid with 'AI Cooling Fears' text. Glitch effects on the edges, reflecting in a determined cybernetic eye.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "The market suspects AI chip sector valuations are stretched. Investors are questioning sustained high CAPEX and future demand, despite current HBM strength.",
+      "image_prompt": "A complex server rack with holographic projections of CAPEX spending data and fluctuating HBM demand curves. A hand with a glowing data interface points to a 'Valuation' warning, dramatic side lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "While HBM demand is solid, any perceived weakness could impact wafer starts and manufacturing yields. Supply chain resilience remains critical for stability.",
+      "image_prompt": "A close-up of a pristine silicon wafer glowing with data, transitioning slightly to show a subtle flaw with red warning lights. A robotic arm hovers, analyzing. Intense focus, technical lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "GPU market dynamics are crucial. A softening outlook, even minor, can trigger significant adjustments in forward guidance and production plans industry-wide.",
+      "image_prompt": "High-performance GPU chips arranged geometrically in a dark, futuristic data center. Holographic text indicating 'GPU Demand Outlook' with a subtle downward trend. Cyberpunk neon accents.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "This volatile environment requires careful valuation analysis. The focus shifts to long-term CAPEX strategies and sustainable growth beyond immediate HBM surges.",
+      "image_prompt": "An analyst with a serious, thoughtful expression, viewed through a monitor displaying complex stock charts and CAPEX expenditure figures. Glowing iris reflecting data, dramatic side lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
