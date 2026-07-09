@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI SHOCKWAVE",
+    "narration": "Warning! The AI chip market is undergoing a massive shift, directly impacting your investments and future tech!",
+    "image_description": "Close-up of a cybernetic eye reflecting a rapidly scrolling stock ticker with red warning data. Digital corruption effects, dramatic red and blue neon lighting, intense focus expression.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI PRICE SHOCK",
+    "image_description": "Hyper-realistic 3D render of a glowing, intricate AI processor chip centered, surrounded by abstract upward-trending stock market lines. Dark, dramatic backlighting, cyberpunk aesthetic, 8k resolution.",
+    "reasoning": "The direct, bold text combined with a visually striking, high-tech object immediately conveys the core message of AI and market impact, enticing clicks from investors and engineers."
+  },
+  "title": "AI Chips: Foundry Price Hikes & 2nm Race Reshape Industry",
+  "segments": [
+    {
+      "text": "TSMC and Samsung are raising foundry prices, a direct response to surging AI chip demand. This significantly shifts market power to these core suppliers.",
+      "image_prompt": "Digital, abstract representation of an upward-trending financial graph with glowing AI chips embedded. Cyberpunk neon lighting.",
+      "text_overlay": "PRICE HIKES",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "This strategic pricing move will boost foundries' revenue and gross margins, directly influencing investor valuation. AI chip buyers face higher production costs.",
+      "image_prompt": "Close-up of a holographic digital ledger displaying rising profit numbers and abstract valuation graphs. Dramatic side lighting.",
+      "text_overlay": "MARGIN BOOST",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "TSMC details plans to push beyond 2nm process technology. This next-gen wafer fabrication demands immense CAPEX, setting new industry benchmarks.",
+      "image_prompt": "Microscopic view of intricately glowing 2nm wafer patterns, with a precision robotic arm carefully placing a component. Cinematic lighting, intense focus.",
+      "text_overlay": "2NM BARRIER",
+      "camera_effect": "dolly_zoom"
+    },
+    {
+      "text": "IMEC's CEO explains complex engineering hurdles for sub-2nm nodes. These challenges will critically impact manufacturing yields and future production capacity.",
+      "image_prompt": "Technical schematics of a complex semiconductor chip with data streams showing 'YIELD WARNING' indicators and glitch effects. Focused hands (not panicked) through smart glasses examining data.",
+      "text_overlay": "YIELD HURDLE",
+      "camera_effect": "tilt_up"
+    },
+    {
+      "text": "Anthropic eyes a Samsung partnership for next-gen AI chips. This highlights the intense competition and collaborative demand for HBM and GPU technology.",
+      "image_prompt": "Two abstract, glowing digital entities representing companies connecting in a handshake-like motion. Holographic HBM stack data visible in the background. Cyberpunk neon.",
+      "text_overlay": "AI PARTNERSHIP",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "These developments underscore a tightening global supply chain. Access to advanced wafer capacity and integrated HBM is now paramount for market leadership.",
+      "image_prompt": "Global digital map with glowing supply chain lines converging on a central, illuminated chip. Abstract gears turning in the background. Cinematic lighting.",
+      "text_overlay": "SUPPLY SHIFT",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
