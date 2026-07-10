@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "YIELD SHOCK!",
+    "narration": "Attention Investors! Samsung just dropped a bomb on the semiconductor market, threatening AI profits and your portfolio!",
+    "image_description": "Close-up of a determined CEO's face, eyes reflecting glowing digital schematics of a wafer, with dramatic red warning lights flashing across the screen, intense focus, cinematic lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI PROFIT WARNING",
+    "image_description": "Hyper-realistic 8k render of a glowing 5nm semiconductor wafer, with a prominent holographic financial graph showing a sharp decline overlaid on it, set against a dark, futuristic factory backdrop with dramatic blue and red cinematic lighting.",
+    "reasoning": "Combines a direct investor warning with a high-quality, technical object (wafer), creating urgency and curiosity about the specific 'profit warning' without relying on generic 'shocked face' clickbait."
+  },
+  "title": "AI Valuation Alert: Samsung's Bold Move",
+  "segments": [
+    {
+      "text": "Samsung hiked 5nm and 4nm wafer prices 15%, driven by AI demand for advanced nodes. This aggressive pricing diverges sharply from TSMC’s more generalized foundry increases.",
+      "image_prompt": "Close-up of a perfectly fabricated 5nm semiconductor wafer, glowing with data streams, reflecting subtle red warning lights on its surface, cinematic lighting.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "This strategic pricing by Samsung intensifies competition in the high-performance computing segment. It implies a critical shift in wafer allocation dynamics and foundry power plays for AI clients.",
+      "image_prompt": "Digital map showing supply chain routes with two competing data streams, one blue (TSMC) and one red (Samsung), converging on a central AI server icon, dynamic and fast-paced.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "Lam Research stock surged 154% without direct chip sales. This growth highlights massive CAPEX investments by foundries in equipment to meet unprecedented AI GPU and HBM chip demand.",
+      "image_prompt": "Abstract representation of financial growth chart superimposed on advanced semiconductor manufacturing equipment, bright digital lines, reflecting data in a determined engineer's smart glasses.",
+      "camera_effect": "tilt_up"
+    },
+    {
+      "text": "Despite record demand, 'chip tremors' warn of an 'inevitable AI bust.' High valuations for AI-centric companies, especially GPU and HBM suppliers, fuel market skepticism.",
+      "image_prompt": "Abstract representation of market volatility with a red glowing fault line running through a silicon chip structure, digital glitch effects, cinematic side lighting.",
+      "camera_effect": "shake"
+    },
+    {
+      "text": "Investors question sustainable AI growth versus current earnings. Supply chain stability, yield improvements, and future CAPEX efficiency are critical risk factors for sector valuations.",
+      "image_prompt": "Analytical view of a complex valuation model, holographic projections of data points and risk indicators floating over an intense-looking investor through cybernetic glasses, deep blue and red neon.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "This valuation shift signals a new era for AI infrastructure CAPEX decisions.",
+      "image_prompt": "Holographic projection of a complex financial graph overlaying a semiconductor factory floor, dynamic data streams.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
