@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI IS LIVE",
+    "narration": "WARNING! AI investments are exploding, and the future you knew just disappeared overnight!",
+    "image_description": "A cybernetic human eye reflecting a rapidly scrolling data stream, intense blue and red neon lighting, glitch effects, digital corruption, cinematic, focus on data through smart glasses.",
+    "mood_color": "neon_blue"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI SHIFTS EVERYTHING",
+    "image_description": "A hyper-realistic 3D render of a glowing, intricate AI processor chip at the center, surrounded by holographic data streams in a dark, cyberpunk server room, dramatic backlighting, 8k resolution.",
+    "reasoning": "Focuses on the core AI technology, conveying immense power and systemic change through stylized visuals, appealing to tech enthusiasts and general curiosity for high CTR."
+  },
+  "title": "AI Explosion: How Tech is Changing YOU",
+  "segments": [
+    {
+      "text": "Information Services Group reports massive AI investment surge in Q2 2026. Global tech firms committed over $700 billion into AI solutions this year alone.",
+      "image_prompt": "A digital representation of rapidly growing financial graphs and upward-trending bar charts, intertwined with glowing AI network nodes, cinematic lighting.",
+      "camera_effect": "zoom_in_fast",
+      "text_overlay": "AI CASH SURGE"
+    },
+    {
+      "text": "This investment fuels hyperscaler expansion, dramatically boosting cloud infrastructure. Major platforms like AWS and Azure now handle exabytes of AI computations daily.",
+      "image_prompt": "A vast server farm with glowing racks extending into the distance, holographic data flowing between them, cinematic cyberpunk lighting, representing immense computational power.",
+      "camera_effect": "dolly_zoom",
+      "text_overlay": "CLOUD BOOST"
+    },
+    {
+      "text": "Brands and agencies leverage these trends, creating personalized marketing and automated client experiences. Ad Age notes a 30% increase in AI tool adoption by agencies.",
+      "image_prompt": "A digital billboard displaying dynamic, personalized ads adapting in real-time to a virtual crowd, glowing data overlays, dramatic street lighting.",
+      "camera_effect": "pan_left",
+      "text_overlay": "MARKETING AI"
+    },
+    {
+      "text": "New AI-powered tools redefine business travel and lead generation. Real-time itinerary optimization and smart exhibitor matching save companies 15% in costs.",
+      "image_prompt": "A sleek, futuristic tablet displaying a dynamically optimized travel itinerary with real-time updates and smart recommendations, hands interacting with holographic interface.",
+      "camera_effect": "tilt_down",
+      "text_overlay": "SMART TRAVEL"
+    },
+    {
+      "text": "These innovations directly enhance daily user experiences. From smarter home devices to predictive assistants, AI is seamlessly integrating into our routines for unmatched convenience.",
+      "image_prompt": "A person in a modern home interacting effortlessly with a holographic smart assistant, glowing UI elements, warm cinematic lighting, showing ease of use and wonder.",
+      "camera_effect": "smooth_track",
+      "text_overlay": "YOUR LIFE SMARTER"
+    },
+    {
+      "text": "Expect rapid adoption across sectors. Industry reports project 85% of businesses will utilize AI by 2028, fundamentally reshaping how we live and work globally.",
+      "image_prompt": "A futuristic city skyline at dawn, with holographic data streams crisscrossing between buildings, showing progress and innovation, faces in foreground with intense focus, cinematic lighting.",
+      "camera_effect": "crane_shot_up",
+      "text_overlay": "FUTURE HERE"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
