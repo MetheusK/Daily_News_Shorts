@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "CHIP WAR ERUPTS",
+    "narration": "Warning: A new foundry war just erupted, threatening TSMC's dominance and your semiconductor investments!",
+    "image_description": "Dynamic shot of two colliding holographic chip models, digital corruption effects, red warning lights, a figure with intense focus seen through smart glasses reflecting data, cinematic lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "TSMC CHALLENGE?",
+    "image_description": "3D render of a highly detailed, glowing advanced semiconductor wafer, with a subtle digital 'challenge' icon overlay, dramatic cyberpunk backlighting, 8k resolution, centered composition.",
+    "reasoning": "The question mark and high-tech wafer create intrigue about TSMC's market position, attracting both investors and tech enthusiasts seeking answers."
+  },
+  "title": "Semiconductor Showdown: US Foundry vs. TSMC Dominance",
+  "segments": [
+    {
+      "text": "US chip manufacturing is resurgent, driven by billions in CAPEX and federal incentives. The goal: strengthen supply chain independence.",
+      "image_prompt": "Robotic arm placing a silicon wafer onto a production line, with a subtle US flag motif in the background. A figure with cybernetic eyes observes through smart glasses, reflecting complex data streams.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "A new foundry competitor plans to aggressively undercut TSMC’s advanced wafer pricing. This disrupts market share and threatens established margins.",
+      "image_prompt": "Two competing holographic chip models, one prominently displaying a 'discount' tag. An analyst's face showing serious thought, viewed through smart glasses with reflecting market graphs, dramatic side lighting.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "TSMC currently dominates high-margin HBM and GPU fabrication for AI leaders, reflecting premium valuations due to advanced yields.",
+      "image_prompt": "Glowing HBM stacks digitally connected to a GPU, with complex data paths visible. A determined engineer with cybernetic eyes reviews schematics on a transparent display, cinematic lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Achieving competitive advanced node yields is profoundly CAPEX-intensive. New entrants face immense cost hurdles and initial yield shocks.",
+      "image_prompt": "Detailed wafer inspection screen showing high density defect patterns. A focused expression on an engineer's face, with a red warning light subtly flashing in the background, dramatic side lighting.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "This competition will reshape foundry dynamics. Investors should closely monitor capacity utilization, pricing pressures, and future CAPEX projections.",
+      "image_prompt": "Stock market chart overlaid onto a cleanroom environment, data reflecting in a technician's cybernetic eyes. Intense focus and serious thought, cyberpunk neon lighting.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "This strategic shift impacts global semiconductor valuation significantly.",
+      "image_prompt": "Global map with glowing semiconductor supply chain lines converging on manufacturing hubs. A determined figure observing the map, with data points reflecting in their eyes. Cinematic lighting, focused expression.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
