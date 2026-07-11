@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "YOUR FRIDGE IS WATCHING",
+    "narration": "WARNING: Your kitchen is about to get terrifyingly smart. AI isn't just in your phone anymore!",
+    "image_description": "Extreme close-up of a cybernetic eye reflecting complex data streams, glowing iris, within the dark glass of a modern smart fridge door. Cinematic lighting, deep blue mood, digital corruption effects.",
+    "mood_color": "blue"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI FRIDGE BOOM",
+    "image_description": "A sleek, hyper-realistic 3D render of a futuristic smart fridge with a holographic display showing ingredients and nutritional info. Cyberpunk neon lighting, dark kitchen background, 8k resolution.",
+    "reasoning": "Highlights a specific, high-tech consumer product and a clear market explosion, drawing in general public interested in future tech and smart homes."
+  },
+  "title": "AI Kitchen Revolution: Smart Fridges Surge by 2030!",
+  "segments": [
+    {
+      "text": "The AI Fridge Market is projected to reach $6.27 billion by 2030. This massive growth signifies a fundamental shift in smart home appliance adoption globally.",
+      "image_prompt": "Hyper-realistic 3D render of a sleek, futuristic smart fridge displaying a holographic market growth chart. Cinematic lighting. Focus on data visualization.",
+      "camera_effect": "zoom_in",
+      "text_overlay": "FRIDGE MARKET SOARS"
+    },
+    {
+      "text": "These intelligent fridges offer advanced features like automatic inventory tracking, personalized recipe suggestions, and automated grocery ordering for peak efficiency.",
+      "image_prompt": "A close-up of a smart fridge's touch screen showing a dynamic, interactive interface with real-time food inventory and recipe suggestions. Reflecting data, intense focus.",
+      "camera_effect": "pan_right",
+      "text_overlay": "AI KNOWS ALL"
+    },
+    {
+      "text": "Benefits include reduced food waste from expiry tracking and tailored nutritional planning. This integration profoundly enhances daily convenience and healthy living routines.",
+      "image_prompt": "A person looking thoughtfully at a fridge interface displaying optimized food use, digital projections showing reduced waste. Cinematic lighting, serious thought expression.",
+      "camera_effect": "static",
+      "text_overlay": "NO MORE FOOD WASTE"
+    },
+    {
+      "text": "Key industry participants driving this innovation include tech giants like Google, Samsung, LG, and Bosch. Their substantial investments accelerate market development.",
+      "image_prompt": "Glowing corporate logos (Google, Samsung, LG, Bosch) arranged on a circuit board pattern, representing collaborative innovation. Cyberpunk neon, dramatic side lighting.",
+      "camera_effect": "pan_left",
+      "text_overlay": "TECH GIANTS LEAD"
+    },
+    {
+      "text": "Growth drivers encompass rising smart home adoption, energy efficiency demands, and evolving consumer desires for connected, seamless appliance experiences.",
+      "image_prompt": "A sophisticated smart home hub interface radiating connections to various futuristic appliances, focusing on a fridge icon. Holographic data flow.",
+      "camera_effect": "tilt_up",
+      "text_overlay": "SMART HOME DRIVES"
+    },
+    {
+      "text": "By 2030, AI fridges will be a household staple, fundamentally redefining kitchen interactions. This marks a new era of intelligent food management.",
+      "image_prompt": "A family (mother, father, child) interacting joyfully with a seamless, voice-activated smart fridge in a sleek, minimalist kitchen. Cinematic lighting. Expressions of wonder and determination.",
+      "camera_effect": "zoom_in",
+      "text_overlay": "KITCHEN REVOLUTION"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
