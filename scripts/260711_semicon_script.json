@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "SEMICON CRISIS ALERT",
+    "narration": "WARNING! A brutal semiconductor market correction is underway, threatening valuations across the entire supply chain.",
+    "image_description": "Extreme close-up of a cybernetic eye reflecting a rapidly falling stock chart with digital corruption effects and red warning lights, intense focus, dramatic side lighting, cyberpunk neon elements.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "CHIP MARKET SHIFT",
+    "image_description": "Hyper-realistic 8k 3D render of a fractured silicon wafer with glowing red fault lines, centered composition, surrounded by blurred server racks in dramatic cyberpunk lighting. Emphasize complex circuitry.",
+    "reasoning": "This thumbnail visually communicates market instability and technical breakdown (fractured wafer), appealing to engineers' understanding of the core product and investors' concern for market shifts, without using human expressions. It's high-contrast and clear for a static image."
+  },
+  "title": "Semicon Plunge: Yields & Valuations at Risk",
+  "segments": [
+    {
+      "text": "Samsung Electronics experienced a significant share plunge post-earnings, driven by lower than anticipated demand and intense competition in the memory sector, raising production crisis alarms.",
+      "image_prompt": "Digital stock chart displaying a sharp red decline, overlaid with the Samsung logo, with calm blue and grey background tones, reflecting in smart glasses.",
+      "camera_effect": "zoom_out_slight"
+    },
+    {
+      "text": "Reports indicate potential production crisis for specific Samsung advanced nodes. Yield rates for leading-edge HBM memory and logic wafers are under intense scrutiny, impacting margins.",
+      "image_prompt": "Close-up of a robotic arm precisely placing a silicon wafer onto a platform, with subtle digital red highlights on a few microscopic cells indicating potential yield defects, cinematic lighting.",
+      "camera_effect": "slow_pan_left"
+    },
+    {
+      "text": "Simultaneously, TSMC's pre-earnings reports highlight its dominant AI chip manufacturing pricing power. This capability reshapes the entire semiconductor pricing landscape for advanced GPUs.",
+      "image_prompt": "A holographic projection of a complex 3D chip design, glowing green with data streams, being observed by an engineer through smart glasses with intense focus, cyberpunk neon lighting.",
+      "camera_effect": "tilt_down"
+    },
+    {
+      "text": "The broader semiconductor sell-off reflects investor concerns over declining average selling prices (ASPs) and inventory adjustments. Valuations are being recalibrated across the industry.",
+      "image_prompt": "A dark, minimalist server room with one rack displaying abstract digital data lines trending sharply downwards, reflected in a glowing iris, dramatic side lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Despite robust long-term HBM and GPU demand, short-term oversupply fears, combined with high CAPEX requirements for new fabs, pressure near-term profitability forecasts.",
+      "image_prompt": "Overhead shot of a massive, futuristic cleanroom factory floor with highly automated robotic machinery, slight lens flare, conveying scale of investment and CAPEX.",
+      "camera_effect": "glide_forward"
+    },
+    {
+      "text": "This valuation shift impacts future CAPEX and wafer demand projections for HBM and GPU fabs.",
+      "image_prompt": "Abstract digital representation of intersecting supply and demand curves, one trending downwards, overlaid on a blueprint of a semiconductor factory floor, serious thought reflected in cybernetic eyes.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
