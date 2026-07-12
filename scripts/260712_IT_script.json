@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI BACKDOOR ALERT!",
+    "narration": "WARNING! A critical AI security flaw just created a seismic shift in global tech power. Are you ready?",
+    "image_description": "A close-up of a human eye with a cybernetic glowing iris reflecting digital code, red warning lights flashing across the screen, digital glitch effects, dramatic side lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI SECURITY RISK",
+    "image_description": "A 3D render of a glowing, intricate circuit board with a cracked digital lock icon overlayed. Cyberpunk aesthetic, hyper-realistic, 8k resolution, centered with dramatic blue and red backlighting.",
+    "reasoning": "This thumbnail uses a clear, impactful image of a broken digital lock on a tech object, combined with a direct, fear-inducing text 'AI SECURITY RISK' to grab immediate attention and convey urgency without relying on human expressions, maximizing click-through rates."
+  },
+  "title": "AI Backdoor: China's Next Tech Advantage?",
+  "segments": [
+    {
+      "text_overlay": "CLAUDE CODE FLAW",
+      "narration": "A significant 'back-door alert' linked to Claude Code has emerged, exposing vulnerabilities in a leading Western AI model, triggering industry-wide scrutiny.",
+      "image_prompt": "Digital rendering of complex code streams, one segment showing 'ERROR' in red, with a cybernetic hand pointing at the anomaly. Cinematic lighting.",
+      "camera_effect": "dynamic zoom on error"
+    },
+    {
+      "text_overlay": "CHINA'S AI GAIN",
+      "narration": "Following this disclosure, several prominent Chinese AI tools are strategically positioned to gain significant market advantage and user trust.",
+      "image_prompt": "Abstract network of glowing nodes, one cluster expanding rapidly with stylized Chinese characters subtly integrated, reflecting data streams. Cyberpunk neon lighting.",
+      "camera_effect": "pan across network"
+    },
+    {
+      "text_overlay": "DATA INTEGRITY",
+      "narration": "The vulnerability raises serious questions about data integrity and operational security, prompting a re-evaluation of current AI development frameworks globally.",
+      "image_prompt": "A digital lock icon with visible data corruption and glitch effects, data streams flowing away into darkness, through smart glasses perspective. Intense focus.",
+      "camera_effect": "static"
+    },
+    {
+      "text_overlay": "GLOBAL SHIFT",
+      "narration": "Analysts project a potential shift in global AI leadership, as competing platforms like Google AI and OpenAI face heightened scrutiny over their models.",
+      "image_prompt": "Digital scales with 'EAST' and 'WEST' symbols made of glowing data, one side tilting upward prominently, with animated data graphs rising rapidly. Dramatic side lighting.",
+      "camera_effect": "tilt-shift effect"
+    },
+    {
+      "text_overlay": "ACCELERATED AI",
+      "narration": "This incident may accelerate investments and innovation in domestic AI infrastructure, pushing rapid advancements in areas like natural language processing.",
+      "image_prompt": "Futuristic server racks glowing intensely with blue and purple neon lights, hands with cybernetic enhancements typing rapidly on holographic keyboards, reflecting data. Determination expression.",
+      "camera_effect": "fast pan"
+    },
+    {
+      "text_overlay": "FUTURE IS HERE",
+      "narration": "The implications are profound: shifting global tech power and accelerating AI development.",
+      "image_prompt": "A glowing digital globe composed of interconnected data lines, specific regions highlighted with an energetic pulse, seen through a user's smart glasses. Serious thought expression.",
+      "camera_effect": "slow zoom out"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
