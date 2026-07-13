@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI DECIDES NOW",
+    "narration": "WARNING: AI is no longer just observing! It's now making critical decisions without direct human input!",
+    "image_description": "Extreme close-up of a human eye, seen through futuristic smart glasses, reflecting lines of code and data, with a subtle red glow in the iris, cinematic lighting, intense focus, cyberpunk style.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI TAKES CONTROL",
+    "image_description": "Hyper-realistic 3D render of a futuristic robot hand reaching towards a glowing holographic interface displaying complex algorithms and business metrics, cyberpunk neon lighting, dark background, 8k resolution, centered composition.",
+    "reasoning": "Evokes curiosity about AI autonomy and its implications for human control, using a strong visual metaphor of a robot hand interacting with complex data, attracting clicks with a 'future shock' appeal."
+  },
+  "title": "Agentic AI: Your Future Work Just Changed",
+  "segments": [
+    {
+      "text": "B2B Tech Asia Expo 2026 announced its focus on agentic AI for enterprise automation. This marks a new era for business technology in the region.",
+      "image_prompt": "A futuristic cityscape in Asia, with holographic projections of 'B2B Tech Expo 2026' and abstract AI data flows, cinematic lighting, 8k resolution.",
+      "camera_effect": "Zoom out from city to reveal holographic data."
+    },
+    {
+      "text": "Agentic AI enables systems to act autonomously, making complex decisions and executing tasks without constant human intervention. It’s a significant leap in machine intelligence.",
+      "image_prompt": "A circuit board with glowing nodes, connected by intricate light trails representing autonomous decision-making pathways, seen through a translucent data overlay, detailed 3D render, vibrant neon lights.",
+      "camera_effect": "Slow pan across the glowing circuit board."
+    },
+    {
+      "text": "This technology is set to redefine operational efficiency across industries. Imagine AI managing supply chains or customer service proactively, optimizing every step.",
+      "image_prompt": "A complex digital dashboard displaying real-time supply chain data (truck icons, shipping routes) overlaid with an intelligent AI agent icon, glowing green data lines, intense focus on optimization, 8k resolution.",
+      "camera_effect": "Data points animating on the dashboard."
+    },
+    {
+      "text": "Enterprise automation platforms are rapidly integrating these AI agents. This shift impacts millions of businesses, from small firms to global corporations.",
+      "image_prompt": "A server rack glowing with blue light, digital data flowing between server blades, with a silhouette of a network engineer's focused profile reflecting the data, cinematic lighting, high-contrast.",
+      "camera_effect": "Gentle zoom into the glowing server blades."
+    },
+    {
+      "text": "The expo aims to showcase how agentic AI will drive innovation and growth, preparing companies for a future where intelligent systems handle complex business processes.",
+      "image_prompt": "A diverse group of business professionals in a modern, sleek conference room, viewing a holographic projection of an AI assistant seamlessly managing tasks and analytics, expressions of wonder and serious thought, dramatic side lighting.",
+      "camera_effect": "Slow pull-back to show the scale of the holographic projection."
+    },
+    {
+      "text": "Experts predict widespread adoption by 2030, altering how businesses manage data, resources, and interactions across the digital landscape.",
+      "image_prompt": "A global digital network grid, with glowing nodes representing interconnected businesses, pulsating with data flow, a stylized '2030' visible as a subtle watermark, cinematic lighting, 8k resolution.",
+      "camera_effect": "Rotational view of the global network grid."
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
