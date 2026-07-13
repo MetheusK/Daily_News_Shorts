@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI CHIP CRISIS",
+    "narration": "Warning: The AI chip supply chain faces an unavoidable bottleneck, impacting ALL market valuations!",
+    "image_description": "Close-up of a high-tech wafer factory, robotic arms moving blurred in the background. A cybernetic eye of an engineer is reflecting critical yield data with red digital corruption effects. Cinematic lighting, cyberpunk neon, intense focus.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "TSMC BOTTLENECK?",
+    "image_description": "A hyper-realistic 3D render of a glowing, intricate silicon wafer at the center, with abstract data streams and faint server racks in the blurred, dramatically lit background. 8k resolution, centered object, dramatic backlighting.",
+    "reasoning": "Posing a direct question about a major industry player (TSMC) and a critical issue (bottleneck) on a high-tech visual of a wafer immediately grabs attention from investors and engineers, encouraging a click to understand the implication."
+  },
+  "title": "Semicon Alert: AI Bottleneck & Valuation Risks",
+  "segments": [
+    {
+      "text": "TSMC's earnings call anticipates an 'unshakable AI chip bottleneck.' This supply constraint directly impacts GPU and HBM production for AI computing.",
+      "text_overlay": "HBM SUPPLY CRUNCH",
+      "image_prompt": "A highly detailed rendering of a GPU chip, glowing with data streams, surrounded by abstract HBM memory stacks. Cinematic lighting, deep blues and purples.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "This bottleneck will likely elevate wafer pricing and force strategic CAPEX adjustments across the industry. Investor valuations are directly impacted by yield concerns.",
+      "text_overlay": "CAPEX SHIFT",
+      "image_prompt": "A complex 3D graph showing fluctuating stock prices (up/down trends) overlaid on a silicon wafer grid, with red warning lights on lower yielding areas. Cyberpunk aesthetic.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "Foreign media touts Silicon Photonics as a pivotal 'next ace.' It promises to address data transfer bottlenecks critical for future high-performance AI systems.",
+      "text_overlay": "PHOTONICS BREAKTHROUGH",
+      "image_prompt": "A microscopic view of a silicon photonics chip, light flowing through intricate waveguides, glowing blue and purple. Hyper-realistic, 8k detail.",
+      "camera_effect": "dolly_zoom"
+    },
+    {
+      "text": "AMD, a critical GPU and AI hardware provider, faces intense scrutiny. Their supply chain robustness and diversification strategies are paramount amidst current constraints.",
+      "text_overlay": "AMD UNDER PRESSURE",
+      "image_prompt": "A futuristic server rack with glowing AMD logos, a determined engineer through smart glasses intensely monitoring performance metrics on a holographic display. Cybernetic lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Despite these supply realities, chip stocks are 'ripping' on Nasdaq, reflecting strong AI market demand. This creates a volatile market dynamic.",
+      "text_overlay": "NASDAQ SURGE",
+      "image_prompt": "A stylized graph showing an aggressive upward trend for chip stocks on a digital Nasdaq screen, with digital lightning bolts, contrasting with a subtle background of manufacturing equipment. Neon accents.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "TSMC's earnings call will clarify AI chip bottleneck status, crucial for future CAPEX decisions.",
+      "text_overlay": "TSMC VERDICT AWAITS",
+      "image_prompt": "A high-tech boardroom table with a holographic projection of TSMC's financial data, showing a serious analyst with a glowing iris, focused on the numbers. Dramatic side lighting.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
