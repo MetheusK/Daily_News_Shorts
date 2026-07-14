@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "TSMC RIVAL SHOCK",
+    "narration": "WARNING: A new rival threatens TSMC's market dominance, sending shockwaves through the semiconductor supply chain!",
+    "image_description": "A dynamic digital battlefield with glowing circuit lines, a large 'TSMC' logo cracking, and an abstract competitor symbol emerging, seen through an engineer's cybernetic, data-reflecting eye. Red warning lights and glitch effects create a sense of urgent disruption.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI BUBBLE FEARS?",
+    "image_description": "Hyper-realistic 8k 3D render of a glowing, complex HBM memory chip centered on a dark server rack background, with a holographic, volatile stock market chart superimposed. Dramatic cyberpunk blue and purple backlighting.",
+    "reasoning": "This thumbnail highlights a critical component (HBM) tied to AI and directly addresses a major investor concern (AI market sustainability) with a question, creating high click-through potential without generic shock."
+  },
+  "title": "Semicon Stock Alert: TSMC Rival & AI Chip Valuation Threat",
+  "segments": [
+    {
+      "text": "A new contender challenges TSMC's foundry dominance, aiming to undercut wafer pricing. This impacts CAPEX projections and supply chain stability for investors.",
+      "text_overlay": "TSMC RIVAL!",
+      "image_prompt": "A dramatic visual of two opposing holographic silicon wafers, one slightly cracked labeled 'TSMC', against a backdrop of a serious analyst's face through smart glasses reflecting financial data. Cinematic lighting with neon accents.",
+      "camera_effect": "dynamic_zoom"
+    },
+    {
+      "text": "The Heterogeneous Integration market is forecast for significant growth to 2034, driven by increasing HBM and GPU demand for advanced AI solutions.",
+      "text_overlay": "HETEROGENEOUS BOOM",
+      "image_prompt": "A detailed 3D render of a heterogeneous integrated circuit with glowing data pathways, surrounded by smaller, interconnected chiplets. A human hand in the foreground with a cybernetic glowing iris, observing the complex chip.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "Surging AI chip demand escalates manufacturing complexity. Achieving high yields for advanced processes is now critical for profitability across the entire supply chain.",
+      "text_overlay": "YIELD CHALLENGE",
+      "image_prompt": "A factory cleanroom with robotic arms assembling microscopic components on a wafer, digital data streams indicating 'Yield %' flowing over it. An engineer with intense focus, glowing blue eyes through smart glasses, overseeing the process.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Foundry giants face immense CAPEX pressure. Billions must be invested to expand capacity for cutting-edge nodes, impacting financial outlooks and shareholder value.",
+      "text_overlay": "CAPEX CRUNCH",
+      "image_prompt": "A large, digital display showing a CAPEX expenditure chart spiking upwards, with blurred industrial semiconductor equipment in the background. A determined face looking at the screen, dramatic side lighting casting shadows.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "Despite robust AI sector momentum, analysts caution that current chip valuations might be unsustainable, signaling potential corrections for investors to monitor closely.",
+      "text_overlay": "VALUATION WARNING",
+      "image_prompt": "A futuristic stock ticker displaying volatile AI chip company valuations with red warning lights, reflected in the eyes of an industry analyst wearing smart glasses. Digital corruption effect around the numbers.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "Market analysts caution current AI chip valuations may be unsustainable long-term.",
+      "text_overlay": "UNSUSTAINABLE?",
+      "image_prompt": "A stark, abstract image of a towering, unstable stack of digital gold coins labeled 'AI' beginning to tilt, with subtle glitch effects and red warning lights. A singular glowing iris reflecting the instability and potential collapse.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
