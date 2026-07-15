@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "TECH IS HERE",
+    "narration": "WARNING: AI isn't just coming; it's already running your world behind the scenes, changing everything you know!",
+    "image_description": "Extreme close-up of a human eye with a glowing, cybernetic iris, reflecting complex digital data streams and subtle glitch effects, cinematic lighting, neon blue and red, intense focus.",
+    "mood_color": "neon_green"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "FUTURE IS NOW",
+    "image_description": "A perfectly centered, hyper-realistic 3D render of a glowing, translucent AI core pulsing with energy, surrounded by minimalist abstract data streams in a dark, cyberpunk environment. Dramatic purple and blue backlighting, 8k resolution.",
+    "reasoning": "High-contrast, mysterious object directly hints at advanced technology and future impact, creating intrigue for clicks without being misleading."
+  },
+  "title": "Future Shock: AI & Tech Are Changing EVERYTHING!",
+  "segments": [
+    {
+      "text": "AI is revolutionizing court reporting, integrating advanced technology for faster, more accurate transcripts. Ethical and legal debates are now surging over its essential use.",
+      "image_prompt": "A modern courtroom scene with holographic legal documents projected, an AI bot with glowing cybernetic eyes reviewing text on a screen, focused expression, dramatic side lighting.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "The car detailing market, projected to boom significantly by 2026, increasingly adopts new tech. Advanced sensors and automated systems are enhancing service efficiency and quality.",
+      "image_prompt": "A futuristic car detailing bay with robotic arms precisely polishing a vehicle. Clean, metallic surfaces, neon accent lighting reflecting on the car's body, intense focus on precision.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "Heat pump technology is making strides, standardizing 130°C and demonstrating over 160°C efficiency. This innovation dramatically boosts sustainable energy solutions.",
+      "image_prompt": "A cross-section of a sleek, advanced heat pump glowing with internal energy, overlaid with thermal imaging visuals showing high temperatures. Industrial, metallic setting, cinematic lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "From legal analysis to vehicle maintenance, AI and advanced technology are no longer niche. They are rapidly becoming essential across diverse, everyday industries worldwide.",
+      "image_prompt": "An abstract visualization of interconnected glowing nodes representing various industries (legal scales, car icon, energy symbol). Data streams flowing between them, dynamic, cyberpunk aesthetic.",
+      "camera_effect": "tracking"
+    },
+    {
+      "text": "Consumers will experience unseen shifts: quicker service, enhanced precision, and more sustainable options. This directly translates to improved daily convenience and quality of life.",
+      "image_prompt": "A person interacting with a holographic interface, showing smart home controls or autonomous vehicle functions. Their expression is one of wonder and serious thought, cinematic lighting.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "This is just the beginning of how AI will reshape our daily lives, influencing everything from transport to legal systems.",
+      "image_prompt": "A sprawling, futuristic city skyline at dawn, overlaid with subtle digital data streams and reflections. A person's profile, with a glowing iris, observing the future through smart glasses, determination in their expression.",
+      "camera_effect": "slow_pan"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
