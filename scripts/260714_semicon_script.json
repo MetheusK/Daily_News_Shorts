@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "SEMI MARKET SHOCK",
+    "narration": "Semiconductor market crisis! Taiwan's unexpected gains are masking a hidden vulnerability!",
+    "image_description": "A focused semiconductor industry analyst's face, seen through smart glasses, reflecting complex data streams. Digital corruption glitches ripple across the screen with aggressive red warning lights. Cinematic lighting, cyberpunk neon elements highlighting intense focus.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "TSMC PRICE SURGE",
+    "image_description": "A hyper-realistic 3D render of a gleaming silicon wafer, centrally placed, with intricate glowing circuit patterns. Dark, industrial background with dramatic blue and gold backlighting. 8k resolution, clean and sharp.",
+    "reasoning": "The visually striking silicon wafer directly represents the semiconductor industry, appealing to engineers. The bold text 'TSMC PRICE SURGE' targets investors directly, indicating significant market movement and creating curiosity for a click without relying on human expressions."
+  },
+  "title": "TSMC Earnings: Unpacking the Taiwan Semiconductor Surge & Price Hikes",
+  "segments": [
+    {
+      "text": "Taiwan's semiconductor ecosystem reports full-sweep gains, indicating robust industry health and strong forward momentum before TSMC's pivotal earnings.",
+      "image_prompt": "A holographic projection of a detailed map of Taiwan, overlaid with glowing digital circuits and financial growth charts. Cyberpunk neon lighting, deep blue and emerald green hues.",
+      "camera_effect": "Zoom out from Taiwan to a wider East Asia view."
+    },
+    {
+      "text": "TSMC and Samsung implemented significant price hikes, reflecting intensified demand for cutting-edge wafer fabrication and high-bandwidth memory (HBM).",
+      "image_prompt": "Extreme close-up of a precise robot arm carefully placing a microchip onto a silicon wafer, with glowing HBM stacks visible in the background. Digital 'price up' arrows integrated into the display.",
+      "camera_effect": "Slow pan across the wafer's surface."
+    },
+    {
+      "text": "This strategic pricing action signals evolving semiconductor market dynamics, primarily driven by surging AI GPU requirements and advanced nodes.",
+      "image_prompt": "A complex network of glowing data streams converging into a powerful AI GPU chip, depicted as a central node. Abstract visualizations of supply and demand curves intersecting around it.",
+      "camera_effect": "Dynamic zoom into the GPU's illuminated core."
+    },
+    {
+      "text": "Escalating global demand, particularly from AI applications, strains manufacturing yields, driving average selling prices upwards across the intricate supply chain.",
+      "image_prompt": "A cleanroom facility, highly focused engineers in protective suits observing real-time yield data on transparent, floating screens. Digital red warning lines indicate 'strain' on the production line.",
+      "camera_effect": "Tracking shot along an automated assembly line."
+    },
+    {
+      "text": "Investors eagerly await TSMC's July 16th earnings, which could validate bullish valuations despite ongoing concerns regarding global CAPEX outlays.",
+      "image_prompt": "An investor with intense focus, looking at multiple holographic stock charts and financial reports. Cybernetic elements in smart glasses reflect dynamic data. Dramatic side lighting emphasizing determination.",
+      "camera_effect": "Close-up on the investor's data-reflecting eyes."
+    },
+    {
+      "text": "This valuation shift impacts future CAPEX decisions and strategic HBM development.",
+      "image_prompt": "A futuristic semiconductor factory floor with massive industrial machinery for next-generation manufacturing. Emphasize blue and green neon lights signifying CAPEX investment in advanced HBM production.",
+      "camera_effect": "Sweeping drone shot over the factory floor."
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
