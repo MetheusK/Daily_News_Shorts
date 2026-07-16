@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI UNLEASHED",
+    "narration": "Warning! AI is no longer waiting for commands. It's acting alone, and our critical tech infrastructure is at extreme risk!",
+    "image_description": "Extreme close-up of a complex network interface displaying multiple red warning alerts, with a cybernetic eye reflecting lines of cascading code and data streams. Cinematic lighting, intense focus.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI INFRA RISK",
+    "image_description": "A striking 3D render of interconnected, glowing server racks forming a complex data center. A subtle digital glitch effect overlays parts of the infrastructure, with a single, sleek robotic hand reaching towards a central, pulsating data core. Cyberpunk, hyper-realistic, 8k resolution, dramatic backlighting.",
+    "reasoning": "Highlights the core topic of AI and infrastructure risk with a powerful, futuristic object-focused visual, creating immediate intrigue and a sense of urgency for potential viewers."
+  },
+  "title": "Agentic AI: The Unseen Threat to Our Tech by 2026!",
+  "segments": [
+    {
+      "text": "Agentic AI, self-directing programs, are transforming B2B operations. By 2026, they'll independently manage complex tasks, optimizing efficiency across industries.",
+      "image_prompt": "A holographic display showing an intricate flow chart of automated business processes, glowing with blue and green lines. Intense focus, cinematic lighting.",
+      "text_overlay": "AI AUTOMATION",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "This shift introduces significant infrastructure risk. Networks must adapt to autonomous AI agents initiating actions, demanding robust, high-availability systems to prevent disruptions.",
+      "image_prompt": "A modern server room with clean lines, but one central server rack has a subtle digital glitch overlay with a pulsing red warning glow. Cyberpunk neon lighting.",
+      "text_overlay": "INFRASTRUCTURE RISK",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "Market research identifies Agentic AI as a top innovation driver for 2026. Experts project substantial economic shifts, with early adopters gaining competitive advantages globally.",
+      "image_prompt": "A futuristic data dashboard displaying dynamic growth charts and innovation metrics in vibrant neon colors. A person in serious thought, looking at the display through smart glasses.",
+      "text_overlay": "INNOVATION DRIVER",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Healthcare specifically expects major impacts. Agentic AI will streamline diagnostics, personalize treatments, and manage facility operations, projected for widespread implementation by 2026.",
+      "image_prompt": "A clean, modern hospital setting with a holographic interface showing complex patient data and treatment plans. A cybernetic hand delicately interacts with the display. Dramatic side lighting.",
+      "text_overlay": "HEALTHCARE AI",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "Secure data pipelines and real-time analytics are crucial. Autonomous agents processing sensitive information necessitate advanced cybersecurity measures, with zero-trust models becoming standard by 2026.",
+      "image_prompt": "Interconnected glowing data nodes forming a secure, impenetrable network with a prominent firewall icon, symbolizing robust protection. Digital corruption effects on the outside perimeter.",
+      "text_overlay": "SECURE DATA",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "Operators must prioritize upgrading existing infrastructure. Proactive investment in AI-ready systems is essential to leverage these advancements and mitigate potential operational vulnerabilities before 2026.",
+      "image_prompt": "A detailed technical drawing of a smart city infrastructure, with highlighted sections indicating necessary upgrades and future readiness. Reflecting data on a futuristic monitor in the foreground.",
+      "text_overlay": "FUTURE READY",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
