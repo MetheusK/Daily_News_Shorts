@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI CHIP SHOCK",
+    "narration": "Warning! The AI chip market is undergoing a seismic shift, and your investments could be impacted!",
+    "image_description": "A serious male semiconductor analyst, cybernetic eyes reflecting complex data streams, intense focus, dramatic side lighting, digital corruption glitching around him, neon blue and red warnings.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI CHIP MEGATREND",
+    "image_description": "Hyper-realistic 8k 3D render of a glowing, intricate AI chip at the center of a futuristic server rack, surrounded by holographic data projections, dramatic backlighting, cyberpunk aesthetic.",
+    "reasoning": "Highlights the core subject (AI chip) and the massive trend with a visually stunning, technical image, attracting both investors and engineers without relying on human expressions."
+  },
+  "title": "AI Chip Market: $1.6 Trillion Shift",
+  "segments": [
+    {
+      "text": "AI chip spending is projected to reach an astounding $1.6 trillion by 2030. This massive growth reshapes the entire semiconductor market valuation.",
+      "text_overlay": "AI CHIP BOOM",
+      "image_prompt": "Holographic projection of a rising stock graph overlaid on a silicon wafer, reflecting in a cybernetic eye, intense focus, cinematic lighting.",
+      "camera_effect": "subtle zoom"
+    },
+    {
+      "text": "Major tech giants like Google, Amazon, and Microsoft are accelerating custom AI chip development to optimize performance and reduce reliance on external suppliers.",
+      "text_overlay": "CUSTOM AI CHIPS",
+      "image_prompt": "A diverse group of robot hands assembling custom AI chip designs on a workbench, reflecting data on their glowing visors, serious thought, cyberpunk neon.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "This surge in custom silicon directly drives demand for advanced foundry services. TSMC and Samsung Foundry face immense pressure for next-gen wafer production.",
+      "text_overlay": "FOUNDRY DEMAND SOARS",
+      "image_prompt": "Panoramic view inside a futuristic cleanroom facility, robotic arms meticulously handling large silicon wafers, dramatic side lighting, determined engineers in the background.",
+      "camera_effect": "pan right"
+    },
+    {
+      "text": "Increased CAPEX from leading foundries is now critical. Maintaining high yields on complex AI accelerators is paramount for profitability and market share capture.",
+      "text_overlay": "YIELD CHALLENGES",
+      "image_prompt": "Close-up on a complex wafer with specific areas highlighted by red warning lights indicating defects, seen through smart glasses reflecting data, intense focus.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Advanced packaging, specifically HBM integration, is central to custom AI GPU performance. Supply chain stability for these components is a growing concern.",
+      "text_overlay": "HBM CRITICAL",
+      "image_prompt": "Cross-section 3D render of an advanced HBM stack integrated into a GPU, glowing blue data lines, hyper-realistic, cybernetic feel.",
+      "camera_effect": "subtle zoom"
+    },
+    {
+      "text": "This shift impacts foundry CAPEX allocation and future HBM integration, critical for AI GPU performance.",
+      "text_overlay": "CAPEX & HBM",
+      "image_prompt": "A digital representation of CAPEX investment flows into a foundry, intertwining with HBM modules, reflecting data on a screen, serious thought.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
