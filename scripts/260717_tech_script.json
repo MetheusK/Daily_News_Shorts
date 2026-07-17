@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI IS LIVE",
+    "narration": "Your devices just received a silent AI upgrade that could change everything you do, right now!",
+    "image_description": "Close-up of a human eye, cybernetic enhancements reflecting streams of green data, glowing iris, dramatic side lighting, intense focus, digital corruption effect, 8k resolution.",
+    "mood_color": "neon_green"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "TECH EVOLVED",
+    "image_description": "A sleek, minimalist smartphone screen displaying a complex neural network graphic in vibrant blues and purples, 3D render, hyper-realistic, 8k resolution, centered object, dramatic backlighting.",
+    "reasoning": "This thumbnail emphasizes technological evolution and AI's complex presence through a high-contrast, object-focused image, generating immediate curiosity without a 'shocked face'."
+  },
+  "title": "Silent AI Upgrade: Your Tech Just Changed!",
+  "segments": [
+    {
+      "text": "Major AI enhancements silently deployed across leading smart devices this past weekend, impacting millions of global users with new background processing.",
+      "image_prompt": "Diagram of a network of smart devices connecting, subtle glowing data lines, clear technical visuals, cinematic lighting, wide shot.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "These updates utilize advanced predictive algorithms, processing user interaction data 15% faster for smarter, highly contextual suggestions and actions.",
+      "image_prompt": "Holographic display showing user interface elements, predictive text, and smart suggestions overlaid on a daily routine, wonder expression, cyberpunk neon.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "From deeply personalized content feeds to proactive digital assistant actions, your everyday devices are now significantly more intuitive and responsive.",
+      "image_prompt": "Person interacting seamlessly with multiple screens (phone, tablet, smart speaker) in a home environment, cinematic lighting, focused expression.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "For instance, smart home systems now anticipate user needs, optimizing energy consumption 10% better and automating routines 25% more effectively.",
+      "image_prompt": "Smart home dashboard showing energy graphs and automated schedules, with a digital assistant icon glowing, serious thought, dramatic side lighting.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "Business analysts project this seamless, low-friction interaction model will drive a 30% increase in user engagement with new applications globally.",
+      "image_prompt": "Infographic displaying growth charts and interconnected user symbols, reflecting data on a digital screen, intense focus, dramatic side lighting.",
+      "camera_effect": "tilt_up"
+    },
+    {
+      "text": "This integration subtly redefines daily digital interactions for billions. Your devices now truly think ahead, always learning and adapting.",
+      "image_prompt": "Abstract representation of data flow and user dependency, interconnected glowing nodes, focus on overall impact, determination expression, cyberpunk neon.",
+      "camera_effect": "slow_dolly_zoom"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
