@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "MARKET WARNING!",
+    "narration": "Attention investors! A silent crisis is brewing in the AI chip market that few understand!",
+    "image_description": "An extreme close-up of a cybernetic engineer's eye, with digital data streams reflecting intensely on its glowing iris. The background is a swirling vortex of red and orange digital corruption, with urgent red warning lights pulsing. Cinematic lighting, intense focus.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI CHIP SHOCK",
+    "image_description": "A hyper-realistic 3D render of a glowing HBM memory stack, intricately detailed with micro-circuits, centered against a dark, dramatic background with subtle futuristic circuit patterns. Cinematic blue and purple backlighting, 8k resolution.",
+    "reasoning": "The prominent, glowing HBM chip is visually striking and directly relates to the core topic, attracting investors and engineers. The text is direct and creates curiosity without resorting to human 'shocked' faces."
+  },
+  "title": "AI Chip Shortage: Crisis or Opportunity?",
+  "segments": [
+    {
+      "text": "Analyst Dan Ives reveals a critical 15-to-1 demand-to-supply imbalance for HBM memory chips, which are absolutely vital for powering today's advanced AI.",
+      "image_prompt": "Holographic display showing a stark '15:1' demand-to-supply ratio over stylized, glowing HBM chip stacks. Digital data streams flow across the screen. Industrial blue and white lighting, hyper-realistic.",
+      "text_overlay": "HBM DEMAND SHOCK",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "This severe HBM shortage directly constrains high-performance GPU manufacturing, significantly impacting global AI accelerator deployments. Urgent CAPEX is needed.",
+      "image_prompt": "A sophisticated robotic arm attempting to perfectly place an HBM module onto a high-end GPU board, but a digital red warning overlay shows a connection failure. Futuristic cleanroom environment, dramatic lighting.",
+      "text_overlay": "GPU BOTTLENECK",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "Concurrently, TSMC reported an impressive 77% Q2 profit surge, well exceeding market expectations. This highlights robust foundry demand for leading-edge AI wafers.",
+      "image_prompt": "A cleanroom engineer, with intense focus reflected in cybernetic smart glasses, carefully examining a large, glowing silicon wafer. A holographic '77% Profit' display floats prominently in the background. Cinematic lighting.",
+      "text_overlay": "TSMC PROFIT SURGE",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Despite this booming demand, certain AI semiconductor stocks appear to be entering a bear market, presenting a complex valuation paradox for many investors.",
+      "image_prompt": "A downward-trending stock chart composed of glowing, circuit-like lines, gradually fading into a darker, bearish environment. Subtle digital glitch effects enhance the sense of uncertainty, reflecting in an investor's focused gaze through smart glasses.",
+      "text_overlay": "BEAR MARKET AHEAD?",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "This market recalibration signals investor concern, potentially driven by future HBM yield uncertainties or previous overvaluation. Precise risk assessment is crucial.",
+      "image_prompt": "Complex 3D render of a semiconductor factory floor, showing robotic arms working diligently on wafers. An overlay of fluctuating yield percentage graphs hovers above, indicating uncertainty. Dramatic side lighting.",
+      "text_overlay": "YIELD UNCERTAINTY",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "The final valuation hinges on sustainable HBM yield scaling and CAPEX management.",
+      "image_prompt": "An intricate digital display showcasing detailed HBM yield curves and CAPEX projection models. The data is viewed through a professional's smart glasses, reflecting a determined and analytical expression. Cyberpunk neon lighting.",
+      "text_overlay": "VALUATION KEY",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
