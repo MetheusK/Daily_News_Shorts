@@ -1,46 +1,52 @@
 {
   "hook_plan": {
-    "overlay_text": "AI IS LIVE",
-    "narration": "Your devices just received a silent AI upgrade that could change everything you do, right now!",
-    "image_description": "Close-up of a human eye, cybernetic enhancements reflecting streams of green data, glowing iris, dramatic side lighting, intense focus, digital corruption effect, 8k resolution.",
-    "mood_color": "neon_green"
+    "overlay_text": "AI IS RESETTING",
+    "narration": "WARNING! What you know about AI is a lie. A massive global reset is happening NOW, changing everything!",
+    "image_description": "Close-up of a sophisticated, glowing cybernetic eye reflecting abstract data, with digital corruption effects and red warning lights flickering across a determined face, cinematic lighting, cyberpunk neon.",
+    "mood_color": "red"
   },
   "thumbnail_plan": {
-    "thumbnail_text": "TECH EVOLVED",
-    "image_description": "A sleek, minimalist smartphone screen displaying a complex neural network graphic in vibrant blues and purples, 3D render, hyper-realistic, 8k resolution, centered object, dramatic backlighting.",
-    "reasoning": "This thumbnail emphasizes technological evolution and AI's complex presence through a high-contrast, object-focused image, generating immediate curiosity without a 'shocked face'."
+    "thumbnail_text": "AI ERA OVER?",
+    "image_description": "A 3D render of a futuristic, glowing AI core unit, shattered into multiple pieces with data streams still emanating from the fragments, against a dark, hyper-realistic, 8k resolution background with dramatic backlighting.",
+    "reasoning": "The shattered AI core visually represents the 'reset to zero' concept, creating intrigue and implying a major shift. The object-focused composition with dramatic lighting maximizes click-through rate."
   },
-  "title": "Silent AI Upgrade: Your Tech Just Changed!",
+  "title": "AI Reset: The Zero Point Shift Changing Tech Forever",
   "segments": [
     {
-      "text": "Major AI enhancements silently deployed across leading smart devices this past weekend, impacting millions of global users with new background processing.",
-      "image_prompt": "Diagram of a network of smart devices connecting, subtle glowing data lines, clear technical visuals, cinematic lighting, wide shot.",
-      "camera_effect": "zoom_out"
+      "text": "AI is entering a new era, described as a 'reset to zero.' This signifies a fundamental re-evaluation of foundational models, impacting how future AI systems are designed globally.",
+      "overlay_text": "FOUNDATION SHIFT",
+      "image_prompt": "3D render of interconnected neural networks reshaping into a new, simplified architecture, glowing blue lines on a dark background, technical diagrams.",
+      "camera_effect": "zoom_in_slow"
     },
     {
-      "text": "These updates utilize advanced predictive algorithms, processing user interaction data 15% faster for smarter, highly contextual suggestions and actions.",
-      "image_prompt": "Holographic display showing user interface elements, predictive text, and smart suggestions overlaid on a daily routine, wonder expression, cyberpunk neon.",
+      "text": "Experts at ARD #121 confirm this shift, focusing on novel algorithmic approaches. It marks a departure from incremental improvements, demanding entirely new computational thinking for efficiency.",
+      "overlay_text": "NEW ALGORITHMS",
+      "image_prompt": "Holographic projection of complex new algorithms, mathematical symbols glowing in neon green, scientist with intense focus looking through smart glasses at data, dramatic side lighting.",
+      "camera_effect": "pan_left_fast"
+    },
+    {
+      "text": "This 'reset' could revolutionize daily tech. Imagine smarter mobile devices, integrated with more intuitive AI features for seamless user experiences, starting next year.",
+      "overlay_text": "SMARTER DEVICES",
+      "image_prompt": "Futuristic smartphone UI displaying incredibly intuitive AI interactions, glowing data flows over the screen, user's hand interacting with a determined expression, cyberpunk lighting.",
+      "camera_effect": "tilt_up_slow"
+    },
+    {
+      "text": "The new focus is on more efficient data processing and integration, moving towards explainable AI. This enhances user trust and decision-making across various digital platforms and services.",
+      "overlay_text": "EXPLAINABLE AI",
+      "image_prompt": "Visual representation of transparent data pipelines, glowing nodes showing clear logic flow, digital corruption effect subtly hinting at previous complexity, reflective surfaces.",
+      "camera_effect": "slide_right_medium"
+    },
+    {
+      "text": "Early benchmarks suggest up to 300% performance gains in specific AI tasks. This accelerates development cycles for applications in healthcare, education, and general computing power.",
+      "overlay_text": "300% FASTER",
+      "image_prompt": "Dynamic infographic showing a 300% increase bar graph in a futuristic UI, glowing green data, digital cityscape in the background, fast-paced transitions.",
+      "camera_effect": "zoom_out_fast"
+    },
+    {
+      "text": "The 'reset' aims to make advanced AI more accessible to developers and users. This democratizes innovation, leading to a wider array of intelligent applications on personal devices by 2025.",
+      "overlay_text": "AI FOR ALL",
+      "image_prompt": "Diverse hands interacting with holographic interfaces, symbols of global connectivity and data sharing, reflecting glowing data in eyes through smart glasses, cinematic lighting.",
       "camera_effect": "static"
-    },
-    {
-      "text": "From deeply personalized content feeds to proactive digital assistant actions, your everyday devices are now significantly more intuitive and responsive.",
-      "image_prompt": "Person interacting seamlessly with multiple screens (phone, tablet, smart speaker) in a home environment, cinematic lighting, focused expression.",
-      "camera_effect": "pan_right"
-    },
-    {
-      "text": "For instance, smart home systems now anticipate user needs, optimizing energy consumption 10% better and automating routines 25% more effectively.",
-      "image_prompt": "Smart home dashboard showing energy graphs and automated schedules, with a digital assistant icon glowing, serious thought, dramatic side lighting.",
-      "camera_effect": "zoom_in"
-    },
-    {
-      "text": "Business analysts project this seamless, low-friction interaction model will drive a 30% increase in user engagement with new applications globally.",
-      "image_prompt": "Infographic displaying growth charts and interconnected user symbols, reflecting data on a digital screen, intense focus, dramatic side lighting.",
-      "camera_effect": "tilt_up"
-    },
-    {
-      "text": "This integration subtly redefines daily digital interactions for billions. Your devices now truly think ahead, always learning and adapting.",
-      "image_prompt": "Abstract representation of data flow and user dependency, interconnected glowing nodes, focus on overall impact, determination expression, cyberpunk neon.",
-      "camera_effect": "slow_dolly_zoom"
     },
     {
       "text": "If useful, please like and subscribe!",
