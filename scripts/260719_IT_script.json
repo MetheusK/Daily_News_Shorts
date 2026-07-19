@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "INDIA'S AI CRISIS",
+    "narration": "STOP! India's tech giant model is CRUMBLING. This will affect EVERYONE!",
+    "image_description": "Close-up of a person's intense focus, eyes reflecting rapidly changing data streams and glitch effects, with a backdrop of cyberpunk neon city lights and urgent red warnings. Cinematic lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "INDIA: AI REBOOT",
+    "image_description": "A 3D render of a futuristic server rack, sleek and metallic, with glowing blue and orange circuitry forming a stylized outline of India. Dramatic backlighting, hyper-realistic, 8k resolution.",
+    "reasoning": "Highlights a specific country (India) and a major tech trend (AI) with a strong, active verb ('REBOOT'), creating curiosity about the transformation and inviting clicks."
+  },
+  "title": "AI & India's Tech Future: The Mid-2026 Reset!",
+  "segments": [
+    {
+      "text": "By mid-2026, AI monetization and efficiency will redefine global IT. Companies like Intuit are leveraging AI for DIY tax, boosting future growth prospects significantly.",
+      "image_prompt": "Holographic financial data streams, an 'AI' symbol glowing within, reflecting in a focused cybernetic eye through smart glasses. Cinematic lighting, high detail.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "India's traditional IT service model faces a critical challenge: it’s becoming outdated. The industry must reinvent itself to stay competitive in the rapidly evolving tech landscape.",
+      "image_prompt": "A stylized, slightly glitching 'old' server rack juxtaposed with a sleek, modern, AI-powered server. Dramatic side lighting, reflecting digital patterns.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "A major hurdle for India is its significant infrastructure gap. This deficiency in robust digital foundations hinders rapid AI adoption and broader tech sector innovation nationwide.",
+      "image_prompt": "Futuristic city infrastructure overlaid with a heatmap highlighting connectivity gaps. A cybernetic hand points to a bottleneck on the digital map.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "MarketScale identifies mid-2026 as a crucial inflection point. This period will clarify which nations and companies successfully adapt to the new AI-driven economic realities.",
+      "image_prompt": "A digital clock counting down to 'MID-2026,' superimposed over a global network map with interconnected data lines. Reflecting data, glowing elements.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Reinvention is non-negotiable for India's IT sector. It needs strategic investments in AI research, digital upskilling, and modern infrastructure to bridge current disparities effectively.",
+      "image_prompt": "A person with a determined expression looking at a holographic blueprint for a smart city or advanced data center. Cinematic lighting, glowing iris effect.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "The outcome of India's tech transformation will heavily influence global AI development and service outsourcing. Its adaptation strategy sets a precedent for other developing economies.",
+      "image_prompt": "A world map glowing with interconnected data lines, focusing on the South Asian region, with a subtle 'AI' overlay. Cyberpunk aesthetic, reflecting data.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
