@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "ROBOTS ARE HERE",
+    "narration": "Warning! The robots you thought were science fiction just took center stage in the real world.",
+    "image_description": "Extreme close-up of a sophisticated humanoid robot's face with glowing cybernetic eyes reflecting digital data, urgent red warning lights flashing subtly, dramatic cinematic lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "FUTURE IS ROBOT",
+    "image_description": "3D render, hyper-realistic, 8k resolution of a futuristic, sleek robot hand extending forward, illuminated by dramatic blue and purple backlighting, dark background, centered composition.",
+    "reasoning": "Focuses on the key subject (robot), uses strong visual aesthetics (3D, hyper-realistic), and creates intrigue with 'Future Is Robot' to drive clicks among the general public."
+  },
+  "title": "Robots Just Leveled Up: What Automate 2026 Revealed!",
+  "segments": [
+    {
+      "text_overlay": "HUMANOID AI RISE",
+      "text": "Humanoid robots and advanced industrial AI systems were the undeniable stars. Their new capabilities signal a monumental shift in manufacturing and automation.",
+      "image_prompt": "A sleek, chrome humanoid robot with glowing cybernetic eyes standing confidently in a futuristic factory, cinematic lighting, a digital data stream flowing around it.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text_overlay": "AI BOOSTS FACTORIES",
+      "text": "Industrial AI demonstrated unprecedented efficiency gains and precision. From logistics to quality control, AI is integrating deeply into production lines globally.",
+      "image_prompt": "A factory floor with robotic arms working with extreme precision, glowing data overlays indicating efficiency metrics, dramatic side lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text_overlay": "ROBOTS COLLABORATE",
+      "text": "Modern humanoid robots displayed enhanced collaboration and adaptability. They’re learning to work seamlessly alongside humans in complex industrial environments.",
+      "image_prompt": "A humanoid robot and a human worker (seen from behind, focused on task, no face) collaborating on an assembly line, digital schematics floating in augmented reality, cinematic lighting.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text_overlay": "TECH TRENDS 2026",
+      "text": "Experts forecast these trends will accelerate by 2026. This technological leap impacts not just factories, but every aspect of our daily operational lives.",
+      "image_prompt": "A dynamic infographic with '2026' prominently displayed, showing interconnected global industries transforming, subtle glitch effects for rapid change, cyberpunk neon lighting.",
+      "camera_effect": "tilt_up"
+    },
+    {
+      "text_overlay": "FUTURE REWRITTEN",
+      "text": "This fundamental shift means the future of labor and production is being rewritten.",
+      "image_prompt": "A digital blueprint of a complex system being overwritten by new holographic data, glowing blue and red lines, reflecting data in a human eye (cybernetic style).",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
