@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI STOCK ALERT!",
+    "narration": "Warning: AI chip stocks are plummeting, but is this a market trap or a generational opportunity?",
+    "image_description": "A digital stock chart graph in dramatic red and yellow, glitching violently. In the foreground, a cybernetic hand with glowing circuits reaches out towards a rapidly falling chip icon. Dramatic side lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "HBM BUY?",
+    "image_description": "A hyper-realistic 3D render of a glowing HBM (High Bandwidth Memory) stack on a polished silicon wafer. Cyberpunk neon lighting highlights the intricate circuitry. Centered composition, 8k resolution.",
+    "reasoning": "A direct question about investment opportunity combined with a high-tech, visually striking object (HBM) creates strong intrigue for investors and engineers."
+  },
+  "title": "AI Chip Rebound? JPMorgan's Call & HBM Shift Explained",
+  "segments": [
+    {
+      "text": "Recent AI chip stock pullbacks have rattled investors. JPMorgan views this as a strategic entry point, citing robust semiconductor fundamentals, not systemic weakness.",
+      "text_overlay": "STOCK PULLBACK",
+      "image_prompt": "A holographic, glitching financial chart displaying a sharp dip, with an intense, data-reflecting cybernetic eye visible through a smart glasses interface, intensely analyzing the drop. Cinematic lighting.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "Underlying demand for HBM and advanced GPUs remains exceptionally strong. Hyperscalers' CAPEX continues for AI infrastructure, driving high wafer starts.",
+      "text_overlay": "HBM DEMAND SOARS",
+      "image_prompt": "Extreme close-up, hyper-realistic 3D render of an HBM stack integrated onto a GPU, emitting a soft blue glow. Intricate, detailed silicon wafer textures visible. Dramatic side lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Foreign investors are divesting from traditional memory, like Samsung and SK Hynix, shifting capital to specialized AI value-chain components ahead of Big Tech earnings.",
+      "text_overlay": "INVESTOR SHIFT",
+      "image_prompt": "Abstract visualization of digital currency flowing as luminous streams, with distinct streams diverting from icons of traditional memory chips towards complex, glowing AI processor arrays. Dynamic and symbolic.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "SK Hynix’s aggressive bet on HBM leadership is paying dividends. Their critical yield rates and advanced packaging are reshaping the global AI tech landscape significantly.",
+      "text_overlay": "SK HYNIX WINS",
+      "image_prompt": "A cinematic shot of a meticulously organized, futuristic wafer fabrication plant. Robots with glowing 'eyes' are precisely handling large, illuminated silicon wafers, reflecting determination. Cyberpunk neon lighting.",
+      "camera_effect": "dolly_zoom"
+    },
+    {
+      "text": "This re-evaluation impacts segment valuations across the supply chain. Expect continued high CAPEX for HBM and advanced logic foundries, despite market volatility.",
+      "text_overlay": "CAPEX OUTLOOK",
+      "image_prompt": "Holographic display showing complex CAPEX projections and market valuation graphs, with a focused engineer's hand (wearing smart gloves) interacting with the data, digital reflections in their smart glasses. Intense focus, dramatic lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "The critical factor remains manufacturing yields and competitive HBM roadmaps. Investors must scrutinize these core metrics for sustainable growth projections.",
+      "text_overlay": "YIELD IS KEY",
+      "image_prompt": "A close-up of a skilled engineer's hands in smart gloves, intensely inspecting a wafer under a high-tech microscope, with data reflecting in their cybernetic eyes. The microscope lens glows with diagnostic light. Determination, cinematic lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
