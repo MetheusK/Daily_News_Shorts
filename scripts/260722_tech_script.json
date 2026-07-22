@@ -1,0 +1,45 @@
+{
+  "hook_plan": {
+    "overlay_text": "TECH IS HERE!",
+    "narration": "WARNING! New tech just dropped, radically changing how you interact with your world, forever!",
+    "image_description": "A person's intense eye, with a glowing neon-green cybernetic iris, reflecting a rapid sequence of futuristic gadget interfaces and data streams, dramatic cinematic lighting, digital corruption effects.",
+    "mood_color": "neon_green"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "GADGET REVOLUTION",
+    "image_description": "A hyper-realistic 3D render of a sleek, transparent smartphone with intricate holographic UI elements projected above it, centered composition, dramatic blue and purple backlighting, 8k resolution, cyberpunk aesthetic.",
+    "reasoning": "Highlights a futuristic device and promises significant change, attracting users interested in cutting-edge tech and visual innovation."
+  },
+  "title": "New Tech Changing Everything: What You Need To Know",
+  "segments": [
+    {
+      "text": "New mobile and gadget images highlight a significant industry surge, signaling rapid advancements in consumer electronics.",
+      "image_prompt": "A dynamic collage of latest mobile phones and smart gadgets, glowing outlines, abstract data flowing in background, cinematic lighting."
+    },
+    {
+      "text": "Innovations prioritize seamless user experience, integrating advanced features directly into daily routines for enhanced convenience.",
+      "image_prompt": "A person effortlessly interacting with multiple smart devices (phone, watch, smart home hub) seamlessly, interconnected glowing lines, soft ambient lighting."
+    },
+    {
+      "text": "Many devices now showcase advanced AI, offering real-time intelligent assistance and personalized productivity enhancements.",
+      "image_prompt": "Abstract representation of AI brain activity within a sleek smartphone interface, glowing neural networks, data streams, intense focus."
+    },
+    {
+      "text": "From improved cameras to extended battery life, these upgrades directly impact how individuals interact with their digital world.",
+      "image_prompt": "Extreme close-up of a high-resolution camera lens on a new smartphone, reflecting vibrant colors, then a holographic projection of a user watching immersive content."
+    },
+    {
+      "text": "Market analysis indicates a 15% increase in smart gadget sales this quarter, driven by these new, user-centric releases.",
+      "image_prompt": "Infographic showing a rising graph with dollar signs and diverse user icons, glowing numerical data, abstract global network background, professional."
+    },
+    {
+      "text": "This rapid evolution points to a future where personal technology becomes more deeply intuitive and interconnected across all platforms.",
+      "image_prompt": "A futuristic cityscape with interconnected smart devices represented by glowing nodes, a determined individual looking towards the horizon through smart glasses, cinematic, wide shot."
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
