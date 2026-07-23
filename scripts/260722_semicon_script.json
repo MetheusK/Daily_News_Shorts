@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI CHIP CRISIS",
+    "narration": "Semiconductor market alert! The AI chip supply chain is under an unprecedented, critical strain right now!",
+    "image_description": "Extreme close-up of a cybernetic eye reflecting complex, glitching stock market graphs and a red warning overlay. Intense focus, cinematic lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI SUPPLY CRUNCH",
+    "image_description": "Hyper-realistic 3D render of a futuristic GPU, glowing with internal circuitry, centered on a dark background. Holographic data streams around it, dramatic cyberpunk neon backlighting, 8k resolution.",
+    "reasoning": "The bold, direct text combined with a visually striking, high-tech GPU object immediately signals the core issue of AI chip scarcity, appealing to both investors and engineers."
+  },
+  "title": "AI Chip Supply Chain Alert: Market Strain & Valuation Impact",
+  "segments": [
+    {
+      "text": "Global demand for advanced AI GPUs and HBM memory is surging, driving unprecedented growth. However, market analysts still flag severe supply chain bottlenecks.",
+      "image_prompt": "Panoramic view of a massive data center server room, racks glowing with blue and green data lights, a human figure with smart glasses observing digital readouts on a holographic display. Cinematic lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "ASML is significantly ramping DUV and EUV lithography system production. TSMC is doubling its CAPEX, allocating billions to meet this escalating, persistent demand.",
+      "image_prompt": "Close-up of an ASML EUV machine in operation, laser beams visible, intricate mechanisms. A determined engineer with cybernetic eyes observes a diagnostic screen. Dramatic side lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Despite aggressive CAPEX, advanced packaging bottlenecks, especially for CoWoS and HBM integration, limit final GPU output and wafer yield, creating sustained shortages.",
+      "image_prompt": "Macro shot of a silicon wafer, with holographic red warning indicators highlighting low yield areas. A robot arm carefully handles the wafer. Cyberpunk neon lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "TSMC's substantial $200B U.S. fab investments pressure profit margins. Increased operational costs and geopolitical factors impact long-term valuation and profitability outlooks.",
+      "image_prompt": "Industrial scene of a massive semiconductor factory under construction in the US, overlaid with financial charts showing margin compression. A manager with intense focus reviews schematics.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Foreign media highlights five semiconductor stocks poised for potential growth. Investors must analyze individual company valuations and supply chain integration amid market volatility.",
+      "image_prompt": "Dynamic stock market ticker displaying specific company names, with green upward arrows and some red volatility indicators. A trader's hand, partially cybernetic, hovers over a holographic keyboard.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "The AI gold rush creates immense opportunity, yet manufacturing complexities and geopolitical shifts dictate the true market dynamics and future investment potential.",
+      "image_prompt": "Abstract digital representation of a global supply chain network, interconnected nodes, complex data flows, with key semiconductor hubs glowing. Emphasize analytical thought.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
