@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI'S NEXT MOVE",
+    "narration": "WARNING! AI's silent takeover just accelerated, ignoring all obstacles and changing everything!",
+    "image_description": "Rapidly expanding network of glowing server racks, data streams reflecting in a cybernetic eye, dramatic red warning lights, digital glitch effects, fast-paced.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "SERVER MEGABOOM",
+    "image_description": "A pristine, glowing server rack in a futuristic data center, hyper-realistic, 8k resolution, dramatic blue and purple backlighting, holographic data flowing around it. Object-focused.",
+    "reasoning": "Highlights the core subject (data centers/servers) with a visually striking, futuristic image, implying massive growth and scale, attracting tech-interested viewers with a clear, high-contrast visual."
+  },
+  "title": "AI Giants Bet BIG on Data Centers: What it Means for YOU!",
+  "segments": [
+    {
+      "text": "Major AI companies are massively expanding data center investments, pushing through economic headwinds. This signals relentless growth in AI infrastructure globally and new capabilities.",
+      "image_prompt": "High-tech data center interior, showing rows of servers, glowing blue data cables, a human silhouette with intense focus overseeing the operation, cinematic lighting.",
+      "camera_effect": "dolly_in"
+    },
+    {
+      "text": "This surge responds to unprecedented demand for generative AI, large language models, and complex training. Billions are being committed to advanced computing power development.",
+      "image_prompt": "Abstract representation of neural networks, glowing data points connecting, with 'AI' and 'LLM' text overlays, reflecting data in a focused cybernetic eye.",
+      "camera_effect": "zoom_out_slow"
+    },
+    {
+      "text": "Industry analysts predict multi-billion dollar expenditures over the next fiscal years. New mega-facilities are being designed solely for AI workloads, optimizing efficiency.",
+      "image_prompt": "Isometric view of a massive, futuristic data center complex, labeled with financial graphs and rising numbers, dramatic cinematic lighting, cyberpunk neon.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "This investment directly translates to faster AI model training and deployment. Expect significantly more powerful, responsive AI applications in everyday life very soon.",
+      "image_prompt": "Hands interacting with a holographic interface showing complex AI models evolving, data streaming, intense focus in the person's expression through smart glasses.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "Companies are ‘damning the torpedoes,’ prioritizing AI’s long-term strategic value over short-term economic uncertainties. This commitment is deeply embedded.",
+      "image_prompt": "Stylized digital storm clouds (representing headwinds) parting to reveal a towering, glowing data center, dramatic side lighting, conveying determination.",
+      "camera_effect": "zoom_in_slow"
+    },
+    {
+      "text": "The foundational infrastructure for the next wave of advanced AI is now cemented. This ensures continuous innovation and rapid technological progress for years.",
+      "image_prompt": "A complex network of interconnected glowing nodes, representing future AI capabilities, with 'Innovation' and 'Future' labels, reflecting data in a glowing iris.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
