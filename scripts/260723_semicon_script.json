@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "CHIP RALLY ALERT",
+    "narration": "WARNING! The semiconductor market is surging, but are investors ignoring critical valuation data and future costs?",
+    "image_description": "A digital stock chart rapidly spiking upwards, overlaid with red warning lights and glitching data. A single cybernetically enhanced eye reflects the chaotic data with intense focus. Dramatic side lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "HBM VALUATION?",
+    "image_description": "A hyper-realistic 3D render of a glowing HBM (High Bandwidth Memory) stack on a wafer, surrounded by holographic financial data charts. Cinematic blue and purple backlighting, 8k resolution, centered composition.",
+    "reasoning": "A high-tech object (HBM) combined with a critical financial question ('VALUATION?') targets both engineers and investors, creating high curiosity for the static thumbnail."
+  },
+  "title": "Semiconductor Surge: Valuation & Cost Implications",
+  "segments": [
+    {
+      "text": "The KOSPI surged, driven by a semiconductor rally. Samsung Electronics and SK Hynix leveraged ETFs saw significant gains, reflecting strong market confidence.",
+      "image_prompt": "Dynamic digital stock ticker displaying 'KOSPI +X%' with subtle Samsung and SK Hynix logos in the background, neon blue data streams. Cinematic lighting.",
+      "text_overlay": "KOSPI SURGES"
+    },
+    {
+      "text": "This rally is fueled by insatiable demand for HBM and advanced GPU technologies, critical components for the booming AI infrastructure build-out globally.",
+      "image_prompt": "Extreme close-up of a glowing HBM stack integrated onto a GPU, displaying intricate circuit patterns and data flows. Cyberpunk neon lighting.",
+      "text_overlay": "HBM DEMAND"
+    },
+    {
+      "text": "Billionaire investor Philippe Laffont's tech picks signal continued institutional interest in high-growth semiconductor plays, despite inherent market volatility.",
+      "image_prompt": "A sophisticated digital interface displaying a stock portfolio graph with upward trends, a focused hand interactively touching a holographic screen. Reflecting data in smart glasses.",
+      "text_overlay": "BILLIONAIRE PICKS"
+    },
+    {
+      "text": "However, industry analysts project a significant increase in electronics costs by 2027. This indicates rising manufacturing CAPEX and potential yield challenges.",
+      "image_prompt": "An abstract visual of a rising cost curve chart, overlaid with digital warning signals and a calendar showing '2027'. Dramatic red lighting effect.",
+      "text_overlay": "COST HIKE 2027"
+    },
+    {
+      "text": "Increased CAPEX for advanced nodes, coupled with complex HBM manufacturing yields, pressure profit margins and stress the entire global supply chain infrastructure.",
+      "image_prompt": "An intricate, clean diagram of a semiconductor fabrication plant (fab) layout, highlighting areas related to wafer processing, yield, and CAPEX. Glowing elements.",
+      "text_overlay": "YIELD PRESSURE"
+    },
+    {
+      "text": "The valuation debate for these high-CAPEX players is just beginning to heat up.",
+      "image_prompt": "Two abstract digital figures (representing investors) standing before a complex, multi-layered financial projection, their cybernetic eyes reflecting intense data analysis. Determination on their faces.",
+      "text_overlay": "VALUATION DEBATE"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
