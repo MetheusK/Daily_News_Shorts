@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI CHANGES EVERYTHING",
+    "narration": "Warning! AI isn't just in your phone; it's silently reshaping industries you rely on every single day!",
+    "image_description": "Extreme close-up of a cybernetic eye reflecting a stream of complex data, glowing iris, with digital glitch effects and urgent red warning lights emanating from the background. Cinematic lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI TO TAKE OVER?",
+    "image_description": "A hyper-realistic 3D render of a glowing, translucent AI brain at the center, surrounded by interconnected circuits. One side shows tiny holographic medical symbols, the other legal scales. Cyberpunk style, dramatic backlighting, 8k resolution.",
+    "reasoning": "The question 'AI TO TAKE OVER?' creates immediate intrigue and urgency, while the visual combines advanced AI with familiar symbols of critical industries (medical, legal) to hint at broad impact without showing people, maximizing click-through rate."
+  },
+  "title": "AI's Hidden Power: Reshaping Your World Now",
+  "segments": [
+    {
+      "text_overlay": "AI'S RAPID TAKEOVER",
+      "narration": "Advanced AI integration is transforming core sectors. From healthcare diagnostics to complex legal proceedings, technology is redefining established practices globally, impacting millions.",
+      "image_prompt": "Holographic data overlays projected onto a sleek, modern office desk, with a focused professional's hands (out of frame) interacting with a virtual screen. Cinematic lighting.",
+      "camera_effect": "dynamic zoom"
+    },
+    {
+      "text_overlay": "HEALTH TECH BOOMS",
+      "narration": "The health tech industry saw 2023 investments exceed $50 billion. Innovations like remote monitoring and AI-driven personalized treatment plans are becoming standard for patients worldwide.",
+      "image_prompt": "A sleek, futuristic medical device scanning a patient's arm (no face visible). A glowing, detailed interface displays reflecting data and biometric readings. Cyberpunk neon lighting.",
+      "camera_effect": "dolly out"
+    },
+    {
+      "text_overlay": "AI IN COURT",
+      "narration": "In court reporting, AI-powered transcription services are gaining traction. This innovation drastically reduces processing times, increasing efficiency for legal teams by up to 40% annually.",
+      "image_prompt": "A futuristic courtroom setting with a holographic interface displaying transcribed text in real-time. A glowing, digital gavel icon hovers. Intense focus, dramatic side lighting.",
+      "camera_effect": "pan right"
+    },
+    {
+      "text_overlay": "GROWTH FORECASTS",
+      "narration": "Experts forecast the global AI market in healthcare alone to reach $188 billion by 2030. This growth is driven by demand for predictive analytics and administrative automation across systems.",
+      "image_prompt": "Digital graphs showing steep upward trends. Abstract data streams flow over glowing server racks in a futuristic data center. Cyberpunk neon and dramatic backlighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text_overlay": "ETHICS & LAW",
+      "narration": "However, this rapid AI adoption in critical fields raises significant ethical and legal questions. Discussions around data privacy and algorithmic bias are intensifying worldwide for safety.",
+      "image_prompt": "A person with cybernetic eyes reflecting data, showing intense focus, looking at complex legal documents with digital annotations. Subtle red warning lights in the background.",
+      "camera_effect": "tilt down"
+    },
+    {
+      "text_overlay": "FUTURE IS NOW",
+      "narration": "Organizations are now prioritizing robust frameworks and regulatory bodies to ensure responsible AI development and deployment. This safeguards public trust in these advanced technologies globally.",
+      "image_prompt": "A sleek, futuristic conference room with diverse professionals (expressions of serious thought, determination) looking at a holographic projection of global data streams. Dramatic side lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
