@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI MARKET SHOCK",
+    "narration": "WARNING: The AI chip market just shifted everything! Is your portfolio ready for this unprecedented change?",
+    "image_description": "A close-up of a cybernetic eye with a glowing red iris, reflecting rapidly changing stock market data and digital corruption effects. Red warning lights flash across a dark, metallic surface. Cinematic lighting, urgent mood.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI CHIP EXPLOSION",
+    "image_description": "A hyper-realistic 3D render of a glowing HBM memory stack positioned atop a complex GPU wafer. Holographic data streams and circuit patterns emanate from the components, set against a dark, futuristic server room backdrop. Dramatic blue and purple cyberpunk lighting, 8k resolution, centered composition.",
+    "reasoning": "This thumbnail visually emphasizes the core components (HBM, GPU, Wafer) driving the AI boom. The 'EXPLOSION' text, combined with the dramatic, high-fidelity imagery, creates intrigue and signals immense growth to investors and engineers, ensuring a high click-through rate."
+  },
+  "title": "AI Chip Market Shock: TSMC & HBM Demand Explode",
+  "segments": [
+    {
+      "text": "TSMC confirms a massive $100 billion U.S. CAPEX boost, accelerating domestic chip production. This responds directly to surging AI demand, particularly for advanced GPU wafers.",
+      "image_prompt": "A futuristic cleanroom technician, seen through smart glasses reflecting a schematic of a 300mm silicon wafer, intensely focused on a robotic arm placing a chip. Cinematic lighting, determination.",
+      "text_overlay": "$100B TSMC CAPEX"
+    },
+    {
+      "text": "AI chip imports now eclipse traditional PC and smartphone shipments. This seismic shift reflects unprecedented enterprise investment in AI infrastructure, prioritizing compute power over consumer devices.",
+      "image_prompt": "A holographic projection graph showing 'AI Chip Shipments' line rapidly surpassing 'PC/Phone Shipments', displayed in a dark, data-rich control room. Intense focus, serious thought.",
+      "text_overlay": "AI CHIPS DOMINATE"
+    },
+    {
+      "text": "The explosion in AI demand has triggered a critical HBM memory shortage. This bottleneck directly impacts GPU production yields, squeezing consumer and enterprise access to high-performance AI systems.",
+      "image_prompt": "A complex 3D render of an HBM memory stack with digital red warning signals flickering around it, indicating critical shortage and glitch effects. Cyberpunk neon lighting.",
+      "text_overlay": "HBM SHORTAGE ALERT"
+    },
+    {
+      "text": "This HBM constraint highlights severe supply chain fragility within advanced packaging. Over-reliance on specific manufacturing nodes creates significant risk for future AI hardware deployment strategies.",
+      "image_prompt": "An intricate, glowing digital web representing a global supply chain, with a specific node highlighted in red and showing glitch effects, signifying a bottleneck. Determination, focused expression.",
+      "text_overlay": "SUPPLY CHAIN FLAW"
+    },
+    {
+      "text": "Despite robust growth, hedge funds are reportedly trimming TSMC positions, raising valuation questions. This reflects a cautious re-evaluation amidst aggressive CAPEX and potential market saturation signals.",
+      "image_prompt": "A financial analyst with a cybernetic eye reflecting a complex stock chart with downward trends, deep in serious thought. Dramatic side lighting, intense focus.",
+      "text_overlay": "VALUATION WARNING"
+    },
+    {
+      "text": "The future trajectory hinges on yield improvements and diversified HBM supply. Persistent bottlenecks could significantly impact AI adoption timelines and sector profitability, warranting close observation.",
+      "image_prompt": "A robotic hand delicately holding a wafer, with a projected holographic overlay showing complex yield data analysis. A human engineer's arm, wearing a specialized glove, enters the frame. Cinematic lighting, serious thought.",
+      "text_overlay": "FUTURE YIELD CRITICAL"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
