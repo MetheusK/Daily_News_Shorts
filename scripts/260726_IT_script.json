@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "TECH SHIFT IN PROGRESS",
+    "narration": "Warning! The tech world you know is about to be completely rewritten. Old giants are crumbling!",
+    "image_description": "Extreme close-up of a cybernetic hand reaching for a glowing, fragmented digital globe, reflecting lines of code. Red warning lights flash dramatically, with digital glitch effects.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "TECH'S NEW KINGS?",
+    "image_description": "A hyper-realistic 3D render of a stylized, fractured circuit board glowing with neon blue and purple light, centered against a dark, dramatic background. Pieces of the circuit board float dynamically, with data streams connecting them. 8k resolution, cyberpunk aesthetic.",
+    "reasoning": "The fragmented circuit board symbolizes disruption and change in the tech industry, while the 'NEW KINGS?' text creates intrigue about emerging leaders, driving clicks."
+  },
+  "title": "The Tech World is Shifting: Old vs. New Giants!",
+  "segments": [
+    {
+      "text": "Figma, a young design software company, reports significant revenue growth, contrasting sharply with IBM's veteran AI and cloud sector trends, indicating a market shift.",
+      "image_prompt": "Split screen showing Figma's sleek user interface on one side and IBM's corporate logo with a declining digital growth chart on the other. Dynamic data overlays across the screen.",
+      "camera_effect": "dynamic_pan_zoom",
+      "text_overlay": "DESIGN WINS"
+    },
+    {
+      "text": "This divergence highlights investors' re-evaluation of market value; young, agile software firms are outpacing traditional tech giants in expansion speed and innovation.",
+      "image_prompt": "Digital scales balancing a small, glowing next-gen processor chip against a large, fading legacy server rack. Cinematic lighting with a stark contrast between light and shadow.",
+      "camera_effect": "static_reveal",
+      "text_overlay": "MARKET SHIFT"
+    },
+    {
+      "text": "Concurrently, AI quietly penetrates niche markets. The AI-based caries detection market, for instance, projects substantial growth, impacting daily health diagnostics globally.",
+      "image_prompt": "A detailed X-ray scan of teeth with glowing AI overlays highlighting potential problem areas. A medical-grade monitor reflects a focused cybernetic eye with data scrolling through its iris.",
+      "camera_effect": "zoom_in_effect",
+      "text_overlay": "AI DIAGNOSIS"
+    },
+    {
+      "text": "Meanwhile, Apple's supply chain faces scrutiny after recent leaks, questioning India's competitive standing against China in high-stakes global manufacturing and tech sourcing.",
+      "image_prompt": "A complex digital map showing interconnected supply routes, with one route blinking red between stylized representations of India and China. Dynamic data flows along the routes.",
+      "camera_effect": "aerial_sweep",
+      "text_overlay": "APPLE'S SUPPLY"
+    },
+    {
+      "text": "This intensifies the global tech race. Nations are vying for crucial manufacturing hubs, potentially reshaping future technological dependencies and economic power balances.",
+      "image_prompt": "Two stylized national flags (India, China) digitally intertwined with intricate circuit board patterns, illuminated by competing neon red and blue lights. A sense of intense focus.",
+      "camera_effect": "cinematic_push_in",
+      "text_overlay": "GLOBAL TECH WAR"
+    },
+    {
+      "text": "These intertwined shifts, from software value to global production, signal a turbulent period for the entire tech ecosystem. The immediate implications are still unfolding.",
+      "image_prompt": "A panoramic view of a futuristic smart city undergoing rapid digital transformation, with data streams flowing between buildings and hovering drones. The scene abruptly cuts to black.",
+      "camera_effect": "fast_reverse_zoom",
+      "text_overlay": "NEW TECH ERA"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
