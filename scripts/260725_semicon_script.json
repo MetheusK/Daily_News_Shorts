@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "CHIP MARKET CRASH?",
+    "narration": "WARNING: Semiconductor stocks just plunged! Is a full market meltdown coming for your portfolio?",
+    "image_description": "A close-up of a human analyst's face with intense focus, cybernetic eyes reflecting flashing red stock market data, digital glitch effects around the edges, dramatic side lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI CHIP SHOCK",
+    "image_description": "A hyper-realistic 3D render of a glowing, complex AI processor chip at the center of the frame, surrounded by ethereal blue holographic data streams, cyberpunk aesthetic, dark background with dramatic backlighting, 8k resolution.",
+    "reasoning": "The 'AI CHIP SHOCK' text combined with a visually striking, high-tech object (AI chip) immediately grabs attention. It's clean, high-contrast, and hints at significant market events, appealing to both investors and tech enthusiasts without relying on 'shocked' human faces, ensuring high click-through rates."
+  },
+  "title": "Semiconductor Sell-Off: AI Alliance Shifts Market",
+  "segments": [
+    {
+      "text": "Recent market data shows a significant semiconductor sector sell-off. Investor concerns over global economic slowdowns impacted valuations, particularly for high-CAPEX players across the board.",
+      "image_prompt": "Digital stock chart displaying a sharp red decline, with a subtle reflection in the cybernetic eye of an analyst viewing the data, cinematic lighting.",
+      "camera_effect": "zoom_out_slow"
+    },
+    {
+      "text": "Analyst reports identify inventory adjustments and weaker consumer electronics demand as key triggers. This directly affected Q4 2023 and Q1 2024 outlooks for major chip manufacturers.",
+      "image_prompt": "A complex supply chain network visualized with glowing lines connecting various factories and data points, displaying 'inventory adjustment' warnings and 'demand decrease' metrics, dramatic lighting.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "Amidst this volatility, Samsung and Broadcom announced a massive $200 billion AI semiconductor alliance. This strategic partnership targets advanced GPU and HBM development.",
+      "image_prompt": "Two holographic corporate logos (Samsung and Broadcom) merging together, projected onto a wafer fabrication plant's cleanroom interior, reflecting data in glowing iris of an engineer in smart glasses, cyberpunk neon lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "This substantial CAPEX commitment signals aggressive, long-term industry bets on AI chip growth, despite current short-term market pressures. Focus shifts to next-generation HBM technologies.",
+      "image_prompt": "A close-up of a high-bandwidth memory (HBM) stack, rendered in 3D, glowing with internal power, with intricate data pathways visible, viewed through a digital overlay of an investor's smart glasses, dramatic side lighting.",
+      "camera_effect": "zoom_in_slow"
+    },
+    {
+      "text": "The alliance aims to optimize wafer fabrication processes, improving yields for these highly complex AI components. This will secure critical future supply chain stability.",
+      "image_prompt": "A robotic arm precisely handling a silicon wafer under ultra-clean conditions, with overlaid holographic diagrams showing yield percentage improvements and supply chain logistics, cinematic lighting.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "Investors are intensely re-evaluating sector valuation, seeking diversified plays like XSD. The industry navigates immediate headwinds with strategic, heavy AI infrastructure investments.",
+      "image_prompt": "A digital representation of an investor's dashboard, displaying real-time stock charts for various semiconductor companies and an XSD ETF, with the intense focus of an eye reflecting the data, dramatic lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
