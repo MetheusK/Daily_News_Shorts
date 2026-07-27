@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "EVs UNSTOPPABLE",
+    "narration": "WARNING: Google just made electric vehicles unstoppable! Your old commute is officially obsolete!",
+    "image_description": "A close-up of a futuristic electric car's windshield reflecting a digital map with glowing navigation lines, driver's cybernetic eyes reflecting data, dramatic red and neon green warning lights, intense focus expression, cinematic lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "GOOGLE'S EV GAME",
+    "image_description": "A sleek, futuristic electric vehicle charging at a station, with a holographic Google Maps interface projected onto the charging port, displaying route and charging data. High-contrast, hyper-realistic 8k render, dramatic blue and white backlighting.",
+    "reasoning": "This thumbnail prioritizes an iconic EV object combined with the Google Maps interface, clearly communicating the topic. The futuristic style and bold text attract EV owners and tech enthusiasts, creating a strong call to click without relying on human expressions."
+  },
+  "title": "Google Maps: The EV Game Changer!",
+  "segments": [
+    {
+      "text": "Google Maps now offers critical updates for electric vehicle owners, fundamentally changing navigation and planning for millions.",
+      "image_prompt": "Overhead shot of a futuristic EV dashboard with an interactive map displaying new overlays and charging points, cinematic lighting, driver's intense focus through smart glasses.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Find compatible charging stations with real-time availability and connector types, significantly reducing range anxiety for EV drivers.",
+      "image_prompt": "Holographic map showing available EV charging stations appearing on a road network, green glowing indicators, data streams connecting points, cyberpunk style.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "Optimize routes to include necessary charging stops, considering battery level and terrain for efficient, stress-free electric travel.",
+      "image_prompt": "Animated route line on a digital map, dynamically adjusting to include a charging stop, showing a battery icon and optimal path, glowing data flow.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "Get precise energy consumption predictions based on vehicle model, weather, and traffic conditions, enhancing trip accuracy and planning.",
+      "image_prompt": "Futuristic EV dashboard display showing real-time energy consumption data, with weather icons and traffic indicators, bright digital readouts, reflecting data in glowing iris.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "These innovations address key EV adoption barriers, impacting millions of existing and future electric vehicle users globally.",
+      "image_prompt": "Abstract representation of a connected EV ecosystem, data flowing between cars, chargers, and maps, blue and white hues, reflecting the future of urban mobility.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "Google's commitment sets new industry standards for EV software integration, significantly improving user experience and accessibility.",
+      "image_prompt": "A sleek EV driving on a highway, overlayed with a transparent map showing smart navigation and optimized route, viewed through smart glasses with data overlay, cinematic lighting.",
+      "camera_effect": "dolly_zoom"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
