@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "VALUATION TRAP",
+    "narration": "WARNING: A trillion-dollar market shift hides a valuation trap Wall Street refuses to see!",
+    "image_description": "A cybernetic investor's intense focus, data streams reflecting in smart glasses, digital glitch effects, red warning lights, cinematic lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "CHIP VALUATION?",
+    "image_description": "Hyper-realistic 3D render of a glowing semiconductor chip on a holographic market graph, centered, cyberpunk aesthetic, dramatic blue and red backlighting, 8k resolution.",
+    "reasoning": "The ambiguous question mark over a glowing chip and market data creates immediate curiosity for investors and engineers about market discrepancies or opportunities, encouraging a click."
+  },
+  "title": "Semicon's Trillion-Dollar Puzzle: AI Boom & Hidden Valuations",
+  "segments": [
+    {
+      "text": "Global market hits $1T by 2026. This aggressive growth, 15% CAGR, signals robust demand across sectors.",
+      "text_overlay": "MARKET HITS $1T",
+      "image_prompt": "Holographic projection of a rising market graph showing a steep curve towards '1 Trillion USD' by 2026, with data points."
+    },
+    {
+      "text": "TSMC projects multi-year strong AI chip demand, fueling HBM and GPU expansion. This is a core driver for future CAPEX.",
+      "text_overlay": "AI CHIP BOOM",
+      "image_prompt": "Complex 3D render of interconnected HBM stacks and high-performance GPU chips, glowing with data flow, within a server rack, cyberpunk neon lighting."
+    },
+    {
+      "text": "TSMC's Arizona investment expansion addresses critical fab capacity, ensuring future supply chain stability for leading-edge nodes.",
+      "text_overlay": "TSMC ARIZONA",
+      "image_prompt": "Overhead shot of a cleanroom with advanced robotic arms precisely handling silicon wafers, dramatic lighting, reflecting data in their cybernetic eyes if visible."
+    },
+    {
+      "text": "Despite this boom, Wall Street undervalues key Korean semiconductor companies. Their critical contributions are being overlooked.",
+      "text_overlay": "KOREAN VALUE GAP",
+      "image_prompt": "A stylized digital weighing scale with 'Korean Semicon' side clearly lighter than 'Global Average' side, glitch effect on the lighter side, reflective surfaces."
+    },
+    {
+      "text": "Factors like perceived geopolitical risks or lower current dividend yields contribute to this valuation gap. Engineers see core tech value.",
+      "text_overlay": "RISK VS VALUE",
+      "image_prompt": "A human figure (engineer-like, intense focus, through smart glasses reflecting code) analyzing complex architectural diagrams of a chip, red warning lights in the background."
+    },
+    {
+      "text": "This undervaluation presents a significant opportunity for astute investors focusing on long-term industry fundamentals and yield potential.",
+      "text_overlay": "INVESTOR ALERT",
+      "image_prompt": "A holographic projection of stock charts showing an upward trend emerging from a flat undervalued line, with a cybernetic hand pointing at the potential growth, dramatic lighting."
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
