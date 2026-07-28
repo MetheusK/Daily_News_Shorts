@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "TSMC CHALLENGE",
+    "narration": "Attention investors! A $200 Billion deal just ignited the foundry war, threatening TSMC's dominance!",
+    "image_description": "Two competing chip factories, one with a 'Samsung' holographic logo, the other 'TSMC', with digital warning signs flashing between them. A focused analyst's cybernetic eyes reflecting data, dramatic side lighting, red warning lights.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "CHIP WAR: $200B",
+    "image_description": "A highly detailed 3D render of a futuristic AI chip with glowing circuits, juxtaposed against a background showing two subtly different advanced wafer fabrication plants (one Samsung, one TSMC-esque), split by a laser line, 8k resolution, cyberpunk style, dramatic backlighting.",
+    "reasoning": "Highlights the core conflict and massive financial stakes using strong imagery and keywords, appealing to investors and industry experts for clicks."
+  },
+  "title": "Samsung's $200B AI Foundry Challenge: TSMC on Alert?",
+  "segments": [
+    {
+      "text": "Samsung has secured a monumental $200 billion Broadcom AI chip foundry deal through 2030, a critical long-term supply chain commitment.",
+      "image_prompt": "A holographic projection of a $200 billion contract signing, with digital signatures, two hands (one with a Samsung corporate symbol, one with Broadcom's) shaking, displaying a determined expression, cinematic lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "This positions Samsung directly against TSMC, aiming to capture significant advanced packaging and HBM business in the burgeoning AI market.",
+      "image_prompt": "A detailed 3D render of two competing wafer fabs, one labeled 'Samsung Foundry' and the other 'TSMC', subtle digital 'challenge' arrows between them, reflecting data on a screen monitored by an engineer with smart glasses, intense focus.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "AI demand has fundamentally redrawn the global chip map, placing South Korea, led by Samsung and SK Hynix, at its strategic center.",
+      "image_prompt": "A high-tech digital globe highlighting South Korea with glowing lines indicating chip manufacturing hubs, with a serious analyst viewing through smart glasses, focused determination.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Bernstein analysis suggests AI's critical need extends beyond GPUs to robust, integrated foundry capabilities and high-bandwidth memory solutions.",
+      "image_prompt": "A complex diagram showing AI system architecture, highlighting connections between GPUs, HBM, and advanced packaging, with data flowing and a technical expert's glowing iris analyzing the flow, cinematic lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Success hinges on substantial CAPEX investment and rapidly improving manufacturing yields for these high-value AI components like HBM and advanced logic.",
+      "image_prompt": "Close-up of a semiconductor wafer with digital yield percentage overlays, a robotic arm precisely placing dies, observed by an engineer with an expression of intense focus, cybernetic lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "This aggressive strategy could significantly shift foundry market share and impact valuation metrics for leading semiconductor players by 2030.",
+      "image_prompt": "A stock market chart with specific lines representing 'Samsung Foundry' and 'TSMC' intersecting, showing future projection, observed by a focused investor through smart glasses, dramatic side lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
