@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "US TECH BAN",
+    "narration": "WARNING! Your smart devices just got caught in a massive US government crackdown!",
+    "image_description": "A rapidly glitched digital screen displaying a red 'ACCESS DENIED' alert over a silhouette of a network, with a single cybernetic eye in the corner reflecting data streams, intense focus, dramatic side lighting, digital corruption.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "CHINESE TECH BANNED",
+    "image_description": "A highly detailed 3D render of a futuristic smartphone with a glowing circuit board visible under a transparent screen, displaying a red warning symbol, centered on a dark, reflective surface, dramatic blue and red cyberpunk lighting, 8k resolution.",
+    "reasoning": "This object-focused, high-contrast image with a clear warning symbol immediately communicates the topic and creates intrigue about the specific technology involved, leading to higher clicks."
+  },
+  "title": "US Bans Key Chinese Tech: What You Need To Know!",
+  "segments": [
+    {
+      "text": "The US Commerce Department has significantly expanded its ban on Chinese technology. This targets specific smart devices cited for national security risks.",
+      "image_prompt": "A digital map of the US with a glowing, red barrier appearing over a region, a Chinese flag icon with a prominent red 'X' over it, network lines connecting to various blocked devices.",
+      "camera_effect": "dynamic zoom"
+    },
+    {
+      "text": "This builds on prior restrictions, including Huawei and TikTok, intensifying the focus on data privacy and potential espionage concerns across all connected devices.",
+      "image_prompt": "Digital representation of data packets flowing, then blocked by a robust, glowing firewall icon. An abstract person with a serious thought expression looking intently at a glowing data stream.",
+      "camera_effect": "slow pan"
+    },
+    {
+      "text": "The ban directly impacts consumer-grade connected devices previously accessible, raising questions about supply chains and market availability for millions of users.",
+      "image_prompt": "A stylized shopping cart with a red 'X' prominently displayed over various tech gadgets like smart home devices. A complex supply chain graphic with broken or severed links, a global map highlighting restricted areas.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Experts predict this move will accelerate the 'decoupling' of tech ecosystems. Companies are now pressured to source non-Chinese alternatives, impacting global innovation.",
+      "image_prompt": "Two distinct, glowing tech networks visually separating from each other. Abstract gears grinding, and an abstract representation of 'innovation' (a futuristic lightbulb shattering into data fragments).",
+      "camera_effect": "dynamic zoom"
+    },
+    {
+      "text": "For consumers, this means potential shifts in product availability and feature sets. Future devices may see increased domestic or allied-nation component integration.",
+      "image_prompt": "A human hand interacting with a holographic interface showing device specifications changing dynamically. Flag icons (US, EU, Japan) seamlessly integrating into a futuristic chip design.",
+      "camera_effect": "slow pan"
+    },
+    {
+      "text": "This policy aims to safeguard national security and sensitive data from potential foreign influence.",
+      "image_prompt": "A secure, glowing server rack with digital shields projected around it, dramatic lighting, 8k render.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
