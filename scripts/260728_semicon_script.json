@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "MARKET CRASH ALERT",
+    "narration": "WARNING: Semiconductor valuations are collapsing, despite massive deals! Is a 2026 market rout imminent?",
+    "image_description": "A cybernetic investor's hand violently clutching a glowing holographic stock chart showing a steep decline, with digital red glitch effects across the screen. Cinematic lighting, intense focus in a reflecting data eye.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "CHIP ROUT AHEAD?",
+    "image_description": "Hyper-realistic 8k render of a glowing, complex semiconductor wafer with intricate circuit patterns, cracked down the middle. Digital data streams flow around it in a dark, cyberpunk setting. Dramatic backlighting.",
+    "reasoning": "This thumbnail uses a compelling, damaged object (wafer) to symbolize potential market collapse, paired with a question to provoke curiosity and clicks from investors and engineers."
+  },
+  "title": "Semiconductor Rout: Broadcom Deals vs. Market Discount Explained",
+  "segments": [
+    {
+      "text": "Broadcom secured $230 billion in new deals, yet trades at a steep discount. This valuation gap signals deeper market concerns despite massive CAPEX commitments.",
+      "text_overlay": "BROADCOM DISCOUNT",
+      "image_description": "A dynamic split screen: left showing a vast data center with servers with glowing blue lights, right showing a downward-trending stock chart with glowing red lines. Cinematic lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Investors scrutinize future growth drivers. Current valuation indicates a cautious outlook on semiconductor sector profitability and long-term yield projections post-2026.",
+      "text_overlay": "PROFITABILITY RISK",
+      "image_description": "A digital interface showing complex financial metrics and growth projections for semiconductor companies. A serious engineer-investor figure with a glowing cybernetic iris looks at the data.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "China’s claimed chip breakthroughs face significant caveats, raising questions about manufacturing scalability and true supply chain independence. Yield remains critical.",
+      "text_overlay": "CHINA CAVEATS",
+      "image_description": "A schematic diagram of a chip manufacturing line with some parts highlighted in red, indicating bottlenecks or failures. A futuristic map of global supply chains with some links broken and red warning lights.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "Achieving high HBM and GPU wafer yields is paramount for profitability. Complex advanced packaging adds substantial risk and cost to the overall production process.",
+      "text_overlay": "HBM YIELD CHALLENGE",
+      "image_description": "Extreme close-up of an HBM stack on a wafer, with glowing blue light highlighting the intricate connections. Overlayed with percentage graphs showing yield fluctuations, cybernetic style.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "Geopolitical tensions and stringent export controls continue to disrupt the global semiconductor supply chain, impacting strategic long-term CAPEX planning and market stability.",
+      "text_overlay": "SUPPLY CHAIN SHOCK",
+      "image_description": "A stylized global map with red lines representing disrupted supply routes and flashing warning signals over key manufacturing regions. A CEO figure looking determinedly through smart glasses.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "The \"Chip Rout Analysis 2026\" suggests a market correction. Companies must justify high valuations with clear technology roadmaps and robust manufacturing efficiency.",
+      "text_overlay": "2026 ROUT WARNING",
+      "image_description": "A holographic projection of a future chip design roadmap, with some parts fading or showing 'error' messages in red. A stern, focused analyst figure in a high-tech lab setting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
