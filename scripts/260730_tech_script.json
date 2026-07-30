@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI CHATS EXPOSED",
+    "narration": "WARNING! Your private conversations with AI just appeared on Google search results!",
+    "image_description": "A person's face partly obscured by digital data streams, cybernetic eyes reflecting glowing red code, digital glitch effects around the face, red warning lights in the background. Cinematic lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI PRIVACY CRISIS",
+    "image_description": "A smartphone screen displaying a blurred chat interface, surrounded by an intricate web of data lines and a broken lock icon, in a cyberpunk style, 8k resolution 3D render. Dramatic backlighting.",
+    "reasoning": "This thumbnail immediately conveys a data breach/privacy issue using strong visual metaphors and an object-focused composition, appealing to tech-aware users and the general public without resorting to generic human expressions, thus maximizing click-through."
+  },
+  "title": "AI Chat Leaks: Your Conversations on Google?",
+  "segments": [
+    {
+      "text": "Private user chats with Anthropic's Claude AI unexpectedly appeared in Google search results. This incident exposed sensitive conversations directly.",
+      "image_prompt": "A digital search bar on a screen displaying 'Claude AI chat,' with fragmented, glitched text results below. Dark, techy background.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Anthropic quickly identified the issue, stating users shared public links to their chats. This action made conversations indexable by search engines.",
+      "image_prompt": "A stylized digital hand cursor hovering over and clicking a 'share' icon on a blurred AI chat interface. Data lines extend from the icon.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "These public shares allowed search engines like Google to index and display specific user interactions with the Claude AI. Data visibility increased significantly.",
+      "image_prompt": "A vast network of interconnected nodes, highlighting data flow from a chat bubble icon towards a prominent search engine logo. Cyberpunk neon lighting.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "Anthropic issued a statement, clarifying this wasn't a system breach but user-generated public content. They immediately updated user guidelines.",
+      "image_prompt": "A digital interface displaying a policy document or disclaimer text, with a subtle company logo visible. The text has a 'protected' feel.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Users must be aware that public sharing features make AI conversations discoverable. Treat all shared content as potentially public information.",
+      "image_prompt": "A close-up of a user's finger hovering over a 'share' button on a smartphone, with a red warning icon digitally overlaid on the button. Intense focus.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "This incident highlights the critical need for clear user understanding of AI privacy settings and responsible data sharing practices globally.",
+      "image_prompt": "A holographic global network map with digital data packets flowing, overlaid with abstract privacy policy text and warning symbols. Futuristic aesthetic.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
