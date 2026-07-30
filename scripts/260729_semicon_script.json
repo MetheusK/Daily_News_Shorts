@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI CHIP CRASH",
+    "narration": "Warning! Chip stocks just imploded, shedding over a trillion dollars from the AI boom!",
+    "image_description": "Close-up of an investor's face with an intense, determined expression, viewed through futuristic smart glasses reflecting a rapidly declining stock chart. Aggressive red digital corruption and glitch effects emanate from the reflected data, dramatic side lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "TRILION LOSS",
+    "image_description": "A hyper-realistic 8k render of a shattered, glowing silicon wafer with intricate circuit lines, with shards scattering over a dark, holographic data-strewn background. The central wafer is dramatically backlit with deep blue and red cyberpunk neon, creating high contrast. Focus on the object.",
+    "reasoning": "The shattered wafer visually symbolizes market collapse and financial loss, directly appealing to investors. Its high-tech, dramatic rendering emphasizes the semiconductor industry, creating strong intrigue and clickability for both investors and engineers, distinct from the hook's human focus."
+  },
+  "title": "Semicon Stock Shock: The Trillion Dollar AI Revaluation",
+  "segments": [
+    {
+      "text": "Global chip stocks collectively shed over $1 trillion as the AI boom faces market revaluation. Investor sentiment is shifting rapidly on high valuations.",
+      "image_prompt": "A digital stock market chart showing a severe downward trend, overlaid with intricate, glowing circuit board patterns. Clean, analytical display.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "\"Good enough\" AI models are emerging, reducing the urgent demand for the absolute latest, most expensive hardware. This impacts CAPEX planning.",
+      "image_prompt": "Abstract representation of AI neural networks optimizing, with less complex, more efficient pathways highlighted in green. Data flows smoothly, indicating efficiency, not brute force.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "Demand projections for high-bandwidth memory (HBM) and advanced GPUs are being reassessed. Supply chain buffers are now accumulating, signaling saturation.",
+      "image_prompt": "Close-up of HBM stacks integrated onto a GPU, rendered with precision. Subtle digital 'slowdown' indicators or a slight 'pause' icon appears over the components, reflecting market saturation.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "Manufacturers faced intense pressure to maximize yield for cutting-edge nodes. Now, market slowdowns shift focus to inventory management and existing capacity.",
+      "image_prompt": "Clean room environment showing robotic arms handling silicon wafers. A screen displays detailed, stable manufacturing yield data, not rapidly escalating. Focus on precision and control.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Lam Research's upcoming Q4 earnings on July 29th offer insight into capital expenditure trends. Equipment providers face scrutiny amidst reduced fab expansion.",
+      "image_prompt": "A detailed schematic of a Lam Research plasma etch tool, rendered with technical precision. A digital calendar highlight on July 29th overlays the image, emphasizing the earnings report.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "Future AI demand now hinges on innovative designs, not just brute force compute power. Watch valuations closely.",
+      "image_prompt": "A holographic display showing complex, efficient chip architectures and optimized algorithm flow. A semiconductor engineer with intense focus observes the display through cybernetic smart glasses reflecting the data. Cinematic lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
