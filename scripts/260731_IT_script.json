@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI IS WATCHING",
+    "narration": "WARNING! AI just took over your entire shopping experience and you didn't even notice.",
+    "image_description": "Extreme close-up of a cybernetic eye, glowing blue iris, reflecting streams of marketing data and customer profiles, surrounded by glitch effects and dramatic cyberpunk neon lighting. The expression is one of intense, analytical focus.",
+    "mood_color": "neon_blue"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI BUSINESS SHOCK",
+    "image_description": "A hyper-realistic 3D render of a stylized, glowing human brain (representing AI) integrated with a complex circuit board, overlaid with abstract data visualizations and binary code. The object is centered on a dark, futuristic cityscape background with dramatic backlighting. 8k resolution.",
+    "reasoning": "The visual of a glowing AI brain combined with a strong, intriguing headline (AI BUSINESS SHOCK) immediately communicates the topic's impact and mystery, compelling clicks without needing a human face. The object-focused, high-contrast style aligns with trending tech aesthetics."
+  },
+  "title": "AI Just Rewrote Business Rules!",
+  "segments": [
+    {
+      "text": "Recent reports confirm AI is fundamentally reshaping global business operations, moving beyond simple automation to deep strategic integration.",
+      "text_overlay": "AI REVOLUTION",
+      "image_prompt": "A sleek, modern office interior with holographic data displays and interactive touch interfaces; people in professional attire interacting with the tech, cinematic lighting, expressions of serious thought and determination.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Specifically, AI-powered marketing technology is seeing rapid innovation, driving personalized customer experiences and dynamic content generation.",
+      "text_overlay": "SMARTER MARKETING",
+      "image_prompt": "A digital dashboard showing real-time customer analytics and AI-driven campaign results; a human hand reaching to interact with a glowing holographic interface, intense focus, cyberpunk neon lighting.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "Advanced AI algorithms now predict consumer behavior with unprecedented accuracy, enabling companies to anticipate needs and offer tailored solutions instantly.",
+      "text_overlay": "PREDICTIVE POWER",
+      "image_prompt": "Abstract data streams flowing into a central glowing orb, representing an AI core; a heatmap of predicted customer journeys layered over a blurred city background, dramatic side lighting.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "This level of personalization, from product recommendations to ad placements, boosts engagement by 30% and significantly improves conversion rates.",
+      "text_overlay": "HYPER-PERSONAL",
+      "image_prompt": "A person wearing sleek smart glasses, displaying augmented reality personalized product offers in a virtual store; the glasses' lenses reflect glowing data, expression of wonder and intense focus, cinematic lighting.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "AI streamlines supply chains, optimizes inventory, and enhances decision-making across all business functions, boosting overall operational efficiency by 25%.",
+      "text_overlay": "EFFICIENCY BOOST",
+      "image_prompt": "Futuristic robotic arms in an automated warehouse precisely sorting packages; glowing sensors on the robots, dramatic side lighting, conveying smooth, precise movement, no humans visible.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Companies leveraging these AI trends are outperforming competitors by 40%, indicating a critical shift in market leadership moving forward.",
+      "text_overlay": "FUTURE LEADERS",
+      "image_prompt": "A futuristic cityscape at night, with digital data streams connecting towering buildings; a lone figure in a sleek smart suit stands on a high vantage point, looking out with determination, dramatic cinematic lighting.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
