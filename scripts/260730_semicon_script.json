@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "MARKET WARNING",
+    "narration": "Stop the scroll! The chip sector just shed a trillion dollars. Is the AI boom already over?",
+    "image_description": "Extreme close-up of a digital stock chart in freefall, showing massive red declines, overlaid with glitch effects and red warning lights. A cybernetically enhanced eye with a glowing iris reflects the falling numbers. Cinematic lighting, dramatic side light, high contrast.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI CHIP CRASH?",
+    "image_description": "Hyper-realistic 3D render of a central, glowing AI processor chip, intricately detailed, surrounded by faint, interconnected HBM stacks. Dark, metallic background with subtle blue and red neon highlights. Dramatic backlighting emphasizing the chip's intricate architecture. 8k resolution.",
+    "reasoning": "The question 'AI CHIP CRASH?' with a powerful, visually striking image of an AI chip creates immediate curiosity and urgency, suggesting a potential market reversal despite the ongoing boom, which will drive clicks from both investors and tech enthusiasts."
+  },
+  "title": "AI Chip Shock: NVIDIA Dip, TSMC's Packaging War & Trillion Dollar Question",
+  "segments": [
+    {
+      "text": "NVIDIA stock dropped 3.5%, contributing to the semiconductor sector shedding over $1 trillion in market cap. This signals investor caution.",
+      "image_prompt": "Digital display showing NVIDIA stock ticker in red, rapidly declining. Blurred background of server racks with flashing data lights. An analyst's intense focus through smart glasses reflecting stock data. Cinematic lighting.",
+      "text_overlay": "NVIDIA DOWN"
+    },
+    {
+      "text": "Despite recent dips, Omdia forecasts a 94.1% surge in semiconductor revenue by 2026. This exponential growth is primarily driven by relentless AI demand.",
+      "image_prompt": "Holographic projection of a rising green bar chart showing 94.1% growth, overlaid on a global data network. Data reflecting in a cybernetic eye. Cyberpunk neon lighting, deep blue hues.",
+      "text_overlay": "94% AI SURGE"
+    },
+    {
+      "text": "The core of this AI demand lies in high-bandwidth memory (HBM) and advanced GPUs. Yield improvements and CAPEX for these components are critical.",
+      "image_prompt": "Close-up 3D render of an HBM stack integrated with a GPU die, glowing blue lines indicating data flow and interconnects. Precise, technical focus, hyper-realistic detail on the wafer. Dramatic side lighting.",
+      "text_overlay": "HBM & GPU"
+    },
+    {
+      "text": "TSMC is now adopting an EMIB-like packaging approach, partnering with Kinsus. This strategy mirrors Intel's for multi-die integration, boosting AI chip performance.",
+      "image_prompt": "Schematic diagram comparing Intel's EMIB and TSMC's new packaging method on a silicon wafer, highlighting advanced interconnects. A robot arm precisely placing a chip. High-tech cleanroom ambiance with glowing process lines.",
+      "text_overlay": "TSMC PACKAGING"
+    },
+    {
+      "text": "This competitive move by TSMC aims to enhance yield and power efficiency for next-gen AI accelerators. It intensifies the foundry race and CAPEX investments.",
+      "image_prompt": "Two holographic chip architectures in a digital standoff, representing Intel and TSMC logos, with subtle digital corruption/glitch effects around one. Serious thought reflected in a cybernetic face's glowing iris. Dramatic lighting.",
+      "text_overlay": "FOUNDRY RACE"
+    },
+    {
+      "text": "This strategic shift directly impacts HBM and GPU valuation, dictating future CAPEX allocations and reshaping the semiconductor landscape.",
+      "image_prompt": "Digital display of complex financial models projecting future valuations of HBM and GPU companies, overlaid with market trend lines. Data reflecting in a determined cybernetic eye. Cinematic lighting, focused on projections.",
+      "text_overlay": "VALUATION SHIFT"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
