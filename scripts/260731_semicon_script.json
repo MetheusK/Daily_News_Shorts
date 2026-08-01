@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "CHIP CRISIS IMMINENT",
+    "narration": "WARNING: The AI chip rally hides a critical vulnerability threatening global supply.",
+    "image_description": "A close-up of a cybernetic eye, reflecting a fragmented, glitching circuit board with red warning lights. Cinematic lighting, intense focus.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "WATER RISK ALERT",
+    "image_description": "A hyper-realistic 3D render of a gleaming silicon wafer, half submerged in glowing blue water, with a subtle digital warning overlay. Cyberpunk style, dramatic backlighting, 8k resolution.",
+    "reasoning": "The juxtaposition of a valuable silicon wafer and critical water risk, combined with a stark 'ALERT' text, creates immediate intrigue for investors and engineers, promoting clicks."
+  },
+  "title": "AI Chip Rally's Hidden Threat: Water Risk & Supply Chain Shock",
+  "segments": [
+    {
+      "text": "AI chip stocks are surging; Kospi rallied 18%, Microsoft jumped 15%, and Sandisk soared 26% on AI optimism.",
+      "image_prompt": "A stock market ticker displaying green upward arrows, superimposed over a futuristic server room with glowing blue HBM modules. Cinematic lighting.",
+      "camera_effect": "zoom_in",
+      "text_overlay": "AI BOOMING"
+    },
+    {
+      "text": "This rally is driven by massive demand for HBM memory and advanced GPUs, pushing valuations higher across the sector.",
+      "image_prompt": "Close-up of a 3D rendered HBM stack, with data flowing as holographic light, reflecting a serious-looking engineer's smart glasses. Intense focus.",
+      "camera_effect": "pan_right",
+      "text_overlay": "HBM DEMAND"
+    },
+    {
+      "text": "Yet, a critical threat emerges: AllianceBernstein warns of rising water risks crucial for wafer fabrication and chip manufacturing yields.",
+      "image_prompt": "A stylized microchip factory pipeline, with a visible, clear liquid flowing, suddenly showing digital corruption and red warning lights. Dramatic side lighting.",
+      "camera_effect": "static",
+      "text_overlay": "WATER RISK"
+    },
+    {
+      "text": "Semiconductor production is concentrated in regions facing severe water stress, impacting potential CAPEX returns and operational continuity.",
+      "image_prompt": "A holographic world map highlighting major semiconductor manufacturing hubs (Taiwan, Korea) with pulsing red zones indicating water scarcity. Cyberpunk neon lighting.",
+      "camera_effect": "rotate_slow",
+      "text_overlay": "SUPPLY CHAIN"
+    },
+    {
+      "text": "Water scarcity directly jeopardizes manufacturing yields and could trigger significant supply chain disruptions, affecting global tech production.",
+      "image_prompt": "A factory floor with robotic arms working on wafers, but with subtle glitch effects and a red warning overlay indicating 'LOW YIELD'. Dramatic lighting.",
+      "camera_effect": "track_forward",
+      "text_overlay": "YIELD SHOCK"
+    },
+    {
+      "text": "Investors must weigh current high valuations against fundamental resource risks, as water scarcity could redefine long-term sector profitability.",
+      "image_prompt": "A serious-faced investor, seen through cybernetic smart glasses reflecting stock charts and water usage data, deep in thought. Dramatic side lighting, glowing iris effect.",
+      "camera_effect": "static",
+      "text_overlay": "RISK VS VALUATION"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
