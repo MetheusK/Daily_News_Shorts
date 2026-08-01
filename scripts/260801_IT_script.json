@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI TAKES CONTROL",
+    "narration": "Stop scrolling! Artificial Intelligence just made its biggest move yet, and you won't believe where it's heading!",
+    "image_description": "Extreme close-up of a person's eyes reflecting glowing data interfaces, surrounded by futuristic UI elements, with a red digital glitch overlay. Expression of intense focus, cinematic lighting, through smart glasses.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI: NEW ERA",
+    "image_description": "3D render of a glowing, multifaceted AI chip at the center, surrounded by holographic data streams representing finance, military symbols, and health metrics. Cyberpunk neon lighting, dark background, 8k resolution.",
+    "reasoning": "This thumbnail highlights AI's broad impact across multiple crucial sectors (finance, defense, health) in a visually striking, futuristic way, creating immediate intrigue about this 'new era' of technology and encouraging clicks."
+  },
+  "title": "AI Is Taking Over: What It Means For YOU!",
+  "segments": [
+    {
+      "text_overlay": "AI MARKET BOOMS",
+      "narration": "The global AI market is projected for massive growth, with analysts forecasting significant returns for early investors in top AI stocks.",
+      "image_description": "3D render of a glowing stock market graph intersecting with a futuristic circuit board, symbolizing financial growth.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text_overlay": "AI: MILITARY CORE",
+      "narration": "AI is now the strategic core of future military operations, enhancing decision-making, logistics, and autonomous defense systems significantly.",
+      "image_description": "Holographic projection of a tactical map with AI-driven drone outlines, futuristic military aesthetic, dramatic lighting.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text_overlay": "DEFENSE REVOLUTION",
+      "narration": "This integration provides advanced data analysis and predictive capabilities, fundamentally altering traditional warfare strategies and global power dynamics.",
+      "image_description": "A human hand (view from behind) interacting with a transparent holographic display showing complex defense data, serious thought expression, cyberpunk lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text_overlay": "WEARABLES EVOLVE",
+      "narration": "Simultaneously, connected wearable patches are rapidly evolving, integrating AI for real-time health monitoring and comprehensive predictive analytics.",
+      "image_description": "Close-up of a sleek, futuristic wearable patch on skin, with subtle glowing indicators and micro-circuitry, cinematic lighting.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text_overlay": "HEALTH DATA NOW",
+      "narration": "These patches continuously collect vital data for signs like glucose and activity, profoundly impacting personal health management and preventative care.",
+      "image_description": "Infographic-style overlay showing heart rate, temperature, glucose data emanating from a wearable patch, integrated seamlessly into a futuristic interface.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text_overlay": "AI: OUR REALITY",
+      "narration": "From finance and defense to personal health, AI's pervasive integration defines our next era of technological advancement and daily societal impact.",
+      "image_description": "A split screen: one side depicting a futuristic military command center with AI screens, the other side showing a person (back of head visible) checking health data on a smart device, both subtly connected by glowing AI data streams. Cinematic lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
