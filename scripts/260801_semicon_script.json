@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "CHIP STOCKS CRASH?",
+    "narration": "Breaking news: Q2 earnings reveal a seismic shift in semiconductor profits! Is your portfolio prepared for the fallout?",
+    "image_description": "A digital stock market ticker displaying red downward arrows, glitching, superimposed over a cybernetic investor's glowing iris reflecting data, dramatic red and blue neon lighting, intense focus.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "SEMICON VALUATION ALERT",
+    "image_description": "A hyper-realistic 3D render of a glowing, complex semiconductor wafer with intricate circuitry, partially submerged in liquid nitrogen, reflecting digital stock charts in the background, dramatic side lighting, 8k resolution.",
+    "reasoning": "Focuses on a core semiconductor object (wafer) with a clear investment alert (valuation), appealing to the target audience with a high-tech, data-driven visual."
+  },
+  "title": "Q2 Chip Earnings Shock: Investor Alert!",
+  "segments": [
+    {
+      "text": "Q2 '26 foundry and OSAT earnings reports are hitting, with early data indicating potential revenue instability. Investors are watching closely.",
+      "image_prompt": "A holographic projection of a Q2 '26 financial chart showing fluctuating revenue lines, with data streams flowing around it, in a high-tech control room.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "Manufacturing yield rates are a primary concern, directly impacting wafer costs and CAPEX spending. Lower yields erode profit margins significantly.",
+      "image_prompt": "An automated robotic arm delicately placing a pristine silicon wafer into a fabrication machine, detailed view of micro-level defects highlighted by red warning lights.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "Despite robust HBM and GPU demand driving specific segments, overall market softness in other areas pressures average selling prices.",
+      "image_prompt": "Close-up of interconnected HBM stacks on a GPU, glowing with vibrant data flow, surrounded by abstract digital energy lines, showing high computational power.",
+      "camera_effect": "dolly_zoom"
+    },
+    {
+      "text": "Supply chain disruptions continue, affecting material procurement and delivery timelines for critical components, adding overhead to operations.",
+      "image_prompt": "A futuristic global logistics map with illuminated shipping routes and red 'alert' nodes over key production hubs, viewed through smart glasses reflecting the data, determined expression.",
+      "camera_effect": "tilt_up"
+    },
+    {
+      "text": "These Q2 metrics will heavily influence short-term chipmaker valuations, prompting re-evaluations across major semiconductor stocks.",
+      "image_prompt": "An investor figure with intense focus, wearing smart glasses that reflect complex stock market data graphs, dramatic side lighting, serious thought.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "The Trump administration also expanded its US stock portfolio, adding 6 new chipmakers.",
+      "image_prompt": "A digital representation of the US flag interwoven with intricate microchip designs, a subtle corporate seal in the background, professional and authoritative tone.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
