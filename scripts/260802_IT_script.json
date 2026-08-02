@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI RACE ACCELERATES",
+    "narration": "Warning! The silent war for AI dominance just took a terrifying turn!",
+    "image_description": "Extreme close-up of a human eye (cybernetic, reflecting data streams in neon blue and red light), displaying intense focus. Background blurred with fast-moving digital code and server racks. Cinematic lighting, deep shadows.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "CHINA'S AI DOMINANCE?",
+    "image_description": "A stylized 3D render of a glowing, futuristic neural network brain, with a subtle, integrated map of China within its intricate circuitry. Hyper-realistic, 8k resolution, with dramatic blue and purple backlighting. No humans.",
+    "reasoning": "Poses a direct question about a major geopolitical tech shift, uses a strong visual object (AI brain), and targets curiosity about global power dynamics to maximize click-through rate."
+  },
+  "title": "China's AI Labs: The New Tech Cold War?",
+  "segments": [
+    {
+      "text": "A recent visit to China’s leading AI labs revealed unprecedented progress, showcasing advanced research in robotics and machine learning, setting new global benchmarks.",
+      "text_overlay": "CHINA'S AI LABS",
+      "image_prompt": "A dimly lit, futuristic AI research lab with glowing holographic schematics of robots and machine learning algorithms on transparent screens. Focus on clean tech, cinematic lighting.",
+      "camera_effect": "smooth pan right"
+    },
+    {
+      "text": "This aggressive investment positions China as a major contender in the global 'soft power' battle, impacting future tech standards and innovation pathways worldwide.",
+      "text_overlay": "TECH SHOWDOWN",
+      "image_prompt": "A stylized digital globe with overlapping neural network patterns and abstract data lines connecting major tech hubs. Cinematic lighting, dominant blue and green hues.",
+      "camera_effect": "slow zoom out"
+    },
+    {
+      "text": "Researchers are rapidly advancing critical fields like autonomous systems, natural language processing, and advanced computational vision, pushing new boundaries daily.",
+      "text_overlay": "NEW AI FRONTIERS",
+      "image_prompt": "A sequence of quick cuts: a self-driving car's LiDAR view, abstract visualization of complex natural language processing algorithms, and a robot arm performing a delicate task with precision.",
+      "camera_effect": "rapid cuts"
+    },
+    {
+      "text": "China's vast data resources and strong government support provide a unique ecosystem, accelerating AI development cycles significantly, fostering rapid innovation.",
+      "text_overlay": "DATA POWER",
+      "image_prompt": "A massive, glowing server farm stretching into the distance, with abstract streams of data flowing like rivers of light through the racks. Dramatic depth of field, cyberpunk neon lighting.",
+      "camera_effect": "vertical tilt up"
+    },
+    {
+      "text": "These advancements will soon reshape industries from healthcare to smart logistics and transportation, creating integrated digital economies and smarter cities globally.",
+      "text_overlay": "YOUR FUTURE IS AI",
+      "image_prompt": "Split screen showing: a smart city drone view, a holographic medical data display with glowing data over a patient, and automated logistics warehouse robots. Energetic, high-tech aesthetic.",
+      "camera_effect": "split screen transition"
+    },
+    {
+      "text": "Global tech leaders are now closely watching these developments, understanding that competitive responses and partnerships will define the next decade of AI.",
+      "text_overlay": "GLOBAL RESPONSE",
+      "image_prompt": "A diverse group of scientists and tech executives (intense focus, determination on their faces) looking intently at a large, transparent data display showing competitive AI market graphs. Cinematic side lighting.",
+      "camera_effect": "slow zoom in"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
