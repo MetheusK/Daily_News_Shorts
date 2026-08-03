@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI TECH WAR!",
+    "narration": "WARNING! A massive tech war is erupting, threatening to cost global businesses billions every single year!",
+    "image_description": "A dynamic, high-contrast visual of a digital 'firewall' or 'barrier' forming between two abstract, glowing AI brain representations, with electrical sparks and glitch effects. Dramatic cyberpunk lighting, reflecting data in a subtle 'cybernetic eye' within the visual.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI BAN: $12 BILLION",
+    "image_description": "A hyper-realistic 3D render of a fractured, glowing AI chip central on a dark background, with digital currency symbols ('$' signs) scattering from the cracks. Data streams are visibly disrupted around it. Dramatic backlighting with neon blue and red accents.",
+    "reasoning": "This thumbnail immediately highlights the core conflict (AI ban) and the massive financial implication ($12 billion) through a visually striking, object-focused image. The shattered chip symbolizes disruption, grabbing attention effectively for a click."
+  },
+  "title": "US vs China AI: The $12 Billion Ban Breakdown",
+  "segments": [
+    {
+      "text": "The US government is considering a ban on Chinese AI models. This regulatory move targets specific technologies and their widespread deployment.",
+      "image_prompt": "A glowing, complex network diagram overlaid on a geopolitical map highlighting US and China, with clear red 'restriction' lines appearing and forming a digital wall. Cinematic lighting.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "This potential ban could cost American businesses an estimated US$12 billion annually. These significant figures highlight reliance on current AI infrastructure.",
+      "image_prompt": "A digital ticker displaying '$12,000,000,000' rapidly, superimposed on a sleek corporate data center setting with data screens and a person with an expression of intense focus, reflected in smart glasses. Cyberpunk neon lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Businesses would face expenses for redeveloping systems, migrating data, and retraining personnel. This includes procurement of alternative AI solutions.",
+      "image_prompt": "Abstract depiction of massive data migration: glowing data packets moving between rows of server racks, some packets turning red or showing glitch effects indicating corrupted or blocked paths. Dramatic side lighting.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "Impact spans diverse sectors, including finance, manufacturing, and consumer technology. Companies using Chinese-developed AI tools would require substantial adjustments.",
+      "image_prompt": "Holographic icons representing various industries (a gear for manufacturing, a stock chart for finance, a smartphone for tech) being digitally re-routed or disconnected on a translucent screen. A person's hand (gloved, cybernetic style) gestures towards it.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "These measures are primarily driven by national security concerns and technological competition. The goal is to safeguard sensitive data and intellectual property.",
+      "image_prompt": "A secure server room with intense blue and green data streams, security lasers crisscrossing, focusing on a single, highly protected data core. A glowing iris of an eye observing complex data on a screen. Cinematic lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "The implications of these trade restrictions extend globally, impacting the future of AI development and adoption across various industries.",
+      "image_prompt": "A global network diagram, with some connections flickering or breaking, illustrating a fragmented international AI ecosystem. A person (seen from behind, with an expression of serious thought, reflecting data in smart glasses) observing this complex network. Cyberpunk lighting.",
+      "camera_effect": "dolly_zoom"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
