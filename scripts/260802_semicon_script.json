@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "INVESTOR ALERT",
+    "narration": "WARNING: A $100 billion investment just triggered a massive shift in semiconductor power dynamics. Your portfolio is exposed.",
+    "image_description": "Extreme close-up of a stock ticker displaying sharp fluctuations, reflected in the glowing iris of an investor wearing smart glasses, with digital corruption effects and red warning lights. Cinematic lighting, intense focus.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "TSMC $100B BET",
+    "image_description": "A hyper-realistic 3D render of a futuristic semiconductor wafer factory in a vast desert landscape (Arizona). Holographic data projections showing '100 Billion USD' float above the complex, illuminated by dramatic cyberpunky backlighting. 8k resolution.",
+    "reasoning": "This thumbnail highlights a massive dollar figure and a specific, impactful location (Arizona) related to a key company (TSMC). The high-tech, futuristic visual for a 'bet' creates strong curiosity for investors and industry insiders about the scale and implications."
+  },
+  "title": "TSMC's $100B Arizona Bet: Investor Impact & Global Wafer Shift",
+  "segments": [
+    {
+      "text": "Taiwan Semiconductor Manufacturing, TSMC, commits $100 billion to its Arizona fabrication plants, a significant CAPEX move impacting global supply chains.",
+      "image_prompt": "Overhead view of a detailed 3D render of a semiconductor fabrication plant under construction, with digital overlays showing 'CAPEX: $100B'. Clear, technical visual.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "This massive investment aims to boost advanced wafer production domestically, critical for future GPU and HBM supply, crucial for AI growth.",
+      "image_prompt": "Close-up of a cybernetic hand holding a glowing silicon wafer, with abstract digital representations of GPUs and HBM chips floating around it. Intense focus, cinematic lighting.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "Analysts are re-evaluating TSMC's valuation, considering long-term yield projections and increased geopolitical stability for semiconductor manufacturing.",
+      "image_prompt": "A holographic display showing complex stock charts and valuation metrics, viewed through smart glasses of an analyst with a serious thought expression. Data reflecting in their cybernetic eyes. Dramatic side lighting.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "The Arizona fabs will strengthen the U.S. chip supply chain, potentially influencing competitive landscapes for Intel and Samsung's foundry businesses.",
+      "image_prompt": "A digital map of the global semiconductor supply chain, highlighting a new strong node in Arizona. Interconnecting lines glow between U.S., Taiwan, and other regions, with company logos (Intel, Samsung, TSMC).",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Initial Arizona production focuses on 4nm and 3nm process nodes, ensuring a robust output of high-performance logic wafers for key clients.",
+      "image_prompt": "Microscopic view of advanced 4nm and 3nm silicon transistor structures, with technical diagrams and data points overlaid. Hyper-realistic, detailed texture.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "Market analysts project TSMC’s Arizona fabs will significantly reshape global wafer output percentages, impacting future technology and investor portfolios.",
+      "image_prompt": "Infographic showing a pie chart representing global wafer output, with a new, growing segment labeled 'TSMC Arizona'. Data shifts dynamically, reflecting future projections. Focus on numbers and data visualization.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
