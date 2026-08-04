@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI IS WATCHING",
+    "narration": "Warning! The AI revolution isn't coming, it's already here, reshaping your world faster than you can blink!",
+    "image_description": "Extreme close-up of a human eye with a glowing, cybernetic iris reflecting streams of data, displaying intense focus, dramatic side lighting, digital glitch effects, deep red warning lights, cinematic quality.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI'S NEW REALITY",
+    "image_description": "A hyper-realistic 3D render of a futuristic grocery store aisle with holographic price tags (ESLs) floating above product shelves, illuminated by subtle neon glow. A stylized, glowing AI chip is centrally composed, with dramatic cyberpunk backlighting, 8k resolution.",
+    "reasoning": "This thumbnail visually highlights the core AI application in retail (ESLs) through a futuristic, high-contrast, object-focused image. It creates intrigue and signals a significant shift, prompting clicks more effectively than a generic human reaction."
+  },
+  "title": "AI Everywhere: Your Daily Life is Changing!",
+  "segments": [
+    {
+      "text": "Recent reports confirm AI's deep integration across industries. Experts identify top trends driving market growth and reshaping business operations, impacting billions globally.",
+      "text_overlay": "AI'S GLOBAL IMPACT",
+      "image_prompt": "World map with glowing nodes representing data centers and AI integration points, digital data streams connecting them, high-tech, cybernetic blue lighting, 8k resolution.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "Grocers are rapidly adopting AI, especially with Electronic Shelf Labels (ESLs). A survey highlights AI combating rising labor costs and margin pressures, streamlining operations.",
+      "text_overlay": "SMART RETAIL NOW",
+      "image_prompt": "Close-up of a futuristic electronic shelf label displaying dynamic pricing and product information, with a subtle AI glowing symbol. Clean lines, intense focus, realistic lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "ESLs enable real-time price changes, reducing manual labor by 70%. This improves inventory accuracy and allows dynamic promotions, boosting profits by 5-10% for adopters.",
+      "text_overlay": "BIG SAVINGS AHEAD",
+      "image_prompt": "A busy grocery store aisle with employees observing digital shelf labels. Digital overlays show analytics and efficiency metrics, highlighting streamlined operations with bright retail lighting.",
+      "camera_effect": "pan_across"
+    },
+    {
+      "text": "The 'Summit 2026' conference will reveal future multifamily living innovations. This includes AI-powered smart homes and advanced broadband, enhancing resident experiences.",
+      "text_overlay": "SMART HOMES RISE",
+      "image_prompt": "Futuristic apartment complex with glowing smart home interfaces visible through windows. Interconnected data lines, sleek modern design. A person (seen through smart glasses) with an expression of wonder looks at the building.",
+      "camera_effect": "drone_shot"
+    },
+    {
+      "text": "AI manages energy, security, and personalized environments in smart residences. Over 60% of new multifamily units will feature advanced smart tech by 2025, a significant jump.",
+      "text_overlay": "LIVING THE FUTURE",
+      "image_prompt": "Interior of a sleek smart home with holographic interfaces for climate control and security. A focused individual interacts with a glowing, translucent panel, cinematic lighting.",
+      "camera_effect": "static_close_up"
+    },
+    {
+      "text": "Investor's Business Daily highlights top AI stocks, projecting 20% annual growth in AI investment by 2027. Early adopters are seeing 15% ROI within 18 months.",
+      "text_overlay": "INVEST IN AI",
+      "image_prompt": "A stock market ticker board displaying upward trending AI stock symbols with a subtle AI chip graphic overlay, glowing green lines. A focused investor (through smart glasses) looks at data on a holographic screen.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
