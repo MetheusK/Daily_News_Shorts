@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "STOCK CRASH ALERT",
+    "narration": "Warning: Semiconductor stocks plunged 22%, signaling a market correction you cannot ignore!",
+    "image_description": "A screen showing a rapidly falling stock graph with digital corruption effects, an intense-focused cybernetic eye reflecting the data, dramatic red warning lights flashing. Cinematic lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "CHIP VALUATION SHOCK",
+    "image_description": "A highly detailed 3D render of a glowing, complex logic chip at the center, surrounded by holographic data streams and a subtle, dark, futuristic server rack in the background. Hyper-realistic, 8k resolution, cinematic lighting with deep shadows and neon blue accents.",
+    "reasoning": "The thumbnail prioritizes a high-contrast, technical object (the chip) combined with a punchy, investor-focused headline ('CHIP VALUATION SHOCK') to attract both engineering and financial audiences, maximizing initial click-through rate. It avoids generic human reactions for a more sophisticated appeal."
+  },
+  "title": "Semiconductor Stocks: 22% Drop, Valuation Reset, CPO Future",
+  "segments": [
+    {
+      "text_overlay": "SEMI STOCKS PLUNGE",
+      "narration": "Semiconductor stocks recently experienced a significant 22% market downturn, impacting portfolio valuations across the board due to broader economic pressures.",
+      "image_prompt": "A data visualization of stock prices plummeting on a transparent display, reflected in the smart glasses of a serious analyst with an intense focus. Cinematic lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text_overlay": "TSMC VALUATION RESET",
+      "narration": "TSMC's AI growth narrative now faces a valuation reset. Analysts observe peak margins have passed, prompting re-evaluation of future earnings potential.",
+      "image_prompt": "A detailed diagram of a TSMC wafer, overlaid with glowing financial charts showing a peak and subsequent decline. Dramatic side lighting, conveying serious thought.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text_overlay": "CPO: NEXT-GEN CONNECT",
+      "narration": "Foundry roadmaps detail Co-Packaged Optics (CPO) integration, crucial for next-generation scale-up connectivity. This technology reduces latency and power consumption.",
+      "image_prompt": "A conceptual diagram of a Co-Packaged Optics (CPO) module connecting a high-performance GPU, with holographic light tracing data pathways. Cyberpunk neon lighting.",
+      "camera_effect": "pan_left_right"
+    },
+    {
+      "text_overlay": "FOUNDRY CPO RACE",
+      "narration": "TSMC, Intel, Samsung, and GlobalFoundries are all investing heavily in CPO. Their competitive CAPEX strategies aim for yield optimization and market dominance.",
+      "image_prompt": "Four glowing corporate logos (TSMC, Intel, Samsung, GlobalFoundries) converging on a central CPO chip, with cybernetic hands reaching towards it in determination. Dramatic lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text_overlay": "HBM & GPU FUTURE",
+      "narration": "CPO is vital for scaling HBM and GPU interconnects, directly affecting AI data centers. Higher bandwidth and efficiency are paramount for future AI performance.",
+      "image_prompt": "A schematic of stacked HBM modules connected to a high-performance GPU, with optical fibers glowing, digital reflections on a dark surface. Intense focus on the technology.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text_overlay": "MARKET UNCERTAINTY",
+      "narration": "This shift impacts CAPEX decisions, manufacturing yield targets, and ultimately, the long-term valuation of key players in the GPU and HBM supply chain.",
+      "image_prompt": "An array of complex circuit boards under dramatic cinematic lighting, reflecting glowing data streams, conveying intense focus and serious thought from an unseen perspective.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
