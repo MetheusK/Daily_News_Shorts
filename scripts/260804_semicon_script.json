@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "YIELD CRISIS?",
+    "narration": "WARNING: The chip industry is hitting its physical limits. Are your semiconductor investments at risk?",
+    "image_description": "A stern-faced semiconductor analyst, seen through smart glasses reflecting digital data streams, dramatic cyberpunk neon lighting, with glitched red warning lights subtly integrated into the background. Intense focus.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "CHIP LIMITS AHEAD?",
+    "image_description": "A hyper-realistic 3D render of a futuristic microchip glowing with intricate blue and orange circuits, dramatically backlit, set against a dark, abstract background depicting faint geometric data patterns. Focus on the chip as the central object. 8k resolution.",
+    "reasoning": "Uses a strong, mysterious question combined with a visually striking, high-tech object to appeal to both investors (risk/future) and engineers (technology limits), maximizing initial click-through rate."
+  },
+  "title": "Chip Limits? What Druckenmiller Sees in TSMC",
+  "segments": [
+    {
+      "text": "Huawei CTO suggests chip industry nears physical limits. This impacts future process node scaling, raising questions on long-term growth for advanced wafer manufacturing.",
+      "image_prompt": "A complex 3D rendering of a silicon wafer with visible atomic-level patterns, digital corruption effects around the edges, dramatic side lighting, cyberpunk style.",
+      "text_overlay": "PHYSICAL LIMITS?"
+    },
+    {
+      "text": "This challenge escalates CAPEX for 2nm and beyond, potentially compressing yields. Investors must track foundry R&D and material science advancements intensely.",
+      "image_prompt": "An automated robotic arm in a cleanroom handling a silicon wafer, glowing cybernetic eyes on the robot, surrounded by holographic financial data charts, cinematic lighting.",
+      "text_overlay": "CAPEX SOARING"
+    },
+    {
+      "text": "Contrasting this, Stanley Druckenmiller maintains TSMC holdings. This signals conviction in robust GPU and HBM chip demand from Nvidia and AMD.",
+      "image_prompt": "A stylized stock chart showing an upward trend, with a glowing abstract representation of the TSMC logo in the foreground, overlaid with subtle cybernetic data streams, 3D render.",
+      "text_overlay": "DRUCKENMILLER BUYS"
+    },
+    {
+      "text": "TSMC's strong Q2 performance validates this outlook. Advanced packaging and CoWoS capacities remain critical bottlenecks for AI accelerator market share.",
+      "image_prompt": "An extreme close-up of interconnected HBM (High Bandwidth Memory) stacks on a GPU, intricate glowing circuitry, digital data flowing between components, hyper-realistic.",
+      "text_overlay": "HBM DEMAND HIGH"
+    },
+    {
+      "text": "Asia’s innovation wave, especially in advanced materials and packaging, offers investor exposure beyond US tech. Track regional supply chain resilience carefully.",
+      "image_prompt": "A holographic map of Asia with glowing points representing innovation hubs, superimposed with abstract technological patterns and data streams, 8k resolution.",
+      "text_overlay": "ASIA INNOVATES"
+    },
+    {
+      "text": "Future valuations will hinge on sustained HBM/GPU demand versus escalating fabrication costs. Monitor 2nm yield rates and effective pricing models closely.",
+      "image_prompt": "A serious semiconductor analyst with a determined expression, viewed through smart glasses reflecting real-time stock ticker data, intensely focused on a glowing, analytical display, dramatic side lighting.",
+      "text_overlay": "VALUATION KEY"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
