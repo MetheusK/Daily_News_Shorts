@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI IS EVERYWHERE",
+    "narration": "Warning! Artificial Intelligence is no longer a future concept; it's here, fundamentally reshaping our world right now!",
+    "image_description": "Extreme close-up of a person's eye, cybernetically enhanced, reflecting glowing streams of data and code, with a subtle red warning light in the background. Cinematic lighting. Intense focus.",
+    "mood_color": "neon_green"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI BOOM!",
+    "image_description": "A sleek, hyper-realistic 3D render of a futuristic AI chip at the center, surrounded by holographic data streams and subtle cyberpunk neon lighting. 8k resolution. Dramatic backlighting.",
+    "reasoning": "This thumbnail highlights the core subject (AI, tech growth) with a visually striking, clear object, indicating rapid expansion for high click-through without relying on human expressions."
+  },
+  "title": "AI's Unstoppable Rise: Beyond Silicon Valley",
+  "segments": [
+    {
+      "text": "The Artificial Intelligence market is experiencing unprecedented growth, projected to surpass a trillion dollars by 2030, driven by rapid adoption across industries globally.",
+      "image_prompt": "A dynamic, high-resolution graph showing an exponential growth curve for 'AI Market Value,' with holographic financial data overlaid. Cyberpunk aesthetic.",
+      "text_overlay": "AI BILLIONS",
+      "camera_effect": "zoom_out_slightly"
+    },
+    {
+      "text": "AI sensor technology innovations are key growth drivers, with new advancements in perception algorithms enhancing precision and data processing in real-time applications.",
+      "image_prompt": "Close-up of a complex, miniature AI sensor array, emitting a faint digital glow, integrated into a transparent smart device. Technical, clear.",
+      "text_overlay": "SMART SENSORS",
+      "camera_effect": "static"
+    },
+    {
+      "text": "These smart sensors empower devices with enhanced environmental awareness, offering predictive capabilities and intuitive user experiences, from smart homes to advanced wearables.",
+      "image_prompt": "A person's hand interacting with a holographic interface projected from a smart watch, showing data points like temperature or personalized suggestions. Intense focus expression. Cinematic lighting.",
+      "text_overlay": "YOUR LIFE IMPROVES",
+      "camera_effect": "dolly_zoom"
+    },
+    {
+      "text": "Unexpectedly, states like Montana are seeing significant high-tech industry growth, with Governor Gianforte recognizing its contribution to job creation and economic diversification.",
+      "image_prompt": "A sleek, modern tech office interior integrated into a scenic natural landscape (mountains visible outside a large window), reflecting a glowing screen with code. Cyberpunk neon.",
+      "text_overlay": "TECH GOES RURAL",
+      "camera_effect": "pan_slowly"
+    },
+    {
+      "text": "Investor interest in AI-driven sectors is surging, with focus shifting towards sustainable innovation and decentralized tech hubs, marking a new era of economic opportunity.",
+      "image_prompt": "A diverse group of business people, eyes glowing with data reflections through smart glasses, intensely focused on a holographic stock market interface showing green upward trends. Cinematic lighting.",
+      "text_overlay": "NEW OPPORTUNITIES",
+      "camera_effect": "static"
+    },
+    {
+      "text": "This data signals a fundamental shift in economic opportunity across various sectors.",
+      "image_prompt": "A panoramic, abstract view of interconnected global cities represented by glowing data nodes, illustrating a vast, complex network of economic activity. Cyberpunk aesthetic.",
+      "text_overlay": "SHIFT HAPPENING",
+      "camera_effect": "smooth_crane_shot_upwards"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
