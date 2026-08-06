@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "DON'T BUY YET!",
+    "narration": "Stop right now! Before you buy that new smartwatch, there's a critical secret you need to know!",
+    "image_description": "A person's intense, focused eye reflected in a smartwatch screen displaying a critical 'WARNING' message with digital glitch effects. Cyberpunk neon lighting, dramatic side lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "SMARTWATCH SHOCKER",
+    "image_description": "A hyper-realistic 3D render of a sleek, futuristic smartwatch, glowing with internal circuitry, centered on a dark, reflective surface with dramatic backlighting. 8k resolution, cyberpunk aesthetic.",
+    "reasoning": "The bold text 'SMARTWATCH SHOCKER' combined with a mysterious, advanced smartwatch image creates immediate curiosity about an unexpected revelation, driving clicks."
+  },
+  "title": "Smartwatch Warning: See These BEFORE You Buy!",
+  "segments": [
+    {
+      "text": "Many await the Galaxy Watch 9, but ignoring other innovations means missing out on crucial features. Informed choices matter significantly now.",
+      "image_prompt": "A person with an expression of deep thought, looking at multiple holographic smartwatch interfaces floating in front of them, cybernetic eyes reflecting data. Cinematic lighting.",
+      "camera_effect": "zoom_in",
+      "text_overlay": "SMARTWATCH CHOICE"
+    },
+    {
+      "text": "Beyond one brand, explore diverse ecosystems offering unique app integrations and seamless connectivity for daily activities. Don't limit your experience.",
+      "image_prompt": "Multiple smartwatches, each displaying distinct operating system UIs, interconnected by glowing data streams and ethereal light trails on a dark background. Hyper-realistic.",
+      "camera_effect": "pan_left",
+      "text_overlay": "ECOSYSTEM POWER"
+    },
+    {
+      "text": "Some alternatives boast multi-day battery life, precise fitness metrics, or specialized tracking. These significantly enhance specific user experiences everyday.",
+      "image_prompt": "An extreme close-up of a smartwatch screen displaying intricate, glowing fitness metrics (heart rate, GPS map, calorie burn) with dramatic side lighting. 3D render.",
+      "camera_effect": "static",
+      "text_overlay": "HIDDEN FEATURES"
+    },
+    {
+      "text": "Competitive pricing and unique design aesthetics define other strong contenders. They cater to specific styles and budgets, broadening market accessibility greatly.",
+      "image_prompt": "Two distinctly styled smartwatches - one with a luxurious, metallic finish and another rugged, armored design - both levitating and emitting soft glows against a dark, futuristic backdrop. 8k resolution.",
+      "camera_effect": "tilt_up",
+      "text_overlay": "VALUE MATTERS"
+    },
+    {
+      "text": "These smartwatches redefine convenience, from contactless payments to personalized health insights. They integrate deeply, improving daily routines effectively.",
+      "image_prompt": "A hand wearing a smartwatch, seamlessly completing a contactless payment at a sleek, glowing terminal, with flowing holographic data streams confirming the transaction. Cinematic lighting.",
+      "camera_effect": "zoom_out",
+      "text_overlay": "DAILY IMPACT"
+    },
+    {
+      "text": "Data suggests considering your daily usage and desired integrations is paramount. Over 60% of users benefit from niche smartwatch features.",
+      "image_prompt": "A stylized infographic on a holographic display, showing various smartwatch usage scenarios and user benefit percentages, with a determined cybernetic eye in the foreground observing. Cyberpunk neon lighting.",
+      "camera_effect": "pan_right",
+      "text_overlay": "USAGE DATA"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
