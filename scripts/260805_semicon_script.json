@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI STOCK SHOCK",
+    "narration": "WARNING: NVIDIA's earnings just redefined the entire AI chip market, and your portfolio needs to react now!",
+    "image_description": "A determined investor's cybernetic eyes reflecting real-time stock charts, digital corruption effects around the edges, dramatic side lighting in a server room, conveying urgency and data overload.",
+    "mood_color": "neon_green"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "NVIDIA DOMINATES AI",
+    "image_description": "Hyper-realistic 3D render of a glowing NVIDIA H100 GPU chip at the center, surrounded by intricate holographic data streams in a dark, cyberpunk server rack environment, dramatic backlighting, 8k resolution.",
+    "reasoning": "This thumbnail prioritizes a high-tech object (NVIDIA GPU) over a human, clearly signals the core topic (AI dominance), and uses a hyper-realistic, dramatic style to attract clicks from investors and tech enthusiasts."
+  },
+  "title": "NVIDIA's AI Dominance: Q2 Earnings & HBM Future",
+  "segments": [
+    {
+      "text": "NVIDIA reported a blockbuster Q2, exceeding revenue forecasts by 10% to $16.2 billion. This AI GPU demand drove an unprecedented 80% year-over-year surge.",
+      "image_prompt": "Holographic projection of an upward-trending stock chart for NVIDIA, with data points glowing neon green against a dark, futuristic background.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "This surge solidifies NVIDIA's estimated 90% market share in crucial data center AI chips. High-performance GPU demand now directly dictates critical industry growth metrics.",
+      "image_prompt": "3D render of a high-performance NVIDIA GPU chip at the core, surrounded by glowing data lines connecting to towering server racks, illustrating vast market share.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "Critical HBM memory is paramount, demand straining advanced packaging capacity. High yield rates at TSMC and Samsung are now crucial for stable supply.",
+      "image_prompt": "Microscopic view of intricately stacked advanced HBM memory on a silicon wafer, with specific sections highlighting perfect yield areas in a glowing, technical light.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Major foundries like TSMC escalate CAPEX for 3nm and 2nm processes. ASML's advanced EUV tools are now essential to meet critical high-volume production targets.",
+      "image_prompt": "A sophisticated robotic arm precisely operating an ASML EUV lithography machine, focusing on a silicon wafer under dramatic, precise blue and white lighting.",
+      "camera_effect": "dolly_zoom"
+    },
+    {
+      "text": "NVIDIA's valuation reflects intense future AI demand, with analysts projecting sustained growth through 2025. This sets new industry benchmarks.",
+      "image_prompt": "Digital display of a future-projected market valuation graph for AI semiconductors, showing strong upward trajectory, with a serious analyst's glowing iris reflected on the screen.",
+      "camera_effect": "tilt_up"
+    },
+    {
+      "text": "This valuation shift impacts future CAPEX decisions and next-gen HBM wafer production.",
+      "image_prompt": "Close-up of a complex HBM wafer design, with critical pathways and interconnection points illuminated, reflecting strategic CAPEX decisions on a blueprint-style interface.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
