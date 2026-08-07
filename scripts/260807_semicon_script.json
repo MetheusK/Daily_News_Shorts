@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "CHIP WARS AHEAD",
+    "narration": "WARNING: Geopolitical tensions are red-lining chip prices, threatening your tech investments!",
+    "image_description": "A serious-faced semiconductor analyst with cybernetic eyes reflecting red warning data streams and digital glitch effects, dramatic cinematic lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI CHIP WAR?",
+    "image_description": "A hyper-realistic 3D render of a glowing silicon wafer with circuit patterns resembling a geopolitical map, dramatic red and blue backlighting, 8k resolution, centered.",
+    "reasoning": "Combines the 'AI' boom with 'War' (geopolitical tension) in a question format, creating immediate curiosity and urgency for investors and engineers, promoting high CTR."
+  },
+  "title": "Semiconductor Market Alert: AI Boom & Geopolitical Risk",
+  "segments": [
+    {
+      "text": "Recent reports highlight escalating geopolitical impacts on semiconductor valuation, driving compute inflation. Monopolization risks are increasing, affecting global supply chain stability and CAPEX planning.",
+      "image_prompt": "A detailed 3D rendering of a global supply chain network overlaid with financial charts, red warning lights flashing on specific nodes, dramatic cyberpunk lighting.",
+      "text_overlay": "CHIP INFLATION"
+    },
+    {
+      "text": "The AI boom has propelled South Korea and Taiwan to unprecedented export levels, surpassing Japan for the first time. This surge is fueled by high-demand HBM and GPU shipments.",
+      "image_prompt": "Holographic display showing export data comparison between South Korea, Taiwan, and Japan, with AI-driven GPU silhouettes in the background, glowing blue neon.",
+      "text_overlay": "AI EXPORT SHIFT"
+    },
+    {
+      "text": "Their dominance stems from advanced foundry capabilities and leading-edge HBM packaging yields, crucial for next-gen AI. This critical infrastructure directly impacts global GPU supply.",
+      "image_prompt": "Close-up of a high-tech wafer being processed by robotic arms, reflecting data-rich patterns, an intense focus on precision, cinematic lighting.",
+      "text_overlay": "FOUNDRY LEADERSHIP"
+    },
+    {
+      "text": "Companies like Marvell Technology (MRVL) are positioned to benefit from this robust AI infrastructure buildout. Their valuation reflects strong demand for custom silicon and networking solutions.",
+      "image_prompt": "Digital stock ticker displaying MRVL with an upward trend, superimposed over server racks processing data, glowing neon blue lines, hyper-realistic rendering.",
+      "text_overlay": "MRVL ANALYSIS"
+    },
+    {
+      "text": "Investors must scrutinize CAPEX strategies and manufacturing yield advancements from key players. Market share shifts indicate significant long-term competitive advantages in specialized wafer production.",
+      "image_prompt": "An investor (intense focus, cybernetic eyes reflecting financial data) analyzing holographic projections of semiconductor market shares, dramatic side lighting.",
+      "text_overlay": "INVESTOR ALERT"
+    },
+    {
+      "text": "However, geopolitical tensions and CAPEX projections indicate ongoing volatility for wafer fabrication costs.",
+      "image_prompt": "An intricate circuit board design with digital glitches and red warning lights, symbolizing complex interdependencies and risks, 8k resolution.",
+      "text_overlay": "COST VOLATILITY"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
