@@ -1,41 +1,46 @@
 {
   "hook_plan": {
-    "overlay_text": "AI IS HERE!",
-    "narration": "Warning! The AI revolution is accelerating faster than you think, completely reshaping our digital world overnight!",
-    "image_description": "Extreme close-up of a glowing cybernetic eye reflecting complex AI data patterns, surrounded by glitch effects and subtle red warning lights. Dramatic side lighting, intense focus.",
+    "overlay_text": "AI IS HERE",
+    "narration": "Warning! The AI revolution isn't just coming, it's already here, fundamentally reshaping industries you rely on every single day!",
+    "image_description": "Extreme close-up of a cybernetic eye reflecting rapidly changing data streams, intense focused expression, dramatic red and blue cyberpunk lighting, subtle digital corruption effects at the edges. No panic, just digital intensity.",
     "mood_color": "red"
   },
   "thumbnail_plan": {
-    "thumbnail_text": "AI REVOLUTION NOW",
-    "image_description": "A hyper-realistic 8k render of a central, intricately designed, glowing AI chip radiating neon blue light. Surrounding it are abstract holographic data streams and a subtle server rack in the background, dramatic backlighting, cyberpunk style.",
-    "reasoning": "Prioritizes a visually striking AI core chip over a human, symbolizing the technological heart of the news. High contrast and 'REVOLUTION NOW' convey urgency and significance, encouraging clicks."
+    "thumbnail_text": "AI BOOM NOW",
+    "image_description": "A hyper-realistic, glowing AI processor chip at the center of a sleek, futuristic server rack, emanating bright blue light. 3D render, 8k resolution, cyberpunk aesthetic, with dramatic backlighting.",
+    "reasoning": "This thumbnail uses a powerful, central object (AI chip) and a high-contrast, cyberpunk style to immediately convey a high-tech, urgent message about AI, without relying on human expressions, driving clicks."
   },
-  "title": "AI Boom: Reshaping Tech & Your Daily Life",
+  "title": "AI's Hidden Takeover: What You NEED To Know",
   "segments": [
     {
-      "text": "The global AI market value surged past $165 billion in 2023. Experts now project explosive growth, reaching $1.8 trillion by 2030, fueling unprecedented tech shifts.",
-      "image_prompt": "Animated data visualization of a rising curve, showing market cap. Futuristic city skyline in background, subtle 'cyberpunk neon' lighting.",
-      "camera_effect": "dolly zoom"
+      "text": "The AI sector is surging, with top companies now using advanced algorithms for unprecedented growth. Analysts project significant market capitalization shifts, impacting global industries rapidly.",
+      "image_prompt": "A holographic 3D bar chart showing steep upward growth, overlaid on a futuristic cityscape, with clear, glowing data points and network lines. Cinematic lighting, 8k.",
+      "camera_effect": "Zoom out"
     },
     {
-      "text": "AI's impact on marketing technology is profound. New releases offer hyper-personalized user experiences, automating content creation and optimizing campaigns for massive engagement boosts.",
-      "image_prompt": "Holographic interface showing personalized ad content, user interaction data streams. A user's face in the background, showing 'wonder', illuminated by screen light.",
-      "camera_effect": "pan left"
+      "text": "Marvell Technology (MRVL) reports strong earnings, underscoring AI's critical infrastructure demand. Q3 revenue exceeded expectations, fueled by their advanced AI-specific data processing solutions.",
+      "image_prompt": "A stylized, glowing circuit board with a prominent 'MRVL' logo, intricate data pathways lighting up in neon colors, representing efficient processing. Dramatic side lighting, 8k.",
+      "camera_effect": "Dolly in"
     },
     {
-      "text": "Marvell Technology (MRVL) stands out, with strong earnings tied directly to AI infrastructure. Their specialized chips are critical, powering data centers and advanced computing worldwide.",
-      "image_prompt": "Close-up of a high-tech server rack, glowing blue LED lights on circuit boards. A single, prominent microchip at the center, hyper-realistic 8k.",
-      "camera_effect": "zoom in"
+      "text": "AI-powered MarTech innovations are personalizing consumer experiences at scale. New platforms deliver hyper-targeted content and smarter product recommendations, enhancing daily digital interactions significantly.",
+      "image_prompt": "A screen displaying highly personalized content feeds (like social media or shopping), with abstract data streams connecting to a user's glowing silhouette. User wears smart glasses, expression of 'wonder'.",
+      "camera_effect": "Pan right"
     },
     {
-      "text": "This isn't just business; it directly impacts YOU. Smarter apps, predictive assistants, and hyper-efficient services are integrating seamlessly into daily routines, simplifying life.",
-      "image_prompt": "A person (face partially obscured by smart glasses) interacting with a holographic interface, showing a calendar, weather, and smart home controls. 'Intense focus'.",
-      "camera_effect": "static"
+      "text": "This pervasive integration signifies a foundational economic shift, not a temporary trend. Billions are currently invested in AI R&D, solidifying its long-term utility across every major industry.",
+      "image_prompt": "A digital landscape composed of interlocking gears and glowing data points, symbolizing industrial growth and complex connections. Subtle green glow indicates investment and innovation. 8k.",
+      "camera_effect": "Rotate"
     },
     {
-      "text": "Massive investments continue pouring into AI research and development. This sustained influx promises exponential advancements in automation, data processing, and generative AI capabilities, redefining industries.",
-      "image_prompt": "Abstract neural network graphic with interconnected nodes pulsating with light, representing complex data flow. Dark background, 'cinematic lighting'.",
-      "camera_effect": "slow zoom out"
+      "text": "From optimizing complex supply chains to powering smart home devices, AI silently enhances daily efficiency and convenience. Its pervasive presence simplifies intricate tasks, becoming indispensable for users.",
+      "image_prompt": "A person interacting with a smart home device (e.g., holographic assistant), data flowing seamlessly from the device to a large holographic display. Expression of 'intense focus', dramatic side lighting.",
+      "camera_effect": "Static"
+    },
+    {
+      "text": "These swift developments confirm AI is a present reality, not merely a future concept. Expect accelerated advancements and deeper integration across almost every facet of professional and personal life.",
+      "image_prompt": "A timeline stretching into the near future with rapidly glowing nodes representing rapid progress, digital streaks indicating speed. A cybernetic human hand reaching towards the future. 8k.",
+      "camera_effect": "Zoom in"
     },
     {
       "text": "If useful, please like and subscribe!",
