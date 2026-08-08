@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI'S SECRET WAR",
+    "narration": "Warning! A secret global war for data is erupting, and it will change the future of AI forever!",
+    "image_description": "A looming, futuristic city skyline at dusk, bathed in cyberpunk neon lights. A digital globe overlaid with data streams and binary code. A single cybernetic eye in the foreground reflects the data, glowing with intense determination. Red warning lights flash in the distance.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI DATA WAR",
+    "image_description": "A sleek, glowing server rack full of high-density data storage units, centrally composed. A holographic world map projects from it, highlighting regions with data streams. Dramatic blue and red cyberpunk backlighting. 8k resolution, hyper-realistic 3D render.",
+    "reasoning": "This thumbnail emphasizes a powerful object (server rack as data metaphor) with high contrast and immediate visual impact, hinting at global conflict without using human faces, for broad appeal and clickability."
+  },
+  "title": "The Secret AI Data Race You Need To Know",
+  "segments": [
+    {
+      "text": "The global AI competition has shifted. The new battleground is data, not just algorithms or processing power, defining future innovation.",
+      "text_overlay": "AI DATA RACE",
+      "image_prompt": "A vast, digital data network visually representing interconnected nodes and glowing pathways, flowing towards a central, abstract AI brain symbol, cinematic lighting.",
+      "camera_effect": "dynamic zoom"
+    },
+    {
+      "text": "China is aggressively pursuing massive data acquisition strategies. This aims to fuel its advanced AI models and secure a leading global position.",
+      "text_overlay": "CHINA'S DATA PUSH",
+      "image_prompt": "Stylized map of China glowing with data streams, abstract AI algorithms pulsating over it. Digital readouts and intense focus on data flow.",
+      "camera_effect": "fast pan"
+    },
+    {
+      "text": "High-quality, diverse data is crucial. It directly impacts AI model accuracy, performance, and the development of truly sophisticated applications.",
+      "text_overlay": "DATA IS FUEL",
+      "image_prompt": "Abstract visualization of data packets feeding into a complex neural network structure, showing growth and refinement with glowing connections, cyberpunk neon lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "This intensified data acquisition creates ethical and privacy concerns worldwide. Governments and corporations must navigate complex regulatory landscapes.",
+      "text_overlay": "ETHICS & PRIVACY",
+      "image_prompt": "A digital lock icon superimposed over blurred human faces, surrounded by glowing data points. Glitch effects and red warning lights convey concern, dramatic side lighting.",
+      "camera_effect": "slow zoom out"
+    },
+    {
+      "text": "Access to vast, unique datasets grants nations a significant competitive advantage. This shapes innovation across various sectors, from healthcare to defense.",
+      "text_overlay": "INNOVATION SHIFT",
+      "image_prompt": "Holographic projections of various industries (medical scans, smart city maps, robotic arms) emerging from a pool of shimmering data, reflected in smart glasses.",
+      "camera_effect": "rotating view"
+    },
+    {
+      "text": "The implications for global technology competition are profound, shaping future innovation and market dominance.",
+      "text_overlay": "FUTURE DOMINANCE",
+      "image_prompt": "A futuristic boardroom table with holographic projections displaying global market trends and AI statistics, reflecting in the determined eyes of a diverse group of tech leaders, cinematic lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
