@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI IS HERE",
+    "narration": "WARNING: AI isn't just coming, it's already running your entire shopping experience!",
+    "image_description": "Extreme close-up of a human eye, cybernetic in style, reflecting a fast-scrolling e-commerce website with AI algorithms visibly highlighted. Bathed in dramatic cyberpunk neon green lighting, with subtle digital glitch effects. Intense focus.",
+    "mood_color": "neon_green"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI TOOK OVER",
+    "image_description": "A hyper-realistic 3D render of a futuristic shopping cart, intricately designed with glowing AI circuit patterns embedded, sitting prominently in front of a vast, digitally rendered automated warehouse filled with robotic arms. Dramatic backlighting, 8k resolution, centered object.",
+    "reasoning": "The visually striking, futuristic object (shopping cart with AI circuits) combined with a bold, alarming claim ('AI TOOK OVER') creates immediate curiosity about how AI impacts a common daily activity, ensuring a high click-through rate."
+  },
+  "title": "AI Just Changed How You Shop!",
+  "segments": [
+    {
+      "text": "AI and same-day delivery are now the two major forces reshaping US e-commerce. From product recommendations to logistics, AI impacts everything.",
+      "text_overlay": "ECOMMERCE REVOLUTION",
+      "image_prompt": "A sleek, automated warehouse interior with robotic arms efficiently packaging items. Dynamic data streams flow visibly over machinery. Cinematic lighting.",
+      "camera_effect": "Zoom In"
+    },
+    {
+      "text": "Your personalized product feeds, dynamic pricing, and instant customer service bots are all powered by advanced AI algorithms working behind the scenes.",
+      "text_overlay": "SMARTER SHOPPING",
+      "image_prompt": "Close-up of a smartphone screen displaying highly personalized product recommendations. A person's eye, reflecting data, is visible in the screen's reflection. Intense focus expression.",
+      "camera_effect": "Static"
+    },
+    {
+      "text": "Combined with AI, same-day delivery fulfills instant gratification. It optimizes routes and manages inventory in real-time, drastically reducing wait times.",
+      "text_overlay": "INSTANT GRATIFICATION",
+      "image_prompt": "A futuristic delivery drone flying rapidly over a bustling city skyline at dusk, carrying a glowing package. A digital map overlay shows optimized delivery routes. Cyberpunk aesthetic.",
+      "camera_effect": "Pan Left"
+    },
+    {
+      "text": "This shift is creating new opportunities. AI consulting, specialized digital products, and services are leading startup trends expected for 2026.",
+      "text_overlay": "NEW AI ECONOMY",
+      "image_prompt": "A person with a serious thought expression looking intently at a holographic projection displaying market graphs and '2026 AI Trends' highlighted. Cyberpunk neon lighting frames the scene.",
+      "camera_effect": "Zoom Out"
+    },
+    {
+      "text": "From faster deliveries to highly relevant product suggestions, AI is streamlining your online purchases. It's enhancing convenience and efficiency daily.",
+      "text_overlay": "YOUR DAILY AI",
+      "image_prompt": "A person's hand, in dramatic side lighting, interacting with a holographic interface showing a seamless online checkout process. Data reflections are visible on the hand and interface.",
+      "camera_effect": "Static"
+    },
+    {
+      "text": "Major tech giants heavily invest in AI's growth, driving innovation beyond e-commerce. AI's influence will expand across all industries globally.",
+      "text_overlay": "AI'S GLOBAL REACH",
+      "image_prompt": "A stylized digital globe with glowing AI neural network connections spreading across continents, symbolizing global data flow and impact. Cyberpunk aesthetic with dramatic lighting.",
+      "camera_effect": "Zoom In"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
