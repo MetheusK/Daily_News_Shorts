@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "CHIP MARKET SHOCK",
+    "narration": "Critical alert! Unprecedented volatility is sweeping the semiconductor sector, putting billions in investments at immediate risk!",
+    "image_description": "Close-up of a human eye with a cybernetic overlay, reflecting a rapidly crashing stock market graph in neon red, dramatic side lighting, digital glitch effects around the iris.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "TSMC BETS BIG?",
+    "image_description": "A stylized 3D render of a highly detailed silicon wafer, glowing with internal circuitry, placed on a dark, reflective surface, dramatic blue and purple cyberpunk lighting, 8k resolution.",
+    "reasoning": "Highlights a key player (TSMC) and hints at significant investment, sparking curiosity among investors and industry insiders."
+  },
+  "title": "AI Chip Volatility: Investor Alert",
+  "segments": [
+    {
+      "text": "Global AI and semiconductor markets face unprecedented volatility. Investors navigating complex valuation models amidst rapid shifts.",
+      "image_prompt": "Abstract data streams swirling around a holographic globe, depicting market fluctuations, blue and gold cinematic lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Situational Awareness just poured $400 million into a chip startup, signaling targeted CAPEX despite broader market uncertainties.",
+      "image_prompt": "Stylized digital handshake between two robotic arms over a glowing blueprint of a chip design, reflecting large numerical values, green neon accents.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "Legendary investor Druckenmiller maintains TSMC holdings after Q2 beat, betting on sustained demand from Nvidia and AMD.",
+      "image_prompt": "A serious-looking investor with intense focus, cybernetic smart glasses reflecting TSMC stock tickers, observing a holographic screen with NVIDIA and AMD logos, dramatic side lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "This confidence stems from escalating HBM and GPU demand driving TSMC's advanced wafer production and manufacturing yields.",
+      "image_prompt": "Macro close-up of a high-bandwidth memory (HBM) stack on a printed circuit board, subtle data streams flowing around it, hyper-realistic, 8k render.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "Robust CAPEX allocation targets next-gen HBM wafer production, crucial for maintaining high yields for AI accelerators.",
+      "image_prompt": "Automated robotic arm delicately placing a silicon wafer into a fabrication machine, surrounded by cleanroom environment, focused on precision, dramatic lighting.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "The strategic implications for Q3 CAPEX and subsequent wafer yield projections remain paramount for valuation.",
+      "image_prompt": "Close-up of a data dashboard displaying \"Q3 CAPEX\" and \"Wafer Yield\" metrics with green upward trends, seen through smart glasses on a focused engineer's eye, cyberpunk neon lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
