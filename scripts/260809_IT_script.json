@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI RISKS EXPLODE",
+    "narration": "Warning! AI isn't just changing the world, it's secretly creating massive new dangers for every business!",
+    "image_description": "A person's intense focus seen through smart glasses, digital warning signs flashing over a cityscape grid, data streams corrupting, cinematic lighting, neon red hues. Avoid extreme negative emotions.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI DANGER ZONE",
+    "image_description": "A hyper-realistic 3D render of a glowing, complex AI chip at the center, surrounded by abstract digital warning signs and fractured data streams. Dramatic backlighting, deep blues and reds, 8k resolution, cyberpunk style.",
+    "reasoning": "The urgent text combined with a visually striking, high-tech object immediately conveys danger and mystery, compelling clicks from a broad audience interested in AI's impact."
+  },
+  "title": "AI's Hidden Dangers: Are Businesses Ready?",
+  "segments": [
+    {
+      "text": "A critical study reveals 80% of global organizations are profoundly unprepared for new business risks emerging from rapid AI adoption, impacting operational integrity and data. This requires immediate action.",
+      "image_prompt": "A digital dashboard showing red alert icons across multiple financial graphs. Data streams reflecting in a cybernetic eye, intense focus. Cinematic lighting, neon blue.",
+      "text_overlay": "AI UNPREPARED",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "AI processes vast user data, significantly escalating privacy breach potential. Compliance frameworks like GDPR and CCPA face unprecedented, complex challenges, demanding robust new security protocols.",
+      "image_prompt": "Abstract representation of data flowing into a glowing central AI core, with some data packets turning red and pixelated. Digital corruption, dark background. Cyberpunk neon.",
+      "text_overlay": "DATA VULNERABLE",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "Sophisticated AI generates advanced phishing and malware, intensifying cyber-attack complexity. Current defenses struggle against these dynamically evolving, automated threats, creating new security vulnerabilities.",
+      "image_prompt": "A server rack with red warning lights flashing, overlaid with glitch effects and digital corruption. Focused hands typing on a keyboard, dramatic side lighting, determined expression.",
+      "text_overlay": "NEW CYBER THREATS",
+      "camera_effect": "static"
+    },
+    {
+      "text": "AI's inherent biases, often hidden, lead to unfair outcomes and severe reputational damage. Implementing strong ethical AI frameworks is crucial but frequently lags behind aggressive deployment schedules.",
+      "image_prompt": "A holographic projection displaying abstract concepts of justice and bias, reflected in a glowing iris, dramatic side lighting. Cyberpunk aesthetic, serious thought.",
+      "text_overlay": "AI ETHICS GAP",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "The absence of clear AI governance policies leaves businesses vulnerable to hefty regulatory penalties. Over 65% of companies report inadequate internal oversight for their rapidly expanding AI deployments.",
+      "image_prompt": "Digital gears turning, some fractured, with glowing red lines indicating failure points. A determined expression, seen through smart glasses, analyzing data. Cinematic lighting.",
+      "text_overlay": "GOVERNANCE FAILURE",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
