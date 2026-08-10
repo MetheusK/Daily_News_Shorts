@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "SEMI SHIFT WARNING",
+    "narration": "Urgent alert! A seismic shift is hitting the AI semiconductor market, impacting valuations NOW!",
+    "image_description": "A close-up of a human eye, cybernetic and reflecting glowing lines of data, with digital glitch effects around it, and subtle red warning lights in the background. Cinematic lighting, intense focus.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI CHIP DOMAIN",
+    "image_description": "A hyper-realistic 3D render of a futuristic, glowing silicon wafer being held by a robot arm, reflecting holographic data streams. Dark, dramatic cyberpunk background with subtle neon blue and purple lights. Centered object, 8k resolution.",
+    "reasoning": "The 'AI Chip Domain' phrase combined with a powerful, visually striking chip render directly appeals to investors and engineers, hinting at market control and advanced technology without human drama, ensuring high CTR."
+  },
+  "title": "AI Chip Market Redefined: TSMC, Sony & ASML's New Reality",
+  "segments": [
+    {
+      "text_overlay": "ASML'S NEW THREAT",
+      "narration": "ASML faces new Chinese competition, challenging its lithography dominance. This impacts market share, requiring investor attention to future CAPEX allocation and stock valuation.",
+      "image_prompt": "A highly detailed, futuristic ASML lithography machine, with parts of it showing digital corruption and red warning overlay effects. Intense focus on the technology.",
+      "camera_effect": "zoom_in_slow"
+    },
+    {
+      "text_overlay": "TSMC SONY $6.3B",
+      "narration": "TSMC and Sony's $6.3B joint venture targets AI's vision systems, building advanced CMOS image sensors. This diversifies beyond core GPU processing.",
+      "image_prompt": "Two interlocking holographic corporate logos (stylized 'TSMC' and 'SONY') projected over a blueprint of a sophisticated image sensor. Cyberpunk neon lighting, serious analytical mood.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text_overlay": "AI EYES DOMINATE",
+      "narration": "The venture aims to dominate crucial AI 'eyes' component. This provides essential sensor tech, challenging existing supply chains and shifting market focus dynamics.",
+      "image_prompt": "A glowing, complex cybernetic eye with a data stream reflecting in its iris, surrounded by interconnected holographic nodes representing a supply chain. Cinematic lighting, intense focus.",
+      "camera_effect": "static"
+    },
+    {
+      "text_overlay": "20-YEAR HOLD?",
+      "narration": "ETF pioneer Bae Jae-gyu advises holding AI semiconductor ecosystem for 20 years, forecasting exponential returns. This impacts long-term investor valuation strategies.",
+      "image_prompt": "A data analyst, viewed through smart glasses showing stock charts, with an expression of intense focus and determination. Dramatic side lighting, reflecting future projections.",
+      "camera_effect": "zoom_out_slow"
+    },
+    {
+      "text_overlay": "YIELD & VALUATION",
+      "narration": "These strategic industry moves underscore the pivot to specialized AI components. Manufacturing yields and CAPEX efficiency will dictate ultimate profitability and market valuation.",
+      "image_prompt": "A perfectly fabricated silicon wafer with sections highlighted by glowing green data overlays indicating high yield. Background shows complex manufacturing machinery. Hyper-realistic, 8k.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text_overlay": "TSMC'S AI FUTURE",
+      "narration": "TSMC and Sony's $6.3B joint venture positions them to dominate AI's 'eyes' beyond Nvidia, impacting future valuation metrics.",
+      "image_prompt": "A sophisticated AI-powered camera lens, highly detailed, with data streams reflecting in its cybernetic lens. Cyberpunk aesthetic, glowing elements, suggesting advanced vision.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
