@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "STOCK ALERT",
+    "narration": "Investor warning! The AI chip rally is masking a crucial semiconductor valuation trap!",
+    "image_description": "A trader with cybernetic eyes reflecting live stock market data, intense focus, digital glitch effects, red warning lights flickering, dramatic side lighting, 8k resolution.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI STOCK TRAP?",
+    "image_description": "A hyper-realistic 3D render of a gleaming silicon wafer with a binary code overlay, split diagonally, one side glowing green representing TSMC, the other side glowing blue representing ASML, dark, futuristic background, dramatic backlighting, 8k resolution.",
+    "reasoning": "Poses a direct question about major AI players, using strong visuals of core semiconductor components to attract investors and engineers looking for market insights."
+  },
+  "title": "Semiconductor Showdown: AI Reshapes Valuation",
+  "segments": [
+    {
+      "text_overlay": "TSMC SURGE",
+      "narration": "TSMC announced a 45% July sales surge, reaching $6.3 billion, driven by robust AI GPU demand. This outperforms expectations, signaling strong sector recovery in advanced nodes.",
+      "image_prompt": "Holographic projection of rising bar graphs with '45%' clearly displayed, overlaid on a blueprint of a modern fab facility, data streaming, viewed through smart glasses with reflecting data.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text_overlay": "AI DRIVES CAPEX",
+      "narration": "This demand, largely for high-performance GPU and HBM integration, directly impacts future CAPEX. The AI sector’s insatiable hunger drives significant foundry capacity investment.",
+      "image_prompt": "Close-up of a complex GPU die with miniature HBM stacks, intricate circuit patterns glowing with energy, a subtle 'AI' watermark, intensely focused cybernetic eye in reflection.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text_overlay": "FOUNDRY VS EUV",
+      "narration": "TSMC, the leading pure-play foundry, fabricates 90% of advanced wafers. ASML, the EUV lithography monopoly, enables these processes, benefiting from TSMC’s expansion.",
+      "image_prompt": "Split screen: left shows automated robot arm handling a silicon wafer in a cleanroom, right shows a futuristic ASML EUV machine emitting blue light, reflecting in a data screen, dramatic side lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text_overlay": "VALUATION SPLIT",
+      "narration": "Investors weigh TSMC's direct AI revenue exposure against ASML's indispensable equipment supply chain position. Their market valuations reflect distinct long-term growth vectors.",
+      "image_prompt": "Two distinct digital stock charts, one steeply rising (TSMC), one steadily ascending (ASML), holographic overlay showing financial data, viewed through smart glasses with reflecting data, intense focus.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text_overlay": "YIELD CRITICAL",
+      "narration": "ASML's technology is critical for advanced node wafer yield improvements. TSMC’s operational excellence in maximizing yield remains a core competitive advantage for customers.",
+      "image_prompt": "Macro shot of a perfect silicon wafer reflecting light with a subtle '100%' digital overlay, next to a schematic diagram of an EUV light path, intensely focused cybernetic eyes inspecting.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text_overlay": "VALUATION SHIFT",
+      "narration": "This valuation divergence demands investor re-evaluation for long-term portfolio strategy.",
+      "image_prompt": "A holographic projection of two intersecting stock graphs with complex algorithmic lines, illustrating a strategic crossroads, viewed through smart glasses with data reflections, cyberpunk neon lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
