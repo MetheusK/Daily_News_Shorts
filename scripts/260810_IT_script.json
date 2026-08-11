@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "FUTURE IS NOW",
+    "narration": "Warning! The future of tech for 2026 isn't coming, it's already here, transforming your world!",
+    "image_description": "Close-up of a human eye with a glowing, cybernetic iris reflecting streams of abstract data and code, surrounded by fast-moving, urgent neon blue and purple light. Intense focus expression. Cinematic lighting.",
+    "mood_color": "neon_purple"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI 2026 SHOCK",
+    "image_description": "A sleek, futuristic holographic projector emitting a 3D render of a glowing, complex neural network or brain. Dark, high-contrast background with dramatic side lighting. Cyberpunk style, 8k resolution.",
+    "reasoning": "The bold, short text combined with the futuristic object (neural network) instantly communicates 'AI future' and 'impact', driving curiosity and clicks more effectively than a human face."
+  },
+  "title": "2026 Tech Trends: AI & Education Revolution",
+  "segments": [
+    {
+      "text_overlay": "AI DOMINANCE",
+      "narration": "AI development is accelerating, influencing markets profoundly. Top AI stocks are emerging as key indicators, reflecting massive investment shifts and rapid innovation.",
+      "image_prompt": "Dynamic digital interface displaying glowing stock market graphs trending upwards, with a neural network overlay. Cinematic lighting.",
+      "camera_effect": "zoom_in_slow"
+    },
+    {
+      "text_overlay": "SMART LEARNING",
+      "narration": "By 2026, higher education will embrace tech for flexibility. Virtual learning and AI-driven personalized experiences will redefine student engagement and access globally.",
+      "image_prompt": "Student wearing sleek, futuristic smart glasses in a modern, minimalist classroom, interacting with holographic projections. Intense focus. Cyberpunk neon lighting.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text_overlay": "INDUSTRY 4.0",
+      "narration": "Interpack 2026 showcases machinery and materials innovations. Virtual tours are already previewing advanced manufacturing, supply chain optimization, and sustainable production processes.",
+      "image_prompt": "Automated robotic arm precisely manipulating glowing, transparent materials on a high-tech assembly line. Dramatic side lighting, concrete and clear visuals.",
+      "camera_effect": "static"
+    },
+    {
+      "text_overlay": "DATA DECISIONS",
+      "narration": "These trends highlight a shift towards data-centric operations. AI analyzes vast datasets, predicting market movements and optimizing resource allocation across all sectors by 2026.",
+      "image_prompt": "Person in a data center, surrounded by glowing server racks, touching a holographic display showing complex algorithms and flowing data streams. Serious thought. Cinematic lighting.",
+      "camera_effect": "zoom_out_slow"
+    },
+    {
+      "text_overlay": "FUTURE ACCESS",
+      "narration": "The convergence means unprecedented accessibility. From smart classrooms to automated factories, technology democratizes opportunities, driving economic growth and new skill demands.",
+      "image_prompt": "Diverse group of individuals (students, workers) in a modern, open space, interacting seamlessly with various holographic interfaces and smart devices. Wonder and determination visible on faces. Cyberpunk lighting.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text_overlay": "INVEST NOW",
+      "narration": "Investors are already tracking these shifts, with AI market cap projections soaring. Early adopters gain significant advantage, shaping tomorrow's tech landscape today.",
+      "image_prompt": "Close-up of a cybernetic hand pointing at a holographic financial dashboard displaying exponential growth charts. Data reflecting in the glowing iris of an adjacent eye. Dramatic lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
