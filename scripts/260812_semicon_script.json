@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "VALUATION SHOCK!",
+    "narration": "Stop your scroll! The AI chip boom masks a critical truth: your semiconductor investments face unprecedented valuation risk!",
+    "image_description": "A close-up of a human eye with cybernetic enhancements, reflecting a flickering red stock market chart and digital corruption effects. Dramatic side lighting highlights intense focus.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "SEMI BUBBLE?",
+    "image_description": "A hyper-realistic 3D render of a glowing, advanced GPU chip (like an Nvidia H100 or AMD MI300), centered and partially obscured by a red, transparent overlay of a downward trending valuation chart. Set in a dark, high-tech server room with dramatic blue and red backlighting, 8k resolution.",
+    "reasoning": "The 'SEMI BUBBLE?' text combined with a visually striking, high-tech GPU and a contrasting red valuation chart creates immediate intrigue and signals potential market instability for investors, driving clicks."
+  },
+  "title": "Semiconductor Valuation Alert: AI Boom vs. Market Reality",
+  "segments": [
+    {
+      "text": "TSMC's Q1 revenue surged 45%, driven by robust AI chip demand. Nvidia, AMD, and Apple are key drivers, increasing HBM and GPU orders significantly.",
+      "image_prompt": "A futuristic factory floor with robotic arms precisely handling glowing silicon wafers, reflections of digital growth charts on the metallic surfaces, cinematic lighting.",
+      "camera_effect": "zoom_in",
+      "text_overlay": "TSMC 45% UP"
+    },
+    {
+      "text": "This surge reflects aggressive CAPEX cycles in advanced nodes, pushing 3nm wafer production. Yield rates remain critical for profitability amid escalating demand.",
+      "image_prompt": "Extreme close-up of a perfectly patterned 3nm silicon wafer with glowing circuits, viewed through a microscope lens, conveying intense focus and precision.",
+      "camera_effect": "pan_left",
+      "text_overlay": "CAPEX PUSH"
+    },
+    {
+      "text": "Despite strong tailwinds, the semiconductor ETF market faces a significant valuation debate. Analysts question current P/E multiples against long-term growth projections.",
+      "image_prompt": "A holographic stock chart projecting from a sleek, transparent tablet, held by a hand with subtle cybernetic details. The chart shows both upward trends and warning signs, serious thought expression.",
+      "camera_effect": "static",
+      "text_overlay": "VALUATION DEBATE"
+    },
+    {
+      "text": "Intel's investment viability is under scrutiny, contrasting its Foundry CAPEX with market concerns over trailing-edge nodes and competitive pressures in GPU markets.",
+      "image_prompt": "A complex, glowing blueprint of a chip architecture overlayed with financial data, reflecting in smart glasses worn by an engineer, displaying intense focus and determination.",
+      "camera_effect": "zoom_out",
+      "text_overlay": "INTEL SCRUTINY"
+    },
+    {
+      "text": "High-bandwidth memory (HBM) supply chains are tightening, directly impacting GPU availability. This can influence overall AI infrastructure build-out and component costs.",
+      "image_prompt": "A server rack with glowing HBM modules, intricate digital wires connecting them, reflecting data on the rack's surface under cyberpunk neon lighting.",
+      "camera_effect": "dolly_zoom",
+      "text_overlay": "HBM CRUNCH"
+    },
+    {
+      "text": "Investors must analyze these factors, balancing unprecedented AI growth with increasing market valuation volatility for sustained portfolio performance.",
+      "image_prompt": "A gloved hand (technical, not human-specific) reaching towards a complex, glowing holographic projection of a semiconductor chip and intertwining stock charts, reflecting data.",
+      "camera_effect": "pan_right",
+      "text_overlay": "MARKET VOLATILITY"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
