@@ -1,0 +1,45 @@
+{
+  "hook_plan": {
+    "overlay_text": "OCEAN CRISIS NOW",
+    "narration": "Warning! Our oceans face a silent catastrophe, but emerging tech is revealing shocking solutions right now.",
+    "image_description": "Extreme close-up on a cybernetic eye reflecting a vast, digitally corrupted ocean filled with plastic debris. Glitch effects distort the image, and red warning lights flash around the iris, showing intense focus.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "OCEAN TECH RESCUE",
+    "image_description": "3D render of a sleek, futuristic autonomous cleaning vessel, like a robotic submarine, in clear blue ocean water, deploying a glowing, retractable net to collect microplastics. Hyper-realistic, 8k resolution, dramatic underwater lighting.",
+    "reasoning": "The image clearly shows advanced technology actively solving the ocean plastic problem, creating immediate visual interest and curiosity about the specific tech without relying on human expressions. The 'OCEAN TECH RESCUE' text is punchy and highlights a positive solution."
+  },
+  "title": "Future Tech: Saving Our Oceans From Trash!",
+  "segments": [
+    {
+      "text": "Over 8 million tons of plastic pollute our oceans annually, gravely harming marine life and global ecosystems. This crisis demands immediate, innovative intervention.",
+      "image_prompt": "Animated infographic showing 8 million tons of plastic waste flowing into a stylized ocean, with data visualizations highlighting ecological damage, clean blue and white aesthetic."
+    },
+    {
+      "text": "AI-powered robots and autonomous vessels are now on the front lines. The Ocean Cleanup’s 'Interceptor' systems actively remove plastic from major rivers before it reaches the sea.",
+      "image_prompt": "Sleek, futuristic autonomous vessel (like an 'Interceptor') with visible robotic arms efficiently collecting plastic from a calm, riverine environment, showcasing advanced sensors."
+    },
+    {
+      "text": "High-tech drones with sophisticated sensors accurately map plastic accumulation zones. This crucial data guides targeted cleanup operations, maximizing resource efficiency and impact.",
+      "image_prompt": "Drone's-eye view of a coastline, with a holographic map overlay highlighting plastic hot spots, seen through smart glasses, providing a cybernetic, analytical perspective."
+    },
+    {
+      "text": "Collected marine plastic is being transformed into valuable resources. Innovators are creating new products, from construction materials to fashion, driving a vital circular economy.",
+      "image_prompt": "Render of a modern factory floor where robotic arms precisely sort various types of ocean plastic, leading to new, stylish items made from recycled materials on display."
+    },
+    {
+      "text": "Events like South Summit 2026 emphasize increasing European tech investment in sustainable solutions, fostering innovative startups dedicated to advancing marine cleanup technologies.",
+      "image_prompt": "Holographic projection of the European continent, displaying glowing tech hubs interconnected by lines leading to ocean cleanup project icons, illustrating investment and collaboration."
+    },
+    {
+      "text": "These technological advancements promise profound environmental restoration, safeguarding aquatic biodiversity, ensuring global food security, and revitalizing vulnerable coastal communities.",
+      "image_prompt": "Underwater view of a vibrant, healthy coral reef teeming with diverse marine life, enhanced with subtle digital overlays indicating clean water metrics and thriving ecosystem health."
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
