@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI TAKES CONTROL!",
+    "narration": "STOP! Your daily commute is about to be completely reinvented by AI, connected directly to space!",
+    "image_description": "A futuristic Tesla Cybercab driving through a neon-lit cityscape, digital data streams flowing around it. A cybernetic human eye, reflecting the vehicle's dashboard, shows intense focus. Use dramatic cyberpunk lighting and a sense of urgent motion.",
+    "mood_color": "neon_green"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "SKY TAXI?",
+    "image_description": "A hyper-realistic 3D render of a sleek, futuristic Tesla Cybercab with a visible, glowing Starlink dish integrated on its roof. The car is centered, against a dark, cosmic background with subtle starlight. Use dramatic backlighting, 8k resolution.",
+    "reasoning": "This thumbnail prioritizes the striking visual of the Cybercab and the Starlink integration, an object-focused approach. The 'SKY TAXI?' text is intriguing and poses a question, encouraging clicks without being overly sensational, appealing to curiosity about the future of transport."
+  },
+  "title": "Tesla Cybercab & Google Pixel 26: AI's New Era!",
+  "segments": [
+    {
+      "text": "Tesla's new Cybercab features built-in Starlink connectivity. This ensures constant, high-speed data for autonomous operations, critical for real-time navigation and safety protocols.",
+      "image_prompt": "A futuristic Tesla Cybercab driving on a highway, with a holographic Starlink symbol hovering above it, connecting to a satellite network in the digital sky. Cinematic lighting.",
+      "camera_effect": "dynamic_pan"
+    },
+    {
+      "text": "Elon Musk stated Starlink connectivity is vital. It provides reliable internet beyond traditional cellular networks, preventing data blackouts in critical self-driving scenarios across 100+ countries.",
+      "image_prompt": "A digital map of Earth with glowing data lines converging on multiple moving vehicles. A satellite dish array on a rooftop, reflecting digital data, with intense focus. Use dramatic side lighting.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "Meanwhile, Made by Google '26 revealed Pixel 11, Watch 5, and the new Pixel Tag. Gemini AI integration across all devices promises a more intuitive user experience.",
+      "image_prompt": "Three holographic projections: a sleek Pixel 11 smartphone, a modern Pixel Watch 5, and a small, futuristic Pixel Tag, all emanating from a central glowing Gemini AI logo. Dark, techy background.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "The Pixel 11 and Watch 5 feature enhanced Gemini AI, offering predictive assistance and seamless cross-device functionality. Expect smarter health tracking and improved daily tasks.",
+      "image_prompt": "A close-up of a Pixel 11 screen displaying a holographic health dashboard, with a Pixel Watch 5 on a wrist next to it, showing synchronized data. Use bright, clean interface visuals.",
+      "camera_effect": "slow_zoom_out"
+    },
+    {
+      "text": "The Pixel Tag, powered by Gemini, offers advanced object tracking. New Gemini features analyze user habits, proactively streamlining workflows and information access across devices.",
+      "image_prompt": "A hand holding a Pixel Tag, pointing towards a lost item (e.g., keys) highlighted by a digital tracking overlay on a nearby screen. Gemini AI interface elements are visible. Glowing iris through smart glasses showing determination.",
+      "camera_effect": "tracking_shot"
+    },
+    {
+      "text": "These tech advancements redefine daily life. Autonomous transportation gains unprecedented reliability, while personal devices become powerfully intuitive, anticipating user needs more precisely.",
+      "image_prompt": "A seamless montage: a person stepping out of a Cybercab, then interacting effortlessly with a Pixel 11 and Watch 5, with subtle augmented reality overlays showing predictive actions. Cinematic lighting, conveying wonder and efficiency.",
+      "camera_effect": "cross_fade"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
