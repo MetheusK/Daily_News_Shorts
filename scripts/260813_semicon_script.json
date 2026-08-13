@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "VALUATION SHOCK",
+    "narration": "URGENT WARNING: Your AI chip valuations are about to be redefined! Prepare for a major market reset!",
+    "image_description": "Close-up of an investor's face, intense focus, cybernetic eyes reflecting red data streams, digital corruption effects, dramatic cyberpunk neon lighting, conveying urgency.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "HBM VALUATION?",
+    "image_description": "Hyper-realistic 8k render of a stack of HBM memory chips, glowing with blue and purple light, centered on a dark server rack background, dramatic backlighting, clean and sharp.",
+    "reasoning": "Highlights the critical technology (HBM) and creates immediate curiosity about its valuation among both engineers and investors, driving high click-through."
+  },
+  "title": "AI Chip Valuation: Temasek's Big Bet & The HBM Reset",
+  "segments": [
+    {
+      "text": "Temasek is reportedly planning direct investments into Samsung and SK Hynix. This strategic move signals a significant re-evaluation of Korean memory chip valuations.",
+      "image_prompt": "3D render of a digital investment fund chart displaying upward trends, overlaid with Samsung and SK Hynix logos, set in a futuristic server room, dramatic side lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "This action shifts typical cyclical valuation metrics, emphasizing long-term demand for high-bandwidth memory, particularly in the booming AI sector and GPU market.",
+      "image_prompt": "Holographic projection of a stock valuation graph showing a sharp upward shift labeled 'HBM AI Demand,' with a glowing HBM chip at the center, cyberpunk neon lighting.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "NVIDIA's reliance on SK Hynix for HBM and TSMC for advanced packaging is critical. These suppliers are now deemed 'unsung kings' of AI infrastructure.",
+      "image_prompt": "A cybernetically enhanced engineer, eyes reflecting data, observing a schematic of an NVIDIA GPU integrated with SK Hynix HBM stacks and TSMC's advanced packaging, cinematic lighting.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "Chip ETFs show contrasting views: robust earnings meet a billionaire's 'Enron' warning. This signals deep market debate over current semiconductor valuations.",
+      "image_prompt": "Complex data visualization showing diverging market indicators: one trend line rising sharply (earnings), another dipping (warning), superimposed on a digital globe, glitch effects.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "For investors, focus shifts to manufacturing yields and CAPEX discipline. Sustained HBM supply and advanced wafer production are paramount for growth.",
+      "image_prompt": "High-tech cleanroom facility with robotic arms precisely handling large silicon wafers. A digital overlay displays 'Yield Rate: 98%' in glowing green text, dramatic industrial lighting.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "Temasek’s commitment signals confidence in foundational memory, despite volatility. Strategic CAPEX is now crucial for future HBM and AI GPU scaling.",
+      "image_prompt": "Abstract visualization of data flowing between interconnected HBM chips and AI GPUs, forming a complex network, deep blue and purple neon glow, symbolizing future scaling and strategic investment.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
