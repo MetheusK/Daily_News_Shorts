@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI CHIP SHOCK",
+    "narration": "Stock Alert! A hidden truth just shattered the AI chip equipment market!",
+    "image_description": "A cybernetically enhanced human hand with glowing iris, intensely focused, pointing at a glitching digital stock chart with a prominent red downward arrow, dramatic side lighting, cyberpunk neon, reflecting data.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "CHIP MARKET CRACK?",
+    "image_description": "Hyper-realistic 8k render of a complex, glowing AI GPU chip (like an HBM module integrated into a GPU) centered on a dark server rack background, held by a sleek robotic arm with subtle digital corruption effects, dramatic backlighting.",
+    "reasoning": "This thumbnail prioritizes an iconic object (AI chip/GPU) over humans, uses high-quality rendering, and poses a direct, intriguing question to capture investor/engineer attention on the feed, separate from the video hook."
+  },
+  "title": "AI Chip Market: TSMC Soars, Applied Materials Tumbles. Why?",
+  "segments": [
+    {
+      "text": "TSMC surged on robust AI chip demand, particularly for advanced GPU and HBM technologies. Their valuation reflects this strong, high-growth segment.",
+      "image_prompt": "Animated 3D graph showing upward trend for TSMC stock, overlaid with stylized glowing GPU and HBM chips, data streams reflecting in a cybernetic eye, cinematic lighting.",
+      "text_overlay": "TSMC SOARS"
+    },
+    {
+      "text": "Conversely, Applied Materials stock fell nearly 6% post-market. This occurred *despite* reporting strong AI equipment orders.",
+      "image_prompt": "Digital stock ticker showing -5.8% for AMAT, with a serious, focused analyst wearing smart glasses reviewing data on a holographic display, dramatic side lighting.",
+      "text_overlay": "AMAT TUMBLE"
+    },
+    {
+      "text": "The market's 'high bar' suggests investor expectations for CAPEX and future margins remain exceptionally high, despite current demand.",
+      "image_prompt": "Schematic of a complex semiconductor factory, with 'CAPEX' and 'MARGINS' highlighted, digital warning lights, reflecting in a determined engineer's glowing iris, cyberpunk neon.",
+      "text_overlay": "HIGH BAR"
+    },
+    {
+      "text": "Counterpoint Research's July 2026 report indicates foundry capacity, especially for advanced nodes, faces intense pressure and utilization concerns.",
+      "image_prompt": "Holographic display showing a detailed foundry utilization chart (July 2026 data point prominent), with a focused engineer analyzing, digital data streams, cinematic lighting.",
+      "text_overlay": "FOUNDRY PRESSURE"
+    },
+    {
+      "text": "This dynamic implies a potential squeeze on manufacturing yields and supply chain resilience for critical AI components like GPUs.",
+      "image_prompt": "Visual representation of a silicon wafer with some sections highlighted in red (representing low yield), overlaid with a digital 'yield' percentage, through smart glasses reflecting data, dramatic lighting.",
+      "text_overlay": "YIELD SQUEEZE"
+    },
+    {
+      "text": "The valuation divergence highlights nuanced market signals: robust AI demand meets high investment hurdles and production complexities.",
+      "image_prompt": "Two distinct data graphs on a dark background: one rising (representing TSMC) and one falling (representing AMAT), connected by lines of data, cybernetic hands analyzing with intense focus, cyberpunk lighting.",
+      "text_overlay": "VALUATION GAP"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
