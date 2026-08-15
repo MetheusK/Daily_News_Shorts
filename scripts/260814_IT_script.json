@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI IS WATCHING",
+    "narration": "WARNING! AI is leaving the screen and entering YOUR physical world! Your security is about to change forever!",
+    "image_description": "A close-up of a digital surveillance camera lens reflecting a human eye with cybernetic glowing blue data lines, glitch effects, dramatic red warning lights. Intense focus, cinematic lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "PHYSICAL AI EXPLODES",
+    "image_description": "A highly detailed 3D render of a futuristic robot hand integrating a holographic lock symbol with glowing data streams, dark cyberpunk city background. Hyper-realistic, 8k resolution, dramatic backlighting.",
+    "reasoning": "This thumbnail immediately conveys the blend of AI, physical interaction, and security, using striking visuals (robot hand, hologram, data) to create curiosity and a high click-through rate."
+  },
+  "title": "Physical AI & Your World: The Ultimate Tech Shift",
+  "segments": [
+    {
+      "text": "Asia-Pacific's Physical AI market is set to exceed $100 billion by 2035. This 2025-2035 trend indicates massive, integrated technological transformation.",
+      "image_prompt": "A holographic globe centered on Asia-Pacific, with data points and glowing market trend lines extending into 3D space, reflecting on a glass table. Cinematic lighting.",
+      "camera_effect": "zoom_in",
+      "text_overlay": "APAC AI BOOM"
+    },
+    {
+      "text": "Physical AI encompasses intelligent robots, smart sensors, and automated systems. These technologies are fundamentally transforming manufacturing, logistics, and daily services.",
+      "image_prompt": "A sleek, minimalist robotic arm precisely assembling a complex component in a futuristic factory setting, surrounded by glowing data interfaces. Intense focus, dramatic side lighting.",
+      "camera_effect": "pan_right",
+      "text_overlay": "ROBOTS EVERYWHERE"
+    },
+    {
+      "text": "Concurrently, Mexico's tech transformation attracts substantial foreign investment. Nearshoring and digital infrastructure development are driving unprecedented economic growth now.",
+      "image_prompt": "A vibrant, modern cityscape of Mexico City at night, with digital lines of code connecting major buildings, representing economic growth and innovation. Cyberpunk neon lighting.",
+      "camera_effect": "tilt_up",
+      "text_overlay": "MEXICO'S TECH SURGE"
+    },
+    {
+      "text": "Global digitalization demands robust security. OSDP over IP is revolutionizing wireless access control for modern buildings, infrastructure, and secure facilities.",
+      "image_prompt": "A secure, futuristic smart lock with glowing blue security indicators, integrated into a sleek metallic door. Digital corruption effects on the edges of the frame to represent threats.",
+      "camera_effect": "static",
+      "text_overlay": "SMARTER SECURITY"
+    },
+    {
+      "text": "This protocol offers superior encryption, secure device management, and open interoperability, making smart locks significantly more reliable and flexible than older systems.",
+      "image_prompt": "A close-up of a smart badge being scanned by a sensor, with encrypted data streams visibly flowing. Glowing iris effect on the scanner, serious thought expression on the person in background (blurred). Cinematic lighting.",
+      "camera_effect": "zoom_in",
+      "text_overlay": "SECURE ACCESS NOW"
+    },
+    {
+      "text": "The future isn't just digital; it's a deeply integrated physical-digital world with unprecedented implications.",
+      "image_prompt": "A stylized representation of human hands (focused, determined expression visible through smart glasses) interacting with holographic data overlays that merge with physical objects like a desk, showcasing digital-physical integration. Cyberpunk lighting.",
+      "camera_effect": "pan_left",
+      "text_overlay": "PHYSICAL DIGITAL FUSION"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
