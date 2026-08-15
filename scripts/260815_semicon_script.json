@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI STOCK LIES",
+    "narration": "Stop focusing on the obvious! Investors are missing the real AI powerhouse. Your portfolio is exposed!",
+    "image_description": "A cybernetic eye with a glowing iris reflects blurred, frantic stock charts, then sharply focuses on a hidden, illuminated complex silicon wafer. Digital glitch effects, dramatic red warning lights, cyberpunk neon lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "ASML WINS AI",
+    "image_description": "Hyper-realistic 8k render of a silicon wafer, intricately patterned and glowing with internal blue light, centered on a dark, reflective surface. Dramatic backlighting, cinematic style, 3D render.",
+    "reasoning": "Highlights the specific, often overlooked company (ASML) that is a critical enabler of AI chips, using an iconic object (wafer) to attract investors and engineers looking for deeper insights beyond direct chipmakers."
+  },
+  "title": "AI's Hidden Power: ASML & GaN Impact",
+  "segments": [
+    {
+      "text": "GPU and HBM drive AI headlines, but real leverage is deeper. Firms enabling chip production, not just design, offer significant value.",
+      "image_prompt": "Close-up of an investor's eyes through smart glasses, reflecting blurred GPU and HBM chip diagrams, focused intently on a small, glowing schematic of a foundry. Intense focus, cinematic lighting.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "ASML, the lithography giant, is crucial. Every advanced AI wafer requires their cutting-edge EUV machines, commanding massive foundry CAPEX.",
+      "image_prompt": "A holographic display showing a detailed 3D model of an ASML EUV machine, with laser beams highlighting a silicon wafer. Industrial, high-tech factory floor in background, cinematic lighting.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "As AI chip complexity rises, ASML's technology is vital for yield and density. Their near-monopoly ensures consistent demand and revenue growth.",
+      "image_prompt": "Microscopic view of an advanced silicon wafer pattern, glowing with intricate details, overlaid with digital yield percentage indicators. A robotic arm gently placing it, reflecting focus and precision.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "Beyond lithography, Power GaN shifts to AI data centers and EVs. Its superior efficiency boosts performance, moving beyond traditional silicon.",
+      "image_prompt": "A stylized depiction of GaN (Gallium Nitride) crystal structures, glowing with energy, integrating into a complex circuit board designed for a data center rack. Cyberpunk neon lighting, dramatic side lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "GaN power solutions enable smaller, cooler, and more efficient AI server infrastructure. This directly enhances AI system performance and operational savings.",
+      "image_prompt": "An AI server rack emitting cool blue light, with holographic data streams showing energy efficiency metrics. Engineers with intense focus, reflected in their smart glasses, observing performance dashboards.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "ASML's unique position supplying all major fabs for advanced wafer processing ensures robust, long-term valuation, irrespective of direct chip sales.",
+      "image_prompt": "A high-fidelity 3D render of a futuristic ASML facility, with automated systems processing wafers under dramatic, deep blue cinematic lighting. A global supply chain map subtly in background, reflecting its widespread impact.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
