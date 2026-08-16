@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI POWER CRISIS",
+    "narration": "Warning! AI's relentless energy demands are threatening our power grids NOW!",
+    "image_description": "A close-up of a server rack's glowing status lights turning red, digital glitch effects spreading across a holographic power grid map, with a cybernetic hand reaching towards a 'critical' alert.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "TECH SHAKEUP",
+    "image_description": "A hyper-realistic 3D render of a powerful data center server, glowing with blue and orange energy lines, dramatically backlit against a dark, fragmented holographic world map. High contrast, 8k resolution.",
+    "reasoning": "This thumbnail uses a powerful object (server) and a global context (world map) to convey a large-scale, impactful tech story without relying on human expressions, driving curiosity about the 'tech shakeup'."
+  },
+  "title": "AI's $3B Bet & Microsoft's Retreat: Tech's New Reality",
+  "segments": [
+    {
+      "text": "Nvidia just committed $3 billion to power infrastructure. This confirms AI's immense energy demands are reshaping enterprise strategy for future tech deployment globally.",
+      "text_overlay": "NVIDIA INVESTS $3B",
+      "image_prompt": "3D render of a glowing Nvidia chip connected to massive, pulsing power cables within a futuristic data center, cinematic cyberpunk lighting.",
+      "camera_effect": "dynamic_zoom_in"
+    },
+    {
+      "text": "AI model training consumes huge electricity. Data centers face demand issues, making stable power critical. This directly impacts further AI expansion capacity.",
+      "text_overlay": "AI ENERGY CRUNCH",
+      "image_prompt": "Futuristic data center interior with visible heat shimmer and steam, glowing server racks indicating high energy consumption, with dramatic side lighting.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "This $3 billion investment tackles AI's energy crunch head-on. Reliable power is now a strategic differentiator for future large-scale AI innovation and deployments.",
+      "text_overlay": "POWER IS KEY",
+      "image_prompt": "A complex digital network map showing power flow lines converging on a central, glowing AI brain core, surrounded by reflective data panels, intense focus.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Simultaneously, Microsoft is quietly withdrawing its significant presence from China. This marks a major shift after decades of deep market engagement.",
+      "text_overlay": "MICROSOFT EXITS CHINA",
+      "image_prompt": "A digital map of China with a subtle, fading Microsoft logo, surrounded by abstract geometric patterns representing data and connectivity, dramatic lighting.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "Geopolitical tensions and data regulations drive this retreat. Companies reassess global risks, impacting future tech localization and critical market access strategies.",
+      "text_overlay": "GEOPOLITICAL SHIFT",
+      "image_prompt": "Interlocking digital gears and circuits representing regulations, with subtle red warning data streams flowing between them, a cybernetic hand makes a precise adjustment.",
+      "camera_effect": "dynamic_zoom_out"
+    },
+    {
+      "text": "These two events highlight rapid, profound shifts in global tech. From energy scarcity to geopolitical realignments, resilience is paramount for tech's future.",
+      "text_overlay": "NEW TECH REALITY",
+      "image_prompt": "A split screen within a high-tech control room: one side shows glowing AI servers, the other a digital world map with shifting geopolitical connections and data routes, reflecting a serious thought in a glowing iris.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
