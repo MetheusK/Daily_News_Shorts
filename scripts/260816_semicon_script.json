@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "HBM BOTTLENECK",
+    "narration": "Investor Alert! TSMC's HBM bottleneck is about to trigger a massive shift in the AI chip market!",
+    "image_description": "Close-up of a semiconductor engineer's face, partially obscured by holographic data streams, eyes reflecting a complex CoWoS wafer diagram with glitch effects and red warning lights. Cinematic lighting, intense focus.",
+    "mood_color": "neon_red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI CHIP CRISIS",
+    "image_description": "3D render of a stack of HBM memory chips integrated onto an interposer with exposed silicon dies, glowing with blue and red energy. Cyberpunk style, hyper-realistic, 8k resolution, dramatic backlighting on a dark, circuit board background.",
+    "reasoning": "The image of glowing HBM chips directly addresses the 'AI chip' and 'bottleneck' themes, making it highly relevant and visually striking. The 'CRISIS' text creates urgency without needing a human face, appealing to investor curiosity about market impacts."
+  },
+  "title": "TSMC's HBM Bottleneck: AI Chip Market Shift Ahead",
+  "segments": [
+    {
+      "text": "TSMC's CoWoS capacity for HBM integration is a critical bottleneck, severely limiting high-demand AI GPU supply. This impacts Nvidia.",
+      "image_prompt": "Close-up of a CoWoS package with HBM stacks, depicted with glowing data flow and subtle digital corruption around the edges. Focus on intricate connections.",
+      "text_overlay": "COWOS BOTTLENECK"
+    },
+    {
+      "text": "Reports suggest TSMC is now de-emphasizing direct CoWoS expansion, potentially offloading more advanced packaging to partner OSATs.",
+      "image_prompt": "Stylized diagram showing TSMC's wafer fab connected to multiple distinct OSAT facilities, represented by glowing network lines. Serious, data-driven visual.",
+      "text_overlay": "PACKAGING SHIFT"
+    },
+    {
+      "text": "This strategic shift comes amidst soaring HBM demand, projected to double annually. AI GPU production heavily relies on these complex packaging solutions.",
+      "image_prompt": "Dynamic infographic showing an upward-trending HBM demand curve, with miniature HBM stacks visibly increasing in quantity. Cyberpunk neon elements.",
+      "text_overlay": "HBM DEMAND SOARS"
+    },
+    {
+      "text": "Advanced packaging yields remain a key challenge. Sub-optimal CoWoS yields for HBM stacks directly raise production costs and impact market supply.",
+      "image_prompt": "Diagram of a CoWoS wafer with some sections highlighted in red to indicate lower yield, while others glow green. Technical and serious, reflecting data.",
+      "text_overlay": "YIELD CHALLENGES"
+    },
+    {
+      "text": "TSMC's CAPEX allocation may pivot towards their next-gen wafer technologies, influencing future packaging investment and broader market competition.",
+      "image_prompt": "An industrial robotic arm manipulating a large, pristine silicon wafer in a cleanroom, with holographic projections of future chip designs. Focused, futuristic.",
+      "text_overlay": "CAPEX REALLOCATION"
+    },
+    {
+      "text": "Understanding TSMC's 'real second moat' beyond CoWoS is crucial for investor valuation. Focus on core fabrication expertise and ecosystem control.",
+      "image_prompt": "A cybernetic hand holding a transparent globe with a detailed 3D representation of TSMC's global fabrication network and supply chain. Intensely focused, glowing iris effect in the hand's joints.",
+      "text_overlay": "TSMC'S NEW MOAT"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
