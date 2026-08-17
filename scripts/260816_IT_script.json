@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "RETAIL REWRITTEN",
+    "narration": "Warning! The way you shop is about to be completely rewritten, and you won't even see it coming!",
+    "image_description": "Dynamic shot of a bustling futuristic retail environment, neon lights reflecting on wet surfaces, subtly glitching digital displays showing automated processes, with robotic figures blurred in motion. Cinematic lighting, neon_red mood.",
+    "mood_color": "neon_red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "SHOPPING FUTURE",
+    "image_description": "Hyper-realistic 3D render of a futuristic, clean automated retail store. A sleek, metallic shelf-stocking robot with glowing blue sensors is centered, dramatically backlit. Holographic product displays in the background. 8k resolution, cyberpunk style.",
+    "reasoning": " 'SHOPPING FUTURE' creates intrigue and positions the content as forward-looking. The visual of a futuristic, automated store with a prominent robot clearly conveys the topic of retail innovation, making it click-worthy for a general audience."
+  },
+  "title": "Retail Reimagined: AI & Robots Transform Your Shopping by 2026!",
+  "segments": [
+    {
+      "text": "Retail is undergoing a massive shift. By 2026, Agentic AI and advanced robots will redefine your shopping experience, from stores to lightning-fast delivery.",
+      "image_prompt": "Animated infographic showing data flow from a central AI brain to various robots (delivery drones, shelf bots) in a futuristic store layout. Cyberpunk neon elements, cinematic lighting.",
+      "camera_effect": "Dynamic zoom-in on the AI brain."
+    },
+    {
+      "text": "Agentic AI will autonomously manage inventory, optimize pricing, and personalize recommendations in real-time. This dramatically boosts efficiency and convenience.",
+      "image_prompt": "Holographic interface projecting complex data charts and personalized product suggestions over a digital counter. A hand with glowing fingertips gestures, interacting with the display, focused expression. Cyberpunk lighting.",
+      "camera_effect": "Smooth pan across the holographic data."
+    },
+    {
+      "text": "Sleek shelf robots are set to automate restocking and monitor product placement, ensuring shelves are always full. This frees up human staff for complex tasks.",
+      "image_prompt": "A sleek, metallic shelf-stocking robot moving gracefully down a retail aisle, scanning products with glowing blue optical sensors. Dramatic side lighting, hyper-realistic.",
+      "camera_effect": "Tracking shot following the robot."
+    },
+    {
+      "text": "Sub-30-minute delivery will become standard for many items. Autonomous drones and vehicles, coordinated by AI, will make ultra-fast logistics a daily reality.",
+      "image_prompt": "A futuristic autonomous delivery drone gently lowering a package onto a smart porch, with a sleek driverless delivery van visible in the background. Cyberpunk aesthetic, cinematic lighting.",
+      "camera_effect": "Slow motion capture of the drone landing."
+    },
+    {
+      "text": "This transformation is global. Hong Kong firms are now investing heavily in open-weight AI models to rival giants like CoreWeave, driving new AI infrastructure.",
+      "image_prompt": "Dynamic network visualization showing data nodes connecting globally, with 'Hong Kong' and 'CoreWeave' represented as glowing, competing hubs. Glowing lines signify data flow, reflecting in a cybernetic eye.",
+      "camera_effect": "Rapid cuts between glowing network hubs."
+    },
+    {
+      "text": "These emerging technologies reshape retail entirely, prioritizing speed and personalization for unprecedented consumer convenience. So, are you ready for this retail future?",
+      "image_prompt": "A person with an expression of wonder in a modern, clean store, receiving an item from a robotic arm at a self-service kiosk. Futuristic, sleek design, dramatic lighting.",
+      "camera_effect": "Slow, ascending crane shot."
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
