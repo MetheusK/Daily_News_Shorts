@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "MARKET SHOCK ALERT",
+    "narration": "Warning: AI demand just triggered a massive semiconductor market shift, impacting your portfolio NOW!",
+    "image_description": "A close-up of a human eye, seen through futuristic smart glasses, reflecting a rapidly flashing red and neon-green stock ticker graph with digital corruption effects. Cinematic lighting, intense focus.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI CHIP BOOM",
+    "image_description": "A hyper-realistic 8k 3D render of a futuristic GPU chip, glowing with intricate blue and green neon circuitry, placed centrally within a dark, dramatically backlit server rack. Cyberpunk style.",
+    "reasoning": "This thumbnail clearly showcases the core subject (AI chips) with a high-tech, visually appealing aesthetic, immediately grabbing attention for investors and engineers interested in semiconductors, without needing human faces."
+  },
+  "title": "Semiconductor Market Explodes: AI Demand Triggers 94.1% Surge",
+  "segments": [
+    {
+      "text_overlay": "94% SURGE",
+      "text": "New reports project a 94.1% surge in semiconductor market value by 2026, driven directly by escalating AI demand within data centers.",
+      "image_prompt": "A holographic display showing a dynamic 3D bar chart with a 94.1% increase, representing semiconductor market growth, data flowing. Cybernetic hand pointing at the peak.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text_overlay": "GPU LEAD",
+      "text": "The 2026-2040 Data Center report highlights GPUs and custom ASICs as pivotal, shaping future compute infrastructure strategies for hyper-scalers.",
+      "image_prompt": "An abstract render of interconnected GPUs and ASICs within a server array, glowing with internal energy. Dramatic side lighting, intense focus on components.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text_overlay": "RACE HEATS",
+      "text": "Nvidia, AMD, Google, and AWS are locked in fierce competition, leveraging diverse architectures like Arm versus x86 for market share.",
+      "image_prompt": "Four distinct glowing circuit boards, each subtly labeled for Nvidia, AMD, Google, AWS, visually representing a high-stakes competitive race. Digital data streams connect them.",
+      "camera_effect": "static"
+    },
+    {
+      "text_overlay": "YIELD CONCERN",
+      "text": "Sustained high demand pressure on foundries raises concerns about CAPEX spending and manufacturing yields, impacting supply chain stability.",
+      "image_prompt": "A precision robotic arm overseeing a 'digital wafer' with simulated yield defects highlighted by red warning lights. Cinematic lighting on the robotic arm.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text_overlay": "TSMC VALUATION",
+      "text": "This unprecedented growth has prompted investor questions regarding Taiwan Semiconductor's valuation; scrutinizing forward P/E ratios and growth multiples.",
+      "image_prompt": "A serious-looking analyst's face through smart glasses, data reflecting in their glowing iris, overlayed with complex financial graphs and 'TSMC' valuation numbers.",
+      "camera_effect": "static"
+    },
+    {
+      "text_overlay": "HBM FOCUS",
+      "text": "Analysts project significant CAPEX increases across the sector, prioritizing HBM and advanced packaging to meet relentless AI accelerator production targets.",
+      "image_prompt": "A conceptual render of stacked HBM memory modules integrated into an advanced packaging solution, glowing with internal data flows. Emphasize precision and density.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
