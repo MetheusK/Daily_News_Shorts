@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "TSMC OVERVALUED?",
+    "narration": "Urgent market alert! Is TSMC's stock heading for a crash, despite soaring chip demand?",
+    "image_description": "Extreme close-up of a holographic stock chart plummeting, reflecting in the cybernetic eye of an investor wearing smart glasses. Red warning lights flash, digital corruption glitches across the screen. Dramatic cyberpunk lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "CHIP BUBBLE?",
+    "image_description": "A hyper-realistic 8k 3D render of a stack of glowing advanced semiconductor wafers, with a faint, transparent red 'bubble' engulfing them. The object is centered with dark, dramatic backlighting.",
+    "reasoning": "The phrase 'CHIP BUBBLE?' directly questions the market without explicitly stating a crash, creating suspense and urgency. The visual of glowing wafers within a 'bubble' is high-tech and visually intriguing, prompting a click from both investors and engineers to understand the underlying tension."
+  },
+  "title": "Semiconductor Valuation Alert: Advanced Packaging's Critical Role",
+  "segments": [
+    {
+      "text": "Global chip demand remains robust, particularly for AI accelerators. TSMC's valuation raises questions: current multiples reflect high growth, but market corrections are always possible.",
+      "image_prompt": "A sophisticated digital display showing TSMC stock charts overlaid with holographic data streams, reflecting intense focus in a CEO's eyes through smart glasses. Cinematic lighting.",
+      "camera_effect": "zoom_in",
+      "text_overlay": "DEMAND HIGH"
+    },
+    {
+      "text": "Advanced packaging, like CoWoS and FO-WLP, is now critical for performance and density. It's enabling the next generation of HBM and GPU integration.",
+      "image_prompt": "Macro shot of a detailed advanced semiconductor package (CoWoS) with intricate circuitry, glowing blue and green. A robotic arm gently places a die. Hyper-realistic, 8k render.",
+      "camera_effect": "panning_left",
+      "text_overlay": "ADVANCED PACKAGING"
+    },
+    {
+      "text": "However, advanced packaging capacity presents a significant supply chain bottleneck. Yield rates and CAPEX for these complex processes are key variables for 2024.",
+      "image_prompt": "A complex factory floor with multiple advanced packaging machines running, displaying yield data on screens with red digital warning lights. Engineers observe with serious determination. Dramatic side lighting.",
+      "camera_effect": "static",
+      "text_overlay": "CAPEX CHALLENGE"
+    },
+    {
+      "text": "The AI boom's biggest winners extend beyond GPU designers. Companies specializing in advanced packaging equipment or services are seeing immense, often underestimated, growth.",
+      "image_prompt": "Holographic projection showing a network of semiconductor companies, highlighting key OSAT and equipment manufacturers. Focus on data flowing to an investor's glowing iris. Cyberpunk neon lighting.",
+      "camera_effect": "zoom_out",
+      "text_overlay": "AI BEYOND GPUs"
+    },
+    {
+      "text": "Expect ongoing investment into advanced packaging technologies. Foundries and OSATs are ramping CAPEX to meet demand, indicating sustained market confidence despite high valuations.",
+      "image_prompt": "A modern data center interior, sleek server racks glowing with data. A technician with intense focus reviews holographic schematics. Blue and green cinematic lighting.",
+      "camera_effect": "panning_right",
+      "text_overlay": "GROWTH INVESTMENT"
+    },
+    {
+      "text": "Endpoint analysis: Expect continued CAPEX pressure and potential valuation adjustments for key players in advanced packaging.",
+      "image_prompt": "A complex 3D render of a detailed semiconductor wafer, with data streams flowing around it. The reflections show a determined engineer's eyes. Dark, analytical lighting.",
+      "camera_effect": "static",
+      "text_overlay": "MARKET OUTLOOK"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
