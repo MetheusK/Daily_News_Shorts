@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI SUPPLY SHOCK",
+    "narration": "Warning: TSMC's capacity crunch is creating an AI supply crisis, directly hitting major tech stocks!",
+    "image_description": "Extreme close-up of a cybernetic eye reflecting a fractured silicon wafer with red warning lights and glitch effects, conveying intense focus and urgency. Cinematic lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "CHIP PRICING SHOCK",
+    "image_description": "Hyper-realistic 3D render of two contrasting, glowing silicon wafers on a dark, reflective technical surface. One wafer is partially fractured and glows red (representing TSMC's bottleneck), while the other is pristine, dominant, and glows blue (representing Samsung's opportunity). Dramatic backlighting, 8k resolution.",
+    "reasoning": "The high-contrast text and visual conflict between the two industry giants (implied by the wafers) immediately conveys the core issue, generating high click-through rates by appealing to investors and industry insiders interested in market shifts and pricing dynamics."
+  },
+  "title": "TSMC Bottleneck: Samsung's AI Chip Price Hike Decoded",
+  "segments": [
+    {
+      "text": "TSMC's N3 process, crucial for cutting-edge AI chips, faces capacity constraints despite soaring demand from Nvidia, Apple, and Tesla, impacting market supply.",
+      "image_prompt": "Cinematic close-up of a glowing N3 process silicon wafer, intricate circuitry visible, surrounded by abstract, flowing data streams. Cyberpunk neon lighting, reflecting data.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "This bottleneck specifically impacts advanced packaging for HBM and GPUs, vital components for AI accelerators, creating significant supply chain stress for Q3/Q4.",
+      "image_prompt": "Holographic schematic of HBM stacks precisely integrated onto a GPU die, highlighted with electric blue lines, with a subtle digital corruption/red warning glitch effect on the edges. Intense focus.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "Samsung Foundry is leveraging TSMC's capacity crunch, reportedly initiating price hikes for its advanced chip manufacturing services, capitalizing on the intense demand surge.",
+      "image_prompt": "An investor's hand (wearing a sleek smart-glove) interacting with a holographic projection of rising stock charts and a Samsung logo. The charts reflect in smart glasses worn by a person with intense focus. Dramatic side lighting.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "This strategic shift presents Samsung with a powerful pricing opportunity, directly affecting CAPEX allocation and future wafer commitments across the global semiconductor industry.",
+      "image_prompt": "Architectural blueprint of a futuristic semiconductor fabrication plant expansion, overlaid with real-time financial graphs and projected CAPEX data. Focus on precision and growth. Cinematic lighting.",
+      "camera_effect": "tilt_up"
+    },
+    {
+      "text": "The xETFs launch of KSMH, targeting Korea's AI semiconductor ecosystem, underscores increasing investor interest in alternative supply chain players amid these shifts.",
+      "image_prompt": "Abstract digital representation of a global semiconductor supply chain network, with a prominent, bright-glowing node specifically highlighting the Korean peninsula. Holographic data streams connecting nodes. Dramatic lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "This capacity reallocation will directly impact Q3/Q4 GPU and HBM supply chains.",
+      "image_prompt": "A high-tech server rack with rapidly flowing digital data streams displayed on its surfaces. A digital clock with 'Q3/Q4' countdown is projected over it, reflecting data, serious thought, dramatic lighting.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
