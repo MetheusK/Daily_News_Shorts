@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "MEDIA REBOOT!",
+    "narration": "Warning! The way you watch everything is about to be totally rewritten!",
+    "image_description": "A close-up of a person's eye with a glowing, cybernetic iris reflecting streams of digital data, surrounded by pulsating blue and red neon lights, conveying urgency and technological shift. Cinematic lighting, intense focus, through smart glasses.",
+    "mood_color": "neon_green"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "TV'S NEW ERA",
+    "image_description": "A hyper-realistic 3D render of a futuristic holographic television screen projecting a complex network of data nodes and glowing content streams, against a dark, dramatic cyberpunk cityscape. Center focus, dramatic backlighting, 8k resolution.",
+    "reasoning": "This thumbnail highlights the core topic of future media/TV with a visually striking, futuristic object, inviting curiosity about how content consumption will evolve."
+  },
+  "title": "The Future of Your TV is HERE!",
+  "segments": [
+    {
+      "text": "A new industry study identifies \"IP Networking and Content Delivery\" as 2026's top broadcast technology trend. This signifies a major shift.",
+      "text_overlay": "NEXT GEN TV",
+      "image_prompt": "A dynamic, glowing network of digital cables and data packets flowing across a futuristic server rack, with abstract light trails. Cinematic lighting.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "This trend prioritizes faster, more efficient digital content delivery directly to your devices. Expect seamless streaming, fewer buffers, and instant access to global media.",
+      "text_overlay": "FASTER STREAMING",
+      "image_prompt": "A person viewing holographic content through smart glasses, their glowing iris reflecting digital information, with a determined expression. Cyberpunk neon lighting, panning left.",
+      "camera_effect": "panning_left"
+    },
+    {
+      "text": "The media sector is experiencing a significant commercial transformation. Traditional broadcasters are investing heavily, adapting to these IP-driven consumer demands for personalized experiences.",
+      "text_overlay": "MEDIA REVOLUTION",
+      "image_prompt": "A futuristic control room console with multiple glowing screens displaying analytics and content distribution maps, a shadowy figure (back to camera) observing with intense focus. Dramatic side lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Content creators gain robust platforms, enabling new interactive formats. Viewers will access more diverse, high-quality programming instantly, directly shaping future entertainment landscapes.",
+      "text_overlay": "YOUR MEDIA, NOW",
+      "image_prompt": "A virtual reality interface showing a user's hands interacting with holographic content projections, vibrant digital colors and glow effects. Intense focus expression. Cinematic lighting.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "This digital infrastructure fuels global innovation. Automation, especially in media distribution, ensures rapid scaling and seamless integration, connecting content worldwide faster than ever.",
+      "text_overlay": "GLOBAL CONNECTIVITY",
+      "image_prompt": "A stylized, abstract representation of interconnected global networks and data centers with glowing lines, symbolizing seamless digital communication across continents. Cyberpunk aesthetic.",
+      "camera_effect": "panning_right"
+    },
+    {
+      "text": "This convergence of technologies indicates a fundamental reshaping of how information and entertainment reach us.",
+      "text_overlay": "FUTURE UNVEILED",
+      "image_prompt": "A futuristic, glowing data stream flowing into a stylized abstract brain icon, symbolizing the direct and impactful delivery of information and entertainment. Dramatic lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
