@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI CHIP SHOCK!",
+    "narration": "Market Alert! A silent crisis is brewing in AI chip supply, threatening valuations across the sector!",
+    "image_description": "A cybernetic engineer with reflecting data in their glowing iris, intensely focused on a holographic projection of a silicon wafer, digital corruption effects, dramatic red warning lights, cyberpunk lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "TSM CAPACITY FEARS",
+    "image_description": "A hyper-realistic 3D render of a densely packed server rack with glowing blue HBM modules, surrounded by intricate data streams, dramatic cinematic backlighting, 8k resolution.",
+    "reasoning": "The thumbnail prioritizes a visually striking, technical object (server rack with HBM) over humans, directly addressing the core news (TSM, capacity) with a sense of urgency through 'Fears' without being overly sensational, optimizing for clicks from investors and engineers."
+  },
+  "title": "AI Chip Market Shift: TSM & Samsung Impact",
+  "segments": [
+    {
+      "text": "Taiwan Semiconductor Manufacturing (TSM) faces critical capacity limits for advanced AI chips, including high-demand GPUs and HBM. Unprecedented market demand strains current production.",
+      "image_prompt": "Close-up of a complex silicon wafer under intense inspection light, a robotic arm precisely placing a die, focused illumination.",
+      "camera_effect": "static",
+      "text_overlay": "TSM CAPACITY CRUNCH"
+    },
+    {
+      "text": "This production constraint risks TSM losing high-value AI chip orders, potentially redirecting demand to rival foundries. Supply chain implications for clients are significant.",
+      "image_prompt": "Digital dashboard displaying fluctuating order numbers, with a red alert icon over 'TSM' data, binary code flowing in the background, focused on data points.",
+      "camera_effect": "zoom_in",
+      "text_overlay": "ORDERS AT RISK"
+    },
+    {
+      "text": "Simultaneously, Samsung is raising advanced chipmaking prices up to 15% amid overwhelming AI-driven demand. This signals a major shift in industry market power.",
+      "image_prompt": "A holographic projection of a price chart spiking sharply upwards, with 'SAMSUNG' logo visible on a sleek terminal, dramatic blue and purple cinematic lighting.",
+      "camera_effect": "pan_left",
+      "text_overlay": "SAMSUNG PRICE HIKE"
+    },
+    {
+      "text": "The significant price increase reflects intense competition for crucial wafer allocation and advanced packaging services. Manufacturing yields remain a constant, critical focus.",
+      "image_prompt": "Interlocking gears made of polished silicon wafers, representing supply chain complexity, with subtle neon green energy lines connecting them, industrial cyber-aesthetic.",
+      "camera_effect": "static",
+      "text_overlay": "WAFER BATTLE"
+    },
+    {
+      "text": "Key drivers include HBM memory bottlenecks and complex specialized GPU production processes. These directly impact chip availability and overall cost across industries.",
+      "image_prompt": "Highly detailed 3D render of stacked HBM memory modules connected to a powerful GPU, glowing with internal power, advanced cooling elements visible, cyberpunk aesthetic.",
+      "camera_effect": "zoom_out",
+      "text_overlay": "HBM BOTTLENECKS"
+    },
+    {
+      "text": "This signals crucial shifts in CAPEX strategies and future valuation models.",
+      "image_prompt": "Abstract representation of financial data streams converging on a futuristic server architecture, glowing blue and purple, signifying market shifts and investment decisions.",
+      "camera_effect": "static",
+      "text_overlay": "CAPEX SHIFT"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
