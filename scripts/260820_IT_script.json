@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "THE FUTURE IS HERE",
+    "narration": "Warning! The tech trends predicted for tomorrow are reshaping your world today, faster than you can imagine!",
+    "image_description": "A blurred, fast-moving shot through a futuristic city grid, digital glitch overlay, red warning lights, a cybernetic eye rapidly scanning data streams with intense focus, dramatic side lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "TECH SHOCKWAVE",
+    "image_description": "A stylized 3D render of a glowing, interconnected neural network chip at the center, radiating energy in electric blue and purple, dark background with dramatic backlighting, hyper-realistic, 8k resolution.",
+    "reasoning": "This thumbnail uses a central, high-tech object with dramatic lighting and color, implying massive technological change without relying on human expressions, which attracts clicks due to its futuristic and high-impact visual appeal."
+  },
+  "title": "5 Tech Trends Reshaping YOUR Future",
+  "segments": [
+    {
+      "text": "Global industries face unprecedented tech shifts. AI, immersive realities, and data personalization are reshaping publishing, marketing, and market strategies.",
+      "image_prompt": "Overlapping holographic charts showing market trends, a blurred city background with neon lights, cinematic lighting, focused expression.",
+      "camera_effect": "zoom_out_slow"
+    },
+    {
+      "text": "Generative AI tools now produce high-quality content, impacting 70% of creative workflows. This boosts efficiency and lowers production costs significantly.",
+      "image_prompt": "A cybernetic hand sketching intricate designs on a glowing tablet, AI-generated art flowing in the background, intense focus expression, dramatic side lighting.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "Augmented and Virtual Reality are expanding beyond gaming. Brands are utilizing AR to deliver interactive product experiences, seeing 30% higher engagement.",
+      "image_prompt": "A person wearing sleek smart glasses, data flowing over their 'glowing iris', interacting with holographic product displays in a modern retail space, cyberpunk neon lighting, wonder.",
+      "camera_effect": "zoom_in_slow"
+    },
+    {
+      "text": "Advanced data analytics drives hyper-personalization for consumers. Over 80% of marketers now use AI for targeted campaigns, boosting conversion rates by 25%.",
+      "image_prompt": "Abstract network of interconnected data points glowing on a dark screen, reflecting in a focused eye, digital corruption effect subtle at edges, cinematic lighting.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "Blockchain integration offers new models for content ownership and monetization. NFTs provide verifiable authenticity, attracting creators and investors to new platforms.",
+      "image_prompt": "Stylized blockchain nodes forming a secure network, glowing green lines, a digital lock icon, 'determination' on a person's face viewing data through smart glasses, cyberpunk aesthetic.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Major companies like Alphabet are investing billions into these areas. Early adopters are seeing market advantages and significant revenue growth.",
+      "image_prompt": "A powerful server rack with glowing blue lights, reflecting a human silhouette with intense focus, data streams cascading, cinematic lighting.",
+      "camera_effect": "zoom_out_fast"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
