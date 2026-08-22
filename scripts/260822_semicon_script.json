@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI BUBBLE POP?",
+    "narration": "WARNING: Asia's AI Stock Rally has hit its peak and now faces a brutal reversal!",
+    "image_description": "Close-up of a human eye with cybernetic enhancements, reflecting a rapidly crashing stock market graph in its glowing iris. Digital glitch effects are prevalent, with urgent red warning lights pulsing. Cinematic lighting, intense focus.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI STOCK WARNING",
+    "image_description": "A hyper-realistic 3D render of a glowing, complex AI processor chip (like a GPU) at the center. Subtle cyberpunk neon lines emanate from its core. Dark, reflective background with dramatic backlighting. 8k resolution.",
+    "reasoning": "Focuses on a central, high-tech object directly related to AI/semiconductors, using a dramatic and visually striking style. The text creates urgency without being sensational, appealing to investors and tech enthusiasts for a click."
+  },
+  "title": "AI Stock Rally Alert: Is the Bubble Popping?",
+  "segments": [
+    {
+      "text": "Asia's AI stock rally pushed valuations to historic highs, fueled by intense investor speculation in datacenter and GPU plays. This growth surge is unprecedented.",
+      "text_overlay": "AI RALLY PEAKS",
+      "image_description": "Dynamic animated stock chart soaring upwards, with AI-themed data points (e.g., stylized neural networks) integrated. Cyberpunk neon elements."
+    },
+    {
+      "text": "However, rising bond yields now threaten this momentum. Higher yields increase borrowing costs, impacting tech company CAPEX and investor preference for safer assets.",
+      "text_overlay": "YIELD SHOCK",
+      "image_description": "Graph visualizing rising bond yields (orange/red line moving up) juxtaposed with a declining line representing investment sentiment. Red warning indicators flash intermittently. Cinematic lighting."
+    },
+    {
+      "text": "Key components like high-bandwidth memory (HBM) and advanced GPUs drive AI infrastructure. Their manufacturing yields and supply chain stability are critical.",
+      "text_overlay": "HBM / GPU",
+      "image_description": "High-resolution 3D render of an NVIDIA H100 GPU or a stack of HBM memory modules, detailed and glowing with blue or green light, overlaid with technical data streams. Hyper-realistic."
+    },
+    {
+      "text": "Companies investing heavily in AI data centers, acquiring vast quantities of GPUs, face increased CAPEX pressure as financing costs climb. Valuations are tightening.",
+      "text_overlay": "CAPEX PRESSURE",
+      "image_description": "A futuristic data center corridor, server racks illuminated with blue light. Digital data flows across holographic screens. A figure in the background showing intense focus, viewed through smart glasses. Dramatic lighting."
+    },
+    {
+      "text": "Analysts now forecast a potential market correction. Investors are re-evaluating aggressive growth projections against a backdrop of macro-economic tightening.",
+      "text_overlay": "VALUATION SHIFT",
+      "image_description": "A transparent screen displaying complex valuation models and declining forecasts, being intensely observed through smart glasses by a figure. Face shows serious thought, with dramatic side lighting."
+    },
+    {
+      "text": "The sustainability of AI sector valuations hinges on continued innovation and robust demand, now challenged by macro financial shifts.",
+      "text_overlay": "MARKET OUTLOOK",
+      "image_description": "A holographic projection of interconnected global supply chains and economic indicators, with some red 'alert' zones indicating potential instability. Cyberpunk neon aesthetic."
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
