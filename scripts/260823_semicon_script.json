@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "YIELD CRISIS ALERT",
+    "narration": "WARNING: Semiconductor price hikes are about to send shockwaves through tech stocks, impacting investor valuations NOW!",
+    "image_description": "A cybernetically enhanced trader's face, eyes reflecting glitching stock tickers in neon red, dramatic side lighting, digital corruption effect.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "CHIP HIKE ALERT",
+    "image_description": "A hyper-realistic 3D render of stacked HBM (High Bandwidth Memory) chips glowing with a blue-neon aura, centered, against a dark, industrial server rack background, cinematic backlighting, 8k resolution.",
+    "reasoning": "The glowing HBM chips symbolize high demand and critical technology, combined with a direct 'alert' text, immediately signals market impact to investors."
+  },
+  "title": "Samsung Chip Hikes: Investor Alert",
+  "segments": [
+    {
+      "text": "Samsung Foundry is reportedly increasing chipmaking prices by up to 15%. This impacts their diverse client base across multiple process nodes due to escalating demand.",
+      "image_prompt": "A close-up of a Samsung chip wafer, partially lit by a laser, showing intricate circuit patterns, inside a cleanroom environment, focused.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "This strategic price adjustment comes amid surging demand for AI and high-performance computing components. A critical TSMC capacity crunch exacerbates supply limitations.",
+      "image_prompt": "Digital graph showing rising demand curve intersecting with a constrained supply line, overlaid on a blurred image of a TSMC factory floor, data reflection in eyes of engineer.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "Major players like Nvidia, Apple, and Tesla are driving this unprecedented demand for advanced semiconductors. Their HBM and GPU requirements are straining manufacturing CAPEX.",
+      "image_prompt": "Three holographic company logos (Nvidia, Apple, Tesla) rotating above a schematic of a GPU, held by a robotic arm, cyberpunk neon lighting.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "SK Hynix is partnering with TSMC to develop next-generation customized HBM memory. This collaboration aims to secure critical AI memory market dominance and future supply.",
+      "image_prompt": "Two hands (one human, one robotic) shaking over a glowing blueprint of a hybrid HBM chip, signifying collaboration, dramatic side lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "The SK Hynix-TSMC alliance targets optimizing HBM4 for advanced AI systems. This could reshape memory supply chains and future product roadmaps for competitive advantage.",
+      "image_prompt": "A 3D render of an HBM4 stack with data flowing through it, displayed on a translucent screen in a data center, engineer observing through smart glasses.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "This capacity bottleneck signals continued HBM and GPU valuation pressure for investors.",
+      "image_prompt": "A highly detailed, almost microscopic view of interconnects on a GPU die, with subtle red warning lights indicating stress, intense focus.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
