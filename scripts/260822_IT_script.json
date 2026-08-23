@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "FUTURE IS NOW",
+    "narration": "Stop scrolling! The future of tech isn't coming; it's already here, reshaping everything you know, right now!",
+    "image_description": "Extreme close-up of a person wearing sleek, futuristic smart glasses. Their eyes, reflecting binary code and glowing data streams, show intense focus. Cinematic lighting, cyberpunk neon glow, with subtle digital glitch effects in the background. Mood color: red and neon green.",
+    "mood_color": "neon_green"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "2026 TECH SHOCK",
+    "image_description": "A hyper-realistic 3D render of a stylized, glowing neural network chip at the center. Interconnecting lines of light radiate outwards, forming a complex data web. Dramatic side lighting, 8k resolution, against a dark, futuristic background.",
+    "reasoning": "The '2026 Tech Shock' text combined with a visually stunning, futuristic chip image creates curiosity about impending technological shifts, enticing clicks."
+  },
+  "title": "Future Tech 2026: Are You Ready?",
+  "segments": [
+    {
+      "text_overlay": "2026 TECH",
+      "narration": "Simplilearn reports 20 key tech trends for 2026. This rapid evolution impacts daily life and global industries, demanding immediate attention from all sectors.",
+      "image_prompt": "A futuristic infographic displaying '20 Tech Trends' for 2026. Holographic bars and glowing data points emerge from a central glowing globe. Cinematic lighting, with dynamic data flowing."
+    },
+    {
+      "text_overlay": "AI IS HERE",
+      "narration": "Artificial Intelligence remains a dominant force. Specialized AI is emerging, transforming sectors like healthcare, finance, and logistics with incredible precision.",
+      "image_prompt": "A stylized holographic brain icon at the center, emitting glowing data streams. A person's intense, focused eye, visible through smart glasses, reflects the brain, cybernetic style. Dramatic side lighting."
+    },
+    {
+      "text_overlay": "LEGAL AI CUSTOM",
+      "narration": "Legal AI vendors are developing proprietary models. This cuts operational inference bills, reducing reliance on third-party platforms and enhancing efficiency for firms.",
+      "image_prompt": "A digital gavel made of glowing data points and lines. A stylized legal document with embedded code is displayed on a transparent screen next to it. Cinematic lighting, professional setting, data overlay."
+    },
+    {
+      "text_overlay": "SAVE BILLIONS",
+      "narration": "Custom AI models promise significant economic impact. Firms gain competitive advantage via lower operational costs and enhanced data security, streamlining complex legal workflows.",
+      "image_prompt": "Dynamic digital financial graphs showing an upward trend, rendered in neon green and blue. Glowing lines represent data flow over a subtle, futuristic server rack. Cinematic lighting, high-tech."
+    },
+    {
+      "text_overlay": "INDUSTRY ADAPT",
+      "narration": "This specialized AI trend extends beyond legal. Industries are now adopting deep learning models tailored to unique datasets, optimizing performance across diverse sectors.",
+      "image_prompt": "Multiple futuristic industry icons (e.g., medical cross, gear, dollar sign, factory symbol) interconnected by glowing data lines on a digital grid. A person with a serious, determined expression in the foreground. Cinematic lighting."
+    },
+    {
+      "text_overlay": "FUTURE-PROOF NOW",
+      "narration": "To thrive, businesses must adapt, monitoring emerging trends and leveraging data insights. Understanding market shifts ensures future-proofing against rapid technological advancements.",
+      "image_prompt": "A person with intense focus looking at a holographic world map, overlaid with real-time data points and predictive trend lines. Their smart glasses reflect the data. Cinematic lighting, cyberpunk aesthetic."
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
