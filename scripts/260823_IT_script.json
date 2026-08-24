@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI IS HERE",
+    "narration": "Warning! A hidden AI infrastructure is secretly changing the global power landscape right now!",
+    "image_description": "A vast, high-tech data center sprawling across a desert landscape under a cyberpunk neon sky, dramatic side lighting, digital glitch effects, data reflecting in a cybernetic eye, intense focus.",
+    "mood_color": "neon_green"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI BUILDS",
+    "image_description": "A hyper-realistic 3D render of interconnected glowing server racks extending into a futuristic horizon, centered object, dramatic backlighting, 8k resolution, cyberpunk aesthetic.",
+    "reasoning": "This thumbnail highlights the massive, physical infrastructure of AI, focusing on objects (server racks) rather than people. The 'AI BUILDS' text combined with the futuristic visual creates intrigue about the scale and purpose of AI development, driving clicks."
+  },
+  "title": "AI's Secret Mega-Cities Revealed",
+  "segments": [
+    {
+      "text": "China's AI ambitions are literally reshaping landscapes. Inner Mongolia, once grazing land, now hosts colossal data centers powering its future.",
+      "image_prompt": "Satellite view showing former grasslands morphing into massive server farms, overlaid with vibrant digital schematics, cinematic lighting.",
+      "camera_effect": "zoom_out",
+      "text_overlay": "LANDSCAPE SHIFT"
+    },
+    {
+      "text": "A staggering 25 data centers are now operational or under construction in Inner Mongolia alone, centralizing immense computing power for AI development.",
+      "image_prompt": "Isometric 3D rendering of multiple huge data center buildings with internal glowing server racks, showing scale and interconnectedness, cyberpunk neon lights.",
+      "camera_effect": "pan_left",
+      "text_overlay": "25 AI HUBS"
+    },
+    {
+      "text": "This infrastructure directly supports China's advanced AI research and deployment. It fuels the algorithms driving everything from smart cities to national initiatives.",
+      "image_prompt": "Abstract visualization of glowing data streams flowing into a central AI brain graphic, representing massive computation, through smart glasses perspective.",
+      "camera_effect": "dolly_zoom",
+      "text_overlay": "POWERING AI"
+    },
+    {
+      "text": "AI is already transforming real sectors. MG Ship at LogiSYM Malaysia 2026 revealed AI’s crucial role optimizing global supply chains, ensuring peak efficiency and delivery.",
+      "image_prompt": "Holographic interface showing a global supply chain map with ships and trucks, AI nodes highlighting efficient routes, intense focus expression on a digital human face reflecting data.",
+      "camera_effect": "reveal_from_left",
+      "text_overlay": "AI SHIPS IT"
+    },
+    {
+      "text": "Investors are now leveraging AI. MoneySimpler details how AI trading navigates volatile markets, offering smarter insights for more secure and optimized investment strategies.",
+      "image_prompt": "Dynamic stock market graph with AI-generated predictions overlaid, showing upward trend, 'serious thought' expression on a digital human analyst's face looking through a data-rich interface.",
+      "camera_effect": "quick_cut",
+      "text_overlay": "AI TRADES SMARTER"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
