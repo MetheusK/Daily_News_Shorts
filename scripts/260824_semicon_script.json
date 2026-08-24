@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "STOCK ALERT",
+    "narration": "Warning! AI chip confidence just cracked, sending TSMC shares tumbling and threatening your portfolio!",
+    "image_description": "A serious, determined analyst with glowing cybernetic eyes, intensely focused on holographic stock charts showing a sharp red decline. Digital corruption effects and red warning lights surround the data. Cinematic lighting, dramatic side lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "HBM CRISIS",
+    "image_description": "A hyper-realistic 3D render of a stack of HBM chips, glowing with internal blue light, positioned centrally on a dark, reflective surface. In the background, blurred server racks with red warning lights are visible. Cyberpunk style, 8k resolution, dramatic backlighting.",
+    "reasoning": "The term 'HBM Crisis' directly addresses a critical supply chain issue for AI, appealing to investors and engineers. The visual emphasizes the core component in a high-quality, attention-grabbing style."
+  },
+  "title": "AI Chip Confidence Cracks: TSMC Slips & HBM Crunch Deepens",
+  "segments": [
+    {
+      "text": "TSMC shares slid 2.3% as market confidence in AI chip growth temporarily cracked. This dip signals investor caution despite overall sector strength.",
+      "image_prompt": "An aerial view of a futuristic TSMC factory facade at night, digital overlay of a red downward arrow superimposed on a glowing stock chart graph. Cinematic lighting, blue and red neon accents.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "The core issue is High Bandwidth Memory (HBM) supply. A significant HBM crunch is driving Nvidia's GPU price increases and impacting deployment timelines.",
+      "image_prompt": "Extreme close-up of a complex GPU board with HBM modules highlighted in glowing blue. Digital readouts showing 'HBM Supply Shortage' in red text. Technical, detailed.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "This HBM shortage presents a dual-edged sword. Samsung and SK Hynix are seeing increased revenue and leverage due to critical memory demand.",
+      "image_prompt": "Dual screens displaying the logos of Samsung and SK Hynix, with upward trending digital graphs and green profit indicators. A cybernetic hand pointing at the graphs. Neon lighting.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "Memory manufacturers are aggressively increasing CAPEX for HBM expansion. This capital outlay is critical to meet future AI compute demands and secure market share.",
+      "image_prompt": "A cleanroom environment with industrial machinery producing HBM wafers, illuminated by a strong blue glowing light. A transparent digital overlay shows 'CAPEX Investment' with an upward arrow. Serious, focused. ",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Valuations are now scrutinizing HBM yield rates and packaging efficiencies. Any yield improvements will significantly boost profitability and market valuation.",
+      "image_prompt": "A determined engineer, viewed through smart glasses reflecting holographic data, examines a glowing holographic display of a wafer with specific yield areas highlighted in green. Digital text 'HBM Yield Optimization'.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "The market is rebalancing beyond just GPU powerhouses. Foundries and memory providers offering specialized HBM and packaging solutions will be key beneficiaries.",
+      "image_prompt": "A complex, interwoven network of luminous data lines connecting different chip types (GPU, HBM, CPU), with prominent arrows showing increased data flow and value in a 3D render. Cyberpunk style.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
