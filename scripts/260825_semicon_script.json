@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "CHIP SUPPLY SHOCK!",
+    "narration": "WARNING: The semiconductor supply chain is facing an unprecedented pricing shift right now!",
+    "image_description": "Extreme close-up of a cybernetic eye reflecting a flickering red stock chart, digital corruption effects around the iris, red warning lights. Intense focus, cinematic lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "TSMC'S NEXT MOVE",
+    "image_description": "A hyper-realistic 3D render of a gleaming silicon wafer, centrally composed, with subtle holographic data lines emanating from its surface against a dark, dramatically backlit cyberpunk industrial background. 8k resolution.",
+    "reasoning": "Focuses on a key industry object (wafer) and a major player (TSMC), generating curiosity about future strategies and market impact for investors."
+  },
+  "title": "Semiconductor Supply Shock: TSMC & Samsung Pricing Power",
+  "segments": [
+    {
+      "text_overlay": "TSMC LEADS",
+      "narration": "TSMC sustains robust performance, propelled by surging AI GPU and HBM demand. Advanced wafer capacity is critical for leading tech firms.",
+      "image_prompt": "A cybernetically enhanced human hand, glowing with data streams, holding a gleaming silicon wafer with microscopic circuit patterns visible. Dramatic side lighting, serious focus in the background.",
+      "camera_effect": "static"
+    },
+    {
+      "text_overlay": "PRICE HIKES",
+      "narration": "TSMC's advanced node capacity is constrained, prompting Samsung to hike prices. This tightens supply chains, boosting foundry pricing power significantly.",
+      "image_prompt": "Digital representation of a global supply chain map with red warning lights flashing on semiconductor factories, and upward-pointing price arrows. A person with smart glasses viewing the data with intense focus.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text_overlay": "HYPER DEMAND",
+      "narration": "Nvidia, Apple, and Tesla intensely drive high-performance chip demand. This sustained appetite creates fierce competition, impacting component valuation across the market.",
+      "image_prompt": "A composite of stylized NVIDIA GPU, Apple A-series chip, and Tesla FSD chip designs merging into a glowing, complex data network. Cyberpunk neon lighting, representing high tech demand.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text_overlay": "PROFIT SURGE",
+      "narration": "Heightened pricing and constrained supply boost foundry profitability. Yield improvements are crucial for maximizing revenue streams and securing market share.",
+      "image_prompt": "A holographic 3D bar graph showing steep upward profit trends, with a superimposed digital representation of a perfect wafer yield percentage. A determined engineer observing the projection.",
+      "camera_effect": "static"
+    },
+    {
+      "text_overlay": "INVESTOR PIVOT",
+      "narration": "Investors pivot focus beyond chip designers to core foundry players and equipment suppliers. Their CAPEX plans dictate future market share and valuation dynamics.",
+      "image_prompt": "A complex network diagram showing connections between 'Foundry,' 'Equipment,' and 'Design' nodes, with a spotlight on 'Foundry' and 'Equipment,' glowing with a strategic data overlay. A person with glowing eyes reflecting financial data.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text_overlay": "CAPEX ANALYSIS",
+      "narration": "Stay tuned for our next CAPEX analysis.",
+      "image_prompt": "A dynamic data visualization of global CAPEX spending trends in the semiconductor industry, with projections for future investments. Futuristic, clean interface with glowing elements.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
