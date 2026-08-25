@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "TECH IS HERE!",
+    "narration": "WARNING: The biggest tech shift is happening NOW, and it will change *everything* about your daily life!",
+    "image_description": "A person's face, partially obscured by a holographic interface showing rapidly scrolling data streams. Their cybernetic eyes reflect glowing digital patterns, conveying intense focus. Cinematic lighting, with a dramatic red backlight, glitch effects.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "FUTURE IS NOW!",
+    "image_description": "A highly detailed 3D render of interconnected glowing data nodes forming a complex network, radiating light. In the foreground, a sleek, futuristic smart device with a holographic display showing medical diagnostics results. Cyberpunk style, dramatic blue and purple backlighting, 8k resolution.",
+    "reasoning": "The 'FUTURE IS NOW!' text creates urgency and intrigue. The object-focused image (data network, futuristic device) is visually striking and implies complex, powerful technology transforming daily life, directly appealing to curiosity about advanced tech without relying on generic human expressions."
+  },
+  "title": "Future Tech: It's Already Here!",
+  "segments": [
+    {
+      "text_overlay": "BIGGEST TREND EVER",
+      "narration": "Market experts now declare this the biggest tech trend ever seen, profoundly impacting daily life and critical public infrastructure.",
+      "image_prompt": "A panoramic view of a futuristic city skyline overlaid with subtle data streams and glowing network lines, conveying widespread connectivity. Cinematic lighting, high detail.",
+      "camera_effect": "dynamic_pan"
+    },
+    {
+      "text_overlay": "HEALTH TECH SOARS",
+      "narration": "Point-of-Care technology is soaring, projected to achieve a strong 9.4% CAGR by 2030. This shift moves medical diagnostics directly to the patient's side.",
+      "image_prompt": "A healthcare professional (intense focus on face) using a sleek handheld diagnostic device on a patient's arm. Focus on the device's glowing screen, showing clear data. Cinematic lighting, blue hues, subtle digital interface reflecting in their smart glasses.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text_overlay": "FASTER DIAGNOSIS",
+      "narration": "This means rapid results and immediate treatment decisions, revolutionizing global patient experience. Healthcare becomes more accessible, empowering quick action.",
+      "image_prompt": "A close-up of a digital display showing clear, easy-to-read diagnostic results. A generic hand (no specific gender/ethnicity) points to a key data point. Glowing iris reflecting data on the screen. Crisp, technical aesthetic.",
+      "camera_effect": "static"
+    },
+    {
+      "text_overlay": "SMART CITIES 2026",
+      "narration": "Local governments are implementing key tech trends by 2026. Smart city initiatives and streamlined digital public services are enhancing urban environments.",
+      "image_prompt": "A stylized city map with holographic overlays indicating smart infrastructure: traffic management, waste collection, and public safety data. Cinematic lighting, green and blue neon accents.",
+      "camera_effect": "slow_zoom_out"
+    },
+    {
+      "text_overlay": "BETTER PUBLIC SERVICES",
+      "narration": "These innovations streamline urban operations, improve resource management, and significantly enhance citizen engagement. Residents benefit from increased daily convenience.",
+      "image_prompt": "A person (serious thought expression) interacting with a holographic display showing public service options like permit applications or transport schedules. Cyberpunk neon glow, dramatic side lighting.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text_overlay": "AI & IOT POWER",
+      "narration": "The synergy of advanced AI, ubiquitous IoT, and robust data analytics drives these transformations, creating interconnected, highly efficient systems everywhere.",
+      "image_prompt": "An abstract visualization of a neural network or a complex data flow, with glowing nodes and connecting lines, representing AI and IoT integration. Dramatic side lighting, purple and gold color scheme.",
+      "camera_effect": "fast_zoom_in"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
