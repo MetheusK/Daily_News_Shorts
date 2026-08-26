@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "FUTURE IS NOW",
+    "narration": "Warning: The tech future you imagined isn't coming... it's already here, completely transforming everything.",
+    "image_description": "Close-up of a person's eye, seen through smart glasses, reflecting a rapidly scrolling data feed and a glitching cityscape. Cyberpunk neon lighting, intense focus.",
+    "mood_color": "neon_green"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "TECH SHOCK 2026",
+    "image_description": "Hyper-realistic 3D render of a futuristic, glowing microchip, centered on a dark, reflective surface, dramatic blue and purple backlighting. 8k resolution.",
+    "reasoning": "The year '2026' combined with 'Tech Shock' creates immediate intrigue about near-future changes. The hyper-realistic, glowing chip suggests advanced, powerful, and mysterious technology, driving curiosity for a click."
+  },
+  "title": "FUTURE TECH SHOCK: What's Coming in 2026",
+  "segments": [
+    {
+      "text": "Global AI market projections climb, nearing $2 trillion by 2028. Nvidia and Microsoft lead strategic investments, fueling rapid development across diverse tech applications.",
+      "image_prompt": "Dynamic digital graph showing upward financial trend, with glowing AI neural network overlays. Cinematic lighting, clear data visualization.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "iVT Expo 2026 previews next-gen off-highway machinery. Key trends: autonomous operation, advanced human-machine interfaces, and electric propulsion for enhanced efficiency.",
+      "image_prompt": "High-tech control panel of heavy machinery, glowing digital readouts, operator's hands shown with intense focus. Dramatic side lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Securitas Technology unveils smart security at GSX 2026. Focus areas include AI-powered predictive threat analytics, advanced sensor integration, and sophisticated access solutions.",
+      "image_prompt": "Cybernetic eye with a glowing iris, reflecting real-time security data streams and analytics. Dramatic lighting, dark background.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "These innovations profoundly impact daily life: smarter urban infrastructure, optimized logistics, and proactive safety measures. Expect seamless integration by 2026.",
+      "image_prompt": "City street at night, smart lights, a drone flying discreetly over rooftops, representing enhanced urban management. Cinematic lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "From self-optimizing factories to predictive surveillance securing public spaces, technology showcased for 2026 promises tangible improvements in operational security and efficiency.",
+      "image_prompt": "A hand reaching out to touch a holographic architectural projection, showing a secure, optimized facility. Cyberpunk neon aesthetic.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "The synergy of AI, IoT, and robust industrial design is fundamentally redefining user experience across infrastructure and personal technology.",
+      "image_prompt": "Interconnected glowing nodes representing AI, IoT, and human data, forming a complex network in a digital space. Hyper-realistic, 8k resolution.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
