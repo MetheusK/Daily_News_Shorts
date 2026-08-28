@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI IS WATCHING",
+    "narration": "WARNING! AI isn't just creating art; it's launching unseen cyberattacks against everyone right now!",
+    "image_description": "Extreme close-up of a cybernetic eye reflecting complex, glitching red code, surrounded by digital static and urgent red warning lights. Intense focus, cinematic lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI CYBER THREAT",
+    "image_description": "A striking 3D render of a stylized, glowing circuit board, intricately designed to resemble a menacing skull. Digital code flows across its surface. Dark, dramatic cyberpunk backlighting in deep blues and reds. 8k resolution, hyper-realistic.",
+    "reasoning": "The menacing skull formed by technology immediately conveys danger and the AI threat, compelling clicks through strong visual impact and topical urgency without relying on generic human reactions."
+  },
+  "title": "AI Cyberattacks Surge: Your Data at Risk?!",
+  "segments": [
+    {
+      "text": "AI-powered cyberattacks are dramatically escalating. Sophisticated algorithms now mimic human behavior, creating highly effective phishing and intrusion attempts.",
+      "image_prompt": "Digital representation of a global network grid with malicious AI bots infiltrating, showing data flowing rapidly with red warning signals. Cyberpunk neon lighting.",
+      "camera_effect": "Dolly zoom"
+    },
+    {
+      "text": "This surge in threats led to cybersecurity firm CrowdStrike's stock jumping 20.5%. Investors are betting heavily on robust AI-driven defense mechanisms.",
+      "image_prompt": "A holographic stock chart for 'CRWD' showing a sharp 20.5% increase, overlaid on a secure server room background. The chart reflects in a serious tech analyst's smart glasses, cinematic lighting.",
+      "camera_effect": "Tilt up"
+    },
+    {
+      "text": "Organizations globally are now prioritizing advanced AI threat detection. Traditional defenses are struggling against evolving, self-learning attack patterns.",
+      "image_prompt": "A secure digital fortress wall being built by glowing data lines, with shadowy, glitching AI figures attempting to breach it in the background. Dramatic side lighting.",
+      "camera_effect": "Pan right"
+    },
+    {
+      "text": "Your personal data and corporate secrets are increasingly targets. AI automates vulnerabilities, making rapid, large-scale data breaches a constant risk.",
+      "image_prompt": "Abstract visualization of data packets with glowing red locks, some breaking open due to digital corruption, representing security breaches. Dark, dramatic lighting.",
+      "camera_effect": "Close up on breaking lock"
+    },
+    {
+      "text": "Meanwhile, AI also revolutionizes industries like marketing technology. New AI-powered tools personalize campaigns and analyze consumer behavior for brands.",
+      "image_prompt": "A sleek, minimalist holographic interface displaying marketing analytics, charts, and customer profiles, with a focused person viewing through smart glasses, cinematic lighting.",
+      "camera_effect": "Zoom out slightly"
+    },
+    {
+      "text": "This dual reality underscores AI's pervasive impact: both as a powerful tool for innovation and a sophisticated vector for global cyber threats.",
+      "image_prompt": "Split screen: one side shows AI-driven marketing (elegant data flows), the other shows AI cyberattack (glitching red code). A central figure with intense focus, cybernetic eyes, looking at the contrast.",
+      "camera_effect": "Static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
