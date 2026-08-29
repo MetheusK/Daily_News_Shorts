@@ -1,46 +1,52 @@
 {
   "hook_plan": {
-    "overlay_text": "AI IS WATCHING",
-    "narration": "WARNING! AI isn't just creating art; it's launching unseen cyberattacks against everyone right now!",
-    "image_description": "Extreme close-up of a cybernetic eye reflecting complex, glitching red code, surrounded by digital static and urgent red warning lights. Intense focus, cinematic lighting.",
-    "mood_color": "red"
+    "overlay_text": "AI IS TAKING OVER!",
+    "narration": "WARNING! AI isn't coming, it's already here, reshaping EVERYTHING faster than you can imagine!",
+    "image_description": "Extreme close-up of a human eye with cybernetic reflections of AI code, neon city lights in the background, digital glitch effects, dramatic side lighting, intense focus, cinematic lighting.",
+    "mood_color": "neon_green"
   },
   "thumbnail_plan": {
-    "thumbnail_text": "AI CYBER THREAT",
-    "image_description": "A striking 3D render of a stylized, glowing circuit board, intricately designed to resemble a menacing skull. Digital code flows across its surface. Dark, dramatic cyberpunk backlighting in deep blues and reds. 8k resolution, hyper-realistic.",
-    "reasoning": "The menacing skull formed by technology immediately conveys danger and the AI threat, compelling clicks through strong visual impact and topical urgency without relying on generic human reactions."
+    "thumbnail_text": "AI'S NEXT MOVE?",
+    "image_description": "Hyper-realistic 3D render of a glowing, intricate neural network structure encased in a glass cube, dramatic cyberpunk city reflections on its surface, 8k resolution, centered composition, dramatic backlighting, objects prioritized over humans.",
+    "reasoning": "Intrigue about AI's future combined with a visually stunning, technical render creates high click-through potential, adhering to the object-focused rule."
   },
-  "title": "AI Cyberattacks Surge: Your Data at Risk?!",
+  "title": "AI Explosion: Unpacking the Tech Trends NOW",
   "segments": [
     {
-      "text": "AI-powered cyberattacks are dramatically escalating. Sophisticated algorithms now mimic human behavior, creating highly effective phishing and intrusion attempts.",
-      "image_prompt": "Digital representation of a global network grid with malicious AI bots infiltrating, showing data flowing rapidly with red warning signals. Cyberpunk neon lighting.",
-      "camera_effect": "Dolly zoom"
+      "text_overlay": "AI MARKET SURGE",
+      "narration": "The AI sector is exploding, with Investor's Business Daily highlighting aggressive growth. Over 100 AI stocks show significant momentum this quarter.",
+      "image_prompt": "Dynamic infographic showing upward trend lines for AI investment, glowing digital data points, a subtle network background, cinematic lighting, serious thought expression.",
+      "camera_effect": "zoom_in_on_data"
     },
     {
-      "text": "This surge in threats led to cybersecurity firm CrowdStrike's stock jumping 20.5%. Investors are betting heavily on robust AI-driven defense mechanisms.",
-      "image_prompt": "A holographic stock chart for 'CRWD' showing a sharp 20.5% increase, overlaid on a secure server room background. The chart reflects in a serious tech analyst's smart glasses, cinematic lighting.",
-      "camera_effect": "Tilt up"
+      "text_overlay": "GENERATIVE AI LEADS",
+      "narration": "Generative AI applications are a key driver, seeing 300% adoption increase year-over-year. Major tech giants are pouring billions into development.",
+      "image_prompt": "Abstract visual of neural networks generating creative content (e.g., digital art morphing, code lines forming complex patterns), vibrant blue and purple neon lights, focused expression, cinematic lighting.",
+      "camera_effect": "pan_left"
     },
     {
-      "text": "Organizations globally are now prioritizing advanced AI threat detection. Traditional defenses are struggling against evolving, self-learning attack patterns.",
-      "image_prompt": "A secure digital fortress wall being built by glowing data lines, with shadowy, glitching AI figures attempting to breach it in the background. Dramatic side lighting.",
-      "camera_effect": "Pan right"
+      "text_overlay": "HARDWARE DEMAND SOARS",
+      "narration": "This AI boom fuels immense demand for advanced hardware. Marvell Technology, cited by 24/7 Wall St., is crucial here.",
+      "image_prompt": "High-tech server racks with glowing blue lights, intricate circuit boards, reflections of data flowing, a technician with intense focus via smart glasses, dramatic side lighting, cinematic lighting.",
+      "camera_effect": "dolly_zoom"
     },
     {
-      "text": "Your personal data and corporate secrets are increasingly targets. AI automates vulnerabilities, making rapid, large-scale data breaches a constant risk.",
-      "image_prompt": "Abstract visualization of data packets with glowing red locks, some breaking open due to digital corruption, representing security breaches. Dark, dramatic lighting.",
-      "camera_effect": "Close up on breaking lock"
+      "text_overlay": "MARVELL'S CORE ROLE",
+      "narration": "Marvell's infrastructure solutions power AI data centers and cloud networks. Their specialized chips handle the massive data processing required efficiently.",
+      "image_prompt": "Close-up of a microchip with intricate glowing pathways, digital representation of data packets moving quickly through a network, clean white background, cyberpunk aesthetic, dramatic lighting.",
+      "camera_effect": "static"
     },
     {
-      "text": "Meanwhile, AI also revolutionizes industries like marketing technology. New AI-powered tools personalize campaigns and analyze consumer behavior for brands.",
-      "image_prompt": "A sleek, minimalist holographic interface displaying marketing analytics, charts, and customer profiles, with a focused person viewing through smart glasses, cinematic lighting.",
-      "camera_effect": "Zoom out slightly"
+      "text_overlay": "INVESTMENT SHIFT",
+      "narration": "Investor trends reflect this shift, with increased capital flow into foundational AI tech. Analysts project continued growth across the entire ecosystem.",
+      "image_prompt": "Digital representation of stock market graphs with AI company logos, upward arrow indicators, hands interacting with a holographic data interface, serious thought expression, dramatic lighting.",
+      "camera_effect": "pan_right"
     },
     {
-      "text": "This dual reality underscores AI's pervasive impact: both as a powerful tool for innovation and a sophisticated vector for global cyber threats.",
-      "image_prompt": "Split screen: one side shows AI-driven marketing (elegant data flows), the other shows AI cyberattack (glitching red code). A central figure with intense focus, cybernetic eyes, looking at the contrast.",
-      "camera_effect": "Static"
+      "text_overlay": "TECH SHIFT INCOMING",
+      "narration": "This data indicates a major shift in tech investment and adoption patterns.",
+      "image_prompt": "Globe made of interconnected glowing data lines, surrounded by abstract digital particles, reflecting in a cybernetic eye, dramatic lighting, cinematic lighting, wonder expression.",
+      "camera_effect": "static"
     },
     {
       "text": "If useful, please like and subscribe!",
