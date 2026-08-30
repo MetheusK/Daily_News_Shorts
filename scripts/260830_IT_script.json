@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "FUTURE IS HERE",
+    "narration": "WARNING! Everything you know about internet speed and wireless tech is about to change forever!",
+    "image_description": "Extreme close-up of a human eye (cybernetic, reflecting data) showing a glitching future city overlay, dramatic cyberpunk neon lighting, red warning lights. Expression: Intense focus.",
+    "mood_color": "neon_green"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "INTERNET REBOOT",
+    "image_description": "A hyper-realistic 3D render of a glowing, intricate optical fiber network hub at the center, surrounded by shimmering data streams, cyberpunk aesthetic, dramatic backlighting, 8k resolution.",
+    "reasoning": "The phrase 'INTERNET REBOOT' is impactful and suggests a major, exciting shift. The visual of a glowing, complex network hub clearly signals advanced technology and creates curiosity, encouraging clicks."
+  },
+  "title": "Your Internet is About to Change: Sivers' $1.2B Tech",
+  "segments": [
+    {
+      "text_overlay": "SIVERS' $1.2B",
+      "narration": "Sivers, a leading tech firm, announced a massive $1.2 billion project pipeline. This investment fuels cutting-edge photonics and radio frequency advancements crucial for future tech.",
+      "image_description": "Futuristic data center interior with glowing optical fibers, high-speed data streams visually represented, dramatic lighting.",
+      "camera_effect": "dynamic_pan_zoom"
+    },
+    {
+      "text_overlay": "LIGHT-SPEED DATA",
+      "narration": "Photonics uses light for data transfer, enabling significantly faster internet speeds and lower energy consumption than traditional electronics. It’s the backbone of future communication.",
+      "image_description": "Abstract representation of light waves carrying digital data through transparent conduits, integrated circuits with visible light paths, cybernetic feel.",
+      "camera_effect": "static"
+    },
+    {
+      "text_overlay": "FUTURE WIRELESS",
+      "narration": "Advanced Radio Frequency (RF) innovations power tomorrow's wireless connectivity. Expect lightning-fast device communication, crucial for immersive AR/VR experiences and truly seamless smart homes.",
+      "image_description": "Person wearing sleek AR smart glasses interacting with a holographic interface in a modern living room, smart home devices subtly glowing, cinematic lighting.",
+      "camera_effect": "dolly_zoom"
+    },
+    {
+      "text_overlay": "2027 READY",
+      "narration": "These cutting-edge photonics and RF programs are slated for production by 2027. This timeline positions Sivers at the forefront of the global infrastructure shift.",
+      "image_description": "Digital calendar showing '2027' prominently, with abstract network lines connecting global cities on a holographic globe, futuristic clean factory setting in background.",
+      "camera_effect": "tilt_up"
+    },
+    {
+      "text_overlay": "DAILY LIFE CHANGE",
+      "narration": "The implications are immense: faster downloads, clearer streaming, more responsive gaming. These advancements will profoundly impact future medical diagnostics and our everyday digital interactions.",
+      "image_description": "A composite visual showing a person enjoying VR gaming, another on a seamless video call, and various smart devices working in harmony, all with subtle glow effects.",
+      "camera_effect": "static"
+    },
+    {
+      "text_overlay": "SHAPING OUR FUTURE",
+      "narration": "Sivers is a key player, leveraging advanced photonics and RF for faster, more efficient data transfer and communication, quietly shaping our future tech landscape.",
+      "image_description": "Abstract network of glowing nodes and interconnected lines forming a complex intelligent core, sense of exponential growth and profound connection, dramatic lighting.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
