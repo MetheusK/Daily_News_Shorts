@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "EDUCATION SHOCK!",
+    "narration": "Warning! The U.S. Education Department just fundamentally changed your learning experience, and you won't believe what's coming!",
+    "image_description": "A student's cybernetic eye with a glowing iris, reflecting a holographic classroom filled with advanced AI teachers, aggressive red and blue neon lighting, digital glitch effect. Intense focus and determination.",
+    "mood_color": "neon_green"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "SCHOOL AI BOOST",
+    "image_description": "A highly detailed 8k 3D render of a futuristic classroom with glowing holographic displays and interactive whiteboards. A sleek, metallic robot arm gestures towards a student wearing a sophisticated VR headset, all dramatically backlit with cyberpunk lighting. Focus on the advanced tech objects.",
+    "reasoning": "The 'SCHOOL AI BOOST' text is positive and intriguing, hinting at significant innovation. The visual foregrounds cutting-edge educational technology, creating a high-contrast, aspirational image that directly appeals to a broad audience interested in the future of learning, ensuring high click-through rates."
+  },
+  "title": "EdTech Revolution: Government's Game-Changer!",
+  "segments": [
+    {
+      "text": "The U.S. Education Department is revamping Edtech purchases, aiming for more effective integration of technology in schools. This significant shift impacts millions of students nationwide.",
+      "image_prompt": "A stylized, modern school building facade with glowing digital overlays, reflecting abstract data streams, cinematic lighting. Focus on architectural detail.",
+      "camera_effect": "tracking_shot",
+      "text_overlay": "TECH IN SCHOOLS"
+    },
+    {
+      "text": "Historically, K-12 Edtech adoption faced hurdles like complexity and cost. New strategies target these issues, streamlining access for educational institutions across all states.",
+      "image_prompt": "A stack of old, dusty textbooks with a vibrant, holographic 'ERROR' message hovering above them. Digital corruption effect on the books, dramatic low light. Focus on the holographic message.",
+      "camera_effect": "zoom_out",
+      "text_overlay": "OLD WAYS OUT"
+    },
+    {
+      "text": "This initiative means simplified procurement processes and increased funding for proven educational technologies. Expect new AI-powered learning tools and virtual reality platforms soon.",
+      "image_prompt": "A futuristic holographic interface displaying vibrant charts showing increased budget allocation, with subtle AI circuitry patterns in the background, neon blue lighting. Intense focus on the glowing charts.",
+      "camera_effect": "pan_left",
+      "text_overlay": "MORE FUNDING"
+    },
+    {
+      "text": "Schools will now more easily acquire cutting-edge tools, including personalized adaptive learning systems and immersive simulations. This directly impacts student engagement and outcomes.",
+      "image_prompt": "A student wearing sleek smart glasses, their glowing iris reflecting a dynamic, personalized learning dashboard with interactive 3D models. Dramatic side lighting highlights their focused expression.",
+      "camera_effect": "dolly_in",
+      "text_overlay": "LEARN SMARTER"
+    },
+    {
+      "text": "The goal is to close digital divides and ensure equitable access to innovative learning experiences for every student, from urban centers to rural communities.",
+      "image_prompt": "A global map made of light, with digital pathways connecting diverse regions. Symbolizes equitable access to technology, with bright, hopeful lighting. Focus on the interconnected pathways.",
+      "camera_effect": "tilt_up",
+      "text_overlay": "EQUAL ACCESS"
+    },
+    {
+      "text": "By 2025, experts predict a 30% surge in Edtech adoption, reshaping classrooms. This landmark change promises a truly future-ready generation of learners.",
+      "image_prompt": "A time-lapse shot of a classroom evolving from traditional desks to futuristic holographic workstations with AI assistants. Overlaid with a prominent glowing '2025' and a rising bar graph, cyberpunk aesthetic.",
+      "camera_effect": "static",
+      "text_overlay": "FUTURE READY"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
