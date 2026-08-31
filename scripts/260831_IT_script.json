@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI HACKING CRISIS",
+    "narration": "Elon Musk warns: AI hacking will become 'superhuman' by 2027! Are you ready for the digital danger?",
+    "image_description": "A digital lock with glowing red warning lights, glitching cybernetic eyes reflecting data streams, dramatic side lighting, showing intense focus and concern.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI THREAT 2027",
+    "image_description": "A stylized 3D render of a glowing, complex neural network spreading over a server rack, with abstract red lines indicating data breaches. Cyberpunk aesthetic, 8k resolution, dramatic backlighting.",
+    "reasoning": "Combines a specific, urgent threat ('AI THREAT') with a striking technical visual and a date ('2027') to create immediate intrigue and click-through appeal for both tech-savvy and general audiences concerned about AI."
+  },
+  "title": "Musk's AI Hacking Alert & Foldable Phone Future!",
+  "segments": [
+    {
+      "overlay_text": "AI HACKING WARNING",
+      "text": "Elon Musk warns AI hacking will achieve 'superhuman' capabilities by late 2027. This could revolutionize digital security risks for everyone.",
+      "image_prompt": "A digital representation of AI code rapidly scrolling on a screen, with a subtle skull icon formed by data streams, cinematic lighting.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "overlay_text": "SECURITY BREACHES",
+      "text": "This implies advanced breaches bypassing current defenses, impacting personal data, critical infrastructure, and even national security frameworks.",
+      "image_prompt": "A stylized digital lock being broken by glowing red data streams, cybernetic hands reaching towards a vulnerable server, dramatic side lighting.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "overlay_text": "FOLDABLE PHONES SEPT",
+      "text": "Huawei and Apple are set to launch new foldable phones in September. This signals a major shift in the smartphone market landscape.",
+      "image_prompt": "A sleek, futuristic foldable smartphone subtly opening to reveal a larger screen, held by a hand with cyberpunk neon lighting, focused.",
+      "camera_effect": "static"
+    },
+    {
+      "overlay_text": "BIGGER SCREENS NOW",
+      "text": "These devices offer increased screen real estate and portability, enhancing multitasking, content consumption, and daily user experience.",
+      "image_prompt": "A user's face, showing wonder and serious thought, reflected in the vibrant display of a foldable phone, digital interface overlays, cinematic lighting.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "overlay_text": "TECH RACE INTENSIFIES",
+      "text": "With major players like Apple entering, competition will drive rapid innovation, pushing design limits and making foldables more accessible.",
+      "image_prompt": "Two abstract, stylized smartphone shapes (one foldable) clashing like titans in a digital arena, glowing energy radiating, 3D render.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "overlay_text": "FUTURE IS HERE",
+      "text": "This 'Annual Technology Outlook' suggests 2024-2027 will redefine digital interaction, with AI and flexible hardware leading transformative change.",
+      "image_prompt": "A holographic timeline projecting future tech milestones, including AI interfaces and flexible device forms, set against a backdrop of a data center, cyberpunk neon.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
