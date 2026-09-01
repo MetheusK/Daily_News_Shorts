@@ -1,52 +1,46 @@
 {
   "hook_plan": {
-    "overlay_text": "AI HACKING CRISIS",
-    "narration": "Elon Musk warns: AI hacking will become 'superhuman' by 2027! Are you ready for the digital danger?",
-    "image_description": "A digital lock with glowing red warning lights, glitching cybernetic eyes reflecting data streams, dramatic side lighting, showing intense focus and concern.",
-    "mood_color": "red"
+    "overlay_text": "TECH REVOLUTION!",
+    "narration": "Warning! The tech world just shifted, and your daily life will never be the same again!",
+    "image_description": "Dynamic extreme close-up of a cybernetic eye, reflecting a rapid montage of AI interfaces, self-driving cars, and data streams, with electric blue and red warning lights flashing dramatically, cinematic lighting.",
+    "mood_color": "neon_green"
   },
   "thumbnail_plan": {
-    "thumbnail_text": "AI THREAT 2027",
-    "image_description": "A stylized 3D render of a glowing, complex neural network spreading over a server rack, with abstract red lines indicating data breaches. Cyberpunk aesthetic, 8k resolution, dramatic backlighting.",
-    "reasoning": "Combines a specific, urgent threat ('AI THREAT') with a striking technical visual and a date ('2027') to create immediate intrigue and click-through appeal for both tech-savvy and general audiences concerned about AI."
+    "thumbnail_text": "FUTURE UNLOCKED",
+    "image_description": "A hyper-realistic 3D render of a glowing, futuristic neural network chip at the center, surrounded by holographic data streams, with dramatic backlighting in deep blues and purples. 8k resolution, cyberpunk style.",
+    "reasoning": "The bold, direct text combined with a visually striking, high-tech object immediately grabs attention and implies profound change, prompting a click."
   },
-  "title": "Musk's AI Hacking Alert & Foldable Phone Future!",
+  "title": "Your Future: Tech Just Shifted!",
   "segments": [
     {
-      "overlay_text": "AI HACKING WARNING",
-      "text": "Elon Musk warns AI hacking will achieve 'superhuman' capabilities by late 2027. This could revolutionize digital security risks for everyone.",
-      "image_prompt": "A digital representation of AI code rapidly scrolling on a screen, with a subtle skull icon formed by data streams, cinematic lighting.",
-      "camera_effect": "zoom_in"
+      "text": "The Baker's Dozen report highlights 13 top tech investments in hospitality for 2024. AI-driven personalization and automation are key to enhanced guest experiences.",
+      "image_prompt": "Futuristic hotel lobby with smart displays, a cybernetic concierge with a glowing iris greeting guests, cinematic lighting, calm atmosphere.",
+      "camera_effect": "smooth_pan"
     },
     {
-      "overlay_text": "SECURITY BREACHES",
-      "text": "This implies advanced breaches bypassing current defenses, impacting personal data, critical infrastructure, and even national security frameworks.",
-      "image_prompt": "A stylized digital lock being broken by glowing red data streams, cybernetic hands reaching towards a vulnerable server, dramatic side lighting.",
-      "camera_effect": "pan_left"
-    },
-    {
-      "overlay_text": "FOLDABLE PHONES SEPT",
-      "text": "Huawei and Apple are set to launch new foldable phones in September. This signals a major shift in the smartphone market landscape.",
-      "image_prompt": "A sleek, futuristic foldable smartphone subtly opening to reveal a larger screen, held by a hand with cyberpunk neon lighting, focused.",
-      "camera_effect": "static"
-    },
-    {
-      "overlay_text": "BIGGER SCREENS NOW",
-      "text": "These devices offer increased screen real estate and portability, enhancing multitasking, content consumption, and daily user experience.",
-      "image_prompt": "A user's face, showing wonder and serious thought, reflected in the vibrant display of a foldable phone, digital interface overlays, cinematic lighting.",
+      "text": "Data analytics and IoT are crucial for operational efficiency, impacting hotel management from check-in to customized services and resource allocation.",
+      "image_prompt": "Overhead shot of a digital dashboard showing real-time hotel data, glowing charts and graphs, with interconnected IoT devices highlighted, dramatic side lighting.",
       "camera_effect": "zoom_out"
     },
     {
-      "overlay_text": "TECH RACE INTENSIFIES",
-      "text": "With major players like Apple entering, competition will drive rapid innovation, pushing design limits and making foldables more accessible.",
-      "image_prompt": "Two abstract, stylized smartphone shapes (one foldable) clashing like titans in a digital arena, glowing energy radiating, 3D render.",
-      "camera_effect": "pan_right"
+      "text": "CYBER.ORG launched an Industry Advisory Board to bolster cybersecurity and AI education. This addresses critical skill gaps for national security.",
+      "image_prompt": "People in a futuristic classroom setting, holographic code projections around them, a person with smart glasses showing data reflecting in their eyes, intense focus.",
+      "camera_effect": "static"
     },
     {
-      "overlay_text": "FUTURE IS HERE",
-      "text": "This 'Annual Technology Outlook' suggests 2024-2027 will redefine digital interaction, with AI and flexible hardware leading transformative change.",
-      "image_prompt": "A holographic timeline projecting future tech milestones, including AI interfaces and flexible device forms, set against a backdrop of a data center, cyberpunk neon.",
-      "camera_effect": "zoom_in"
+      "text": "Led by experts like Rodney Petersen, this board ensures educational programs align with evolving industry needs, preparing the future tech workforce.",
+      "image_prompt": "Close-up of a diverse group of serious, focused tech professionals in a collaborative meeting, subtle digital network overlay, dramatic side lighting.",
+      "camera_effect": "slow_zoom"
+    },
+    {
+      "text": "Autonomous driving leader WeRide is now included in the prestigious HKEX Tech 100 Index, reflecting significant market confidence and innovation.",
+      "image_prompt": "A sleek, futuristic autonomous vehicle driving smoothly through a neon-lit cyberpunk city at night, vibrant reflections on its surface, cinematic lighting.",
+      "camera_effect": "tracking_shot"
+    },
+    {
+      "text": "This inclusion following the 2026 review underscores the rapid global adoption and investment growth in L4 self-driving technology.",
+      "image_prompt": "Holographic representation of the HKEX Tech 100 Index with WeRide's logo prominently displayed, digital glitch effects around financial data, 3D render.",
+      "camera_effect": "fast_cut"
     },
     {
       "text": "If useful, please like and subscribe!",
