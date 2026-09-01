@@ -1,0 +1,46 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI IS COMING!",
+    "narration": "WARNING! Massive tech shifts are accelerating, preparing to redefine your daily life by 2026!",
+    "image_description": "A close-up of a human eye with a glowing, digital iris reflecting abstract data patterns. Cyberpunk neon lighting, intense focus expression, through smart glasses. No gore.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "FUTURE TECH REVEALED",
+    "image_description": "A 3D render of a futuristic smartphone glowing with holographic data, surrounded by abstract circuit patterns, centered composition, dramatic blue and purple backlighting, 8k resolution, cyberpunk style.",
+    "reasoning": "The 'Future Tech Revealed' text coupled with a visually striking, futuristic object creates mystery and promise, enticing clicks for insight into upcoming innovations."
+  },
+  "title": "Your Future: AI & Cyber Skills Revealed!",
+  "segments": [
+    {
+      "text": "IFA 2026 predicts AI's seamless integration into daily devices. Smart homes will gain predictive intelligence, effortlessly optimizing your routines. Get ready for smarter living!",
+      "image_prompt": "A living room with holographic interfaces, AI assistant projecting information, cinematic lighting, expressions of wonder and ease.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "Sustainability is a core IFA 2026 focus. New tech prioritizes eco-friendly materials and energy efficiency, driving a circular economy in future consumer electronics.",
+      "image_prompt": "A person interacting with a transparent tablet showing green energy graphs, glowing plant motifs, determined expression, cinematic lighting.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "IFA 2026 showcases AR/VR innovations beyond gaming. These will transform education, work, and shopping, creating deeply immersive experiences for daily life.",
+      "image_prompt": "A student wearing sleek smart glasses, holographic projections around them showing educational content, focused expression, cyberpunk neon lighting.",
+      "camera_effect": "dolly_zoom"
+    },
+    {
+      "text": "CYBER.ORG launched a new Industry Advisory Board to strengthen cybersecurity education. This crucial step addresses a critical global talent gap immediately.",
+      "image_prompt": "Abstract digital network lines converging into a secure shield icon, reflecting in a cybernetic eye, dramatic side lighting, red warning glows.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "The board integrates cutting-edge AI skills into curricula. This proactive measure prepares students for complex, AI-driven job markets and future career opportunities.",
+      "image_prompt": "A diverse group of individuals (representing a board) looking at a holographic data display showing AI algorithms and student avatars, intense focus, cinematic lighting.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
