@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "CHIP SHIFT ALERT",
+    "narration": "Urgent warning! A fundamental shift in chip manufacturing is silently reshaping the entire semiconductor supply chain, impacting billions!",
+    "image_description": "A close-up of a cybernetic eye reflecting complex data streams and a flickering holographic wafer map. Intense red warning lights, dramatic side lighting, digital corruption effects around the edges.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "CPO REVOLUTION?",
+    "image_description": "A hyper-realistic 3D render of a glowing, translucent co-packaged optics (CPO) module centrally positioned, connected to a sophisticated server rack via intricate fiber optics. Ethereal blue and purple data streams flow around the object. Dark, cyberpunk background with dramatic backlighting, 8k resolution.",
+    "reasoning": "The technical term 'CPO' combined with 'Revolution?' creates immediate intrigue for industry insiders and investors, hinting at a major technological shift without being alarmist. The object-focused, high-quality render emphasizes the technology itself, appealing directly to engineers and investors seeking future trends."
+  },
+  "title": "Semiconductor Seismic Shift: CPO & AI Memory's Impact",
+  "segments": [
+    {
+      "text": "Chip giants are aggressively pursuing Co-Packaged Optics (CPO) technology. This shift integrates optical and electrical components directly, optimizing data center speed and power efficiency.",
+      "image_prompt": "A detailed render of a co-packaged optics (CPO) module with glowing internal fiber connections, integrated into a futuristic server board. Holographic data lines emanating from the module, cinematic lighting.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "CPO adoption is critical for scaling AI infrastructure, directly addressing GPU data bottlenecks. This necessitates substantial CAPEX investment in advanced packaging and photonic integration.",
+      "image_prompt": "A futuristic data center aisle with rows of glowing server racks. One rack prominently displays a large, illuminated GPU with holographic CAPEX projections floating above. Cyberpunk neon lighting.",
+      "camera_effect": "dolly_zoom"
+    },
+    {
+      "text": "AI memory stocks, including Micron and SK Hynix, rallied post-NVIDIA earnings. Demand for High Bandwidth Memory (HBM) modules is unprecedented, fueled by AI accelerators.",
+      "image_prompt": "Digital stock charts showing upward trends for 'MU' and '000660.KS' (Micron, SK Hynix) overlaid on a background of a sleek NVIDIA GPU. Glowing green lines indicate market rally.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "HBM production, particularly HBM3E, faces significant yield challenges. Complex stacking of multiple DRAM wafers demands extreme precision, impacting supply chain availability and cost.",
+      "image_prompt": "A microscopic, hyper-realistic view of HBM3E DRAM wafers being stacked, showing intricate connections. A subtle red glitch effect around areas of high complexity, symbolizing yield challenges. Dramatic lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Despite recent stock movements, Micron remains indispensable for NVIDIA's AI dominance. Their HBM innovations are crucial, influencing GPU performance and market valuation.",
+      "image_prompt": "A powerful NVIDIA GPU and a Micron HBM stack prominently displayed side-by-side, reflecting complex data streams. A holographic overlay showing 'Valuation' metrics. Focused, technical aesthetic.",
+      "camera_effect": "slow_pan"
+    },
+    {
+      "text": "The future of AI computing hinges on these crucial manufacturing efficiencies.",
+      "image_prompt": "A close-up of a human hand, wearing a transparent smart glove, manipulating a holographic blueprint of a futuristic, highly efficient chip architecture. The individual's eyes (visible through smart glasses) are reflecting the intricate data with intense focus. Cinematic lighting.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
