@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI'S WEAK POINT!",
+    "narration": "Warning! The $5 trillion AI revolution is built on a dangerous secret, and your data is at risk!",
+    "image_description": "A close-up of a human eye, glowing with digital data patterns, reflecting a glitching AI interface. Cinematic lighting, cyberpunk neon hues, urgent red warning lights flickering.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI SECURITY CRISIS",
+    "image_description": "A 3D render of a futuristic server rack with holographic security shields, a glowing data lock symbol at its core. Dark, dramatic backlighting, hyper-realistic, 8k resolution.",
+    "reasoning": "This thumbnail focuses on a central, technical object (server rack/security) directly tied to the news, using strong visuals and a compelling, slightly alarming text to capture attention and imply a critical, large-scale issue, encouraging clicks without relying on generic 'shocked faces'."
+  },
+  "title": "The $5 Trillion AI Security Threat Revealed",
+  "segments": [
+    {
+      "text": "Palo Alto Networks CEO Nikesh Arora warns: the projected $5 trillion AI infrastructure buildout desperately needs an entirely new security stack.",
+      "image_prompt": "A digital representation of a vast, interconnected network grid, with a glowing red 'warning' overlay. High-tech, clean, clear.",
+      "camera_effect": "zoom_in_slow"
+    },
+    {
+      "text": "Existing cybersecurity systems simply aren't designed to handle the complex, unique threats emerging from widespread AI deployment across all industries.",
+      "image_prompt": "Abstract digital lines representing data flow converging into a complex AI brain graphic, with a thin, almost invisible barrier. Cinematic lighting, focused.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "This monumental $5 trillion investment will integrate AI into every sector, from finance to healthcare, demanding robust, dedicated protection strategies.",
+      "image_prompt": "Holographic overlays showing various industry icons (hospital, bank, factory) connected by glowing AI pathways, protected by a digital force field. Clear, technical.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Arora emphasizes the urgent need for a new 'security stack' specifically engineered to safeguard AI models, vast data sets, and critical operations.",
+      "image_prompt": "A cybernetic hand places a glowing, modular 'security block' onto a foundational AI architecture diagram. Intense focus, dramatic side lighting.",
+      "camera_effect": "zoom_out_slow"
+    },
+    {
+      "text": "Without this, the rapid scaling of AI applications risks unprecedented data breaches, system compromises, and operational failures affecting everyone globally.",
+      "image_prompt": "A screen displaying an AI algorithm with glitching, corrupted data effects and red digital warning signals. Intense, focused, no gore.",
+      "camera_effect": "shake_subtle"
+    },
+    {
+      "text": "This means the global cybersecurity market protecting AI could see massive, unprecedented growth, potentially reaching hundreds of billions in new investment.",
+      "image_prompt": "A bar graph with an upward trend showing 'AI Security Market Growth,' overlaid with glowing numbers and a prominent dollar sign. Concrete, technical, clear.",
+      "camera_effect": "pan_up"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
