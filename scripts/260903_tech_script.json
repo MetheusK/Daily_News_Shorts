@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "YOUR CAR IS DYING",
+    "narration": "Warning! The secret car manufacturers don't want you to know about your high-tech vehicle's hidden flaw!",
+    "image_description": "Close-up of a futuristic car's digital dashboard, displaying critical system errors and glitched graphics. A driver's face is seen reflected in the screen, eyes showing intense focus, with cyberpunk neon lighting. Digital corruption effects.",
+    "mood_color": "neon_red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "TECH CAR CRISIS",
+    "image_description": "A sleek, modern electric car interior, with the central infotainment screen showing a shattered digital interface or a 'System Error' message. 3D Render, cyberpunk aesthetic, dramatic backlighting, 8k resolution.",
+    "reasoning": "Highlights the core problem (tech failure in modern cars) with a strong visual and text, creating urgency and curiosity about the specific 'crisis'."
+  },
+  "title": "Your New Car Ages WORSE Than an iPhone!",
+  "segments": [
+    {
+      "text": "Modern vehicles, loaded with advanced software, are experiencing rapid digital obsolescence. This affects resale value and long-term functionality for owners globally.",
+      "image_prompt": "A digital roadmap overlayed on a modern car chassis diagram, showing obsolete components highlighted with red digital glitch lines. Cinematic lighting, technical focus.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "Gadget Review highlights 10 specific high-tech cars aging worse than an iPhone. Software updates often cease, leaving vital infotainment and navigation systems unsupported.",
+      "image_prompt": "Split screen: left shows a decaying iPhone screen with glitch text; right shows a car's infotainment system displaying an 'Update Failed' message. Technical data flowing around screens.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "Owners face high repair costs for integrated tech like complex driver-assist systems. Simple fixes now require specialized, expensive software diagnostics and parts replacement.",
+      "image_prompt": "A mechanic working on a car's engine bay, but instead of wrenches, they are interacting with a holographic diagnostic interface showing complex code and failing modules. Intense focus.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Manufacturers prioritize new models, often discontinuing support for previous year's tech. This planned obsolescence cycle drives new car sales and frustrates consumers.",
+      "image_prompt": "An assembly line of futuristic cars, with older models in the background digitally fading or showing 'end-of-life' icons. Cyberpunk neon glow on the new models.",
+      "camera_effect": "dolly_zoom"
+    },
+    {
+      "text": "Prospective car buyers must now consider a vehicle's \"tech lifespan,\" not just mechanical reliability. This crucial shift impacts purchasing criteria significantly.",
+      "image_prompt": "A person looking through smart glasses, data overlays showing a car's 'tech lifecycle' chart with a steep decline, indicating rapid depreciation. Expression of serious thought.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "Industry experts predict this trend will intensify, with software-defined vehicles dominating. Over-the-air updates may extend life, but not indefinitely for older hardware.",
+      "image_prompt": "A neural network graphic expanding into a blueprint of a car, with digital lines highlighting software components. Some nodes are red, indicating potential failure points. High-tech, analytical.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
