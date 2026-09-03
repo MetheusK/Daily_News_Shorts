@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "YOUR CAR IS DOOMED",
+    "narration": "Warning! That new high-tech car might be dying faster than your old iPhone!",
+    "image_description": "Close-up of a high-tech car dashboard display glitching with red digital corruption, a reflection of a concerned, determined eye visible through smart glasses, cyberpunk neon lighting, cinematic lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "CARS DIE FAST",
+    "image_description": "A sleek, futuristic car interior with visible holographic data streams projecting from its dashboard, partially overlaid with subtle digital decay and static effect. Hyper-realistic 3D Render, 8k resolution, dramatic backlighting, object centered.",
+    "reasoning": "The image of a decaying futuristic car directly visualizes the core problem, while the punchy text 'CARS DIE FAST' creates urgency and curiosity, compelling a click to understand the implication."
+  },
+  "title": "High-Tech Cars: Your Next Digital Obsolescence Nightmare?",
+  "segments": [
+    {
+      "text": "Many high-tech cars are rapidly becoming obsolete, mirroring old smartphones. Owners face significant functionality degradation as software ages without critical updates.",
+      "image_prompt": "A futuristic car interior with a faded, glitching infotainment screen, showing outdated maps and apps. Intense focus of a driver through smart glasses, reflecting code.",
+      "camera_effect": "static",
+      "text_overlay": "TECH AGING"
+    },
+    {
+      "text": "Key systems like navigation, infotainment, and advanced driver assistance rely on complex, proprietary software. This tech often lacks long-term support from manufacturers.",
+      "image_prompt": "Abstract digital network lines connecting car components, some lines breaking or flickering. Cyberpunk neon glow around connections, serious thought expression.",
+      "camera_effect": "zoom_in",
+      "text_overlay": "PROPRIETARY LOCK"
+    },
+    {
+      "text": "Data shows vehicles from major brands experience 30-40% performance drops in core digital features after just five years. Think slow UIs and unresponsive commands.",
+      "image_prompt": "A speedometer needle dramatically dropping towards zero, with digital statistics displaying '30-40% drop' in a red, glitchy font. Cinematic lighting on dashboard.",
+      "camera_effect": "pan_left",
+      "text_overlay": "5 YEAR DECAY"
+    },
+    {
+      "text": "Unlike phones, car components are deeply integrated; replacing obsolete tech is costly, often requiring entire system overhauls. Software fixes are incredibly rare.",
+      "image_prompt": "A cybernetic hand attempting to replace a glowing, intricate car circuit board, but encountering digital corruption. Complex integration visual, dramatic side lighting.",
+      "camera_effect": "static",
+      "text_overlay": "EXPENSIVE FIX"
+    },
+    {
+      "text": "This accelerating obsolescence impacts resale value significantly, potentially reducing a car's worth by 15-20% due to outdated digital capabilities alone. A hidden cost.",
+      "image_prompt": "Digital graph showing a steep downward trend for 'Car Value' over time, with numbers like '-15-20%'. Background of a car lot with holographic price tags.",
+      "camera_effect": "zoom_out",
+      "text_overlay": "VALUE PLUMMETS"
+    },
+    {
+      "text": "The industry trend suggests a future where your car’s digital life cycle dictates its practical lifespan, demanding new consumer purchasing patterns.",
+      "image_prompt": "A futuristic car fading into digital dust, replaced by a new, glowing model. A glowing iris reflects this transformation, intense focus. Cyberpunk neon lighting.",
+      "camera_effect": "static",
+      "text_overlay": "NEW CAR CYCLE"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
