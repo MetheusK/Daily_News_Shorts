@@ -1,0 +1,46 @@
+{
+  "hook_plan": {
+    "overlay_text": "TARIFF SHOCK!",
+    "narration": "Warning! New tariffs just dropped, threatening the entire semiconductor boom!",
+    "image_description": "A digital grid forming a barrier, with glitch effects and pulsing red warning lights. A cybernetic eye reflects complex data streams related to global trade, showing intense focus.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "CHIP WAR ESCALATES",
+    "image_description": "3D render of a highly detailed, glowing microchip at the center, surrounded by abstract, intertwining metallic lines representing global supply chains. Dramatic backlighting, 8k resolution, cyberpunk aesthetic.",
+    "reasoning": "The image is object-centric and visually striking, implying geopolitical tension and market disruption without being overtly negative, appealing to investors and industry insiders with its mystery and scale."
+  },
+  "title": "Chip Tariffs & AI: The $1.6 Trillion Semiconductor Crossroads",
+  "segments": [
+    {
+      "text": "Global chip sales are projected to reach $1.6 trillion by 2030, maintaining a 15% CAGR. This exponential growth is driven by insatiable AI demand and critical data center CAPEX.",
+      "image_prompt": "Holographic projection of a rapidly rising market graph over a futuristic cityscape at night. Neon blue and green data streams. Intense focus through smart glasses reflecting the growth.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "Unprecedented CAPEX in HBM and GPU fabrication validates this surge. Industry giants like NVIDIA and TSMC are pushing design limits, meeting AI's intense compute requirements.",
+      "image_prompt": "Extreme close-up of HBM memory stacks on a silicon wafer, intricate circuitry glowing with internal light. Data streams flow across the surface like liquid metal.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "Beyond core AI, the Image Signal Processors market will hit $4.62 billion by 2026. Sony, Samsung, and Qualcomm lead in next-gen automotive and mobile applications.",
+      "image_prompt": "Digital render of an autonomous car's sensor array, focusing on a smart camera lens with a glowing iris reflecting data. Overlayed data streams highlight market projections.",
+      "camera_effect": "tilt_down"
+    },
+    {
+      "text": "Crucially, a 'Build in America or Pay' tariff phase is confirmed. This Lutnick-announced policy directly impacts global wafer manufacturing, forcing strategic re-evaluations.",
+      "image_prompt": "Stylized, glowing outline of a semiconductor factory with a transparent American flag overlaid. Digital corruption effects and pulsing red warning lights around it.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "The implications for future CAPEX and global supply chains are significant.",
+      "image_prompt": "A complex, glowing circuit board design intricately layered onto a holographic globe, highlighting key manufacturing regions with analytical data points. No human element, purely abstract data visualization.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
