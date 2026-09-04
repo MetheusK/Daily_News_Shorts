@@ -1,0 +1,46 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI IS HERE",
+    "narration": "Warning! Artificial Intelligence isn't just coming; it's already integrated into your daily life, and you barely noticed!",
+    "image_description": "Close-up of a person with glowing cybernetic eyes, reflecting lines of green data. Intense focus, dramatic side lighting, digital corruption overlay on the face, cinematic, 8k.",
+    "mood_color": "neon_green"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI: FUTURE IS NOW",
+    "image_description": "Hyper-realistic 3D render of a futuristic robot arm gently interacting with glowing holographic data projections on a high-tech warehouse floor. Dark background, dramatic backlighting, 8k resolution, cyberpunk aesthetic.",
+    "reasoning": "The object-focused image (robot arm, holographic data) with a bold, high-impact text immediately communicates the theme of AI's current power, grabbing attention without relying on generic 'shocked faces'."
+  },
+  "title": "AI: The Silent Takeover Happening NOW!",
+  "segments": [
+    {
+      "text": "The AI market is booming, projected to reach $1 trillion by 2030. This growth signifies massive shifts in technology adoption across industries and daily user experiences.",
+      "image_prompt": "3D render of a holographic stock graph rising sharply with 'AI' text, integrated into a futuristic city skyline, cinematic lighting, 8k.",
+      "camera_effect": "zoom_in_slow"
+    },
+    {
+      "text": "Warehousing is transforming: AI-powered robots now handle inventory and logistics, increasing efficiency by up to 40%. Companies like Amazon leverage this for faster, cheaper delivery.",
+      "image_prompt": "Hyper-realistic robotic arm with glowing blue joints precisely placing a package in an automated warehouse, digital inventory display in background, cinematic, 8k.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "In healthcare, AI assists diagnostics, predicting diseases earlier and personalizing treatment plans. New AI models are showing 95% accuracy in complex medical imaging analysis.",
+      "image_prompt": "A digital brain scan with glowing AI overlay identifying anomalies. A focused doctor's eye is visible through smart glasses reflecting medical data, cinematic, 8k.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Major tech companies are heavily investing; NVIDIA, Microsoft, and Google are leading the AI stock surge. Their advancements fuel innovation across consumer and enterprise solutions.",
+      "image_prompt": "Abstract representation of data streams converging towards glowing logos of NVIDIA, Microsoft, and Google, stylized circuit board background, cinematic, 8k.",
+      "camera_effect": "fly_through"
+    },
+    {
+      "text": "From smart assistants to predictive search, AI is subtly redefining everyday interactions. It's enhancing user experience through automation, impacting every digital touchpoint.",
+      "image_prompt": "A hand holding a smartphone with a vibrant, intuitive AI interface, holographic elements extending from the screen. Intense focus on the hand and screen, cinematic, 8k.",
+      "camera_effect": "zoom_out_slow"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
