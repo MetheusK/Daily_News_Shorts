@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "CHIP CRISIS ALERT",
+    "narration": "Semiconductor fabrication is facing a hidden crisis: TSMC's massive expansion plans are running out of critical labor!",
+    "image_description": "A close-up of a worker's cybernetic eye reflecting a holographic blueprint of a semiconductor fab under construction, dramatic red warning lights flashing, intense focus expression. Cinematic lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "SEMICON CRISIS",
+    "image_description": "A hyper-realistic 8k render of a glowing, intricately designed HBM chip at the center of a server rack, surrounded by holographic financial data charts. Cyberpunk aesthetic with dramatic blue backlighting.",
+    "reasoning": "This thumbnail prioritizes a high-detail, visually striking object (HBM chip) central to the semiconductor investment narrative. The 'CRISIS' text, combined with the technical visuals and financial data, immediately signals high stakes for investors and engineers, encouraging clicks."
+  },
+  "title": "TSMC Labor Crunch: The New Semiconductor Investment Challenge",
+  "segments": [
+    {
+      "text": "TSMC's equipment demand has doubled, yet a severe labor shortage plagues fab construction. This bottleneck significantly impacts projected wafer capacity for advanced nodes.",
+      "text_overlay": "FAB LABOR SHORTAGE",
+      "image_prompt": "A futuristic construction site for a semiconductor fab, holographic blueprints in the air, robotic arms working, but noticeably few human workers, dramatic side lighting, determined expression on a distant engineer's face."
+    },
+    {
+      "text": "This labor crunch directly elevates CAPEX for new facilities, threatening supply chain stability. Expect delays in delivering critical HBM and GPU wafers to market.",
+      "text_overlay": "CAPEX SPIKE",
+      "image_prompt": "Digital projection of a rising CAPEX chart over a futuristic semiconductor wafer, glitch effects, a focused engineer through smart glasses analyzing data, serious thought expression. Cinematic lighting."
+    },
+    {
+      "text": "Consequently, investors are now more selective, favoring 'pinpoint' ETFs focused on HBM, CPU, and NAND. Broad market exposure is losing traction.",
+      "text_overlay": "SELECTIVE INVESTING",
+      "image_prompt": "A stylized financial dashboard showing specific ETFs (HBM, CPU, NAND) highlighted, abstract data streams flowing, reflecting in a determined investor's cybernetic eye. Cyberpunk neon lighting."
+    },
+    {
+      "text": "The shift signals a deep market understanding: future growth hinges on specialized, high-yield components. HBM is now a critical valuation driver due to AI demand.",
+      "text_overlay": "HBM IS KEY",
+      "image_prompt": "A 3D render of a stacked HBM chip glowing intensely, connected by data lines to a powerful GPU, surrounded by complex AI algorithms visualized as light patterns. Cinematic lighting."
+    },
+    {
+      "text": "AI integration promises to transform manufacturing yields and operational efficiency. This segment is projected to hit a massive $26.82 billion by 2035.",
+      "text_overlay": "AI MARKET BOOM",
+      "image_prompt": "Robotic arm precisely handling a wafer in a cleanroom, overlaid with holographic AI analytics and predictive yield data, dramatic side lighting, a glowing iris reflecting data."
+    },
+    {
+      "text": "Valuation models now prioritize HBM and advanced packaging due to CAPEX shifts, signaling a new era of selective semiconductor investment.",
+      "text_overlay": "NEW VALUATION METRIC",
+      "image_prompt": "A digital display showing a complex valuation model graph with HBM and advanced packaging highlighted, a cybernetic hand pointing at key data points, serious thought expression, reflecting data."
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
