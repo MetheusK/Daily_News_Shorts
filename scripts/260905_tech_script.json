@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI IS EVERYWHERE!",
+    "narration": "WARNING! Your everyday tech just got a terrifying AI upgrade, and it's already changing everything!",
+    "image_description": "Close-up of a person's intense focus, eyes reflecting data streams and glowing holographic interfaces through smart glasses. Cinematic cyberpunk lighting with red and neon green accents. Digital glitch effects around the edges.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI FUTURE NOW",
+    "image_description": "A hyper-realistic 3D render of a glowing, intricate AI neural network chip, centrally placed. Dramatic backlighting creates strong contrasts. Cyberpunk aesthetic with deep blues and purples, and subtle data streams flowing around the chip. 8k resolution.",
+    "reasoning": "This thumbnail prioritizes a visually striking, advanced AI object, leveraging 3D hyper-realism and cyberpunk style to convey a powerful, futuristic message, prompting viewers to click for more about AI's immediate impact."
+  },
+  "title": "AI Dominates Tech: What It Means For YOU",
+  "segments": [
+    {
+      "text": "IFA 2026 reports show Artificial Intelligence completely dominating discussions, showcasing new applications across consumer tech. This signifies a universal shift.",
+      "image_prompt": "An overhead view of a bustling, futuristic tech convention floor. Holographic AI logos float above various booths, with attendees intently focused on demonstrations. Cinematic lighting emphasizes key areas.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "Google AI, OpenAI, and other leaders unveiled significant advancements in models like Gemini and Lamda. Their rapid iterations promise enhanced user experiences.",
+      "image_prompt": "A dynamic split screen showing the Google AI logo on one side and the OpenAI logo on the other. Subtle, glowing data lines connect them, representing advanced model development. Intense focus is suggested.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "ChatGPT-like functionalities are integrating directly into devices, offering personalized assistance and proactive insights. Expect smarter phones and appliances soon.",
+      "image_prompt": "A user's hand interacting with a sleek smartphone displaying a conversational AI interface. The screen shows helpful suggestions for daily tasks, with a focus on ease of use. Cinematic lighting on the hand and screen.",
+      "camera_effect": "dolly_zoom"
+    },
+    {
+      "text": "Industry analysts predict a 30% increase in AI-driven device sales next year alone. This adoption rate reflects overwhelming consumer demand for smart features.",
+      "image_prompt": "A modern, holographic bar graph showing a sharp upward trend for 'AI Device Sales Growth.' Futuristic digital interface elements overlay the graph, highlighting the 30% increase. Cyberpunk neon glow.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "AI now handles complex tasks, simplifying interfaces and boosting productivity for general users. This democratization of advanced tech is crucial for progress.",
+      "image_prompt": "A diverse group of individuals (students, remote workers, creatives) using various AI-powered devices effortlessly. Expressions of wonder and serious thought are visible. Dramatic side lighting.",
+      "camera_effect": "slow_pan_right"
+    },
+    {
+      "text": "AI breakthroughs are accelerating, rapidly integrating into consumer devices worldwide. This trend is defining our future now.",
+      "image_prompt": "A dynamic montage of various smart devices (smartphones, smart home hubs, wearables, autonomous vehicles) seamlessly connected by glowing data lines. These lines converge into a central, pulsating AI core. Cinematic lighting, cyberpunk aesthetic.",
+      "camera_effect": "fast_zoom_in"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
