@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "FAB CRUNCH WARNING",
+    "narration": "Stop scrolling! A hidden labor crisis threatens TSMC's 20-fab expansion, jeopardizing global chip supply!",
+    "image_description": "A digital rendering of a partially constructed mega-fab with glowing blue lines, viewed through smart glasses. Red warning lights flash on a cybernetic eye reflection. Intense focus, dramatic lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "TSMC BUILD CRISIS",
+    "image_description": "Hyper-realistic 3D render of a futuristic semiconductor wafer with glowing circuit patterns, partially obscured by a holographic blueprint of a factory. Dramatic side lighting, 8k resolution, centered composition.",
+    "reasoning": "Highlights the core issue of TSMC's building challenges and the future of chip production, using a strong, technical visual of a wafer and a factory blueprint to attract investors and engineers."
+  },
+  "title": "TSMC's Fab Crisis & AI CAPEX: Market Implications",
+  "segments": [
+    {
+      "text": "TSMC plans 20 new fabs globally, but faces critical construction worker shortages. This directly impacts long-term wafer output goals.",
+      "image_prompt": "A partially constructed futuristic fab with robotic arms moving materials, an overlay of digital blueprints and a highlighted area showing a worker shortage icon. Cinematic lighting.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "This labor bottleneck could delay CAPEX deployment, creating new supply chain chokepoints. Samsung Electronics watches closely for market shifts.",
+      "image_prompt": "Complex digital supply chain network visualization, with red warning indicators on a bottleneck node representing labor shortage. Analytical data interface, dark background.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "Samsung and SK Hynix are now testing Chinese chip tools following the VEU policy expiration. This diversifies their supply chain risks.",
+      "image_prompt": "A close-up of a technician, eyes reflecting data on a screen showing a 'VEU Expired' notification next to schematic diagrams of various chip manufacturing tools, including some with Chinese characters. Intense focus, dramatic side lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Shifting to local Chinese equipment could lower costs but introduces new geopolitical dependencies. Engineers are evaluating performance carefully.",
+      "image_prompt": "A split screen: one side showing a lower-cost, domestically sourced chip tool; the other showing a complex geopolitical map with flashing trade routes. A serious, thoughtful expression on a cybernetic face with glowing iris.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "AI's intense demand fuels a CAPEX boom. Foreign media estimate TSMC has 22% upside, reflecting its critical role in GPU manufacturing.",
+      "image_prompt": "A holographic projection of stacked GPU chips, surrounded by rising CAPEX graphs and a 22% 'upside' indicator. Dynamic lighting, analytical interface, cyberpunk aesthetic.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "The HBM market's extreme demand is driving record CAPEX, impacting long-term chip valuation.",
+      "image_prompt": "A macro shot of HBM memory stacks glowing, with digital data streams illustrating extreme demand and rising valuation curves. Cyberpunk neon aesthetic, dramatic backlighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
