@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI IS HERE",
+    "narration": "Warning! Artificial Intelligence isn't just a trend; it's rapidly reshaping our entire world, right now!",
+    "image_description": "Close-up of a human eye with a glowing cybernetic iris, reflecting complex data streams and schematics, dramatic side lighting, cyberpunk neon, intense focus.",
+    "mood_color": "neon_green"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI TAKES OVER",
+    "image_description": "A hyper-realistic 3D render of a futuristic, automated factory floor. Robotic arms with integrated glowing sensors are assembling complex components. Holographic data displays float above the machinery. Dramatic backlighting, 8k resolution, cinematic.",
+    "reasoning": "The image focuses on a striking, object-centric visual of advanced automation, directly hinting at AI's impact on industry. The bold, slightly alarming text creates curiosity and a 'must-watch' urgency for a high click-through rate."
+  },
+  "title": "AI's Secret Takeover: Your Daily Life Is Changing Now!",
+  "segments": [
+    {
+      "narration": "AI in manufacturing and supply chain is soaring. This market alone projects $27.66 billion by 2030, with a rapid 27.4% annual growth.",
+      "text_overlay": "AI MARKET EXPLODES",
+      "image_prompt": "A dynamic 3D graph showing exponential growth in digital space, intertwined with gears and microchips, set against a futuristic blue background, cinematic lighting.",
+      "camera_effect": "Zoom out"
+    },
+    {
+      "narration": "AI integration fundamentally optimizes production lines, predicts equipment failures, and ensures higher quality output. This reduces downtime and boosts factory efficiency.",
+      "text_overlay": "SMART FACTORIES",
+      "image_prompt": "A sleek, sterile factory floor with several robotic arms working in sync, glowing blue lines indicating data flow between them. A human supervisor observes intently through smart glasses, cinematic lighting.",
+      "camera_effect": "Pan left"
+    },
+    {
+      "narration": "Beyond the factory, AI is revolutionizing supply chains. It predicts delays, optimizes routes, and manages inventory, ensuring faster and more reliable deliveries.",
+      "text_overlay": "SUPPLY CHAIN AI",
+      "image_prompt": "A stylized holographic globe with digital lines representing optimized global shipping routes. Data packets are visibly flowing along the routes. A hand points at the globe (technical, not emotional), cyberpunk neon, cinematic lighting.",
+      "camera_effect": "Rotate globe"
+    },
+    {
+      "narration": "A related market, AI-powered demand forecasting, is set to reach $15.88 billion by 2030. This predicts consumer needs with incredible accuracy.",
+      "text_overlay": "PREDICTING DEMAND",
+      "image_prompt": "A busy retail store aisle with products perfectly arranged. Above the shelves, translucent holographic charts display real-time sales predictions and inventory levels. A person looks on with serious thought, cybernetic reflections in their eyes from a display, dramatic side lighting.",
+      "camera_effect": "Zoom in on holographic charts"
+    },
+    {
+      "narration": "This means less waste, smarter business decisions, and more tailored products available when you need them. It improves daily life behind the scenes.",
+      "text_overlay": "SMARTER LIFE",
+      "image_prompt": "A bustling, clean urban environment with self-driving delivery vehicles. A person receives a package from a drone, expressing wonder. The background features sustainable design and green tech. Cinematic lighting, bright and hopeful.",
+      "camera_effect": "Dolly shot"
+    },
+    {
+      "narration": "The future of AI is not coming, it's already here.",
+      "text_overlay": "IT'S ALREADY HERE",
+      "image_prompt": "A wide shot of a breathtaking futuristic cityscape at dawn, with towering skyscrapers and interconnected smart infrastructure. Subtle digital overlays shimmer across buildings, reflecting a new era, cinematic lighting.",
+      "camera_effect": "Static, slow reveal"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
