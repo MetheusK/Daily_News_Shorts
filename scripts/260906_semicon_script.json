@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "HBM CAPITAL SHOCKWAVE",
+    "narration": "Stock Alert! SK Hynix just revealed an unprecedented $28 billion capital surge! Are you ready for what comes next?",
+    "image_description": "Close-up of a human eye, cybernetically enhanced, reflecting rapidly changing stock market data charts with neon red warning lines. Glitch effects distort the edges, dramatic side lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "HBM DEMAND EXPLODES",
+    "image_description": "Hyper-realistic 3D render of a next-generation HBM (High Bandwidth Memory) chip, glowing with internal circuitry, centered on a dark, geometric pedestal with dramatic blue and purple backlighting. 8k resolution.",
+    "reasoning": "The thumbnail text directly addresses the core news, using high-value keywords for investors and engineers. The image of a high-tech HBM chip is visually striking and relevant, appealing to both technical and financial audiences without relying on generic human expressions, maximizing click-through rate."
+  },
+  "title": "SK Hynix's $28B HBM Surge: Investor & Engineer Alert",
+  "segments": [
+    {
+      "text": "SK Hynix's $28 billion share sale saw seven times oversubscription, signaling unprecedented investor confidence in HBM technologies and AI chip demand.",
+      "image_prompt": "Holographic projection of a massive financial transaction graph peaking dramatically, overlaying a subtle background of interconnected HBM chips, cinematic lighting.",
+      "camera_effect": "dynamic zoom in"
+    },
+    {
+      "text": "The colossal demand reflects soaring HBM memory requirements for AI GPUs like NVIDIA's. Yields and CAPEX are now critical for scaling production capacity.",
+      "image_prompt": "Cutaway view of an AI GPU stacked with HBM memory, glowing with internal data flow. Text overlays show 'Yield %' and 'CAPEX' figures, technical blue light.",
+      "camera_effect": "pan across components"
+    },
+    {
+      "text": "This capital influx fuels the global 'Silicon Race.' Key nations are pouring billions into semiconductor manufacturing; supply chain security is now paramount.",
+      "image_prompt": "Global map with illuminated semiconductor fabs in key regions (USA, Japan, Korea), interconnected by glowing supply chain lines, digital data streams, cyberpunk aesthetic.",
+      "camera_effect": "flyover map"
+    },
+    {
+      "text": "SK Hynix's valuation surge, reflecting HBM leadership, impacts competitors directly. This redefines capital allocation across the entire semiconductor supply chain.",
+      "image_prompt": "Complex network diagram visualizing semiconductor supply chain components, with SK Hynix's logo glowing centrally, showing capital flow arrows redistributing dynamically, analytical data overlay.",
+      "camera_effect": "data visualization reveal"
+    },
+    {
+      "text": "For engineers, immense pressure on wafer fab utilization and advanced packaging yields is critical. Innovation in manufacturing processes becomes a strategic imperative.",
+      "image_prompt": "Automated robotic arm delicately handling a silicon wafer in a cleanroom, bathed in dramatic side lighting. Holographic projections show yield percentage analytics and complex process flows.",
+      "camera_effect": "close-up of robotic arm"
+    },
+    {
+      "text": "Understand the implications for your portfolio. This is not just tech; it's a new economic paradigm.",
+      "image_prompt": "Abstract representation of interconnected global financial markets and technology networks, glowing lines of data forming a complex web, suggesting a new era of economic structure.",
+      "camera_effect": "cinematic wide shot"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
