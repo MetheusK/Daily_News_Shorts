@@ -1,46 +1,46 @@
 {
   "hook_plan": {
-    "overlay_text": "AI PROFIT SHOCK",
-    "narration": "Stop scrolling! The AI industry just had a massive financial shake-up, and you won't believe who's winning!",
-    "image_description": "Extreme close-up of a digital graph sharply increasing with green neon lines amidst glitching red data streams, a cybernetic eye reflecting complex financial data, dramatic side lighting, intense focus.",
+    "overlay_text": "YOUR WORLD IS CHANGING",
+    "narration": "Warning! A quiet tech revolution is reshaping your daily life and you don't even know it!",
+    "image_description": "Extreme close-up of a person's eye with cybernetic reflections of flowing data, intense focus, dramatic side lighting, digital glitch effect, red warning lights, cinematic lighting.",
     "mood_color": "red"
   },
   "thumbnail_plan": {
-    "thumbnail_text": "AI MONEY REVEALED",
-    "image_description": "A 3D render of a hyper-realistic, glowing neural network chip at the center, surrounded by holographic financial charts and abstract digital currency symbols, dramatic cyberpunk neon lighting, 8k resolution, centered composition.",
-    "reasoning": "The thumbnail prioritizes a striking visual of AI technology and financial data to pique curiosity about profit, directly appealing to the 'money' aspect of AI trends for clicks, distinct from the alarmist hook."
+    "thumbnail_text": "SILENT REVOLUTION",
+    "image_description": "A hyper-realistic 3D render of a glowing, intricate circuit board intertwined with a genetically modified plant sprout, and a tiny, perfectly smooth metal component. Cyberpunk style, dramatic backlighting, 8k resolution, centered composition.",
+    "reasoning": "Highlights the intersection of precision tech, biotech, and future manufacturing in a visually striking, mysterious way, driving curiosity for a 'silent' change."
   },
-  "title": "AI's Shocking Profit Turnaround: Winners & Losers Revealed!",
+  "title": "Secret Tech Changing EVERYTHING",
   "segments": [
     {
-      "text": "SenseTime, a key Chinese AI firm, posted a profit in 2023, driven primarily by generative AI applications. This marks a pivotal moment for AI commercialization.",
-      "image_prompt": "A clear 3D render of generative AI models transforming abstract data into tangible assets, representing SenseTime's success, glowing blue lines, cinematic lighting.",
-      "camera_effect": "zoom_in"
+      "text": "The \"Deburring Solutions Market\" will exceed $4.09 billion by 2030. This tech makes medical implants and devices incredibly smooth, improving their daily longevity and user experience.",
+      "image_prompt": "A robotic arm precisely deburring a micro-component, surrounded by a holographic display showing quality metrics, cinematic lighting.",
+      "camera_effect": "close-up zoom"
     },
     {
-      "text": "While many Chinese AI peers struggle with monetization, SenseTime's targeted use of large language models secured this crucial financial victory. A differentiated approach worked.",
-      "image_prompt": "Side-by-side comparison of two abstract digital entities; one thriving with a vibrant green glow, the other struggling with dim red low-power indicators, futuristic interface, dramatic side lighting.",
-      "camera_effect": "pan_left_right"
+      "text": "This growth drives precision manufacturing. Robots remove microscopic imperfections, creating stronger, reliable electronics and intricate components vital for next-gen tech.",
+      "image_prompt": "A glowing, hyper-detailed render of a perfectly smooth circuit board, reflecting data, 3D render, cyberpunk neon lighting.",
+      "camera_effect": "slow pan"
     },
     {
-      "text": "In the global market, Arista Networks and IBM present contrasting quarterly revenue trends among AI giants. Arista’s Q1 growth signals robust network demand.",
-      "image_prompt": "Dynamic digital display showing two distinct line graphs for 'Arista' and 'IBM' revenue, one rising sharply, the other flatter, overlaid on a backdrop of sleek server racks, cinematic lighting.",
+      "text": "Decentralized Clinical Trial Tech platforms are seeing huge revenue gains. This allows patients to join studies from home, boosting accessibility and speeding up crucial medical research.",
+      "image_prompt": "A person (face obscured by smart glasses) interacting with a holographic medical interface in a comfortable home setting, digital charts reflecting in glasses, cinematic lighting.",
       "camera_effect": "static"
     },
     {
-      "text": "Looking to IFA Berlin 2026, future tech trends will heavily feature advanced AI integration. Expect innovations in smart homes, robotics, and sustainable daily technologies.",
-      "image_prompt": "Holographic projections of future smart home devices and robots, interacting seamlessly, with data flowing through a digital city skyline, cyberpunk aesthetic, dramatic lighting.",
-      "camera_effect": "dolly_zoom"
+      "text": "Agriculture Technology, including CRISPR gene editing, is rapidly advancing. These innovations promise higher crop yields, disease resistance, and sustainable farming for a growing population.",
+      "image_prompt": "A glowing DNA double helix intertwined with a vibrant plant sprout, subtle green light, 3D render, high-tech lab background, serious thought expression in a scientist (eyes reflecting data).",
+      "camera_effect": "slow rotation"
     },
     {
-      "text": "Generative AI, exemplified by SenseTime, is proving crucial for creating new revenue streams beyond traditional software, pushing technological innovation boundaries significantly.",
-      "image_prompt": "A complex neural network visually generating diverse digital content like art, code, and text, with a glowing core, reflecting a focused eye through smart glasses, cinematic lighting.",
-      "camera_effect": "static"
+      "text": "Biotech and fertilizer updates signal a food production revolution. From enhanced plant resilience to improved nutrition, these changes directly impact our future food security.",
+      "image_prompt": "A vast, futuristic farm field with automated drones and glowing plants, hyper-realistic, 8k resolution, cinematic lighting, dramatic sunrise.",
+      "camera_effect": "drone shot"
     },
     {
-      "text": "This shift signals a new era for AI commercialization, with key players redefining profitability metrics globally.",
-      "image_prompt": "A globe made of interconnected digital nodes, glowing with data streams, symbolizing global AI commercialization and new financial structures, dramatic lighting, zoom_out camera effect.",
-      "camera_effect": "zoom_out"
+      "text": "This is happening now, shaping our future silently.",
+      "image_prompt": "A mesmerizing shot of a futuristic city skyline at dawn, data streams subtly flowing through buildings, a sense of quiet technological advancement, cinematic lighting.",
+      "camera_effect": "slow zoom out"
     },
     {
       "text": "If useful, please like and subscribe!",
