@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "HEALTHCARE IS CHANGING",
+    "narration": "WARNING! The future of medicine just changed forever, and you won't believe what's next!",
+    "image_description": "A close-up of a human eye with a subtle digital interface overlay, reflecting holographic medical data and glowing blue lines, intense focus, cinematic lighting, cyberpunk aesthetic.",
+    "mood_color": "neon_blue"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "NEW MEDICAL ERA",
+    "image_description": "A hyper-realistic 3D render of a futuristic smart medical device, sleek metallic and glowing blue accents, emitting holographic data streams, centered on a dark background with dramatic backlighting, 8k resolution, cyberpunk style.",
+    "reasoning": "Highlights a significant shift in medicine with a mysterious, advanced device, creating curiosity and urgency, adhering to object-focused thumbnail rules."
+  },
+  "title": "Global Tech Unveiled: Precision & Health",
+  "segments": [
+    {
+      "text": "The global deburring solutions market will exceed $4.09 billion by 2030. This tech ensures precision and flawless finishes in everyday products.",
+      "image_prompt": "Close-up of a high-precision robotic arm meticulously smoothing a metallic surface with glowing tools, industrial cleanroom, dramatic lighting, 8k resolution.",
+      "camera_effect": "static",
+      "text_overlay": "BILLION DOLLAR TECH"
+    },
+    {
+      "text": "From medical implants to smartphone components, deburring processes enhance product reliability and user safety, preventing microscopic defects.",
+      "image_prompt": "Macro shot of a pristine, sleek smartphone component, reflecting light perfectly, next to a highly polished medical instrument, hyper-realistic, 8k.",
+      "camera_effect": "zoom_out",
+      "text_overlay": "FLAWLESS PRODUCTS"
+    },
+    {
+      "text": "Simultaneously, decentralized clinical trial platforms are revolutionizing healthcare research, bringing trials directly to patients' homes using advanced technology.",
+      "image_prompt": "A digital interface on a tablet showing a patient remotely participating in a clinical trial, biometric data visualized, clean home environment, subtle neon glow.",
+      "camera_effect": "pan_right",
+      "text_overlay": "HEALTHCARE REVOLUTION"
+    },
+    {
+      "text": "These platforms integrate wearables, remote monitoring, and secure data sharing. Patients access trials conveniently, significantly expanding participation and data diversity.",
+      "image_prompt": "Visual representation of data flow from multiple smart devices (wearable watch, smart scale, tablet) to a secure cloud icon, connected by glowing lines, technical diagram, 8k.",
+      "camera_effect": "zoom_in",
+      "text_overlay": "SMART TRIALS"
+    },
+    {
+      "text": "This shift accelerates drug development, improves patient experiences, and provides researchers with richer, more continuous data, fostering faster medical breakthroughs.",
+      "image_prompt": "Holographic projection of a DNA strand transforming into a glowing medical capsule, surrounded by abstract data visualizations, futuristic laboratory setting, cinematic lighting.",
+      "camera_effect": "pan_up",
+      "text_overlay": "FASTER CURES"
+    },
+    {
+      "text": "This technology is impacting global manufacturing and healthcare innovation.",
+      "image_prompt": "A complex network of interconnected nodes representing global industries and medical facilities, glowing lines illustrating data exchange, abstract, cybernetic feel, 8k.",
+      "camera_effect": "static",
+      "text_overlay": "FUTURE IS NOW"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
