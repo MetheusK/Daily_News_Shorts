@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "ROBOTS ARE HERE",
+    "narration": "WARNING! IFA 2026 just revealed a secret: robots are invading your daily life, and you're not ready!",
+    "image_description": "Extreme close-up of a sophisticated robot eye, glowing red, reflecting complex data streams, digital glitch effects, cybernetic elements, cinematic lighting. Intense focus.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "ROBOT REVOLUTION?",
+    "image_description": "A hyper-realistic 3D render of a futuristic robot hand, subtly grasping a glowing holographic sphere, against a dark, dramatic cyberpunk background, 8k resolution, centered object, dramatic backlighting.",
+    "reasoning": "The mysterious question and hyper-realistic robot hand immediately grab attention, promising insights into a transformative future, encouraging clicks over scrolls."
+  },
+  "title": "IFA 2026: Robots Are Coming For Your Life!",
+  "segments": [
+    {
+      "text": "IFA 2026 unveiled diverse robotic innovations, moving beyond industrial arms. Expect new forms impacting daily living, from smart homes to public services.",
+      "image_prompt": "A sleek, minimalist robot in a futuristic home, reflecting data on its polished surface, cinematic lighting, subtle zoom.",
+      "text_overlay": "ROBOTIC FUTURE",
+      "camera_effect": "subtle zoom"
+    },
+    {
+      "text": "Personal assistant robots are integrating advanced AI, performing complex tasks from elderly care to intelligent home automation. Market growth projects 15% annually by 2028.",
+      "image_prompt": "A person with smart glasses interacting with a friendly-looking humanoid robot in a modern kitchen, focused expressions, subtle pan.",
+      "text_overlay": "AI ASSISTANTS",
+      "camera_effect": "subtle pan"
+    },
+    {
+      "text": "Service robotics saw major advancements for retail and logistics. Automated delivery drones and inventory management units boost efficiency, targeting 20% cost reduction by 2027.",
+      "image_prompt": "Autonomous delivery drones flying over a city skyline at dusk, carrying packages, cyberpunk neon lights, subtle zoom out.",
+      "text_overlay": "SMART LOGISTICS",
+      "camera_effect": "subtle zoom out"
+    },
+    {
+      "text": "In healthcare, surgical robots demonstrated enhanced precision and minimized recovery times for patients. Tele-operated systems improve diagnostics by over 30%, revolutionizing remote medical assistance.",
+      "image_prompt": "Robotic arm with glowing surgical tools performing a delicate operation in a sterile lab, reflecting data on a monitor, intense focus, static.",
+      "text_overlay": "HEALTH PRECISION",
+      "camera_effect": "static"
+    },
+    {
+      "text": "User interaction is becoming seamless with intuitive interfaces. Voice commands and gesture controls are standard, driving adoption rates globally and enhancing daily technology integration.",
+      "image_prompt": "A human hand making a gesture control, with holographic interfaces appearing in the air, dramatic side lighting, subtle pan.",
+      "text_overlay": "SEAMLESS INTERFACE",
+      "camera_effect": "subtle pan"
+    },
+    {
+      "text": "These advancements will redefine daily convenience and efficiency for millions. Expect a significant shift in how we interact with technology and our environment, starting soon.",
+      "image_prompt": "Diverse people interacting positively with various robots in a futuristic urban environment, cinematic lighting, subtle zoom.",
+      "text_overlay": "LIFE CHANGING",
+      "camera_effect": "subtle zoom"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
