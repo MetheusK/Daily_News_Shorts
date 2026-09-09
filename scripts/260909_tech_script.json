@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "ROBOTS ARE HERE!",
+    "narration": "Warning! The future is now! Robots are here, and they're changing EVERYTHING!",
+    "image_description": "Close-up of a human eye reflecting digital patterns of various robotic forms (household, industrial, companion bots), with cyberpunk neon lighting and digital glitch effects, conveying pervasive, imminent change. Intense focus.",
+    "mood_color": "neon_green"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "ROBOTS UNLEASHED!",
+    "image_description": "A hyper-realistic 3D render of a sleek, multi-functional robot arm gently interacting with a holographic interface, surrounded by smaller, diverse robotic forms (e.g., a cleaning bot, a delivery drone) in a futuristic home setting. Dramatic backlighting, 8k resolution, cyberpunk style. Centered object.",
+    "reasoning": "The bold, urgent text 'ROBOTS UNLEASHED!' combined with a high-quality, mysterious visual of diverse robots hints at revolutionary changes without revealing too much, creating strong click-through curiosity."
+  },
+  "title": "Robots Are Here: IFA 2026's Mind-Blowing Future!",
+  "segments": [
+    {
+      "text": "IFA 2026 unveiled a diverse robotic future, extending beyond industrial uses. Smart home integration and personal assistance are rapidly expanding, redefining daily life.",
+      "image_prompt": "Wide shot of a futuristic convention hall (IFA 2026 aesthetic) with various types of robots (small, large, humanoid fragments) on display, glowing neon signs, vibrant tech atmosphere.",
+      "camera_effect": "Dolly zoom"
+    },
+    {
+      "text": "Household robotics advanced significantly, showcasing AI-powered cleaning, cooking assistants, and automated gardening solutions. These innovations promise to redefine daily chores.",
+      "image_prompt": "A sleek, futuristic robot arm precisely chopping vegetables on a kitchen counter, while another small bot cleans the floor. Cinematic lighting, smooth automation.",
+      "camera_effect": "Tracking shot"
+    },
+    {
+      "text": "Advanced emotional AI companion robots debuted, supporting elderly care and mental wellness. Their integration signals a major shift in social interactions globally.",
+      "image_prompt": "A gentle, soft-glowing companion robot sitting next to an older person, both looking at a holographic image with expressions of wonder and serious thought. Focus on connection.",
+      "camera_effect": "Slow pan"
+    },
+    {
+      "text": "Industrial robots moved beyond manufacturing. Logistics, retail, and hospitality saw major automated deployments, boosting efficiency by an average of 30% in real-world trials.",
+      "image_prompt": "A fleet of small, nimble delivery robots moving packages in a high-tech warehouse, illuminated by blue and orange neon light trails, conveying high efficiency.",
+      "camera_effect": "Crane shot"
+    },
+    {
+      "text": "Accessibility was a significant focus. Assistive robotics for individuals with disabilities showed groundbreaking features, enhancing independence and daily functionality for millions.",
+      "image_prompt": "A person in a smart wheelchair interacting seamlessly with a robotic arm that hands them an item, reflecting intense focus and ease. Cyberpunk lighting.",
+      "camera_effect": "Medium close-up"
+    },
+    {
+      "text": "With vast data collection, privacy and security ethics were central. Developers emphasized robust encryption and user control to build public trust effectively.",
+      "image_prompt": "A glowing, intricate network of data lines surrounding a stylized human head (representing thought/privacy), with small 'warning' glitch effects and red digital corruption.",
+      "camera_effect": "Zoom out"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
