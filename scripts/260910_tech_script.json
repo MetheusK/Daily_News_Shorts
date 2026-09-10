@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "PHONE PRICE WARNING",
+    "narration": "WARNING! The price of your next smartphone just secretly jumped, and nobody's telling you why!",
+    "image_description": "Extreme close-up of a hand clutching a futuristic smartphone, screen displaying a rapidly increasing red price graph, cybernetic eye reflecting the data in the foreground, intense red warning lights, digital glitch effects. Cinematic lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "SMARTPHONE COST SHOCK",
+    "image_description": "A hyper-realistic 3D render of a sleek, modern smartphone levitating with a glowing, holographic upward arrow and multiple dollar signs ($$$) floating above its screen. Dark, cinematic background with subtle neon blue backlighting and lens flares. Object centered, 8k resolution.",
+    "reasoning": "This thumbnail clearly communicates the core topic (smartphone price increase) with strong visual cues (arrow, dollar signs) and a high-tech aesthetic, without relying on generic human reactions, making it highly clickable."
+  },
+  "title": "Smartphone Price Hikes: What You NEED to Know",
+  "segments": [
+    {
+      "text_overlay": "PRICES SOAR",
+      "narration": "Recent data from The Verge confirms widespread smartphone price hikes across major brands for 2024 models, impacting global markets significantly.",
+      "image_prompt": "A global map overlayed with rising price charts as digital data streams connect continents. A cybernetic eye in the corner reflects the trend, indicating intense focus. Cinematic lighting.",
+      "camera_effect": "zoom_in_data"
+    },
+    {
+      "text_overlay": "CHIP COSTS RISE",
+      "narration": "Primary drivers include increasing component costs, particularly advanced chips, and persistent global inflation affecting manufacturing and logistics.",
+      "image_prompt": "Extreme close-up of glowing microchips on a detailed circuit board. Holographic inflation graphs appear above them, shifting upwards. Dramatic side lighting, serious expression of thought.",
+      "camera_effect": "pan_over_chips"
+    },
+    {
+      "text_overlay": "PREMIUM SHIFT",
+      "narration": "Entry-level models are seeing 10-15% increases, while premium flagships from Apple and Samsung experienced rises of up to $100-$200 this year.",
+      "image_prompt": "Split screen: left shows a generic entry-level phone with a '$+' symbol, right shows a sleek premium flagship phone with a larger '$++' symbol. A person's hands are visible, demonstrating serious thought, cinematic lighting.",
+      "camera_effect": "split_screen_reveal"
+    },
+    {
+      "text_overlay": "BUYERS PAUSE",
+      "narration": "Consumers are now holding onto devices longer, leading to a projected 5% drop in new phone sales, shifting market dynamics towards refurbished options.",
+      "image_prompt": "A pair of hands gently holding an older smartphone, a digital timer counting down years displayed subtly on the screen. Data streams showing decreased sales overlay the background. Expression of wonder, cyberpunk neon lighting.",
+      "camera_effect": "static_with_overlay"
+    },
+    {
+      "text_overlay": "VALUE FOCUS",
+      "narration": "Manufacturers are focusing on differentiating premium features like AI and enhanced cameras to justify higher prices, targeting specific high-value segments.",
+      "image_prompt": "A futuristic smartphone displaying holographic AI interfaces and advanced camera lenses. A glowing iris reflects the holographic display, demonstrating intense focus. Dramatic side lighting.",
+      "camera_effect": "dolly_zoom_on_hologram"
+    },
+    {
+      "text_overlay": "DIGITAL DIVIDE",
+      "narration": "This trend exacerbates the digital divide, making cutting-edge technology less accessible for lower-income demographics globally, a critical social impact.",
+      "image_prompt": "Silhouettes of diverse people interacting with basic digital devices. A glowing, almost shimmering, barrier separates them from advanced holographic tech. Subtle digital corruption around the barrier, red warning lights. Cinematic lighting.",
+      "camera_effect": "slow_pan_barrier"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
