@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "FOUNDRY SHOCK",
+    "narration": "A seismic shift just hit the semiconductor market, redefining global power structures. Are you prepared for this upheaval?",
+    "image_description": "A close-up of an intense analyst's face through smart glasses, eyes reflecting a glitching digital map of global semiconductor foundries with flashing red warning lights, dynamic and aggressive cyberpunk neon lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "CHIP WAR SHIFT",
+    "image_description": "A hyper-realistic 3D render of a glowing, complex silicon wafer with abstract digital war lines crisscrossing over it, set against a dark, dramatic background. Focus on intricate circuit patterns and high contrast.",
+    "reasoning": "The 'Chip War Shift' text is punchy and leverages geopolitical interest. The high-contrast, detailed silicon wafer with digital lines directly relates to the industry, signifying competition and technological complexity, appealing to investors and engineers."
+  },
+  "title": "Semiconductor Foundry Power Shift: SMIC, TSMC, Intel Impact",
+  "segments": [
+    {
+      "text": "SMIC aggressively grew foundry revenue by 20%, now surpassing GlobalFoundries. This positions them as the world's third-largest chip manufacturer by volume.",
+      "image_prompt": "Holographic bar chart showing 'SMIC +20%' growth, with 'GLOBALFOUNDRIES' text fading out, overlaid on a map of manufacturing facilities, cinematic lighting.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "This 20% surge challenges established leaders TSMC and Samsung, indicating a significant shift in the global foundry landscape and supply chain dynamics.",
+      "image_prompt": "Digital representation of global supply chains with shifting power nodes, abstract data streams flowing between regions, a serious-looking engineer's cybernetic eye reflecting complex market data.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "Despite SMIC's growth, TSMC continues widening its foundry lead over Samsung, especially in advanced process nodes critical for AI and HBM production.",
+      "image_prompt": "Highly detailed silicon wafer, showcasing intricate 3nm patterns, with a faint 'TSMC' logo glowing, dramatic side lighting emphasizing advanced node dominance.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Intel's recent 10% CPU price hike reflects increasing manufacturing costs and their commitment to High-NA EUV technology for next-gen wafer production.",
+      "image_prompt": "Stylized High-NA EUV machine with laser beams hitting a silicon wafer, a glowing Intel logo in the background, digital overlay showing a '10% Price Increase' graphic.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "Significant CAPEX is required for these advanced manufacturing capabilities. Achieving high yields on new nodes like 3nm or 2nm remains a persistent engineering challenge.",
+      "image_prompt": "Complex factory floor with robotic arms precisely managing wafers, digital overlay showing 'CAPEX' and 'YIELD' metrics with amber warning indicators, intense focus in a supervisor's glowing iris.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "The critical question for investors: does current valuation reflect future yield uncertainty and CAPEX demands?",
+      "image_prompt": "Holographic stock chart overlaid on a complex circuit board, 'VALUATION' and 'YIELD UNCERTAINTY' highlighted, a determined analyst's eyes through smart glasses, reflecting data projections.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
