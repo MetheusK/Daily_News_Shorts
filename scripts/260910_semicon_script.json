@@ -1,0 +1,46 @@
+{
+  "hook_plan": {
+    "overlay_text": "TSMC CHALLENGED!",
+    "narration": "Market Alert! Samsung's 2nm fab is fully booked, with yields hitting 80%—this is a direct shot at TSMC's dominance!",
+    "image_description": "A dynamic, high-tech graphic displaying two competing chip architectures glowing intensely, with data streams clashing. A cybernetic eye in the foreground reflects this competitive graph with urgent red warning lights, cinematic lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "2NM BATTLE",
+    "image_description": "A hyper-realistic 3D render of two distinct, glowing 2nm wafer designs side-by-side, one with a subtle 'S' (Samsung) and the other 'T' (TSMC) integrated into circuitry. Dramatic cyberpunk backlighting, high contrast, 8k resolution, centered composition.",
+    "reasoning": "Visually striking, implies a direct competition between industry giants, and uses key technical terms (2nm) to attract relevant investors and engineers."
+  },
+  "title": "Samsung's 2nm Yield Shock: HBM Battle Intensifies",
+  "segments": [
+    {
+      "text": "Samsung's Texas 2nm fab is fully booked, achieving 80% yield. This significantly narrows the gap with TSMC's advanced node efficiency, intensifying foundry competition.",
+      "image_prompt": "Extreme close-up of a perfectly processed 2nm wafer, glowing with integrated circuits, reflecting technical data in a cybernetic eye. Dramatic side lighting.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "This 80% 2nm yield boosts Samsung Foundry's position. It validates their Gate-All-Around (GAA) technology, intensifying the critical race for future advanced chip leadership.",
+      "image_prompt": "Animated diagram illustrating a GAA transistor structure forming, with glowing data lines. A serious thought expression on a face through smart glasses, observing the diagram.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "AMD reports HBM supply as its biggest challenge; Helios orders for Samsung HBM4 exceed expectations. AI and GPU growth fuels this urgent HBM demand.",
+      "image_prompt": "Abstract representation of multiple High Bandwidth Memory (HBM) stacks, with rapid, glowing data flowing between them. Numerical readouts superimposed, showing high demand, determined expression.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "HBM shortages demand massive CAPEX in packaging and memory. This impacts wafer allocation, driving costs and stressing the global semiconductor supply chain significantly.",
+      "image_prompt": "Complex server racks with glowing red warning lights indicating data overload and digital corruption effects. An intense focus on a terminal displaying supply chain graphs.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Investors must monitor HBM roadmaps and 2nm yield scalability. These are pivotal for future GPU valuations and long-term semiconductor stock performance.",
+      "image_prompt": "Holographic stock market charts layered over a detailed chip blueprint, reflecting data in a glowing iris. Cinematic lighting emphasizes the gravity of the data.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
