@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "CRYPTO CARS NOW?",
+    "narration": "STOP! Elon Musk is about to change how you buy cars, and it's absolutely wild!",
+    "image_description": "Extreme close-up of a human eye with a glowing, cybernetic iris reflecting a glitching Dogecoin logo against a backdrop of abstract circuit patterns. Dramatic cyberpunk neon lighting, an expression of intense focus.",
+    "mood_color": "neon_green"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "BUY TESLA WITH DOGE?",
+    "image_description": "A sleek, futuristic Tesla Cybertruck, centered and viewed from a low angle, with a prominent, glowing Dogecoin logo projected onto its body. Dark, atmospheric 8k render with dramatic backlighting. Hyper-realistic style.",
+    "reasoning": "The combination of two iconic brands (Tesla, Dogecoin) and the question mark creates immense curiosity. The futuristic, high-quality render promises cutting-edge tech news, appealing to early adopters."
+  },
+  "title": "Elon Musk's Dogecoin Tesla Shockwave!",
+  "segments": [
+    {
+      "text": "Elon Musk is exploring Dogecoin payments for Tesla vehicles, reports confirm. This signals a major shift in mainstream crypto adoption by large corporations globally.",
+      "image_prompt": "A holographic display showing a Tesla vehicle model, with digital lines connecting it to a floating, glowing Dogecoin symbol. Cinematic lighting, clean technical background.",
+      "camera_effect": "zoom_in",
+      "text_overlay": "TESLA ACCEPTS DOGE?"
+    },
+    {
+      "text": "Musk's past support for Dogecoin, a \"meme coin,\" often influenced its value. He views it as \"the people's crypto,\" pushing for wider adoption.",
+      "image_prompt": "A stylized representation of Elon Musk's profile in the background, with a vibrant, animated Dogecoin graph showing upward trends in the foreground. Cyberpunk neon lighting, subtle serious thought expression.",
+      "camera_effect": "static",
+      "text_overlay": "MUSK'S VISION"
+    },
+    {
+      "text": "This move grants unprecedented legitimacy to DOGE, potentially stabilizing its volatile price. New transactions could follow, impacting crypto market capitalization widely.",
+      "image_prompt": "Digital hands, appearing through smart glasses, interacting with a shimmering 3D Dogecoin icon, surrounded by abstract data streams, signifying market impact. Intense focus expression.",
+      "camera_effect": "pan_left",
+      "text_overlay": "DOGE GOES MAINSTREAM"
+    },
+    {
+      "text": "Tesla previously accepted Bitcoin but halted due to environmental energy concerns. Dogecoin’s comparative energy efficiency makes it a sustainable alternative payment for consumers.",
+      "image_prompt": "A split screen: one side showing a stylized, less vibrant Bitcoin logo with abstract energy consumption graphics, the other showing a bright, efficient Dogecoin logo with clean energy motifs. Technical and clear lighting.",
+      "camera_effect": "wipe_right",
+      "text_overlay": "PAYMENT SHIFT"
+    },
+    {
+      "text": "This announcement could trigger further interest in cryptocurrencies for daily transactions. It pushes crypto deeper into mainstream retail, beyond mere investment speculation.",
+      "image_prompt": "A global digital map covered in a network of glowing nodes and lines, illustrating worldwide cryptocurrency transactions expanding into retail store icons. Cyberpunk lighting.",
+      "camera_effect": "zoom_out",
+      "text_overlay": "MARKET RIPPLE"
+    },
+    {
+      "text": "This shift signals a broader acceptance of digital currency, shaping the future of commerce and consumer transactions significantly.",
+      "image_prompt": "A human hand, from a first-person perspective through smart glasses, making a payment gesture towards a futuristic payment terminal displaying a Dogecoin icon. Glowing interface, dramatic side lighting.",
+      "camera_effect": "static",
+      "text_overlay": "FUTURE PAYMENTS"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
