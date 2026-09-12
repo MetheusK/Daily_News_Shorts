@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "CRYPTO CARS NOW?",
+    "narration": "WARNING! Elon Musk just unleashed a seismic shift: buy Teslas with Dogecoin?!",
+    "image_description": "Elon Musk's face glitching into a cybernetic Dogecoin symbol, a Tesla logo transforming into a digital currency graphic, all with urgent red warning lights and digital corruption effects, dramatic side lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "DOGE BUYS TESLA?",
+    "image_description": "A sleek, futuristic Tesla Cybertruck with a glowing Dogecoin symbol projected onto its side, set against a dark, cyberpunk city background with dramatic neon lighting. Hyper-realistic, 8k resolution, centered object.",
+    "reasoning": "Combines two powerful, recognizable brands (Tesla, Dogecoin) with a direct, intriguing question to create immediate curiosity and drive high click-through rates."
+  },
+  "title": "Elon Musk's BIGGEST Crypto Move!",
+  "segments": [
+    {
+      "text": "Elon Musk confirmed Tesla is 'thinking about' accepting Dogecoin for vehicle purchases, as stated in a recent X post.",
+      "image_prompt": "A screenshot of Elon Musk's X post about Dogecoin, overlaid on a backdrop of abstract digital currency patterns, high-tech interface.",
+      "camera_effect": "static",
+      "text_overlay": "DOGE IS REAL"
+    },
+    {
+      "text": "This follows Tesla's past acceptance of Bitcoin for a short period in 2021, and Dogecoin for merchandise since 2022.",
+      "image_prompt": "A clean timeline graphic: Bitcoin logo (2021) -> Dogecoin logo (2022) -> Tesla logo (Future) with connecting digital lines.",
+      "camera_effect": "zoom_in",
+      "text_overlay": "TESLA'S CRYPTO HISTORY"
+    },
+    {
+      "text": "The potential move could significantly boost Dogecoin's real-world utility and adoption beyond a meme coin status.",
+      "image_prompt": "A Dogecoin symbol transforming from a cartoonish dog into a sleek, metallic, glowing coin, reflecting digital data streams.",
+      "camera_effect": "pan_left",
+      "text_overlay": "UTILITY BOOST"
+    },
+    {
+      "text": "Following Musk's statement, Dogecoin's price saw a notable surge, reflecting investor enthusiasm for increased utility.",
+      "image_prompt": "A simplified, clean chart showing an upward spike in a Dogecoin price graph, glowing green, surrounded by floating data points.",
+      "camera_effect": "static",
+      "text_overlay": "PRICE JUMP"
+    },
+    {
+      "text": "For consumers, this means a new, potentially volatile, but innovative payment option for high-value purchases like Teslas.",
+      "image_prompt": "A hand holding a smartphone displaying a crypto wallet interface with a Dogecoin balance, a sleek Tesla car blurred in the background, cinematic lighting, intense focus.",
+      "camera_effect": "slow_zoom_out",
+      "text_overlay": "NEW BUYING OPTION"
+    },
+    {
+      "text": "This development positions Dogecoin as a key player in the evolving landscape of decentralized payment systems.",
+      "image_prompt": "A futuristic city skyline with digital currency symbols and glowing data streams floating, emphasizing innovation and future technology, 8k resolution.",
+      "camera_effect": "fly_through",
+      "text_overlay": "CRYPTO FUTURE"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
