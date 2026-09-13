@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "TSMC SHOCKWAVE",
+    "narration": "Stop everything! TSMC's latest revenue report just dropped a bombshell, and investors are completely missing the true market implications!",
+    "image_description": "Extreme close-up of a human eye with a cybernetic glowing iris, reflecting rapidly changing stock market charts in red and neon green, digital glitch effects, dramatic side lighting.",
+    "mood_color": "neon_green"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "TSMC SURGE EXPLAINED",
+    "image_description": "Hyper-realistic 8k render of a glowing, futuristic silicon wafer at the center of a complex circuit board, surrounded by holographic data projections, cyberpunk aesthetic, dramatic backlighting.",
+    "reasoning": "The thumbnail prioritizes a visually striking, high-tech object (wafer) with clear, bold text, drawing clicks by promising an explanation of the 'TSMC Surge' without relying on generic human reactions, aligning with industry insider interest."
+  },
+  "title": "TSMC's Record Revenue: What Investors Need to Know",
+  "segments": [
+    {
+      "text_overlay": "RECORD REVENUE",
+      "narration": "Taiwan Semiconductor Manufacturing Company (TSMC) just announced a record NT$514.8 billion in revenue, marking an unprecedented 53.3% year-over-year surge for 2026.",
+      "image_prompt": "High-resolution digital display showing 'NT$514.8B' and '+53.3%' prominently, with subtle glowing lines representing data flow across a dark, technical background. Focus: Data visualization.",
+      "camera_effect": "static"
+    },
+    {
+      "text_overlay": "AI CHIP DEMAND",
+      "narration": "This significant growth is primarily driven by relentless demand for advanced AI accelerators and High-Bandwidth Memory (HBM) for next-generation GPUs.",
+      "image_prompt": "Abstract visualization of glowing HBM stacks and intricate GPU architecture, infused with 'AI' symbols and digital energy, set against a dark, futuristic backdrop. Focus: Technology components.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text_overlay": "CAPEX STRATEGY",
+      "narration": "TSMC’s robust CAPEX strategy, investing heavily in 3nm and 2nm wafer fabrication, ensures market leadership amidst surging demand and tight supply chain pressures.",
+      "image_prompt": "Robotic arm meticulously placing a silicon wafer into a glowing, advanced fabrication machine, cinematic industrial lighting highlighting precision, technical schematics in background. Focus: Manufacturing process.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text_overlay": "OPTIMIZING YIELDS",
+      "narration": "Maintaining high yield rates on these bleeding-edge processes remains critical. Small improvements directly translate to significant output increases for advanced chips.",
+      "image_prompt": "Magnified view of a perfect silicon wafer, glowing green circuits, with crisp data points indicating 'Yield %' displayed on a transparent technical screen overlay. Focus: Quality control/data.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text_overlay": "MARKET VALUATION",
+      "narration": "This performance strengthens TSMC’s valuation, signaling investor confidence in its technological moat and long-term dominance in the global semiconductor landscape.",
+      "image_prompt": "Holographic projection of TSMC's stock chart ascending sharply, overlaying a translucent globe with interconnected data lines, reflecting intense investor focus. Focus: Financial impact.",
+      "camera_effect": "static"
+    },
+    {
+      "text_overlay": "GLOBAL SUPPLY IMPACT",
+      "narration": "The unparalleled production scale continues to underpin the entire technology supply chain, ensuring global stability for critical high-performance computing components.",
+      "image_prompt": "Global digital network map with glowing nodes and interconnected data streams, representing a resilient supply chain, focusing on critical technology hubs. Focus: Global connectivity.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
