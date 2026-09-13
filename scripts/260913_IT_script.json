@@ -1,0 +1,46 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI CHIP WAR",
+    "narration": "STOP SCROLLING! A silent tech war just ignited, and your future AI is caught in the crossfire!",
+    "image_description": "Extreme close-up on a digital human face, cybernetic eyes glowing red with reflecting data streams, stylized world map visible in the reflection. Dramatic side lighting, glitch effects around the face edges. Mood: Urgent, Warning. Cinematic.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI CHIP RACE",
+    "image_description": "A hyper-realistic, intricately detailed glowing AI chip (silicon wafer with visible circuits) at the center. Surrounded by subtle, ethereal blue and purple digital data streams. Dark, dramatic background with cyberpunk lighting. 8k resolution. Object-focused.",
+    "reasoning": "This thumbnail prioritizes a striking, high-tech object (the AI chip) which is the core subject, making it visually appealing and intriguing without relying on human expressions. The text is direct and creates immediate curiosity about a 'race'."
+  },
+  "title": "Global AI Chip Race: Your Future Tech is Changing!",
+  "segments": [
+    {
+      "text": "Beijing announces massive new initiatives to boost domestic AI chip design. This move aims for complete technological independence in critical sectors.",
+      "image_prompt": "High-angle shot of a glimmering silicon wafer with intricate circuit patterns, subtle digital energy radiating. Blue and green neon light accents. Cinematic lighting.",
+      "camera_effect": "pan_across_details"
+    },
+    {
+      "text": "This strategic push seeks to reduce reliance on foreign semiconductor technology. Billions are being allocated to accelerate advanced R&D and manufacturing capabilities.",
+      "image_prompt": "Digital representation of money flowing into a futuristic, clean-room factory floor where robotic arms assemble glowing chip components. Cyberpunk aesthetic. Dynamic.",
+      "camera_effect": "zoom_out_reveal_factory"
+    },
+    {
+      "text": "The goal is to develop cutting-edge AI processors for various applications, from cloud computing to powerful edge devices. This intensifies global AI competition.",
+      "image_prompt": "Split screen: one side features a complex cloud server rack glowing, the other shows a futuristic smart device interface, both with vibrant AI symbols. Fast transition between views.",
+      "camera_effect": "fast_cut_split_screen"
+    },
+    {
+      "text": "This initiative diversifies the global semiconductor supply chain significantly. Expect new industry partnerships and fierce rivalries to emerge rapidly.",
+      "image_prompt": "Stylized 3D globe with interconnected glowing lines and nodes, showing different regions representing tech hubs. Some lines intertwine, others clash. Dramatic, cinematic lighting.",
+      "camera_effect": "rotating_globe_data_overlay"
+    },
+    {
+      "text": "Consumers will ultimately benefit from more diverse, powerful, and potentially cheaper AI-powered devices. The future of user experience is set to profoundly evolve.",
+      "image_prompt": "A person interacting seamlessly with a transparent holographic interface, hands manipulating data. Their eyes reflect the glowing data, intense focus. Cyberpunk neon lighting. Close-up.",
+      "camera_effect": "close_up_holographic_interaction"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
