@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "EV FUTURE SHOCK",
+    "narration": "WARNING: The future of electric vehicles just got a massive, unexpected jolt!",
+    "image_description": "A sleek, hyper-futuristic electric sports car (Tesla Roadster-esque) with glowing blue lines, blurring past digital glitch effects. A person's intense eye, reflecting the car's speed through smart glasses, dominates the foreground. Cinematic lighting.",
+    "mood_color": "neon_green"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "ROADSTER RETURNS",
+    "image_description": "A perfectly centered, highly detailed 3D render of a futuristic silver Tesla Roadster (next-gen concept) with dramatic blue-purple cyberpunk neon lighting against a dark, tech-inspired background. Hyper-realistic, 8k resolution.",
+    "reasoning": "Highlights the iconic car's return with a visually striking, high-tech aesthetic, creating intrigue and a clear subject for instant recognition and click appeal."
+  },
+  "title": "Tesla Roadster: Musk's Game-Changing Electric Vision",
+  "segments": [
+    {
+      "text": "Elon Musk recently teased the highly anticipated new Tesla Roadster. This marks a significant re-entry into the high-performance electric vehicle market for Tesla.",
+      "image_prompt": "A high-resolution image of Elon Musk's determined face, a glowing Tesla logo reflected in his cybernetic eye, dramatic side lighting.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "This announcement arrives nearly a year after OpenAI CEO Sam Altman reportedly canceled his own Roadster order, highlighting market shifts and evolving priorities.",
+      "image_prompt": "A digital representation of a canceled order form for a Tesla Roadster, overlaid with a subtle glitch effect and a silhouette of Sam Altman in serious thought.",
+      "camera_effect": "panning_left"
+    },
+    {
+      "text": "The Roadster is known for its groundbreaking acceleration and range targets, promising a 'wow' factor that pushes current electric vehicle capabilities to new limits.",
+      "image_prompt": "Dynamic shot of a futuristic Tesla Roadster concept car accelerating, leaving trails of digital data. Focus on the wheels and speed. Cinematic lighting.",
+      "camera_effect": "tracking_shot"
+    },
+    {
+      "text": "This launch isn't just about speed; it's about redefining the luxury EV user experience. Expect advanced infotainment and seamless connectivity features.",
+      "image_prompt": "Interior shot of a futuristic car dashboard with a holographic display showing maps and performance data, a hand with glowing fingertips on a sleek steering wheel.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Tesla's move is poised to intensify competition in the premium electric sports car segment, challenging established brands and inspiring new innovations across the industry.",
+      "image_prompt": "A visual metaphor of electric current flowing between different car brand logos (Tesla prominent) on a circuit board, indicating competition. Cyberpunk city background.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "Musk's re-entry into the high-performance EV market with a focus on cutting-edge features. Expect new benchmarks.",
+      "image_prompt": "A close-up of a futuristic tire gripping a track, digital speed lines, and an abstract representation of a benchmark graph ascending rapidly with neon blue accents.",
+      "camera_effect": "dynamic_reveal"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
