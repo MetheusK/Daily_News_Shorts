@@ -1,0 +1,46 @@
+{
+  "hook_plan": {
+    "overlay_text": "CAPEX WARNING!",
+    "narration": "Critical market alert! TSMC's massive investment could redefine AI's entire supply chain—are you ready?",
+    "image_description": "Close-up of a shattered holographic wafer, glowing lines of data glitching intensely. A cybernetic eye with a reflecting red warning light iris. Digital corruption effects, dramatic red and orange cinematic lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI MOAT DEEPENS",
+    "image_description": "Hyper-realistic 8k render of a glowing, intricate CoWoS package (chip on wafer on substrate) centered on a dark, reflective high-tech surface. Background shows abstract, flowing data streams in cyberpunk neon blue and purple. Dramatic backlighting.",
+    "reasoning": "Highlights a key strategic concept (AI moat) directly related to TSMC's advanced packaging news, using a visually stunning technical object to attract both engineers and investors with its high-quality aesthetic."
+  },
+  "title": "TSMC's AI CAPEX Shock: Capacity Doubles, Market Shifts",
+  "segments": [
+    {
+      "text": "TSMC's CoWoS capacity will double significantly to 260,000 wafers annually by 2028. This move is critical for future high-performance AI infrastructure demands.",
+      "image_prompt": "3D render of a TSMC CoWoS wafer, intricate microscopic circuitry visible, with a holographic growth chart overlay indicating doubling capacity. Cyberpunk neon blue and purple cinematic lighting.",
+      "camera_effect": "zoom_in_slow"
+    },
+    {
+      "text": "This crucial expansion directly addresses the soaring global demand for high-bandwidth memory (HBM) and advanced AI GPUs, essential for packaging yields.",
+      "image_prompt": "Stack of HBM modules integrated onto a large AI GPU die, glowing connections and data streams flowing between components. Extreme close-up, technical, dramatic side lighting.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "This substantial CAPEX investment profoundly reinforces TSMC's formidable AI manufacturing moat, significantly impacting long-term valuation for critical market leaders.",
+      "image_prompt": "Digital representation of a financial graph showing exponential growth, with glowing lines converging on a stylized TSMC logo. Background of complex, automated factory machinery. Cinematic lighting, intense focus.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Intel and various OSAT providers are now capturing significant spillover orders, effectively diversifying the critical advanced packaging supply chain landscape.",
+      "image_prompt": "Network diagram showing interconnected nodes representing TSMC, Intel, and various OSATs, with glowing data packets flowing between them. Focus on supply chain diversification with neon accents.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "This aggressive expansion signals sustained, robust AI controller growth, further validating strategic positions of firms like ASML and Nvidia in this dynamic market.",
+      "image_prompt": "Cybernetic hand pointing towards a holographic display showing stock tickers for ASML and Nvidia, alongside a complex AI controller diagram. Intense focus reflecting through smart glasses on the cybernetic hand.",
+      "camera_effect": "zoom_out_slow"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
