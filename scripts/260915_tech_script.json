@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "APPLE'S SECRET DEAL",
+    "narration": "Stop everything! Apple just settled a massive lawsuit, and it could change your phone apps forever!",
+    "image_description": "Close-up of a human eye through smart glasses, reflecting a rapidly glitching Apple logo intertwined with a neon 'X' symbol, digital data streams flowing in the background, with dramatic cyberpunk lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "APPLE SETTLED!",
+    "image_description": "A hyper-realistic 3D render of a polished, fractured Apple logo with glowing cracks, next to a sleek, metallic 'X' Corp logo, both centered on a dark, reflective surface with dramatic side lighting. 8k resolution.",
+    "reasoning": "Highlights the two major entities involved and the 'settled' action, using a high-impact visual of breakage and new emergence, creating curiosity about the outcome and its impact."
+  },
+  "title": "Musk vs. Apple: The App Store Truce Revealed!",
+  "segments": [
+    {
+      "text": "X Corp and SpaceXAI just resolved their significant antitrust lawsuit against Apple, ending a key legal dispute out of court. This settlement impacts major tech players.",
+      "text_overlay": "LAWSUIT RESOLVED",
+      "image_prompt": "Digital legal scales balancing Apple and X Corp logos, surrounded by data streams and subtle glitch effects, cinematic lighting.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "The lawsuit claimed Apple’s App Store policies stifled competition and innovation, affecting developers globally. This resolution could redefine platform economics.",
+      "text_overlay": "APP STORE SHAKEUP",
+      "image_prompt": "A holographic chart showing shifting market shares between app platforms, with developer icons in the foreground, intense focus expression on a user's face, through smart glasses, cyberpunk neon.",
+      "camera_effect": "dolly_zoom"
+    },
+    {
+      "text": "While terms are undisclosed, experts speculate on App Store fee adjustments or payment system changes. This could bring new app functionalities to users swiftly.",
+      "text_overlay": "NEW APP FEATURES",
+      "image_prompt": "A close-up of a smartphone screen displaying new, vibrant app icons and a smooth payment interface, with glowing digital lines connecting them, dramatic lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "This move aligns with Musk's vision for integrated AI services across his platforms. It removes a major legal hurdle for X and SpaceXAI expansion.",
+      "text_overlay": "MUSK'S AI PUSH",
+      "image_prompt": "A composite image of Elon Musk's cybernetic eyes reflecting interconnected network nodes and AI processing units, representing strategic vision, dramatic side lighting.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "Apple, prioritizing App Store security, now faces adapting policies. This resolution could significantly influence how millions access and purchase digital content daily.",
+      "text_overlay": "APPLE'S ADAPTATION",
+      "image_prompt": "An abstract representation of Apple's walled garden ecosystem subtly cracking, with digital vines from the 'outside' growing in, representing openness, cinematic lighting.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "The tech industry watches closely: this resolution sets a precedent for platform control and developer relations. Future innovations could benefit from increased openness.",
+      "text_overlay": "TECH'S FUTURE SHIFT",
+      "image_prompt": "A robotic hand gently holding a glowing, transparent chip, reflecting futuristic cityscapes and digital data flows, symbolizing innovation and new beginnings, dramatic backlighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
