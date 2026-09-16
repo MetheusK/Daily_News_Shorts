@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "TESLA HALTED!",
+    "narration": "Warning! Tesla's Cybercab ambitions just slammed into a massive regulatory roadblock!",
+    "image_description": "Close-up of a digital-glitch-affected cybernetic eye reflecting a 'STOP' sign, intense red warning lights flashing across the scene, cinematic cyberpunk lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "CYBERCAB BLOCKED?",
+    "image_description": "A 3D render of a futuristic Tesla Cybercab partially obscured by a holographic 'DENIED' stamp, sleek metallic finish, dramatic blue and purple cyberpunk backlighting, hyper-realistic, 8k resolution.",
+    "reasoning": "The combination of the iconic Cybercab and a 'DENIED' stamp creates immediate intrigue and urgency, leveraging brand recognition and posing a direct question to compel clicks."
+  },
+  "title": "Tesla Cybercab Faces Major Regulatory Hurdles!",
+  "segments": [
+    {
+      "text": "The US regulatory agency has formally demanded Tesla address critical questions regarding its anticipated Cybercab robotaxi certification. This marks a significant hurdle.",
+      "image_prompt": "A blueprint overlay of a sleek autonomous vehicle with digital question marks and an official government seal superimposed, technical, clean lines, cinematic lighting.",
+      "text_overlay": "AGENCY DEMANDS ANSWERS",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "Specifically, the National Highway Traffic Safety Administration (NHTSA) is scrutinizing the safety and operational protocols of the fully autonomous Cybercab system.",
+      "image_prompt": "NHTSA logo prominently displayed over a complex digital map of a city with autonomous vehicle routes highlighted, data streams flowing, serious thought expression.",
+      "text_overlay": "NHTSA INTERVENES",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "Their inquiry focuses on the technological verification processes, software redundancies, and real-world performance data required for Level 4/5 autonomous vehicle approval.",
+      "image_prompt": "Screen showing complex UI of a self-driving car system: sensor data feeds, LiDAR scans, predictive algorithms in action. Focus on technical details.",
+      "text_overlay": "AUTONOMY CHALLENGED",
+      "camera_effect": "static"
+    },
+    {
+      "text": "This regulatory intervention could significantly impact Tesla's timeline for launching its Cybercab service, potentially delaying widespread public availability for years.",
+      "image_prompt": "A silhouette of a futuristic Tesla Cybercab stopped at a holographic 'STOP' sign with a digital countdown timer, dramatic side lighting, determined expression.",
+      "text_overlay": "LAUNCH DELAY?",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "It highlights increasing government oversight across the entire autonomous vehicle sector, setting a precedent for future robotaxi certifications and public trust standards.",
+      "image_prompt": "Multiple futuristic robotaxis on a digital city grid, with faint 'Under Review' tags hovering above them, representing industry-wide scrutiny, wonder, and focus.",
+      "text_overlay": "ROBOTAXI FUTURE",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "This critical agency inquiry directly challenges the rapid deployment strategy Tesla often pursues.",
+      "image_prompt": "A digital representation of a rapid acceleration arrow being interrupted by a solid regulatory barrier, glitch effects, blue and red neon lighting, intense focus.",
+      "text_overlay": "RAPID DEPLOYMENT BLOCKED",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
