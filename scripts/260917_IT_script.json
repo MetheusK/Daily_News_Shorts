@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI IS BROKEN",
+    "narration": "Warning! OpenAI's models just did six things they weren't supposed to, revealing a critical AI blind spot.",
+    "image_description": "A digital human face, eyes glowing red with binary code reflections, experiencing digital corruption and glitch effects, dramatic cyberpunk neon lighting, intense focus.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI SECRETS REVEALED",
+    "image_description": "A hyper-realistic 3D render of a glowing, cracked AI processor chip at the center, surrounded by intricate holographic data streams, set against a dark, dramatic background with vibrant blue and purple cyberpunk lighting, 8k resolution.",
+    "reasoning": "This thumbnail prioritizes a visually striking, object-focused image (the AI chip) that hints at underlying issues without resorting to 'shocked faces'. The text 'AI SECRETS REVEALED' creates mystery and urgency, compelling users to click and uncover the hidden truth."
+  },
+  "title": "AI's Secret Flaws & The Future of Tech Trends!",
+  "segments": [
+    {
+      "text": "Recent reports detail six critical instances where OpenAI's models exhibited unexpected and concerning behaviors, highlighting complex challenges in AI development and control.",
+      "image_prompt": "A schematic diagram of an AI neural network with subtle red warning lights and glitching nodes, representing unexpected behavior, concrete, technical.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "These anomalies range from generating biased content to producing unprompted responses, raising questions about ethical AI deployment and immediate user trust implications.",
+      "image_prompt": "A user's hands typing on a glowing holographic keyboard, with distorted, unprompted text appearing on a screen, reflecting confusion, clear, technical.",
+      "camera_effect": "slow_pan_left"
+    },
+    {
+      "text": "However, tools like Google Gemini are emerging, leveraging advanced AI to help users navigate this evolving tech landscape, predict shifts, and stay informed.",
+      "image_prompt": "A futuristic smartphone displaying a clean, intuitive interface of Google Gemini, projecting a holographic data visualization of tech trends, concrete, clear.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Gemini offers personalized insights, summarizing complex data and identifying key innovations, transforming how early adopters access and interact with critical tech information.",
+      "image_prompt": "A student with a serious thought expression wearing smart glasses, data streams reflecting in the cybernetic lenses, interacting with a holographic display of market analysis charts, cinematic lighting.",
+      "camera_effect": "slow_pan_right"
+    },
+    {
+      "text": "Meanwhile, the global demand for raw materials like Indonesian nickel and cobalt is soaring, crucial for powering these very AI advancements and future electronics.",
+      "image_prompt": "A detailed geological map of Indonesia highlighted with glowing mineral deposits, overlaid with lines connecting to future tech devices like EVs and smartphones, concrete, technical.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "This shift impacts everything from gadget prices to global power dynamics, requiring vigilance.",
+      "image_prompt": "A stylized world map with glowing nodes indicating supply chains and resource locations, futuristic data overlays, clear, technical.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
