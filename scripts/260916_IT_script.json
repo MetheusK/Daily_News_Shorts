@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "FUTURE SHOCK!",
+    "narration": "WARNING! The pace of tech innovation just hit warp speed, and you are NOT ready for what's next!",
+    "image_description": "A wide-angle shot of a person's intense, focused eyes through cybernetic glasses, reflecting a rapidly scrolling data stream with digital glitch effects. Cinematic lighting, deep blues and reds. Focus on the eye within smart glasses reflecting data.",
+    "mood_color": "neon_green"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "TECH EXPLOSION",
+    "image_description": "A hyper-realistic 3D render of a glowing, intricate microchip at the center, surrounded by holographic data streams and geometric patterns, dramatic backlighting in purple and blue, 8k resolution. Emphasize the object, not humans.",
+    "reasoning": "This thumbnail prioritizes a visually striking, high-tech object, signaling immense innovation without relying on a generic human 'shocked' expression, thus appealing to a tech-savvy audience and avoiding common clickbait aesthetics."
+  },
+  "title": "Tech Tsunami: AI, Power, & Flight Transform Our World!",
+  "segments": [
+    {
+      "text": "Google Gemini is now central to tracking tech trends, offering deep insights. It analyzes vast data, predicting shifts in AI development and user experience.",
+      "image_prompt": "A holographic projection of a world map with interconnected data points, emanating from a stylized Google Gemini logo. Futuristic interface with cybernetic elements. Cinematic lighting.",
+      "text_overlay": "AI FORECASTS",
+      "camera_effect": "zoom_in_slow"
+    },
+    {
+      "text": "This innovation surge relies on foundational hardware. onsemi charts its next decade in intelligent power and sensing technologies, driving efficiency forward.",
+      "image_prompt": "Close-up of a highly integrated, glowing semiconductor chip on a circuit board, with blue energy lines flowing through. Technical and clean aesthetic. Cinematic lighting.",
+      "text_overlay": "POWERING INNOVATION",
+      "camera_effect": "static"
+    },
+    {
+      "text": "A prime example is the More Electric Aircraft (MEA) market. It's transforming aviation, moving from hydraulic to electric systems for greater efficiency.",
+      "image_prompt": "A sleek, futuristic electric aircraft soaring through clouds, digital energy patterns visible around its engines. Clear skies, cinematic feel with dramatic side lighting.",
+      "text_overlay": "ELECTRIC AIRCRAFT",
+      "camera_effect": "pan_right_slow"
+    },
+    {
+      "text": "MarketsandMarkets projects significant MEA market growth, driven by advanced technologies and digital transformation. This market value is set to skyrocket.",
+      "image_prompt": "A vibrant infographic showing an upward-trending line graph with exponential growth, representing market value. Digital grid overlay and cyberpunk neon accents.",
+      "text_overlay": "MARKET SKYROCKETS",
+      "camera_effect": "static"
+    },
+    {
+      "text": "The shift to MEA offers reduced fuel consumption, lower emissions, and enhanced safety. This benefits both the environment and operational costs for airlines.",
+      "image_prompt": "A split screen: one side showing a traditional jet engine with minimal smoke, the other a clean electric engine with a green energy glow. Clear contrast, cinematic lighting.",
+      "text_overlay": "GREEN FLIGHTS",
+      "camera_effect": "static"
+    },
+    {
+      "text": "These trends – AI-driven insights, powerful semiconductors, and electric aviation – signal a fundamental, rapid re-engineering of industries globally.",
+      "image_prompt": "A complex, interconnected network of glowing nodes and lines, representing global industries, with an AI brain icon at the center. Dynamic and intricate, with dramatic side lighting.",
+      "text_overlay": "GLOBAL RE-ENGINEERING",
+      "camera_effect": "rotate_slow"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
