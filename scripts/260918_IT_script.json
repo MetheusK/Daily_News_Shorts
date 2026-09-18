@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI SLOP IS REAL",
+    "narration": "Warning! Top media execs just confirmed 'AI Slop' is a real threat to everything you watch online!",
+    "image_description": "Close-up of a person's eye, with a digital glitch effect over the iris, reflecting a fragmented screen of distorted faces and text. Cinematic lighting, cyberpunk neon, red warning lights flickering. Intense focus.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI IS FAKE?",
+    "image_description": "A 3D render of a glowing, distorted CPU chip with data streams flowing around it, placed on a dark, reflective surface. Cyberpunk aesthetic, hyper-realistic, 8k resolution, dramatic blue and purple backlighting.",
+    "reasoning": "The question 'AI IS FAKE?' directly challenges current perceptions, creating intrigue and a strong call to click. The object-focused image is visually striking and clearly tech-related without being sensationalist like the hook."
+  },
+  "title": "AI Slop & Floating Nuclear: The REAL Tech Trends of 2024",
+  "segments": [
+    {
+      "text": "Media executives at the Variety Summit confirmed ‘AI Slop’ is a growing concern. This impacts content quality, affecting user experience across entertainment platforms.",
+      "image_prompt": "Holographic display showing streaming content logos with subtle digital corruption and glitch effects, a hand pointing with determination. Cinematic lighting.",
+      "camera_effect": "static",
+      "text_overlay": "AI THREAT LOOMS"
+    },
+    {
+      "text": "But innovation doesn't stop. ABS (American Bureau of Shipping) is driving new industry trends, opening doors to cutting-edge maritime technologies globally.",
+      "image_prompt": "Clean, futuristic ABS logo (abstract, geometric) glowing against a backdrop of digital blueprints of ships and data streams. Intense focus.",
+      "camera_effect": "pan_right",
+      "text_overlay": "NEW TECH FRONTIER"
+    },
+    {
+      "text": "A major focus: floating nuclear power plants. This groundbreaking concept offers clean, sustainable energy solutions for remote areas and disaster relief efforts.",
+      "image_prompt": "Stylized 3D render of a compact, futuristic floating nuclear power plant prototype on calm, digital water. Cyberpunk neon glow.",
+      "camera_effect": "zoom_in",
+      "text_overlay": "FLOATING NUCLEAR"
+    },
+    {
+      "text": "These modular reactors provide reliable, long-term power. ABS shared insights on their safety, efficiency, and how they meet stringent maritime standards.",
+      "image_prompt": "Close-up of a digital readout screen showing energy output graphs and safety indicators, reflecting in cybernetic smart glasses. Dramatic side lighting.",
+      "camera_effect": "static",
+      "text_overlay": "CLEAN ENERGY SOLUTION"
+    },
+    {
+      "text": "The technology represents a significant leap for global energy infrastructure, offering a powerful alternative to traditional power grids for vulnerable regions.",
+      "image_prompt": "Animated world map with glowing energy nodes emerging from ocean areas, representing floating power plants. Sense of wonder, global impact.",
+      "camera_effect": "zoom_out",
+      "text_overlay": "GLOBAL IMPACT"
+    },
+    {
+      "text": "Industry leaders shared detailed roadmaps and potential deployment timelines, highlighting this as a critical step in sustainable technological advancement.",
+      "image_prompt": "Holographic projection showing a timeline with futuristic milestones for energy deployment, a hand with a determined expression interacting with it. Cinematic lighting.",
+      "camera_effect": "static",
+      "text_overlay": "FUTURE POWER"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
