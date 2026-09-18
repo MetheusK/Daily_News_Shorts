@@ -1,46 +1,52 @@
 {
   "hook_plan": {
-    "overlay_text": "AI IS BROKEN",
-    "narration": "Warning! OpenAI's models just did six things they weren't supposed to, revealing a critical AI blind spot.",
-    "image_description": "A digital human face, eyes glowing red with binary code reflections, experiencing digital corruption and glitch effects, dramatic cyberpunk neon lighting, intense focus.",
+    "overlay_text": "AI SLOP CRISIS",
+    "narration": "Warning! The AI apocalypse isn't coming; it's already creating a digital disaster!",
+    "image_description": "Extreme close-up of a human eye with a cybernetic iris reflecting distorted, glitching data. Neon red light illuminates the face from the side, conveying intense focus and urgency. Cinematic lighting, digital corruption effects.",
     "mood_color": "red"
   },
   "thumbnail_plan": {
-    "thumbnail_text": "AI SECRETS REVEALED",
-    "image_description": "A hyper-realistic 3D render of a glowing, cracked AI processor chip at the center, surrounded by intricate holographic data streams, set against a dark, dramatic background with vibrant blue and purple cyberpunk lighting, 8k resolution.",
-    "reasoning": "This thumbnail prioritizes a visually striking, object-focused image (the AI chip) that hints at underlying issues without resorting to 'shocked faces'. The text 'AI SECRETS REVEALED' creates mystery and urgency, compelling users to click and uncover the hidden truth."
+    "thumbnail_text": "AI SLOP",
+    "image_description": "3D render of a highly stylized, glitching digital brain, interwoven with corrupted circuit board elements, against a dark, cyberpunk backdrop. Dramatic backlighting with neon green highlights, 8k resolution.",
+    "reasoning": "The term 'AI Slop' is current and creates immediate curiosity and a sense of impending digital threat, prompting clicks without showing a generic 'shocked face'."
   },
-  "title": "AI's Secret Flaws & The Future of Tech Trends!",
+  "title": "AI Slop & Floating Nuclear: Tech's Wild Future",
   "segments": [
     {
-      "text": "Recent reports detail six critical instances where OpenAI's models exhibited unexpected and concerning behaviors, highlighting complex challenges in AI development and control.",
-      "image_prompt": "A schematic diagram of an AI neural network with subtle red warning lights and glitching nodes, representing unexpected behavior, concrete, technical.",
-      "camera_effect": "zoom_in"
+      "text": "Media execs at Variety's summit just flagged 'AI Slop'. It's low-quality, AI-generated content flooding feeds, risking information integrity and impacting global user experience.",
+      "image_prompt": "Glitching digital screens showing nonsensical text and images, with a filter of digital 'slime' or 'goo' overlay. Cyberpunk neon lighting.",
+      "camera_effect": "zoom_in",
+      "text_overlay": "AI SLOP DEFINED"
     },
     {
-      "text": "These anomalies range from generating biased content to producing unprompted responses, raising questions about ethical AI deployment and immediate user trust implications.",
-      "image_prompt": "A user's hands typing on a glowing holographic keyboard, with distorted, unprompted text appearing on a screen, reflecting confusion, clear, technical.",
-      "camera_effect": "slow_pan_left"
+      "text": "This 'slop' erodes trust, clogs information. Executives fear authenticity lost amidst unchecked AI-generated noise, rapidly desensitizing audiences globally.",
+      "image_prompt": "A digital representation of a brain, part of it glitched and pixelated, with a faint red warning light emanating. Cinematic lighting, serious thought.",
+      "camera_effect": "static",
+      "text_overlay": "TRUST ERODES"
     },
     {
-      "text": "However, tools like Google Gemini are emerging, leveraging advanced AI to help users navigate this evolving tech landscape, predict shifts, and stay informed.",
-      "image_prompt": "A futuristic smartphone displaying a clean, intuitive interface of Google Gemini, projecting a holographic data visualization of tech trends, concrete, clear.",
-      "camera_effect": "static"
+      "text": "Beyond 'slop,' BBC highlights AI's existential risks. Experts debate safety, control, and rapid autonomous system development impacting critical infrastructure globally.",
+      "image_prompt": "A vast, complex network of glowing data lines, with some breaking or turning red, against a dark, futuristic cityscape. Cybernetic eyes reflecting data.",
+      "camera_effect": "pan_left",
+      "text_overlay": "AI'S EXISTENTIAL RISK"
     },
     {
-      "text": "Gemini offers personalized insights, summarizing complex data and identifying key innovations, transforming how early adopters access and interact with critical tech information.",
-      "image_prompt": "A student with a serious thought expression wearing smart glasses, data streams reflecting in the cybernetic lenses, interacting with a holographic display of market analysis charts, cinematic lighting.",
-      "camera_effect": "slow_pan_right"
+      "text": "Governments globally race for guardrails. Calls for ethical AI frameworks and robust safety protocols intensify, preventing unintended consequences from rapid, unchecked development.",
+      "image_prompt": "Abstract depiction of glowing digital hands reaching to control a chaotic swirling vortex of data. Cinematic lighting, intense focus, determination.",
+      "camera_effect": "zoom_out",
+      "text_overlay": "REGULATION RACE"
     },
     {
-      "text": "Meanwhile, the global demand for raw materials like Indonesian nickel and cobalt is soaring, crucial for powering these very AI advancements and future electronics.",
-      "image_prompt": "A detailed geological map of Indonesia highlighted with glowing mineral deposits, overlaid with lines connecting to future tech devices like EVs and smartphones, concrete, technical.",
-      "camera_effect": "zoom_out"
+      "text": "New tech emerges: Floating Nuclear Power. ABS explores these compact, scalable reactors, promising clean energy. But new safety and security questions emerge globally.",
+      "image_prompt": "A sleek, futuristic modular floating platform with a glowing reactor core visible through a transparent panel, surrounded by calm, reflecting digital water. Hyper-realistic, 8k.",
+      "camera_effect": "static",
+      "text_overlay": "FLOATING NUCLEAR"
     },
     {
-      "text": "This shift impacts everything from gadget prices to global power dynamics, requiring vigilance.",
-      "image_prompt": "A stylized world map with glowing nodes indicating supply chains and resource locations, futuristic data overlays, clear, technical.",
-      "camera_effect": "static"
+      "text": "Decentralized power for remote areas or disaster relief. Deployment means rethinking maritime safety, environmental impact, and global nuclear security at an unprecedented scale.",
+      "image_prompt": "A stylized global map with bright energy nodes appearing on coastlines and islands, connected by glowing lines. Holographic data display.",
+      "camera_effect": "pan_right",
+      "text_overlay": "ENERGY'S FUTURE?"
     },
     {
       "text": "If useful, please like and subscribe!",
