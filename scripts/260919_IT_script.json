@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "MARKET SHOCK!",
+    "narration": "Warning! The way you buy, and what's made for you, is about to fundamentally change forever!",
+    "image_description": "A close-up of a person with glowing cybernetic eyes, intensely focused on a fast-moving, holographic data stream displaying abstract market graphs and interconnected lines, glitch effects, dramatic cyberpunk neon blue and red lighting.",
+    "mood_color": "neon_blue"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "BUYER SHIFT 2026",
+    "image_description": "A hyper-realistic 3D render of a futuristic shopping cart icon or a stylized digital marketplace symbol, centered, surrounded by intricate data streams and glowing network connections on a dark, high-contrast background with dramatic backlighting. 8k resolution.",
+    "reasoning": "This thumbnail prioritizes a clear, futuristic object representing commerce and data, directly referencing the 'buyer shift' and '2026' to create high curiosity for the general public without relying on sensationalized human expressions. The 3D render and dramatic lighting enhance click-through rates."
+  },
+  "title": "Your Future Buyer: IDC & IMTS 2026 Trends REVEALED",
+  "segments": [
+    {
+      "text": "IDC's 2026 data forecasts a fundamental shift in buyer behavior. Traditional sales funnels are now outdated, demanding new digital customer experiences immediately.",
+      "image_prompt": "A modern, sleek digital sales funnel dissolving into a network of glowing nodes and lines, representing new customer touchpoints, with data flowing rapidly. Cinematic lighting, technical.",
+      "camera_effect": "dynamic_zoom_in"
+    },
+    {
+      "text": "Businesses must urgently rethink Go-to-Market strategies. Personalized digital engagement and data-driven insights are critical for reaching the evolving consumer.",
+      "image_prompt": "A person, seen through smart glasses, interacting with a personalized holographic interface showing customer data and tailored product recommendations. Intense focus, cinematic lighting.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "This market transformation heavily impacts manufacturing. IMTS 2026 reveals critical trends shaping future production, from design to delivery.",
+      "image_prompt": "A wide shot of a futuristic factory floor with robotic arms moving swiftly and precisely, under dramatic blue and white cinematic lighting, showing efficiency.",
+      "camera_effect": "dolly_out"
+    },
+    {
+      "text": "Expect AI and advanced automation to dominate factories. Smart robotics and machine learning will drastically boost efficiency, reducing costs and accelerating output.",
+      "image_prompt": "A close-up of a sophisticated robotic arm with glowing joints, carefully assembling a product part, with a subtle digital overlay showing AI algorithms at work. Cyberpunk aesthetic.",
+      "camera_effect": "tracking_shot"
+    },
+    {
+      "text": "Digital twin technology creates precise virtual replicas of products and processes. This allows predictive maintenance and rapid iteration, optimizing entire supply chains.",
+      "image_prompt": "A split screen showing a physical machine on one side and its glowing, transparent digital twin overlayed with real-time data on the other, connected by shimmering data lines. Technical focus.",
+      "camera_effect": "split_screen_transition"
+    },
+    {
+      "text": "These innovations will foster hyper-agile manufacturing lines. Production will respond instantly to dynamic buyer demands, revolutionizing product cycles by 2026.",
+      "image_prompt": "A vibrant animation of a production line reconfiguring itself in real-time based on incoming data signals, showing modularity and speed. Red warning lights flashing briefly on parts of the line to indicate rapid changes.",
+      "camera_effect": "fast_cuts"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
