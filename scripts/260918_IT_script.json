@@ -1,52 +1,46 @@
 {
   "hook_plan": {
-    "overlay_text": "AI SLOP IS REAL",
-    "narration": "Warning! Top media execs just confirmed 'AI Slop' is a real threat to everything you watch online!",
-    "image_description": "Close-up of a person's eye, with a digital glitch effect over the iris, reflecting a fragmented screen of distorted faces and text. Cinematic lighting, cyberpunk neon, red warning lights flickering. Intense focus.",
-    "mood_color": "red"
+    "overlay_text": "AI SHOCKWAVE",
+    "narration": "WARNING! A massive AI shockwave just hit Silicon Valley, and it's coming for your daily life!",
+    "image_description": "Extreme close-up of a human eye with a glowing, cybernetic iris reflecting holographic AI data, dramatic blue and neon green lighting, glitch effects on edges, intense focus. Cinematic lighting.",
+    "mood_color": "neon_green"
   },
   "thumbnail_plan": {
-    "thumbnail_text": "AI IS FAKE?",
-    "image_description": "A 3D render of a glowing, distorted CPU chip with data streams flowing around it, placed on a dark, reflective surface. Cyberpunk aesthetic, hyper-realistic, 8k resolution, dramatic blue and purple backlighting.",
-    "reasoning": "The question 'AI IS FAKE?' directly challenges current perceptions, creating intrigue and a strong call to click. The object-focused image is visually striking and clearly tech-related without being sensationalist like the hook."
+    "thumbnail_text": "FUTURE AI MONEY",
+    "image_description": "3D render of a stylized, glowing AI chip at the center of a complex network of digital cash flow symbols and data streams, dark, hyper-realistic, 8k resolution, dramatic backlighting, cyberpunk style.",
+    "reasoning": "This thumbnail visually emphasizes the 'AI' and 'Investment' aspects with a striking, object-focused image. It sparks curiosity about the financial implications and future of AI, encouraging clicks without sensationalism."
   },
-  "title": "AI Slop & Floating Nuclear: The REAL Tech Trends of 2024",
+  "title": "SK hynix's AI Bet: Your Future Is Changing!",
   "segments": [
     {
-      "text": "Media executives at the Variety Summit confirmed ‘AI Slop’ is a growing concern. This impacts content quality, affecting user experience across entertainment platforms.",
-      "image_prompt": "Holographic display showing streaming content logos with subtle digital corruption and glitch effects, a hand pointing with determination. Cinematic lighting.",
-      "camera_effect": "static",
-      "text_overlay": "AI THREAT LOOMS"
+      "text": "SK hynix launched \"ZetaDrive,\" a new venture capital firm in Silicon Valley. This directly targets emerging AI startups and next-generation technologies.",
+      "image_prompt": "Sleek, futuristic skyscraper in Silicon Valley with glowing digital lines converging towards its base, representing capital flow and innovation, cinematic lighting.",
+      "camera_effect": "tracking_shot"
     },
     {
-      "text": "But innovation doesn't stop. ABS (American Bureau of Shipping) is driving new industry trends, opening doors to cutting-edge maritime technologies globally.",
-      "image_prompt": "Clean, futuristic ABS logo (abstract, geometric) glowing against a backdrop of digital blueprints of ships and data streams. Intense focus.",
-      "camera_effect": "pan_right",
-      "text_overlay": "NEW TECH FRONTIER"
+      "text": "This initiative signals a significant doubling down on the entire AI ecosystem, aiming to fund innovations that will reshape our daily tech experiences.",
+      "image_prompt": "Holographic projection of intertwined neural networks and complex data streams, with a subtle 'ZetaDrive' logo appearing briefly, dramatic blue and purple lighting.",
+      "camera_effect": "zoom_in"
     },
     {
-      "text": "A major focus: floating nuclear power plants. This groundbreaking concept offers clean, sustainable energy solutions for remote areas and disaster relief efforts.",
-      "image_prompt": "Stylized 3D render of a compact, futuristic floating nuclear power plant prototype on calm, digital water. Cyberpunk neon glow.",
-      "camera_effect": "zoom_in",
-      "text_overlay": "FLOATING NUCLEAR"
+      "text": "It's not just funding; it's a direct investment in core AI technologies shaping your next-generation devices, from phones to smart home systems.",
+      "image_prompt": "Human hands (intense focus, determination) interacting with a transparent touchscreen displaying glowing AI algorithms and predictive analytics, cybernetic aesthetic.",
+      "camera_effect": "pan_left"
     },
     {
-      "text": "These modular reactors provide reliable, long-term power. ABS shared insights on their safety, efficiency, and how they meet stringent maritime standards.",
-      "image_prompt": "Close-up of a digital readout screen showing energy output graphs and safety indicators, reflecting in cybernetic smart glasses. Dramatic side lighting.",
-      "camera_effect": "static",
-      "text_overlay": "CLEAN ENERGY SOLUTION"
+      "text": "The goal is to accelerate innovation in critical areas like advanced AI chips and intelligent software platforms. This fuels rapid technological advancement.",
+      "image_prompt": "Close-up of a high-performance AI processor chip glowing with intricate, golden circuits, surrounded by a faint digital aura, dramatic side lighting.",
+      "camera_effect": "static"
     },
     {
-      "text": "The technology represents a significant leap for global energy infrastructure, offering a powerful alternative to traditional power grids for vulnerable regions.",
-      "image_prompt": "Animated world map with glowing energy nodes emerging from ocean areas, representing floating power plants. Sense of wonder, global impact.",
-      "camera_effect": "zoom_out",
-      "text_overlay": "GLOBAL IMPACT"
+      "text": "Prepare for groundbreaking AI-powered experiences in everything from personalized smart devices to advanced mobile apps, enhancing user interaction dramatically.",
+      "image_prompt": "Diverse group of people (wonder, serious thought) interacting seamlessly with futuristic smart home devices and holographic interfaces, subtle glowing elements, cinematic lighting.",
+      "camera_effect": "dolly_zoom"
     },
     {
-      "text": "Industry leaders shared detailed roadmaps and potential deployment timelines, highlighting this as a critical step in sustainable technological advancement.",
-      "image_prompt": "Holographic projection showing a timeline with futuristic milestones for energy deployment, a hand with a determined expression interacting with it. Cinematic lighting.",
-      "camera_effect": "static",
-      "text_overlay": "FUTURE POWER"
+      "text": "The future is here, changing business and consumer interactions forever.",
+      "image_prompt": "Dynamic digital cityscape evolving rapidly, holographic projections of global interconnectedness, futuristic architectural elements, dramatic cinematic lighting, cyberpunk neon.",
+      "camera_effect": "hyperlapse"
     },
     {
       "text": "If useful, please like and subscribe!",
