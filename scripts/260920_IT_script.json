@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI IS HERE",
+    "narration": "Wake up! AI is changing everything you thought you knew about the future.",
+    "image_description": "Extreme close-up of a human face with cybernetic enhancements, one glowing iris reflecting binary code, intense focus, dramatic side lighting, subtle digital glitch effects in the background. Cyberpunk style.",
+    "mood_color": "neon_green"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI: JOBS GONE?",
+    "image_description": "A sleek, glowing 3D render of a robotic hand gently touching a human hand, surrounded by abstract data streams and a subtle 'downward trend' arrow graphic. Hyper-realistic, 8k resolution, centered composition, dramatic backlighting, cyberpunk aesthetic.",
+    "reasoning": "This thumbnail directly addresses a major public concern about AI (jobs) with a compelling, high-tech visual, prompting immediate curiosity and clicks."
+  },
+  "title": "AI Future SHOCK! What You NEED To Know Now",
+  "segments": [
+    {
+      "text": "Former President Trump proposes an 'AI Force' and a specialized Czar. This strategic move aims to solidify national AI leadership, prioritizing deep technical expertise in government roles.",
+      "image_prompt": "A stylized, glowing 3D render of a futuristic government building with an AI symbol overlaid, reflecting complex data streams. Cinematic lighting, dramatic side lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Samsung Electronics recently held a key tech forum in the US. They outlined their ambitious AI strategies, emphasizing global collaboration and future innovation across diverse sectors.",
+      "image_prompt": "A sleek, modern conference room setup with holographic screens displaying Samsung logos and AI algorithms. People with expressions of intense focus are visible in the background through smart glasses. Cyberpunk neon lighting.",
+      "camera_effect": "subtle zoom-in"
+    },
+    {
+      "text": "Despite widespread discussions, AI adoption sits at just 20% across four major nations. This indicates a slower real-world integration than widely perceived by the general public.",
+      "image_prompt": "A global map with only 20% of its surface glowing intensely in digital blue and green, representing AI adoption hotspots. Overlaid with abstract data flowing across the map.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "This measured adoption rate is directly influencing tech sector hiring. Many companies are experiencing a 'hiring freeze,' impacting tech headcount significantly worldwide, creating market uncertainty.",
+      "image_prompt": "A clean corporate office setting with several empty desks and glowing computer screens displaying 'HIRING FREEZE' notices in a digital font. Focus on the screens and empty space, cinematic lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Companies are cautiously evaluating AI's true return on investment and ethical implications. This careful approach contributes to current market stagnation, affecting global job growth expectations.",
+      "image_prompt": "A complex network of glowing data points connected by lines, representing decision-making processes. Some paths are highlighted in red, indicating caution or risk assessment. Focus on abstract data visualization.",
+      "camera_effect": "subtle pan"
+    },
+    {
+      "text": "The convergence of policy, industry strategy, and cautious adoption paints a complex AI landscape. Expect gradual, yet profound, shifts in technology and society over time.",
+      "image_prompt": "A high-tech cityscape at dusk, with subtle holographic interfaces floating in the air, hinting at future integration. Dramatic lighting emphasizes modern architecture and digital overlays.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
