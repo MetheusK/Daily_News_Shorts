@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "PRICE SHOCK AHEAD",
+    "narration": "Major supply chain alert: Critical component prices are surging, threatening semiconductor margins by Q4!",
+    "image_description": "Close-up of a human eye with a cybernetic glow, reflecting a holographic financial chart showing an upward spike. Red warning lights flash across the screen. Cinematic lighting, intense focus.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "CHIP COST WARNING",
+    "image_description": "Hyper-realistic 3D render of a gleaming silicon wafer, cracked in one section with digital red corruption spreading. In the background, blurred server racks with glowing blue lights. Cyberpunk aesthetic, 8k resolution, dramatic backlighting.",
+    "reasoning": "The thumbnail uses a visually striking, damaged, core semiconductor object (wafer) with a clear warning about costs, appealing directly to engineers and investors. The 'corruption' implies risk without being graphic, ensuring high click-through rates."
+  },
+  "title": "Semiconductor Shock: AI Costs Skyrocket",
+  "segments": [
+    {
+      "text": "Corning announced a 15% price hike for glass substrates in Q4, a critical input for advanced displays and packaging.",
+      "image_prompt": "Close-up of a high-tech robotic arm precisely handling a large, ultra-thin glass substrate in a cleanroom environment. Digital price charts overlayed showing a sharp upward trend, reflecting data.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "This increase directly impacts manufacturing costs for major players like TSMC and Samsung, affecting profitability and end-product pricing.",
+      "image_prompt": "Complex financial data interface displaying cascading cost models. A focused engineer, seen through smart glasses, analyzes a holographic projection of supply chain logistics. Cinematic lighting.",
+      "camera_effect": "dolly_zoom"
+    },
+    {
+      "text": "TSMC and Samsung aggressively race into advanced AI packaging frontiers, demanding significant CAPEX and innovation for HBM integration.",
+      "image_prompt": "Futuristic factory floor with automated systems assembling advanced HBM stacks onto GPU interposers. Neon blue and purple lighting highlights complex machinery. Intense focus on the precision.",
+      "camera_effect": "slow_pan"
+    },
+    {
+      "text": "This new frontier presents unprecedented yield challenges. Success directly influences GPU supply, impacting NVIDIA's market dominance and valuation metrics.",
+      "image_prompt": "A magnified, abstract view of a silicon wafer displaying intricate circuit patterns, with certain areas highlighted red to signify 'yield defect zones' with glitch effects. A focused investor's eye reflects the data.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Investors face critical decisions: balancing NVIDIA's AI growth against TSMC's foundational role and CAPEX-intensive scaling in this evolving market.",
+      "image_prompt": "Split screen showing two distinct holographic projections: one with NVIDIA's stock chart ascending rapidly, the other with TSMC's manufacturing facility schematic. A determined analyst in the foreground.",
+      "camera_effect": "tracking_shot"
+    },
+    {
+      "text": "Expect continued supply chain volatility as these advanced manufacturing processes mature, influencing wafer allocations and long-term sector valuations.",
+      "image_prompt": "A panoramic view of a global supply chain network, visualized as interconnected glowing lines, with a specific segment flashing red to indicate potential disruption. Through smart glasses, a serious engineer observes.",
+      "camera_effect": "reverse_zoom"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
