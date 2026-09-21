@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI CHIP ALERT",
+    "narration": "Warning! The AI chip market just exploded with unprecedented price hikes! Investors, your portfolio demands attention now.",
+    "image_description": "Extreme close-up of a cybernetic human eye with a glowing blue iris reflecting an accelerating stock chart, surrounded by glitching data streams, cinematic cyberpunk lighting. Intense focus.",
+    "mood_color": "neon_green"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI CHIP SURGE",
+    "image_description": "A hyper-realistic 3D render of a glowing, intricate AI chip (GPU) surrounded by holographic data streams, centered on a dark, reflective surface. Dramatic backlighting, 8k resolution.",
+    "reasoning": "Clearly depicts the core subject (AI chip) and uses high-tech visuals to attract clicks from a tech-savvy investor and engineer audience, hinting at market growth."
+  },
+  "title": "Semiconductor Shift: AI Chip Price Hikes & ASML's Big Moves",
+  "segments": [
+    {
+      "text": "Intel and AMD have implemented significant 10% price increases on their AI CPUs and GPUs this quarter, reflecting surging enterprise demand for computing power.",
+      "text_overlay": "CHIP PRICES UP",
+      "image_prompt": "Close-up of a server rack with blinking red/green lights, displaying holographic digital readouts of '10% Increase'. Focus on intense data flow.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "This 10% hike targets crucial AI accelerator components, specifically GPU and HBM related products, strategically sparing general consumer Ryzen CPUs.",
+      "text_overlay": "AI DEMAND BOOMS",
+      "image_prompt": "A detailed 3D render of an HBM stack connected to a GPU, glowing with internal energy, with intricate, overlapping schematic overlays. Emphasize data flow through components.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "ASML and TSMC are now exploring a 'bigger canvas' for AI chip production, indicating increased wafer capacity or advanced packaging techniques for future designs.",
+      "text_overlay": "ASML EXPANDS FAB",
+      "image_prompt": "A highly detailed cleanroom environment. A cybernetic robotic arm, with a glowing joint, precisely places a large, reflective wafer onto a complex ASML EUV machine. Digital schematics in the foreground, reflecting on the arm's surface.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Intel's strategy includes significant investment in High-NA EUV technology, critical for sub-2nm nodes, directly impacting future yield and CAPEX requirements.",
+      "text_overlay": "HIGH-NA EUV PUSH",
+      "image_prompt": "An extreme close-up of a High-NA EUV lens system, rendered with hyper-precision. Laser beams, depicted as glowing digital lines, simulate the lithography process on a nanometer scale. Emphasize intricate detail and focused energy.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "These strategic moves signal a robust semiconductor breakout, driving up industry valuations and necessitating extensive supply chain CAPEX to meet demand.",
+      "text_overlay": "VALUATION SOARS",
+      "image_prompt": "A complex global supply chain network visualized as glowing, interconnected digital lines extending from factory icons to data centers. Overlayed with subtle, abstract monetary symbols and upward-trending charts, viewed through smart glasses worn by a focused analyst (only the smart glasses and the eye behind them visible, reflecting data).",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
