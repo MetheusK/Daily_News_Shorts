@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI OWNS YOUR MONEY",
+    "narration": "Warning! A tech giant just put AI in charge of your money, silently transforming how you pay and invest.",
+    "image_description": "Cybernetic hands interacting with a glowing holographic financial interface, digital glitch effects, data streams reflecting in cybernetic eyes, dramatic red warning lights, cinematic lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI TAKES OVER",
+    "image_description": "A hyper-realistic 3D render of a stylized Alipay logo integrated with glowing neural network lines, centered on a dark, sleek financial interface background, dramatic blue and purple backlighting, 8k resolution.",
+    "reasoning": "The 'AI TAKES OVER' text combined with a futuristic financial interface creates intrigue about a major shift. The object-focused image avoids generic human expressions for a cleaner, more impactful aesthetic, driving clicks."
+  },
+  "title": "Alipay's AI Takeover: Future of Finance!",
+  "segments": [
+    {
+      "text_overlay": "ALIPAY AI SHIFT",
+      "narration": "Fintech giant Ant Group is fundamentally restructuring its Alipay platform. This strategic shift deeply integrates advanced AI agents across its entire ecosystem, targeting significant growth.",
+      "image_prompt": "A complex, glowing neural network overlaying the stylized Ant Group logo, abstract data streams flowing behind it, 8k resolution, cinematic lighting.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text_overlay": "SMARTER TRANSACTIONS",
+      "narration": "The move aims to boost user engagement and innovation, allowing AI to personalize services from payments to wealth management, making interactions more intuitive and efficient.",
+      "image_prompt": "A diverse group of users (stylized, non-specific faces) seamlessly interacting with holographic payment terminals, reflecting data in their smart glasses, vibrant cyberpunk neon lighting.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text_overlay": "AI FINANCIAL ASSISTANT",
+      "narration": "These AI agents will act as intelligent assistants, streamlining financial decisions and offering tailored advice. Imagine personalized investment strategies and spending insights directly from your app.",
+      "image_prompt": "A digital avatar (AI agent) with a glowing iris appearing on a smartphone screen, offering advice to a focused user. Cinematic lighting, intense focus.",
+      "camera_effect": "static"
+    },
+    {
+      "text_overlay": "SEAMLESS FINANCE",
+      "narration": "For millions of Alipay users, this means a significantly revamped experience. The platform will proactively anticipate needs, simplifying complex financial tasks and enhancing daily transactions effortlessly.",
+      "image_prompt": "A user's hand (clean, modern aesthetic) swiping through a sleek, futuristic Alipay interface on a smartphone, displaying real-time financial insights, cybernetic reflections on screen.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text_overlay": "FUTURE OF FINTECH",
+      "narration": "This bold integration positions Alipay as a pioneer in AI-driven fintech. It sets a new benchmark for competitors, potentially accelerating AI adoption across the global financial technology sector.",
+      "image_prompt": "A sprawling, futuristic city skyline dominated by holographic financial data visualizations, depicting a global network, dramatic side lighting, 8k resolution.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
