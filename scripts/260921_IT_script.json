@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI IS WATCHING",
+    "narration": "Warning! Your financial future is about to be completely reshaped by AI, whether you're ready or not!",
+    "image_description": "Extreme close-up of a cybernetic eye, glowing neon blue, reflecting a complex financial graph with red warning lines, as if seen through smart glasses. Intense focus expression with dramatic side lighting. No gore or violence.",
+    "mood_color": "neon_green"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI TAKEOVER",
+    "image_description": "A hyper-realistic 3D render of a futuristic robot hand, precise and metallic, meticulously stacking small, glowing server chips. A holographic display in the background shows complex financial data and algorithms. Dramatic backlighting, dark, reflective surface, 8k resolution, cyberpunk aesthetic.",
+    "reasoning": "This thumbnail visually represents the core themes: AI's increasing control (robot hand, chips) and financial implications (data). 'AI TAKEOVER' is a strong, click-inducing phrase that creates immediate intrigue."
+  },
+  "title": "AI's Trillion-Dollar Takeover?",
+  "segments": [
+    {
+      "text": "VC funds flood mortgage AI, set to cut labor costs drastically. AI now automates complex financial assessments, streamlining home loan approvals. This impacts millions of future homeowners.",
+      "text_overlay": "AI MORTGAGES ARRIVE",
+      "image_prompt": "A digital representation of a house with glowing circuit lines, superimposed over a flow chart of mortgage approval steps being rapidly processed by glowing AI nodes. Cinematic lighting.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "Mortgage rivals are rapidly adopting AI solutions. This boosts efficiency, but forecasts suggest significant workforce shifts. Thousands of traditional roles face automation impact by 2025.",
+      "text_overlay": "JOBS DISAPPEAR",
+      "image_prompt": "A digital interface showing a blurred crowd of workers with abstract data points replacing faces, with a single, sharp AI robot hand replacing a document. Red warning lights indicate digital corruption. Cyberpunk neon.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "The immense cost of developing advanced AI is staggering. OpenAI's compute expenses alone are projected to hit $280 billion by 2030 for its large-scale model training.",
+      "text_overlay": "AI'S HUGE BILL",
+      "image_prompt": "A vast, futuristic server farm with glowing racks extending into the distance, holographic displays showing '280 BILLION USD' in bold text. Dark, dramatic lighting.",
+      "camera_effect": "dolly_out"
+    },
+    {
+      "text": "This massive outlay highlights fierce competition for AI leadership. Only tech giants can sustain such immense investments, potentially excluding smaller innovators.",
+      "text_overlay": "GIANTS ONLY",
+      "image_prompt": "A colossal, monolithic server structure towering over smaller, dimming data centers, depicting scale. Glowing lines connect the large structure to global data streams. Cinematic lighting.",
+      "camera_effect": "tilt_up"
+    },
+    {
+      "text": "These colossal costs could lead to AI market consolidation. Fewer, larger players might dominate research and deployment, centralizing innovation among well-funded entities globally.",
+      "text_overlay": "CENTRALIZED AI",
+      "image_prompt": "A holographic globe with glowing data streams converging into a single, massive central node. Cybernetic eyes with reflecting data watch from the background with intense focus. Dramatic side lighting.",
+      "camera_effect": "rotate"
+    },
+    {
+      "text": "The paradox: AI revolutionizes daily finance, yet demands staggering development costs. This defines the current tech landscape, promising rapid, widespread economic shifts.",
+      "text_overlay": "YOUR WORLD CHANGES",
+      "image_prompt": "A split screen: one side shows a futuristic, streamlined home interior with a holographic mortgage application. The other side shows a complex, glowing network of AI infrastructure. Dramatic lighting, contrasting colors.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
