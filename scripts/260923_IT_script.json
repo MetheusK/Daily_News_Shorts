@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI IS UNLEASHING",
+    "narration": "WARNING! AI's silent revolution just hit overdrive, and it's changing *everything* faster than you think!",
+    "image_description": "A cybernetic eye, reflecting rapidly scrolling lines of green data code, with a glitch effect radiating outwards. Dramatic red warning lights flash across the screen. Intense focus.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI FACTORY BOOM",
+    "image_description": "A hyper-realistic 3D render of a gleaming robotic arm precisely assembling a complex circuit board, glowing blue data lines emanating from its joints, dark, dramatic backlighting, 8k resolution, centered composition.",
+    "reasoning": "Visually striking, object-focused (robot arm), and the 'BOOM' implies rapid, significant change, sparking curiosity about AI's industrial impact for a broad audience."
+  },
+  "title": "AI Just Changed Manufacturing FOREVER! 🏭",
+  "segments": [
+    {
+      "text": "China's Premier Li Qiang explicitly called to 'harness AI' to propel manufacturing. This strategic push targets unprecedented industrial modernization and efficiency across sectors.",
+      "image_prompt": "Futuristic factory floor with robotic arms working efficiently, holographic schematics floating above, blue and white lighting, hyper-realistic, 8k resolution.",
+      "camera_effect": "tracking_shot"
+    },
+    {
+      "text": "This directive signals a massive global shift. AI-driven automation promises to boost production output by an estimated 30-40% in key industries, reshaping economic landscapes rapidly.",
+      "image_prompt": "World map glowing with interconnected data lines, factories icons highlighted, superimposed with growth charts, 3D render.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "Traditional factories are evolving into smart hubs. Predictive maintenance reduces downtime by 25%, while AI optimizes supply chains, cutting operational costs significantly by 15-20%.",
+      "image_prompt": "An intricate network of gears and circuits with a glowing AI core at the center, data streams flowing through, cinematic lighting, extreme close-up.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "Major tech investors now heavily favor AI. Top AI stocks have seen average growth of 18% quarterly this year, attracting billions in new capital for research and development.",
+      "image_prompt": "Holographic stock market graph with AI-related company logos hovering around it, reflecting on a serious investor's smart glasses, cyberpunk neon.",
+      "camera_effect": "slow_zoom"
+    },
+    {
+      "text": "This impacts your daily life directly. Smarter manufactured products, from phones to vehicles, will reach consumers faster and at potentially lower costs, enhancing overall user experience.",
+      "image_prompt": "A futuristic smart home with integrated AI devices, a person interacting with a holographic interface on their wrist, warm, inviting cinematic lighting.",
+      "camera_effect": "dolly_zoom"
+    },
+    {
+      "text": "Experts predict 60% of global manufacturing will integrate advanced AI solutions by 2030. This transformation is not just technological; it's a fundamental economic restructuring.",
+      "image_prompt": "A cityscape at night, overlaid with glowing digital neural networks connecting buildings, depicting a connected, AI-powered future, 3D render, 8k resolution.",
+      "camera_effect": "aerial_view_pan"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
