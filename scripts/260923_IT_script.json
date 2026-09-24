@@ -1,46 +1,46 @@
 {
   "hook_plan": {
-    "overlay_text": "AI IS UNLEASHING",
-    "narration": "WARNING! AI's silent revolution just hit overdrive, and it's changing *everything* faster than you think!",
-    "image_description": "A cybernetic eye, reflecting rapidly scrolling lines of green data code, with a glitch effect radiating outwards. Dramatic red warning lights flash across the screen. Intense focus.",
-    "mood_color": "red"
+    "overlay_text": "FUTURE IS HERE",
+    "narration": "WARNING! A secret report just revealed your entire future, and it's happening WAY sooner than you think!",
+    "image_description": "A determined person with intense focus looking through smart glasses, digital data streams reflecting vividly in the glowing iris, vibrant cyberpunk neon lighting illuminating their face dramatically, with subtle digital glitch effects in the background. Dominant mood colors are deep blue and purple.",
+    "mood_color": "blue"
   },
   "thumbnail_plan": {
-    "thumbnail_text": "AI FACTORY BOOM",
-    "image_description": "A hyper-realistic 3D render of a gleaming robotic arm precisely assembling a complex circuit board, glowing blue data lines emanating from its joints, dark, dramatic backlighting, 8k resolution, centered composition.",
-    "reasoning": "Visually striking, object-focused (robot arm), and the 'BOOM' implies rapid, significant change, sparking curiosity about AI's industrial impact for a broad audience."
+    "thumbnail_text": "2027 SHOCKWAVE",
+    "image_description": "A hyper-realistic 3D render of an intricate, glowing server rack with complex holographic data projections emanating from its core. The object is centered, illuminated by dramatic backlighting against a dark, industrial yet futuristic background, presented in 8k resolution.",
+    "reasoning": "The specific year '2027' combined with 'SHOCKWAVE' implies a major, impactful event, creating intrigue. The central focus on a sophisticated tech object (server rack) appeals to the target audience's curiosity about future technology without relying on human expressions, fulfilling the object-over-human rule. High contrast and 3D rendering ensure visual appeal and click-through rate."
   },
-  "title": "AI Just Changed Manufacturing FOREVER! 🏭",
+  "title": "The 2027 Tech Tsunami is Coming!",
   "segments": [
     {
-      "text": "China's Premier Li Qiang explicitly called to 'harness AI' to propel manufacturing. This strategic push targets unprecedented industrial modernization and efficiency across sectors.",
-      "image_prompt": "Futuristic factory floor with robotic arms working efficiently, holographic schematics floating above, blue and white lighting, hyper-realistic, 8k resolution.",
-      "camera_effect": "tracking_shot"
+      "text": "Recovering global markets and evolving tech demands present major opportunities by 2027. This shift signals a new era for consumer solutions and industrial innovation, boosting growth.",
+      "image_prompt": "Abstract digital representation of interconnected global market graphs ascending rapidly, with glowing data lines, set against a dark background with cinematic lighting.",
+      "camera_effect": "dynamic zoom out"
     },
     {
-      "text": "This directive signals a massive global shift. AI-driven automation promises to boost production output by an estimated 30-40% in key industries, reshaping economic landscapes rapidly.",
-      "image_prompt": "World map glowing with interconnected data lines, factories icons highlighted, superimposed with growth charts, 3D render.",
-      "camera_effect": "zoom_in"
+      "text": "PMMI announced finalists for its 2026 Technology Excellence Awards, showcasing breakthroughs in packaging and processing. This highlights rapid advancements in industrial automation and smart manufacturing.",
+      "image_prompt": "A precision robotic arm with a glowing 'eye' sensor (reflecting data) in intense focus, skillfully handling a complex package on a high-tech assembly line, cinematic side lighting.",
+      "camera_effect": "slow pan left"
     },
     {
-      "text": "Traditional factories are evolving into smart hubs. Predictive maintenance reduces downtime by 25%, while AI optimizes supply chains, cutting operational costs significantly by 15-20%.",
-      "image_prompt": "An intricate network of gears and circuits with a glowing AI core at the center, data streams flowing through, cinematic lighting, extreme close-up.",
-      "camera_effect": "pan_left"
+      "text": "Property businesses are adopting next-gen PropTech. AI, IoT, and analytics transform management, creating smarter buildings and improving user experience globally.",
+      "image_prompt": "A holographic blueprint of a futuristic smart city with dynamic data overlays and efficient energy flow, viewed through smart glasses with reflecting data, cyberpunk neon glow in the city background.",
+      "camera_effect": "tilt up"
     },
     {
-      "text": "Major tech investors now heavily favor AI. Top AI stocks have seen average growth of 18% quarterly this year, attracting billions in new capital for research and development.",
-      "image_prompt": "Holographic stock market graph with AI-related company logos hovering around it, reflecting on a serious investor's smart glasses, cyberpunk neon.",
-      "camera_effect": "slow_zoom"
+      "text": "AI and automation are integrating broadly across sectors. Industrial processing and urban property show converging digital technologies, driving significant transformation and efficiency gains.",
+      "image_prompt": "Interconnected data nodes flowing between industrial robots and smart home icons, represented by glowing, energetic lines against a dark background, dramatic side lighting highlighting the connections.",
+      "camera_effect": "cross dissolve"
     },
     {
-      "text": "This impacts your daily life directly. Smarter manufactured products, from phones to vehicles, will reach consumers faster and at potentially lower costs, enhancing overall user experience.",
-      "image_prompt": "A futuristic smart home with integrated AI devices, a person interacting with a holographic interface on their wrist, warm, inviting cinematic lighting.",
-      "camera_effect": "dolly_zoom"
+      "text": "Consumers will experience smarter products and services. Seamless tech integration into daily routines, from smart homes to logistics, promises convenience and connectivity by 2027.",
+      "image_prompt": "A person with a calm yet determined expression, effortlessly interacting with a holographic interface in a modern, minimalist smart home, bathed in soft cinematic lighting.",
+      "camera_effect": "static"
     },
     {
-      "text": "Experts predict 60% of global manufacturing will integrate advanced AI solutions by 2030. This transformation is not just technological; it's a fundamental economic restructuring.",
-      "image_prompt": "A cityscape at night, overlaid with glowing digital neural networks connecting buildings, depicting a connected, AI-powered future, 3D render, 8k resolution.",
-      "camera_effect": "aerial_view_pan"
+      "text": "Get ready: the tech world is preparing for a massive shift.",
+      "image_prompt": "A panoramic view of a futuristic, high-tech cityscape at dawn, with digital energy flowing through its glass towers, evoking a sense of anticipation and grand scale, under dramatic lighting.",
+      "camera_effect": "cinematic reveal"
     },
     {
       "text": "If useful, please like and subscribe!",
