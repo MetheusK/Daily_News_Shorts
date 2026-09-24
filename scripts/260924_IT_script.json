@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "FUTURE IS NOW",
+    "narration": "Stop everything! The tech world just secretly decided your future. Get ready, because 2027 is closer than you think, and change is coming fast!",
+    "image_description": "Extreme close-up on a digital clock rapidly counting down, cybernetic eyes reflecting multiple holographic future tech concepts (smart cities, robotic arms), cinematic lighting, neon green glow.",
+    "mood_color": "neon_green"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "FUTURE SHOCK?",
+    "image_description": "A stunning 3D render of a glowing holographic projection displaying a futuristic city skyline with integrated data streams and robotic elements, centered composition, hyper-realistic, 8k resolution, dramatic backlighting.",
+    "reasoning": "The text 'FUTURE SHOCK?' creates intrigue and implies a significant, potentially surprising, event. The object-focused, high-contrast image of a futuristic projection clearly signals advanced technology, attracting clicks without relying on generic 'shocked' human faces."
+  },
+  "title": "2027 Tech Trends EXPOSED! Future Opportunities & Awards",
+  "segments": [
+    {
+      "text": "Global customer markets are recovering, driving immense opportunities in technology by 2027. Evolving needs mean critical innovation is now demanded across all industries and consumer services.",
+      "image_prompt": "Stylized bar graphs showing market recovery and growth, overlaid with glowing data lines, cinematic lighting, a determined figure with data-reflecting smart glasses observing.",
+      "camera_effect": "Zoom-in"
+    },
+    {
+      "text": "PMMI recently announced finalists for its 2026 Technology Excellence Awards. These packaging innovations signal major shifts in manufacturing efficiency, automation, and sustainable operational standards.",
+      "image_prompt": "High-tech robotic arm precisely handling an advanced package, a glowing digital display showing 'PMMI 2026 Awards', an individual with intense focus through smart glasses on the process.",
+      "camera_effect": "Dolly zoom"
+    },
+    {
+      "text": "PropTech, or Property Technology, is rapidly evolving. Businesses must now adapt to the 'next generation' of solutions like AI-driven analytics and IoT integration for competitive advantage in real estate.",
+      "image_prompt": "Holographic projection of a smart building with data flowing around it, a hand interacting with the display, dramatic side lighting, a serious expression contemplating the data.",
+      "camera_effect": "Tracking shot"
+    },
+    {
+      "text": "This trend indicates a broader industrial transformation. From packaging to property, every sector faces technology-driven disruption, demanding readiness for 2026-2027 adoption cycles globally.",
+      "image_prompt": "A vibrant mosaic of interconnected digital interfaces representing different industries (manufacturing, real estate, consumer), glowing links, an intense focus looking at the overall network.",
+      "camera_effect": "Panning shot"
+    },
+    {
+      "text": "Future tech is heavily focused on enhanced user experience and operational efficiency. Companies prioritizing seamless digital integration will capture significant market share and customer loyalty swiftly.",
+      "image_prompt": "A sleek, futuristic smartphone displaying a user-friendly interface for a smart home system, reflecting data streams, cyberpunk neon lighting, a hand carefully interacting with the screen.",
+      "camera_effect": "Close-up"
+    },
+    {
+      "text": "Success by 2027 relies on data-driven decisions and agile adaptation. Real-time analytics and predictive models are becoming non-negotiable for sustainable growth and market leadership.",
+      "image_prompt": "Abstract visualization of Big Data streams converging into a single glowing point, a determined individual's cybernetic eye reflecting complex algorithms, dramatic lighting.",
+      "camera_effect": "Reveal shot"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
