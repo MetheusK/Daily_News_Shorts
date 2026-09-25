@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "TECH POWER GRAB",
+    "narration": "WARNING! A secret high-level meeting just happened that could change every piece of tech you own!",
+    "image_description": "A determined person's face seen through a shimmering holographic data stream, eyes reflecting intricate binary code, dramatic red and blue cyberpunk lighting, subtle digital corruption effect on the edges.",
+    "mood_color": "neon_green"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "WHO CONTROLS TECH?",
+    "image_description": "A hyper-realistic 3D render of a glowing, interconnected global network map with intricate server racks beneath, a central data core pulsing with light, dark background with dramatic blue and orange backlighting, 8k resolution.",
+    "reasoning": "This thumbnail emphasizes global tech control and intrigue, using an object-focused, high-contrast, cinematic visual to create curiosity and drive clicks."
+  },
+  "title": "The Secret Tech Dinner: Future of Your Devices Exposed",
+  "segments": [
+    {
+      "text": "Former President Trump and President Xi Jinping recently convened a high-stakes dinner. Top U.S. and Chinese tech CEOs were notably present, signaling critical industry discussions.",
+      "image_prompt": "Overhead view of a grand, dimly lit conference table, holographic projections of world maps and data hovering above, no faces visible, cinematic lighting, sleek design.",
+      "camera_effect": "zoom_in",
+      "text_overlay": "LEADERS MET"
+    },
+    {
+      "text": "Sources indicate leaders from major chipmakers, AI development firms, and global communication platforms attended. Names suggest a focus on semiconductor supply chains and data policy.",
+      "image_prompt": "Abstract representation of interconnected circuit boards, glowing nodes representing different companies, 'data streams' flowing between them, dark background, blue and purple neon highlights.",
+      "camera_effect": "pan_right",
+      "text_overlay": "CEO'S PRESENT"
+    },
+    {
+      "text": "This private engagement occurred amid escalating trade tensions and competition over technological supremacy. The discussions likely addressed tariffs, export controls, and market access issues.",
+      "image_prompt": "Two stylized, glowing robotic hands (representing different nations) reaching towards a central, complex holographic chip, with subtle digital conflict lines, cyberpunk aesthetic, dramatic lighting.",
+      "camera_effect": "static",
+      "text_overlay": "TRADE TENSIONS"
+    },
+    {
+      "text": "Discussions impact global tech supply chains, especially critical for AI chips and rare earth minerals. Future consumer electronics and software services could see significant shifts.",
+      "image_prompt": "Macro shot of a high-performance CPU, intricate glowing circuits, data flowing around it like a digital storm, dramatic light from below, 8k resolution.",
+      "camera_effect": "zoom_out",
+      "text_overlay": "CHIP WAR IMPACT"
+    },
+    {
+      "text": "Decisions from this dinner could influence pricing, availability, and features of your next smartphone, laptop, or smart home device. Data privacy regulations may also be reshaped.",
+      "image_prompt": "A user holding a transparent tablet displaying evolving UI elements and privacy toggles, cybernetic glow on their hand, reflecting data, intense focused expression, cinematic lighting.",
+      "camera_effect": "pan_left",
+      "text_overlay": "YOUR TECH CHANGES"
+    },
+    {
+      "text": "The unprecedented attendance of these tech leaders at a political summit underlines the intensifying geopolitical nature of technology itself, shaping future innovation globally.",
+      "image_prompt": "A futuristic cityscape at night, with a prominent, glowing data tower reaching into the sky, digital lines connecting buildings, showing progress and power, cinematic lighting.",
+      "camera_effect": "dolly_zoom",
+      "text_overlay": "FUTURE INNOVATION"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
