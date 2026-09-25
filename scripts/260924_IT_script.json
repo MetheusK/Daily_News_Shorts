@@ -1,46 +1,46 @@
 {
   "hook_plan": {
-    "overlay_text": "FUTURE IS NOW",
-    "narration": "Stop everything! The tech world just secretly decided your future. Get ready, because 2027 is closer than you think, and change is coming fast!",
-    "image_description": "Extreme close-up on a digital clock rapidly counting down, cybernetic eyes reflecting multiple holographic future tech concepts (smart cities, robotic arms), cinematic lighting, neon green glow.",
-    "mood_color": "neon_green"
+    "overlay_text": "AI IS HERE",
+    "narration": "Warning! The future of AI just dropped a bombshell, and your world is about to change forever!",
+    "image_description": "Extreme close-up of a human eye with a glowing cybernetic iris, reflecting lines of green binary code and a subtle red glitch effect. Dramatic cyberpunk neon lighting, intense focus.",
+    "mood_color": "red"
   },
   "thumbnail_plan": {
-    "thumbnail_text": "FUTURE SHOCK?",
-    "image_description": "A stunning 3D render of a glowing holographic projection displaying a futuristic city skyline with integrated data streams and robotic elements, centered composition, hyper-realistic, 8k resolution, dramatic backlighting.",
-    "reasoning": "The text 'FUTURE SHOCK?' creates intrigue and implies a significant, potentially surprising, event. The object-focused, high-contrast image of a futuristic projection clearly signals advanced technology, attracting clicks without relying on generic 'shocked' human faces."
+    "thumbnail_text": "AI SECURE?",
+    "image_description": "Hyper-realistic 3D render of a futuristic server rack with glowing blue data streams, guarded by a sleek, robotic security drone, cinematic side lighting, 8k resolution.",
+    "reasoning": "Highlights the core AI and security theme, promising a deep dive into future tech without giving everything away, encouraging clicks."
   },
-  "title": "2027 Tech Trends EXPOSED! Future Opportunities & Awards",
+  "title": "AI & Security: 2026's Tech Shockwave!",
   "segments": [
     {
-      "text": "Global customer markets are recovering, driving immense opportunities in technology by 2027. Evolving needs mean critical innovation is now demanded across all industries and consumer services.",
-      "image_prompt": "Stylized bar graphs showing market recovery and growth, overlaid with glowing data lines, cinematic lighting, a determined figure with data-reflecting smart glasses observing.",
-      "camera_effect": "Zoom-in"
+      "text": "Recent executive perspectives from GSX 2026 and SVG 2026 confirm a converging future. Industry leaders highlighted significant shifts in AI and digital security integration.",
+      "image_prompt": "Digital display showing overlapping trend graphs for 'AI' and 'Security 2026', sleek holographic interface, cinematic lighting, serious thought.",
+      "camera_effect": "zoom_in"
     },
     {
-      "text": "PMMI recently announced finalists for its 2026 Technology Excellence Awards. These packaging innovations signal major shifts in manufacturing efficiency, automation, and sustainable operational standards.",
-      "image_prompt": "High-tech robotic arm precisely handling an advanced package, a glowing digital display showing 'PMMI 2026 Awards', an individual with intense focus through smart glasses on the process.",
-      "camera_effect": "Dolly zoom"
+      "text": "Artificial Intelligence is no longer just a trend; it’s fundamental. Reports from Investor's Business Daily emphasize AI's deep integration, driving innovation across various sectors.",
+      "image_prompt": "Abstract representation of neural networks glowing, connecting data points across a cityscape hologram, intense focus, cyberpunk neon lighting.",
+      "camera_effect": "pan_right"
     },
     {
-      "text": "PropTech, or Property Technology, is rapidly evolving. Businesses must now adapt to the 'next generation' of solutions like AI-driven analytics and IoT integration for competitive advantage in real estate.",
-      "image_prompt": "Holographic projection of a smart building with data flowing around it, a hand interacting with the display, dramatic side lighting, a serious expression contemplating the data.",
-      "camera_effect": "Tracking shot"
+      "text": "GSX 2026 insights reveal AI’s pivotal role in advanced security protocols. Expect autonomous threat detection, predictive analytics, and proactive cyber defenses safeguarding data.",
+      "image_prompt": "Cybernetic hand interacting with a holographic shield interface, displaying real-time threat alerts and secure data flow, dramatic side lighting.",
+      "camera_effect": "tilt_up"
     },
     {
-      "text": "This trend indicates a broader industrial transformation. From packaging to property, every sector faces technology-driven disruption, demanding readiness for 2026-2027 adoption cycles globally.",
-      "image_prompt": "A vibrant mosaic of interconnected digital interfaces representing different industries (manufacturing, real estate, consumer), glowing links, an intense focus looking at the overall network.",
-      "camera_effect": "Panning shot"
+      "text": "This convergence means smarter devices and services, enhancing user experience through personalized, hyper-secure interactions. Businesses will leverage AI for unprecedented operational efficiency.",
+      "image_prompt": "Person looking through smart glasses, data overlays showing secure smart home controls and encrypted communication, glowing iris effect, wonder.",
+      "camera_effect": "dolly_zoom"
     },
     {
-      "text": "Future tech is heavily focused on enhanced user experience and operational efficiency. Companies prioritizing seamless digital integration will capture significant market share and customer loyalty swiftly.",
-      "image_prompt": "A sleek, futuristic smartphone displaying a user-friendly interface for a smart home system, reflecting data streams, cyberpunk neon lighting, a hand carefully interacting with the screen.",
-      "camera_effect": "Close-up"
+      "text": "Prepare for AI-powered autonomous agents managing smart city infrastructure and next-gen biometric verification. These innovations promise unparalleled convenience and robust protection mechanisms.",
+      "image_prompt": "Futuristic city skyline at night, with small autonomous drones patrolling, biometric scanner emitting a soft glow, determination, cyberpunk neon lighting.",
+      "camera_effect": "track_forward"
     },
     {
-      "text": "Success by 2027 relies on data-driven decisions and agile adaptation. Real-time analytics and predictive models are becoming non-negotiable for sustainable growth and market leadership.",
-      "image_prompt": "Abstract visualization of Big Data streams converging into a single glowing point, a determined individual's cybernetic eye reflecting complex algorithms, dramatic lighting.",
-      "camera_effect": "Reveal shot"
+      "text": "This data confirms a major pivot towards integrating advanced digital protections and real-time threat intelligence at scale across industries.",
+      "image_prompt": "Complex circuit board with a central glowing core, radiating energy, surrounded by abstract data representations, serious thought, cinematic lighting.",
+      "camera_effect": "static"
     },
     {
       "text": "If useful, please like and subscribe!",
