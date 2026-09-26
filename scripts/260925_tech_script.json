@@ -1,52 +1,46 @@
 {
   "hook_plan": {
-    "overlay_text": "TECH POWER GRAB",
-    "narration": "WARNING! A secret high-level meeting just happened that could change every piece of tech you own!",
-    "image_description": "A determined person's face seen through a shimmering holographic data stream, eyes reflecting intricate binary code, dramatic red and blue cyberpunk lighting, subtle digital corruption effect on the edges.",
-    "mood_color": "neon_green"
+    "overlay_text": "TECH SECRETS REVEALED",
+    "narration": "WARNING! A secret meeting just happened, and it will redefine YOUR tech future and what you buy!",
+    "image_description": "Extreme close-up of a person's eye reflecting holographic data, cybernetic glowing iris, digital glitch effects, red warning lights, dramatic side lighting. Intense focus.",
+    "mood_color": "red"
   },
   "thumbnail_plan": {
-    "thumbnail_text": "WHO CONTROLS TECH?",
-    "image_description": "A hyper-realistic 3D render of a glowing, interconnected global network map with intricate server racks beneath, a central data core pulsing with light, dark background with dramatic blue and orange backlighting, 8k resolution.",
-    "reasoning": "This thumbnail emphasizes global tech control and intrigue, using an object-focused, high-contrast, cinematic visual to create curiosity and drive clicks."
+    "thumbnail_text": "GLOBAL TECH SHIFT",
+    "image_description": "3D render of two interlocking, stylized glowing digital world maps, one red, one blue, representing US and China, with data streams connecting them. Center composition, cyberpunk style, hyper-realistic, 8k resolution, dramatic backlighting.",
+    "reasoning": "Highlights geopolitical tech power shifts using clear, high-contrast visuals of symbolic objects to attract clicks through implied global impact, avoiding generic human reactions."
   },
-  "title": "The Secret Tech Dinner: Future of Your Devices Exposed",
+  "title": "Global Tech Leaders Dinner: Your Future Devices are Impacted!",
   "segments": [
     {
-      "text": "Former President Trump and President Xi Jinping recently convened a high-stakes dinner. Top U.S. and Chinese tech CEOs were notably present, signaling critical industry discussions.",
-      "image_prompt": "Overhead view of a grand, dimly lit conference table, holographic projections of world maps and data hovering above, no faces visible, cinematic lighting, sleek design.",
-      "camera_effect": "zoom_in",
-      "text_overlay": "LEADERS MET"
+      "text": "Former President Trump and President Xi Jinping recently convened for a highly anticipated, significant dinner in San Francisco.",
+      "image_prompt": "A high-tech meeting room with a holographic projection of world leaders, dramatic lighting, focused expressions, cybernetic aesthetics.",
+      "camera_effect": "slowly zoom out"
     },
     {
-      "text": "Sources indicate leaders from major chipmakers, AI development firms, and global communication platforms attended. Names suggest a focus on semiconductor supply chains and data policy.",
-      "image_prompt": "Abstract representation of interconnected circuit boards, glowing nodes representing different companies, 'data streams' flowing between them, dark background, blue and purple neon highlights.",
-      "camera_effect": "pan_right",
-      "text_overlay": "CEO'S PRESENT"
+      "text": "Top tech CEOs from influential companies were present, signaling deep discussions on bilateral economic futures and global technological collaboration.",
+      "image_prompt": "A sleek, reflective table with digital name tags for 'Tech CEO', intense focus reflected in cybernetic eyes, serious thought, cinematic lighting.",
+      "camera_effect": "pan across table"
     },
     {
-      "text": "This private engagement occurred amid escalating trade tensions and competition over technological supremacy. The discussions likely addressed tariffs, export controls, and market access issues.",
-      "image_prompt": "Two stylized, glowing robotic hands (representing different nations) reaching towards a central, complex holographic chip, with subtle digital conflict lines, cyberpunk aesthetic, dramatic lighting.",
-      "camera_effect": "static",
-      "text_overlay": "TRADE TENSIONS"
+      "text": "Conversations centered on critical technology areas: semiconductor supply chains, advanced AI research, and evolving global data regulation frameworks.",
+      "image_prompt": "Interconnected glowing circuits with data flowing, overlay of abstract AI symbols, intricate cyberpunk style, digital corruption effect.",
+      "camera_effect": "fast cut"
     },
     {
-      "text": "Discussions impact global tech supply chains, especially critical for AI chips and rare earth minerals. Future consumer electronics and software services could see significant shifts.",
-      "image_prompt": "Macro shot of a high-performance CPU, intricate glowing circuits, data flowing around it like a digital storm, dramatic light from below, 8k resolution.",
-      "camera_effect": "zoom_out",
-      "text_overlay": "CHIP WAR IMPACT"
+      "text": "These closed-door talks directly influence future tech innovation, affecting everything from your smartphone's components to emerging AI software features daily.",
+      "image_prompt": "A person looking at a transparent screen displaying futuristic apps, wonder in their eyes through smart glasses, cityscape in background, dramatic lighting.",
+      "camera_effect": "static with screen animation"
     },
     {
-      "text": "Decisions from this dinner could influence pricing, availability, and features of your next smartphone, laptop, or smart home device. Data privacy regulations may also be reshaped.",
-      "image_prompt": "A user holding a transparent tablet displaying evolving UI elements and privacy toggles, cybernetic glow on their hand, reflecting data, intense focused expression, cinematic lighting.",
-      "camera_effect": "pan_left",
-      "text_overlay": "YOUR TECH CHANGES"
+      "text": "Such high-level diplomatic engagements are pivotal, often preceding major policy shifts impacting billions of global tech users and market structures.",
+      "image_prompt": "A glowing global network map with data streams connecting continents, dramatic side lighting, 'warning' red digital glitches, focused determination.",
+      "camera_effect": "slow rotation"
     },
     {
-      "text": "The unprecedented attendance of these tech leaders at a political summit underlines the intensifying geopolitical nature of technology itself, shaping future innovation globally.",
-      "image_prompt": "A futuristic cityscape at night, with a prominent, glowing data tower reaching into the sky, digital lines connecting buildings, showing progress and power, cinematic lighting.",
-      "camera_effect": "dolly_zoom",
-      "text_overlay": "FUTURE INNOVATION"
+      "text": "This could reshape global tech alliances and market access for years to come.",
+      "image_prompt": "A digital representation of global trade routes with glowing connections, futuristic, data-driven visuals, dramatic side lighting.",
+      "camera_effect": "static"
     },
     {
       "text": "If useful, please like and subscribe!",
