@@ -1,46 +1,46 @@
 {
   "hook_plan": {
-    "overlay_text": "FUTURE IS NOW",
-    "narration": "WARNING! The future isn't coming; it's already here, reshaping everything you know with unprecedented speed!",
-    "image_description": "A person in a dark room, face dramatically lit by multiple holographic data streams reflecting cybernetic eyes, expressing intense focus and determination, digital glitch effects, neon green highlights.",
-    "mood_color": "neon_green"
+    "overlay_text": "AI IS UNSTOPPABLE",
+    "narration": "WARNING! A secret AI explosion is about to rewrite every aspect of your future!",
+    "image_description": "Close-up of a human eye seen through smart glasses, iris glowing with cybernetic data streams, surrounded by rapidly moving digital code, glitch effects, dramatic red warning lights, intense focus, cinematic lighting.",
+    "mood_color": "red"
   },
   "thumbnail_plan": {
-    "thumbnail_text": "AI CONVERGENCE",
-    "image_description": "3D render of interconnected glowing neural networks merging seamlessly with advanced robotic arm components, holographic data flowing between them, in a cyberpunk style, hyper-realistic, with dramatic backlighting and 8k resolution.",
-    "reasoning": "This visually striking image clearly depicts the convergence of AI and robotics, a core theme. The bold text and cyberpunk aesthetic create intrigue and signal a major tech shift, maximizing click-through rates."
+    "thumbnail_text": "$769B AI BOOM",
+    "image_description": "3D Render of a futuristic data center server rack, glowing with neon blue and red lights, holographic data streams flowing around it, hyper-realistic, 8k resolution, dramatic backlighting, centered object.",
+    "reasoning": "The massive financial figure ($769B) and clear 'AI BOOM' text immediately convey the scale and impact of the news, attracting both tech enthusiasts and general viewers curious about economic shifts, prioritizing objects over faces for universal appeal and avoiding clickbait fatigue."
   },
-  "title": "AI & Automation: The Future Is Here!",
+  "title": "AI's $769 Billion Future Is Here",
   "segments": [
     {
-      "text": "VISION 2026 spotlights the convergence of AI, Automation, and Adaptive Technology. This integration drives new frontiers in manufacturing and human-machine interaction, impacting daily life.",
-      "image_prompt": "Conceptual visualization of AI algorithms flowing into automated robotic arms on an assembly line, adaptive sensors glowing with blue light, concrete technical visuals, cinematic lighting.",
-      "camera_effect": "tracking_shot"
-    },
-    {
-      "text": "Globally, the US and China lead the intense AI development race. Both nations invest billions in research, pushing innovation in critical sectors like defense and healthcare.",
-      "image_prompt": "Stylized digital map showing glowing nodes over the US and China, connected by data streams representing intense AI research, a person nearby with a serious thought expression through smart glasses, dramatic side lighting.",
+      "text": "Global AI infrastructure investment is set to explode, reaching $769 billion by 2026. This represents a colossal 35% surge from just 2023 figures.",
+      "image_prompt": "Animated infographic showing a bar chart rapidly rising to $769B with '2026' prominent, digital currency symbols, cyberpunk neon glow, cinematic lighting.",
       "camera_effect": "zoom_in"
     },
     {
-      "text": "However, managing the inherent risks collaboratively remains a critical challenge. Discussions around ethical AI, data security, and autonomous systems are paramount for global stability.",
-      "image_prompt": "Abstract visual of a digital barrier with glitch effects, representing risk, with two conceptual hands (one glowing red, one blue) attempting to converge safely, dramatic side lighting, red warning lights.",
+      "text": "This unprecedented capital injection is primarily funding advanced data centers, highly specialized AI chips, and next-gen networking infrastructure globally.",
+      "image_prompt": "Hyper-realistic render of a data center with futuristic servers, interconnected by glowing optical fiber cables, focused on a stylized AI chip at the center, cinematic lighting, cyberpunk aesthetic.",
+      "camera_effect": "pan_left_right"
+    },
+    {
+      "text": "The driving force? Unrelenting demand for more processing power from generative AI, autonomous systems, and real-time analytical applications across every sector.",
+      "image_prompt": "Visual metaphor: human hands (with determined expressions) reaching out to glowing holographic data projections of generative AI art, autonomous vehicles, and real-time dashboards, dramatic side lighting.",
+      "camera_effect": "dolly_zoom"
+    },
+    {
+      "text": "This means smarter AI assistants, hyper-personalized content, and seamlessly integrated smart devices impacting your home and work.",
+      "image_prompt": "Split screen: one side showing a user interacting effortlessly with a holographic AI assistant, other side displaying personalized content on a smart screen, sleek UI, warm futuristic glow, cinematic lighting.",
       "camera_effect": "static"
     },
     {
-      "text": "Beyond typical tech, CPIA's webinar highlights emerging trends even in traditional sectors like print. Adaptive AI now optimizes workflows, personalizing content delivery for mass production.",
-      "image_prompt": "Holographic interface displaying complex print layouts being optimized by AI algorithms, showing a modernized factory floor in the background with advanced machinery, intense focus expression, cyberpunk neon.",
-      "camera_effect": "pan_left"
+      "text": "Amidst this boom, critical safety concerns are escalating. Prioritizing ethical AI development, robust security, and transparent deployment practices becomes paramount.",
+      "image_prompt": "Abstract digital representation of 'safety concerns': interlocking gears with some red warning lights, a protective digital shield, flowing code representing ethical guidelines, cinematic lighting, glitch effects.",
+      "camera_effect": "zoom_out"
     },
     {
-      "text": "These advancements mean smarter devices, more intuitive interfaces, and automated services touching everyday life. From smart homes to personalized logistics, AI enhances efficiency everywhere.",
-      "image_prompt": "User interacting seamlessly with a holographic smart home system, displaying adaptive technology adjusting environment, reflecting wonder in their eyes (technical context), cinematic lighting.",
-      "camera_effect": "fly_through"
-    },
-    {
-      "text": "This continuous integration of AI and automation fundamentally reshapes industries, creating unprecedented operational efficiencies and entirely new economic paradigms globally.",
-      "image_prompt": "A futuristic city skyline, digitally enhanced, with data flowing through buildings and transportation, showcasing large-scale infrastructure transformation, cinematic lighting.",
-      "camera_effect": "dolly_zoom"
+      "text": "Industry leaders are strategically pouring funds into building resilient, future-proof AI backbones, anticipating even deeper integration into daily life beyond 2030.",
+      "image_prompt": "A futuristic city skyline with integrated holographic AI interfaces, digital overlay of '2030+' date, showing seamless human-AI interaction in daily tasks, vibrant cyberpunk colors, cinematic lighting.",
+      "camera_effect": "pan_up"
     },
     {
       "text": "If useful, please like and subscribe!",
