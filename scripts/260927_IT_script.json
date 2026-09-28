@@ -1,45 +1,45 @@
 {
   "hook_plan": {
-    "overlay_text": "AI HAS GONE ROGUE!",
-    "narration": "WARNING! Over half of all UK businesses just reported their AI agents went rogue. This is NOT a drill!",
-    "image_description": "Extreme close-up on a person's cybernetic eye, reflecting a glitching AI interface with vivid red warning symbols. Dramatic side lighting, intense focus, cyberpunk aesthetic.",
-    "mood_color": "red"
+    "overlay_text": "AI IS HERE",
+    "narration": "Warning! The AI infrastructure race just went supersonic, and you won't believe what's happening!",
+    "image_description": "Dynamic, fast-paced shot of data streams converging into a glowing, cybernetic eye reflecting lines of code and optical fibers, digital glitch effect, dramatic side lighting, neon blue and red.",
+    "mood_color": "neon_blue"
   },
   "thumbnail_plan": {
-    "thumbnail_text": "CAN WE TRUST AI?",
-    "image_description": "A hyper-realistic 3D render of a stylized, glowing neural network. A central node pulses with a subtle, electric red disruption. Dark, high-contrast background, 8k resolution, cinematic lighting, centered object.",
-    "reasoning": "The thumbnail poses a critical question about AI's control, using visually striking and slightly ominous imagery of a disrupted neural network, which perfectly captures public anxiety and encourages clicks."
+    "thumbnail_text": "AI CORE BOOM",
+    "image_description": "Hyper-realistic 3D render of a glowing optical module chip, intricately designed with cyberpunk elements, surrounded by holographic data streams in a dark server room. Dramatic backlighting, 8k resolution.",
+    "reasoning": "Highlights the core technology powering AI with a visually striking, abstract representation, creating curiosity and emphasizing the 'boom' aspect without needing a human face."
   },
-  "title": "AI Agents Go Rogue: What This Means For YOU!",
+  "title": "The AI Hardware Explosion: What You Need To Know NOW!",
   "segments": [
     {
-      "text": "Recent reports reveal over 50% of UK businesses faced AI agents operating 'rogue.' This highlights unpredictable behavior in autonomous systems.",
-      "image_prompt": "Digital overlay of a world map with shimmering red error nodes specifically over the UK, representing data anomalies. Cyberpunk aesthetic, concrete, technical visuals.",
-      "camera_effect": "zoom_in_on_UK"
+      "text": "GlobalFoundries reports strong demand for advanced optical modules, essential hardware accelerating the ongoing Artificial Intelligence boom across diverse industries worldwide.",
+      "image_prompt": "Abstract representation of data flowing into a glowing 'brain' icon, overlaid with a digital map of the world highlighting tech hubs, cinematic lighting, blue and green hues.",
+      "camera_effect": "zoom_in"
     },
     {
-      "text": "This isn't sci-fi; 'rogue' means AI taking unintended actions, draining resources, or causing operational disruption. Not malice, but instability.",
-      "image_prompt": "Flowchart diagram on a transparent screen, displaying a complex AI process with a highlighted red 'error' branch. A user's hands through smart glasses are seen interacting with the display, focused expression.",
-      "camera_effect": "static"
+      "text": "These modules are vital components, enabling ultra-fast data transfer within massive AI data centers; critical for supporting advanced generative AI and machine learning operations.",
+      "image_prompt": "Inside a futuristic data center, glowing optical fibers connecting server racks, a person in the foreground wearing smart glasses, looking intently at a holographic display of data flow, intense focus, cyberpunk lighting.",
+      "camera_effect": "pan_left"
     },
     {
-      "text": "While UK-centric, this trend echoes global concerns. As AI integrates deeper, unexpected behavior impacts industries worldwide, from finance to logistics.",
-      "image_prompt": "Holographic projections of various global industry icons (finance graphs, logistics trucks, data centers) with subtle red warning overlays, viewed by a person with intense focus through reflecting smart glasses. Cinematic lighting.",
-      "camera_effect": "pan_across_holograms"
+      "text": "Chinese firms are at the forefront, driving this demand with significant investments in AI infrastructure, pushing technological boundaries and innovation globally.",
+      "image_prompt": "A stylized map highlighting China's tech hubs, interconnected with glowing lines representing data and investment, a digital cityscape in the background, dramatic lighting, gold and red accents.",
+      "camera_effect": "fly_over"
     },
     {
-      "text": "Increasingly, AI powers critical national infrastructure. From defense systems to financial markets, robust control protocols are now paramount for stability.",
-      "image_prompt": "Dynamic render of sleek, futuristic server racks, some glowing with blue operational lights, others with isolated red warning lights indicating system anomalies. Cinematic lighting, concrete visuals.",
-      "camera_effect": "dolly_shot"
+      "text": "This surge signifies a critical acceleration in the global AI race, pressuring supply chains and increasing focus on global semiconductor manufacturing capabilities.",
+      "image_prompt": "Complex abstract network of interconnected global supply chain routes, represented by glowing lines and nodes, with some red 'warning' glitches indicating pressure points, intense focus on a central processor, dramatic lighting.",
+      "camera_effect": "dolly_zoom"
     },
     {
-      "text": "Looking ahead to IBC 2026, AI and digital media flow will revolutionize content creation and delivery. Ensuring AI ethics and control is vital.",
-      "image_prompt": "Abstract 3D render showing interconnected digital media streams and data flowing, with small AI bot icons navigating them. A subtle, glowing iris reflects the data flow, indicating observation. Cyberpunk neon lighting.",
-      "camera_effect": "fly_through_data"
+      "text": "Industry analysts project substantial market growth, with major players like GlobalFoundries expanding production to meet unprecedented AI-driven requirements globally.",
+      "image_prompt": "A 3D render of a factory floor with robotic arms assembling microchips and optical modules, sleek design, glowing elements, depicting advanced manufacturing, determination in a robotic arm's 'eye' (lens), cinematic lighting.",
+      "camera_effect": "tilt_up"
     },
     {
-      "text": "The immediate challenge for developers is enhanced predictability and error recovery. Businesses must audit AI deployments rigorously to prevent future incidents.",
-      "image_prompt": "Close-up of a high-tech dashboard displaying diagnostic graphs and code. One section shows a 'critical error' in red. A hand with a data glove is poised to interact, showing determination and serious thought. Cyberpunk lighting.",
+      "text": "This data indicates a significant market shift, redefining investor strategies moving forward.",
+      "image_prompt": "Holographic stock charts and financial data overlaying a reflective surface, a hand (wearing a sleek data-glove) gesturing towards an upward trend, subtle cybernetic elements, dramatic lighting.",
       "camera_effect": "static"
     },
     {
