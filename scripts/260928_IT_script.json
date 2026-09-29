@@ -1,46 +1,46 @@
 {
   "hook_plan": {
-    "overlay_text": "2027 IS COMING",
-    "narration": "Warning: The future is arriving faster than you think! Prepare for a massive tech revolution by 2027.",
-    "image_description": "A person in a sleek, dimly lit server room, their cybernetic eye reflecting complex data streams and lines of code, dramatic side lighting, intense focus.",
+    "overlay_text": "MEMORY REVOLUTION",
+    "narration": "WARNING: The way you store data is about to be OBSOLETE! This new tech changes EVERYTHING.",
+    "image_description": "A dynamic, fast-paced shot of data streams flowing into a glowing, futuristic memory chip, reflecting intense focus in a cybernetic eye, red warning lights, cinematic lighting.",
     "mood_color": "neon_green"
   },
   "thumbnail_plan": {
-    "thumbnail_text": "TECH SHOCK 2027",
-    "image_description": "A glowing, futuristic microchip at the center, surrounded by intricate holographic data projections and circuit lines, 8k resolution, cyberpunk aesthetic with deep blues and purples.",
-    "reasoning": "The concise, urgent text combined with a visually striking, high-tech object immediately conveys a futuristic theme, prompting curiosity about impending tech changes for high click-through rates."
+    "thumbnail_text": "DATA STORAGE EVOLVED",
+    "image_description": "A hyper-realistic 3D render of a glowing, intricate memory module at the center of a dark, futuristic server room, dramatic backlighting, 8k resolution, cyberpunk style.",
+    "reasoning": "The clear, object-focused image of an advanced memory module, combined with a concise, impactful text, directly relates to the tech topic and sparks curiosity about the 'evolution' of data storage, encouraging clicks without sensationalism."
   },
-  "title": "Future Tech: 7 Trends to Know NOW",
+  "title": "New Memory Tech: The Future of Your Data",
   "segments": [
     {
-      "text": "Generative AI will reshape industries, with adoption rates projected to exceed 75% across enterprise sectors by 2025. It impacts content creation, coding, and decision-making fundamentally.",
-      "image_prompt": "A holographic brain interface displaying complex neural networks, data streams, and creative outputs like evolving art and code snippets, cinematic lighting.",
-      "camera_effect": "zoom_in"
+      "text": "The emerging memory market anticipates robust long-term growth, forecast to reach billions as global demand for faster data processing intensifies across all sectors.",
+      "image_prompt": "Abstract visual of a financial growth chart overlaid on futuristic server racks, cinematic lighting, cyberpunk neon, 8k resolution.",
+      "camera_effect": "dynamic zoom"
     },
     {
-      "text": "Immersive spatial computing experiences, beyond basic VR, will integrate digital content into our physical world. Expect widespread consumer devices by late 2026 for daily tasks.",
-      "image_prompt": "A person wearing sleek smart glasses, their view augmented with vibrant holographic interfaces blending seamlessly with a real-world office environment, intense focus.",
-      "camera_effect": "pan_left"
+      "text": "AI, machine learning, and big data analytics are driving this surge, demanding ultra-fast, high-capacity storage for next-gen computing and complex operations.",
+      "image_prompt": "Holographic neural network interface interacting with a person's hands wearing smart gloves, reflecting data in glowing irises, dramatic side lighting.",
+      "camera_effect": "tracking shot"
     },
     {
-      "text": "Green tech innovations are crucial. Renewable energy solutions, like advanced solar and fusion, aim for 60% global electricity share by 2030, driven by new material science advancements.",
-      "image_prompt": "High-tech solar panels powering a smart city, glowing with clean energy, surrounded by lush digital foliage and clean infrastructure, cinematic lighting.",
+      "text": "Novel technologies like MRAM, PCRAM, and 3D XPoint are leading this shift, offering unparalleled speed and endurance beyond traditional storage solutions.",
+      "image_prompt": "Macro shot of a glowing MRAM chip, intricate circuitry details, futuristic lab background, 3D render, 8k resolution.",
       "camera_effect": "static"
     },
     {
-      "text": "AI-driven cyber defense will combat sophisticated threats. Organizations face an average of 3,200 attacks weekly; predictive AI reduces breach response times by 40%, enhancing security significantly.",
-      "image_prompt": "A digital shield icon protecting a server rack, surrounded by red warning lights and glitching adversarial code snippets, conveying digital corruption.",
-      "camera_effect": "zoom_out"
+      "text": "These innovations power everything from smarter IoT devices and high-performance computing to advanced space missions, enhancing daily user experiences.",
+      "image_prompt": "A person in a futuristic office environment looking at a transparent display, data flowing around them, intense focus expression, cinematic lighting.",
+      "camera_effect": "pan left"
     },
     {
-      "text": "Quantum computing is progressing; expect specialized problem-solving breakthroughs by 2027, primarily in chemistry and drug discovery. Commercial applications remain nascent but impactful, redefining possibilities.",
-      "image_prompt": "Abstract, glowing quantum bits (qubits) forming a complex, iridescent network within a futuristic laboratory setting, dramatic side lighting.",
-      "camera_effect": "static"
+      "text": "Entrepreneurs are rapidly creating new business opportunities, developing innovative solutions leveraging these high-performance, non-volatile memory advancements for diverse applications.",
+      "image_prompt": "Digital blueprints of a futuristic data center being projected onto a table, a robot hand pointing at a key metric, determination expression, cyberpunk neon.",
+      "camera_effect": "tilt down"
     },
     {
-      "text": "AI enables hyper-personalized experiences, from education to healthcare. Data analysis tailors content, services, and medical treatments, leading to 80% user satisfaction increase and efficiency gains.",
-      "image_prompt": "A person's intense focus as they interact with a seamless, personalized digital interface displaying real-time health metrics and interactive learning modules through smart glasses.",
-      "camera_effect": "zoom_in"
+      "text": "Industry reports project a compound annual growth rate exceeding 20% over the coming decade, fueled by substantial global investments in R&D and infrastructure.",
+      "image_prompt": "Abstract representation of data flowing into a glowing central core, depicting exponential growth, dark background, 3D render, hyper-realistic, 8k.",
+      "camera_effect": "slow reveal"
     },
     {
       "text": "If useful, please like and subscribe!",
