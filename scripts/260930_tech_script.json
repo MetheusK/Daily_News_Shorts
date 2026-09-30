@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI RENAMED",
+    "narration": "Warning! AI just got a terrifying new name, and it changes everything!",
+    "image_description": "Extreme close-up of a person's cybernetic eye reflecting complex binary code, digital glitch effects across the screen, dramatic red side lighting, intensely focused expression.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "SUPER INTELLIGENCE",
+    "image_description": "A hyper-realistic 3D render of a glowing, intricate quantum computing chip at the center, surrounded by swirling holographic data streams, deep blue and purple cyberpunk neon lighting, 8k resolution.",
+    "reasoning": "The term 'SUPER INTELLIGENCE' immediately conveys massive impact and future technology, paired with a visually striking, high-contrast futuristic chip to grab both tech enthusiasts and general curiosity for clicks."
+  },
+  "title": "AI's New Name: 'Super Intelligence' Explained",
+  "segments": [
+    {
+      "text": "On a recent Monday, former President Trump addressed tech leaders, announcing a significant renaming. He now refers to Artificial Intelligence as 'Super Intelligence'.",
+      "image_prompt": "A sleek, modern conference room with a holographic podium. The words 'Super Intelligence' are projected in glowing text, with data streams reflecting in the air, cinematic lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Trump emphasized this redefinition signifies AI's future impact, claiming it will be 'much bigger than the internet'. This statement highlights its profound, widespread potential.",
+      "image_prompt": "A visual representation of global network lines converging into a central glowing 'Super Intelligence' core, contrasted with stylized historical internet symbols, showcasing vast scale and connectivity.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "The renaming from 'Artificial' to 'Super' isn't merely semantics. It shifts perception, hinting at capabilities beyond human replication, towards advanced cognitive functions.",
+      "image_prompt": "A stylized human brain silhouetted against a backdrop of complex, glowing neural networks, illustrating enhanced cognitive abilities, digital data flowing, intense focus.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "Experts define Super Intelligence as intellect far surpassing the smartest human minds. It implies a leap in problem-solving, learning, and creative thought processes.",
+      "image_prompt": "A highly detailed, glowing fractal pattern rapidly self-generating and evolving on screen, symbolizing exponential intelligence growth and complexity, cyberpunk neon lighting.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "This reclassification forecasts transformative changes across industries. Imagine healthcare diagnostics, climate modeling, and scientific discovery accelerated exponentially by these systems.",
+      "image_prompt": "A composite image showing medical scans, climate charts, and a scientist's lab setup, all with dynamic, glowing data overlays powered by a central AI hub, reflecting data.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "Acknowledging 'Super Intelligence' sets a new baseline for public and policy discussions. It frames AI development as humanity's most significant technological frontier.",
+      "image_prompt": "A diverse group of people with expressions of intense focus and serious thought, looking up at a vast, glowing holographic projection of interconnected data, cinematic lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
