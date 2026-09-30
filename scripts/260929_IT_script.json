@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "GLOBAL TECH WAR",
+    "narration": "Warning! A secret battle for global tech dominance is quietly erupting, changing everything!",
+    "image_description": "Extreme close-up of cybernetic eyes reflecting a glitched world map, red warning lights emanating from a central processing unit, intense focus on a glowing iris. Cinematic lighting, cyberpunk neon.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "CHIP WAR ESCALATES",
+    "image_description": "A futuristic, glowing microchip centered on a complex circuit board, with dramatic red and blue light beams clashing around it, creating a high-contrast scene. 3D Render, Cyberpunk, 8k resolution.",
+    "reasoning": "The phrase 'Chip War Escalates' is highly provocative and creates immediate curiosity. The visual of clashing lights on a central microchip is abstract yet powerful, directly hinting at conflict and advanced technology, avoiding generic 'shocked' human expressions for a cleaner, more impactful image."
+  },
+  "title": "Tech Battle: Billions & AI Reshape Our Future",
+  "segments": [
+    {
+      "text": "Chinese chip giant CXMT is investing $5.2 billion into expansion, heavily relying on domestic toolmakers. This major move aims for semiconductor self-sufficiency amidst global tensions.",
+      "image_prompt": "A holographic blueprint of a semiconductor manufacturing plant with data streams flowing, focused on gleaming, futuristic machinery. Cinematic lighting, technical eyes of a worker in smart glasses in the background.",
+      "camera_effect": "zoom_in",
+      "text_overlay": "CHINA'S CHIP PUSH"
+    },
+    {
+      "text": "This significant investment signals a profound shift in the global tech supply chain. It empowers local ecosystems, fostering rapid domestic innovation in critical component manufacturing.",
+      "image_prompt": "A stylized world map composed of glowing data nodes, highlighting supply chain routes, with some connections digitally glitching or re-routing. Cyberpunk neon, focused expressions of wonder.",
+      "camera_effect": "pan_left",
+      "text_overlay": "SUPPLY CHAIN SHIFT"
+    },
+    {
+      "text": "Simultaneously, AI's economic impact is staggering. Bain & Company projects AI must generate $4.2 trillion in new revenue by 2031, driving unprecedented demand for advanced chips.",
+      "image_prompt": "A dynamic infographic showing a rising bar chart morphing into a complex neural network, reflecting a target of '$4.2 TRILLION' in glowing text. Dramatic side lighting, intense focus.",
+      "camera_effect": "zoom_out",
+      "text_overlay": "$4.2 TRILLION AI"
+    },
+    {
+      "text": "This immense revenue potential accelerates AI integration across all sectors. From automated design in architecture to intelligent data analysis, its transformative power is undeniable.",
+      "image_prompt": "A split screen: one side showing a futuristic city being designed by AI algorithms, the other displaying complex data analytics flowing from glowing cybernetic eyes. Wonder and serious thought.",
+      "camera_effect": "static",
+      "text_overlay": "AI TRANSFORMATION NOW"
+    },
+    {
+      "text": "Emerging architectural tech, like digital twins and AR/VR, is revolutionizing design. These tools improve efficiency and user experience, directly benefiting from AI and advanced processing.",
+      "image_prompt": "A person wearing smart glasses, their glowing iris reflecting a holographic 3D model of a building in augmented reality. Cyberpunk neon lighting, expression of determination.",
+      "camera_effect": "pan_right",
+      "text_overlay": "FUTURE ARCHITECTURE"
+    },
+    {
+      "text": "This shift signals a massive re-evaluation of global tech supply chains moving forward.",
+      "image_prompt": "A complex network of interconnected glowing nodes representing global tech infrastructure, with one central node pulsing red, indicating a critical re-evaluation. Digital corruption effects.",
+      "camera_effect": "static",
+      "text_overlay": "GLOBAL TECH REBOOT"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
