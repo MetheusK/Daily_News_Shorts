@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "SMART TECH WARNING!",
+    "narration": "WARNING! Your home and your phone just changed forever! Tech giants unleashed two game-changers.",
+    "image_description": "Extreme close-up of a smart home device's glowing lens, with data streams reflecting in a subtle cybernetic eye. Digital glitch effects, neon blue and red lighting creating an urgent, intense focus. Cinematic.",
+    "mood_color": "neon_green"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI'S NEW BRAIN",
+    "image_description": "A hyper-realistic 3D render of a futuristic, glowing microchip centered against a dark, cyberpunk background. Holographic data streams emanate from the chip. Dramatic backlighting with an 8k resolution focus.",
+    "reasoning": "The 'AI's New Brain' text paired with a visually striking, glowing microchip immediately signals cutting-edge technology and a significant breakthrough, compelling clicks through curiosity and perceived high value."
+  },
+  "title": "Apple Home Hub & Gemini 4 Argon: Your Digital Future Unveiled",
+  "segments": [
+    {
+      "text": "Apple's new Home Hub centralizes smart device control. Seamlessly integrates, enhancing user experience with predictive actions and robust security features.",
+      "image_prompt": "Clean, futuristic interface of a smart home control panel displaying multiple connected devices in a minimalist 3D render.",
+      "camera_effect": "Smooth zoom in on the central control panel."
+    },
+    {
+      "text": "Users gain simplified automation for lights, thermostats, and security. Its 'Wow' factor: intuitive cross-device compatibility and new energy-saving insights from Apple.",
+      "image_prompt": "A glowing iris reflecting a dynamic, holographic user interface showing smart home controls (lighting, temperature) viewed through sleek smart glasses. Intense focus.",
+      "camera_effect": "Panning shot across the holographic UI elements."
+    },
+    {
+      "text": "Google just launched Gemini 4 Argon, a major AI leap. This advanced model pushes boundaries for natural language processing and complex reasoning tasks.",
+      "image_prompt": "Abstract representation of a glowing neural network with intricate blue and purple light patterns. A subtle, futuristic 'Gemini 4 Argon' watermark. Digital corruption effect.",
+      "camera_effect": "Glitch effect transition to the neural network visualization."
+    },
+    {
+      "text": "Gemini 4 Argon boasts multimodal capabilities, handling text, code, images with high accuracy. Benchmarks show a 15% increase in reasoning task performance.",
+      "image_prompt": "Futuristic data visualization showing a prominent bar graph with 'Gemini 4 Argon' significantly higher than others. An abstract human silhouette in serious thought, reflecting data. Cinematic lighting.",
+      "camera_effect": "Static shot with subtle, animated data flow around the graph."
+    },
+    {
+      "text": "Expect personalized digital assistants, enhanced creative tools, and smarter search results. Gemini 4 Argon integrates into apps, making tasks quicker and intuitive.",
+      "image_prompt": "A modern smartphone screen displaying a highly intelligent, responsive virtual assistant interface. A human face showing determination looking at the phone. Dramatic side lighting.",
+      "camera_effect": "Quick cut to a close-up of the animated phone screen."
+    },
+    {
+      "text": "This positions Google firmly in AI's forefront. Apple's Home Hub expands its ecosystem, predicting fierce competition for future smart living and AI convenience.",
+      "image_prompt": "Two distinct holographic logos (Apple and Google) slightly overlapping and merging, reflecting in a cybernetic eye. Dramatic side lighting with cyberpunk neon elements.",
+      "camera_effect": "Dynamic camera push forward into the merging logos."
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
