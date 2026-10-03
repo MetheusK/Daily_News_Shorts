@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI CONTROLS HOME",
+    "narration": "Stop scrolling! Google's new AI just got scary smart, and Apple wants to run your entire house!",
+    "image_description": "Extreme close-up of a cybernetic eye reflecting complex data streams, digital corruption effects, red warning lights flickering, intense focus, cyberpunk neon lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "SMART HOME SHOCK",
+    "image_description": "A hyper-realistic 3D render of a sleek, futuristic smart home hub device at the center, glowing with blue light, interconnected by holographic lines to various appliance icons (thermostat, security camera, smart speaker) in a dark, dramatic background. Cyberpunk aesthetic, 8k resolution.",
+    "reasoning": "The 'SMART HOME SHOCK' text immediately grabs attention with a strong, urgent phrase. The visual prioritizes a central, glowing object (the smart home hub) over humans, aligning with 'object-first' rule. Its 3D render, cyberpunk style, and dramatic lighting create a high-contrast, clickable image suggesting advanced tech and potential disruption, without relying on generic 'shocked' faces."
+  },
+  "title": "Google Gemini & Apple Home Hub: Your Future Home!",
+  "segments": [
+    {
+      "text": "Google just unveiled Gemini 4 Argon, their most powerful AI. This model offers incredible advancements in understanding and generating human-like language for everyone.",
+      "text_overlay": "GEMINI 4 ARGON",
+      "image_prompt": "Holographic representation of brain waves and neural networks, glowing data points cascading, subtle digital grid overlay. Abstract, dynamic, cyberpunk aesthetic.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "Its impact spans across Google services, making search smarter and personal assistants more intuitive. Expect seamless integration that truly anticipates your needs.",
+      "text_overlay": "SMARTER ASSISTANT",
+      "image_prompt": "A clean, technical hand (robotic or digital, not fleshy) interacting with a holographic interface showing search results and smart home controls. Cinematic lighting, glowing blue accents.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "Simultaneously, Apple introduced the Home Hub, a core integration for smart devices. It promises a more cohesive, secure, and user-friendly home automation ecosystem.",
+      "text_overlay": "APPLE HOME HUB",
+      "image_prompt": "A minimalist, sleek smart home hub device glowing with soft, inviting light, with interconnected device icons (lightbulb, lock, thermostat) floating around it. Dramatic side lighting, 8k resolution.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "The Home Hub aims to simplify daily life through enhanced automation, security features, and energy management. Control your entire home effortlessly with one system.",
+      "text_overlay": "EFFORTLESS CONTROL",
+      "image_prompt": "A person's eye seen through smart glasses, reflecting holographic icons representing home functions (lights, thermostat, security). Focus on 'glowing iris' and 'intense focus', cyberpunk neon.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "These releases signify a massive shift in tech, pushing AI and smart home capabilities further. Competition will drive innovation, boosting user experience and features.",
+      "text_overlay": "FUTURE IS NOW",
+      "image_prompt": "Split screen: left side shows a dynamic glowing brain network representing AI; right side shows an interconnected smart home blueprint with data flowing. Both abstract, digital, and hyper-realistic, 8k.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "The future of smart living is here, impacting daily convenience and accessibility for millions.",
+      "text_overlay": "DAILY IMPACT",
+      "image_prompt": "Global digital network illuminating smart devices across a stylized world map, showing widespread adoption and connection. High-contrast, 3D render, dramatic lighting.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
