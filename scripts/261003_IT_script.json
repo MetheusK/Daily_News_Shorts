@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "CHIP REVOLUTION NOW",
+    "narration": "WARNING! A silent revolution is happening in the world of computer chips right now, and it will change everything you own!",
+    "image_description": "Extreme close-up of a hyper-realistic, glowing microchip, data streams reflecting in a cybernetic eye of a person, dramatic side lighting, digital glitch effects, deep blue and red neon colors, intense focus expression.",
+    "mood_color": "neon_green"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "FUTURE IS CHIPS",
+    "image_description": "High-resolution 3D render of a futuristic, complex RISC-V chip at the center, glowing with internal circuitry, with a blurred background showing a modern autonomous car dashboard and subtle holographic data projections. Cyberpunk style, dramatic backlighting, 8k resolution.",
+    "reasoning": "Highlights the core topic (chips, future tech, automotive) with a visually striking, object-focused image. 'FUTURE IS CHIPS' is intriguing and directly relevant, encouraging clicks."
+  },
+  "title": "The Secret Chip War: RISC-V & Your Future Car",
+  "segments": [
+    {
+      "text": "An open-source chip architecture, RISC-V, is now going mainstream. This global collaboration is reshaping traditional semiconductor ties, driving innovation rapidly worldwide.",
+      "image_prompt": "Abstract visual of interconnected global networks forming a silicon wafer pattern, glowing green and blue lines, high-tech, cybernetic, cinematic lighting.",
+      "camera_effect": "zoom_out",
+      "text_overlay": "RISC-V GOES GLOBAL"
+    },
+    {
+      "text": "US-China tech ties are deepening through RISC-V, creating a new shared ecosystem. This marks a significant shift from past technology dependencies.",
+      "image_prompt": "Digital map of the world with glowing data lines connecting USA and China, overlaying a schematic of a RISC-V chip, intense focus, dramatic side lighting, through smart glasses.",
+      "camera_effect": "pan_left",
+      "text_overlay": "US-CHINA CONNECT"
+    },
+    {
+      "text": "Automotive Radar On Chip technology is experiencing massive growth. This integrates crucial safety sensors directly into vehicle silicon, enhancing autonomous capabilities.",
+      "image_prompt": "Detailed 3D render of a car's radar sensor integrated onto a tiny chip, glowing red detection waves emanating, high-resolution, cybernetic, cinematic lighting.",
+      "camera_effect": "static",
+      "text_overlay": "CARS GET SMARTER"
+    },
+    {
+      "text": "The global automotive radar market is forecasted for significant expansion, enabling next-gen safety features like advanced collision avoidance and fully autonomous driving.",
+      "image_prompt": "POV shot from inside a futuristic autonomous car, showing a holographic display of radar detection, city lights reflecting in the smart glasses of a driver, determined expression, cinematic lighting.",
+      "camera_effect": "tracking_shot",
+      "text_overlay": "DRIVE THE FUTURE"
+    },
+    {
+      "text": "Giants like ASML and Qualcomm navigate these shifting revenue trends. New players and open standards are constantly challenging their market positions.",
+      "image_prompt": "High-contrast digital graphic showing two abstract, stylized data peaks (representing ASML and Qualcomm) on a dark background, with smaller, emergent digital structures (representing new players) rising between them. Cyberpunk aesthetic, dramatic red and blue lighting, 8k resolution.",
+      "camera_effect": "zoom_in",
+      "text_overlay": "MARKET SHIFTS"
+    },
+    {
+      "text": "The future is defined by these tiny innovations, driving us into an era of unprecedented connectivity and intelligence.",
+      "image_prompt": "Extreme close-up of interwoven, glowing neural network pathways on a silicon substrate, light pulsing through them, reflecting data in a cybernetic eye, intense focus expression, cyberpunk neon lighting.",
+      "camera_effect": "dolly_zoom",
+      "text_overlay": "INNOVATION DRIVES US"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
