@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "AMAZON'S SECRET DEALS",
+    "narration": "Warning! Amazon just unleashed a massive tech event that will change how you shop forever, starting October 8th!",
+    "image_description": "A person with glowing cybernetic eyes, intensely focused through smart glasses, reflecting a holographic '80% OFF' price tag. Digital currency streams and abstract data flow in a dark, dramatic cyberpunk setting with neon red and blue lighting.",
+    "mood_color": "neon_red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "PHONE DEALS ALERT",
+    "image_description": "A sleek, hyper-realistic 3D rendered smartphone, centrally composed, with a prominent, glowing '80% OFF' graphic overlaid. The background is dark and futuristic, with subtle digital circuitry patterns and dramatic backlighting in 8k resolution.",
+    "reasoning": "The clear '80% OFF' and 'PHONE DEALS ALERT' immediately convey value and urgency for a desirable object, targeting general consumers interested in discounts without needing sensationalism."
+  },
+  "title": "Amazon's Tech Discount Avalanche 2026!",
+  "segments": [
+    {
+      "text": "The Amazon Great Indian Festival 2026 officially launches on October 8th. This annual event consistently drives record sales figures across major product categories for consumers.",
+      "image_prompt": "A digital calendar highlighting 'October 8th', surrounded by data graphs showing upward sales trends. The background features subtle holographic market projections.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Consumers should prepare for unprecedented discounts reaching up to 80% off. This aggressive price reduction strategy targets maximum buyer engagement and significant market share gains.",
+      "image_prompt": "An animated digital bar chart rapidly dropping to 80%, with vibrant green arrows indicating 'savings'. Futuristic display with glowing discount symbols.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "A primary focus for this year's festival is high-demand smartphone deals. This strategic move targets tech-savvy buyers, influencing millions of purchase decisions across various brands and models.",
+      "image_prompt": "An array of modern, sleek smartphones displayed on a futuristic, glowing digital podium. Soft blue and purple cinematic lighting highlights their design.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Historically, these festivals lead to substantial growth in India's e-commerce sector. Data from previous years shows double-digit percentage increases in overall online retail transactions and user adoption rates.",
+      "image_prompt": "A dynamic animated growth graph superimposed over a stylized map of India, with glowing nodes representing increased online transactions. Data streams flow across the screen.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Millions of potential customers directly benefit from these competitive price points. The event stimulates consumer spending, providing access to advanced technology at significantly reduced costs.",
+      "image_prompt": "Several human hands, with 'Intense focus', reaching for glowing digital shopping bags filled with tech items. Abstract digital currency symbols float around in a clean, brightly lit environment.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "This massive event shifts market dynamics for online retail in India.",
+      "image_prompt": "A holographic world map, intensely focused on India, with complex data streams and interconnected nodes pulsating. The visual emphasizes digital transformation and market influence with a dramatic side lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
