@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "PRICE CRASH ALERT",
+    "narration": "WARNING! Amazon just dropped a pricing bomb that changes everything for your next phone!",
+    "image_description": "A cybernetic hand reaching for a smartphone displaying rapidly falling price graphs, with dramatic cyberpunk neon lighting and red warning glitches. Intense focus is seen in the reflecting data in the cybernetic eye of an unseen person.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "80% OFF PHONES",
+    "image_description": "A sleek, hyper-realistic 3D render of a futuristic smartphone centered on a dark background. Holographic data projections show '80% OFF' in vibrant neon green above it. Dramatic backlighting, 8k resolution, capturing minute details, cyberpunk style.",
+    "reasoning": "Direct, massive discount percentage on a desirable object (smartphone) creates immediate value and urgency, clearly communicating the benefit for a high click-through rate, contrasting the alarmist hook with a clear value proposition."
+  },
+  "title": "Amazon's Phone Sale: HUGE 80% OFF!",
+  "segments": [
+    {
+      "text_overlay": "AMAZON FESTIVAL RETURNS",
+      "narration": "Amazon's Great Indian Festival 2026 officially launches October 8th, bringing massive consumer electronics savings nationwide.",
+      "image_prompt": "Digital calendar highlighting October 8th, with a subtle glowing Amazon logo in the background, reflecting data.",
+      "camera_effect": "static"
+    },
+    {
+      "text_overlay": "UP TO 80% DISCOUNTS",
+      "narration": "The festival promises unprecedented discounts, with savings soaring up to an astounding 80% across various product categories.",
+      "image_prompt": "Abstract representation of percentage signs flying across a screen, bright neon numbers highlighting '80%', hyper-realistic.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text_overlay": "PHONE DEALS EXPLODE",
+      "narration": "Specifically, mobile phones are a major highlight, with top brands offering significant price reductions for early adopters and students.",
+      "image_prompt": "Array of modern smartphones displayed holographically, with price tags digitally decreasing. Cyberpunk aesthetic with glowing outlines.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text_overlay": "UPGRADE YOUR TECH",
+      "narration": "This presents a prime opportunity for users to upgrade their current devices or acquire new technology at a fraction of the usual cost.",
+      "image_prompt": "A person's hand interacting with a holographic display of phone comparison specs, looking thoughtful. Cinematic lighting, glowing iris reflecting data.",
+      "camera_effect": "static"
+    },
+    {
+      "text_overlay": "MARKET SHIFT IMMINENT",
+      "narration": "Retail analysts predict this sale will significantly impact the Q4 market, driving substantial smartphone sales volume and brand competition.",
+      "image_prompt": "Digital graph showing a sharp upward spike in sales data for smartphones, superimposed over a futuristic city skyline. Neon data lines, 8k resolution.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text_overlay": "AMAZON'S BIG PLAY",
+      "narration": "Amazon strategically leverages this annual event to consolidate its market leadership, attracting millions of new and returning customers.",
+      "image_prompt": "A stylized digital globe showing market reach, with Amazon's logo as a central, glowing hub. Data flows around it, cyberpunk neon.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
