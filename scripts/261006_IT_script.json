@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI IS JUDGING YOU",
+    "narration": "Warning: AI isn't just chatting; it's now embedded in decisions that shape your future, from medicine to law!",
+    "image_description": "Close-up of a person's eye, highly detailed, reflecting abstract data streams and glowing lines. Intense focus, cinematic lighting with deep blues and reds, cybernetic enhancements hinted, glitch effects around the edges. Avoid any indication of fear or pain; focus on futuristic data interaction.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI TAKES OVER",
+    "image_description": "Hyper-realistic 3D render of a glowing, intricate AI neural network brain at the center, surrounded by holographic legal documents and DNA strands. Cyberpunk style, dramatic blue and purple backlighting, 8k resolution. Focus is solely on the objects and their futuristic aesthetic, no human presence.",
+    "reasoning": "This thumbnail visually represents AI's complex impact on law and genomics with high-contrast, object-focused imagery, immediately grabbing attention on a crowded feed and clearly communicating the video's cutting-edge tech theme without sensationalism."
+  },
+  "title": "AI Takes Over: Your Future is Being Rewritten",
+  "segments": [
+    {
+      "text_overlay": "AI TRANSFORMS",
+      "narration": "Artificial Intelligence is no longer a future concept; it's actively reshaping our daily lives across diverse sectors. Recent advancements highlight its immediate, tangible influence.",
+      "image_prompt": "Holographic globe overlaid with glowing data lines, showing interconnected industries, blue and green digital aesthetic, cinematic lighting.",
+      "camera_effect": "smooth zoom out"
+    },
+    {
+      "text_overlay": "SMARTER CONTENT",
+      "narration": "New tools, like those showcased by Trade Show News Network, now integrate AI for advanced sponsor management and content creation. Efficiency gains are reported across the board.",
+      "image_prompt": "A sleek, minimalist digital dashboard displaying real-time analytics and content creation tools, glowing UI elements, dramatic side lighting.",
+      "camera_effect": "left to right pan"
+    },
+    {
+      "text_overlay": "GENOMICS REVOLUTION",
+      "narration": "MarketWise reports AI is fueling a genomics boom, driving unprecedented scientific discovery. This impacts drug development and personalized medicine significantly, with 7 key stocks identified.",
+      "image_prompt": "Detailed 3D render of a DNA double helix, with tiny glowing AI neural network nodes embedded within, vibrant scientific lab lighting, hyper-realistic.",
+      "camera_effect": "slow rotation"
+    },
+    {
+      "text_overlay": "LEGAL AI ETHICS",
+      "narration": "JDSupra highlights advanced AI's ethical and legal use in court reporting. Technology now assists legal professionals, raising critical discussions on future legal frameworks and standards.",
+      "image_prompt": "A digital gavel next to a glowing neural network symbol on a dark legal text background. Cinematic, dramatic side lighting, cyberpunk neon elements.",
+      "camera_effect": "static, slight depth of field shift"
+    },
+    {
+      "text_overlay": "DATA DRIVEN",
+      "narration": "From real-time data analysis in courtrooms to predictive modeling in genomics, AI provides unparalleled decision-making support. This accelerates processes and enhances accuracy.",
+      "image_prompt": "Abstract representation of data flowing into a central processing unit, represented by a glowing cube, with complex algorithms visualized around it, 8k resolution.",
+      "camera_effect": "fast upward tilt"
+    },
+    {
+      "text_overlay": "NEW STANDARDS",
+      "narration": "This shift is redefining industry standards.",
+      "image_prompt": "A futuristic cityscape with holographic projections of data and interconnected systems, embodying a new era. Cyberpunk neon glow, dramatic cinematic lighting, 8k resolution.",
+      "camera_effect": "dynamic forward push"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
