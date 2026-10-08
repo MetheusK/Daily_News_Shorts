@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI GADGETS FAILED!",
+    "narration": "Warning! The creator of the iPod just exposed a massive failure in today's AI gadgets. Are you ready for what's next?",
+    "image_description": "A single, sleek AI gadget (like a smart ring or pin) shattering into digital fragments, with digital corruption effects and red warning lights reflecting in a cybernetic eye. Dramatic side lighting, intense focus.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI'S NEXT MOVE?",
+    "image_description": "A futuristic, minimalist AI device (like a glowing, translucent cube or a sleek wearable) hovering over a circuit board, with subtle holographic data projections. Cyberpunk neon lighting, 8k resolution, centered composition.",
+    "reasoning": "Poses a direct question about AI's future, using a visually appealing and mysterious object to evoke curiosity and prompt a click."
+  },
+  "title": "iPod Creator's Verdict: First AI Gadgets FAILED! What's Next?",
+  "segments": [
+    {
+      "text": "Tony Fadell, iPod creator, states early AI gadgets, including Humane AI Pin and Rabbit R1, have fundamentally 'failed.' This assessment impacts the broader AI hardware market.",
+      "image_prompt": "A profile shot of a tech visionary with a subtle digital interface reflecting in his smart glasses, displaying abstract data. Intense focus, cinematic lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Fadell highlights poor user experience and unclear value propositions as key failures. These devices often required a phone connection, negating their standalone appeal.",
+      "image_prompt": "A fragmented holographic interface displaying 'ERROR: Poor UX' over a glowing circuit board, with digital data streams flowing around it. Glitch effects, dramatic lighting.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "Products like the Humane AI Pin launched with significant hype but faced criticism for slow responses and limited functionality, failing to replace existing smartphone capabilities.",
+      "image_prompt": "A sleek, futuristic AI pin glowing with a soft light, but surrounded by subtle, swirling data streams that look 'incomplete' or 'glitching'. Cyberpunk neon.",
+      "camera_effect": "dolly_zoom"
+    },
+    {
+      "text": "Fadell predicts AI will evolve from standalone gadgets into deeply integrated features within existing platforms, enhancing current devices rather than replacing them entirely.",
+      "image_prompt": "A smartphone screen displaying an evolving AI interface, showing seamless integration of smart features into common apps. Reflecting data, clean UI design.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "This shift means users will experience AI more seamlessly, embedded within their daily tools for improved efficiency and personalization, without requiring new, dedicated hardware.",
+      "image_prompt": "A person (focus on hands and a silhouette) interacting effortlessly with multiple screens (laptop, tablet, phone), unified by subtle AI glow. Cinematic lighting.",
+      "camera_effect": "slow_zoom_in"
+    },
+    {
+      "text": "The core challenge remains integration and user-centric design for future AI devices, directly impacting daily life.",
+      "image_prompt": "A complex, glowing neural network diagram converging on a simplified human silhouette. Cyberpunk neon lighting, dramatic contrast.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
