@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI IS HERE",
+    "narration": "Stop scrolling! What you thought about the future of work is already happening right now!",
+    "image_description": "Close-up of a person's intense face, reflecting glowing binary code in their cybernetic eyes, dramatic side lighting, 'digital corruption' glitch effect across the screen. Energetic, urgent.",
+    "mood_color": "neon_red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI TAKEOVER",
+    "image_description": "Hyper-realistic 3D render of a futuristic robot hand reaching towards a glowing holographic blueprint, intricate details, dark background with dramatic blue and purple neon lighting, 8k resolution.",
+    "reasoning": "The ominous 'AI TAKEOVER' combined with a visually striking robot hand interacting with a blueprint creates immediate curiosity about automation's impact on human work, driving clicks."
+  },
+  "title": "AI is Reshaping Your Future: What You Need To Know",
+  "segments": [
+    {
+      "text": "Emerging tech trends are accelerating; 2027 will see AI-driven automation significantly altering creative and service sectors. Industries are already adapting to these profound shifts.",
+      "image_prompt": "Abstract data flow connecting various industry icons (like a factory, a computer, a retail cart), glowing lines representing network connections, deep blue and purple cyberpunk aesthetic.",
+      "camera_effect": "pan_left",
+      "text_overlay": "FUTURE SHIFT"
+    },
+    {
+      "text": "Graphic designers, like those in Little Rock, face direct AI integration challenges. Tools automate routine tasks, shifting human roles towards strategic oversight and unique conceptualization.",
+      "image_prompt": "A graphic designer, seen through sleek smart glasses, intensely focusing on a screen displaying AI-generated design elements alongside human-retouched components. Cinematic lighting, determined expression.",
+      "camera_effect": "zoom_in",
+      "text_overlay": "AI CREATES"
+    },
+    {
+      "text": "Traditional sectors, like 100-year-old convenience stores, innovate with AI and IoT. This includes smart inventory, automated checkouts, and personalized customer experiences.",
+      "image_prompt": "A futuristic convenience store interior with glowing self-checkout kiosks, robotic arms stocking shelves, and subtle holographic product displays. Focus on automated efficiency, clean and modern design.",
+      "camera_effect": "pan_right",
+      "text_overlay": "RETAIL AUTOMATED"
+    },
+    {
+      "text": "Beyond 2027, expect pervasive AI in cybersecurity, quantum computing, and extended reality shaping daily interactions. These trends signify a complete digital ecosystem transformation.",
+      "image_prompt": "Multiple glowing holographic screens displaying complex cybersecurity dashboards, abstract quantum processor models, and a person (seen from behind, wearing sleek AR glasses) interacting with a projected interface. Cyberpunk neon city backdrop.",
+      "camera_effect": "tilt_up",
+      "text_overlay": "TECH BEYOND"
+    },
+    {
+      "text": "Reports indicate 75 million jobs could be displaced by 2025. Conversely, 133 million new roles emerge, demanding significant skill retraining and digital literacy.",
+      "image_prompt": "An infographic-style animation showing two intersecting bar graphs: one declining (representing displaced jobs) in red, one rising (representing new roles) in neon green, with a glowing, abstract brain icon representing new skills.",
+      "camera_effect": "static",
+      "text_overlay": "JOBS CHANGE"
+    },
+    {
+      "text": "This shift demands immediate adaptation, impacting creators, businesses, and future job markets significantly.",
+      "image_prompt": "A silhouette of a diverse group of people looking towards a shimmering, complex digital city skyline, symbolizing future opportunities and challenges. Dramatic sunset lighting with digital overlays.",
+      "camera_effect": "zoom_out",
+      "text_overlay": "ADAPT NOW"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
