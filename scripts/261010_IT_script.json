@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI JOB WARNING!",
+    "narration": "WARNING! Big tech just confirmed the AI job takeover is starting NOW!",
+    "image_description": "A stark, cybernetic human eye reflecting binary code and a blurred office layoff scene, dramatic red and black cinematic lighting, intense focus.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI JOB CRASH?",
+    "image_description": "A sophisticated 3D render of a glowing, complex AI chip at the center of a server rack, with digital data streams cascading around it in a cyberpunk style. Dramatic blue and purple backlighting, hyper-realistic, 8k resolution.",
+    "reasoning": "Poses a direct question about a major tech trend, using striking AI imagery to capture attention without sensationalizing for the click."
+  },
+  "title": "AI's Impact: Layoffs and New Horizons",
+  "segments": [
+    {
+      "text": "Major business software firm HubSpot recently announced a near 7% workforce reduction, impacting hundreds of employees globally. This reflects current economic pressures.",
+      "image_prompt": "An abstract representation of a company organizational chart with certain nodes dimly glowing then fading, overlaid with a digital '7% REDUCTION' text. Cinematic lighting, serious thought.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "This follows a trend of significant workforce adjustments across the tech sector, as companies re-evaluate growth strategies post-pandemic. Market shifts are a key factor.",
+      "image_prompt": "A dynamic infographic displaying multiple downward-trending tech stock graphs, with a subtle overlay of digital rain, reflecting data. Cyberpunk neon lighting.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "Simultaneously, AI advancements accelerate. An editorial dismisses panic over risks, but AI's evolving capabilities undeniably reshape operational efficiencies and future job roles.",
+      "image_prompt": "A robotic hand gently touching a human hand, both translucent and glowing with data streams. Intense focus, dramatic side lighting, 'cybernetic' aesthetic.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Winseed's successful showcase at IAA TRANSPORTATION 2026 highlights AI's deep integration into the automotive sector, focusing on new insights and global brand visibility.",
+      "image_prompt": "A futuristic car dashboard with holographic AI interfaces, reflecting data into the driver's cybernetic eyes, through smart glasses. Cinematic blue and white lighting.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "These developments signify a critical shift. Companies prioritize AI integration, demanding new skill sets from the workforce, emphasizing adaptability in a changing landscape.",
+      "image_prompt": "A person in deep thought looking at a holographic skill tree diagram, new digital pathways appearing. Serious thought, cinematic lighting, 'glowing iris' effect.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "The interplay between economic pressures and technological evolution is redefining the job market. Understanding these dynamics is crucial for navigating future career paths.",
+      "image_prompt": "A complex neural network graphic glowing with interconnected nodes, superimposed over a blurred, futuristic city skyline. Determination in a reflected 'cybernetic eye'.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
