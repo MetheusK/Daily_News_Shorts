@@ -1,46 +1,46 @@
 {
   "hook_plan": {
-    "overlay_text": "AI IS EVERYWHERE",
-    "narration": "Stop scrolling! The AI boom is exploding faster than you think, transforming your daily life RIGHT NOW!",
-    "image_description": "Extreme close-up of cybernetic eyes reflecting a rapidly scrolling feed of AI-generated content and data streams, dramatic red and blue neon lighting, digital corruption effects around the edges.",
+    "overlay_text": "AI IS A LIE?",
+    "narration": "Stop scrolling! They're changing the name of AI, and it will redefine your next car! This is massive!",
+    "image_description": "An intense close-up of a futuristic car dashboard, digital interface glitching with red warning lights, a cybernetic human eye reflecting fragmented data, cinematic lighting, high-contrast.",
     "mood_color": "red"
   },
   "thumbnail_plan": {
-    "thumbnail_text": "AI TAKEOVER",
-    "image_description": "A hyper-realistic 3D render of a glowing, intricate microchip at the center, surrounded by holographic data streams, cyberpunk style, dramatic blue and purple backlighting, 8k resolution.",
-    "reasoning": "The bold text 'AI TAKEOVER' creates immediate intrigue and urgency, combined with a visually stunning, object-focused image of an advanced microchip that clearly indicates cutting-edge technology, drawing high clicks."
+    "thumbnail_text": "AI NAME DEBATE",
+    "image_description": "A sleek, hyper-realistic 3D render of a futuristic car's holographic display showing a glowing, abstract brain-like network, with two distinct labels ('SI' and 'Human-Made') subtly superimposed on either side. Cyberpunk style, dramatic backlighting.",
+    "reasoning": "The 'AI NAME DEBATE' text is intriguing and directly references the core conflict in the news, while the futuristic car imagery with an abstract brain element is high-contrast and signals technological advancement, driving clicks by posing a clear, relevant question."
   },
-  "title": "AI Boom Accelerates: What You Need To Know",
+  "title": "AI's NEW NAME: Your Car's Secret!",
   "segments": [
     {
-      "text": "A major Japanese firm is significantly expanding chip packaging materials output in China. This move directly fuels the global AI boom, meeting unprecedented demand for advanced AI processors.",
-      "image_prompt": "A highly automated factory production line with robotic arms precisely assembling microchip components, blue and white lighting, subtle holographic data overlays indicating efficiency, clean technical style.",
-      "camera_effect": "dynamic zoom"
+      "text": "Major tech powers are debating AI's name. Trump's 'SI' (Synthetic Intelligence) contrasts with China's 'human-made' intelligence. This global divergence impacts future tech definitions.",
+      "image_prompt": "Split screen showing abstract digital representations of 'SI' and 'Human-Made' glowing text. One side in cool blues, the other in warm golds, connected by a data stream, cybernetic eyes reflecting the debate.",
+      "text_overlay": "NAME GAME"
     },
     {
-      "text": "High-density packaging is critical for integrating powerful AI components efficiently. Enhanced capacity ensures a smoother, faster supply chain for next-gen AI hardware development worldwide.",
-      "image_prompt": "Extreme close-up macro shot of complex microchip connections and circuitry, abstract glowing data streams flowing between nodes, hyper-realistic, 8k resolution, deep blue and green hues.",
-      "camera_effect": "static"
+      "text": "Hollywood's 'Artificial' narrative often fuels public fear. Redefining AI aims to build trust, essential for widespread adoption of advanced technologies beyond the current perception.",
+      "image_prompt": "A person's face in intense focus, reflected on a screen showing abstract, non-threatening 'AI' code and data streams. Cinematic side lighting, conveying deep thought and wonder.",
+      "text_overlay": "TRUST MATTERS"
     },
     {
-      "text": "SoundHound AI (SOUN) stock trends reflect immense investor interest in AI software solutions. This market valuation underscores financial confidence in AI's rapid, future growth worldwide.",
-      "image_prompt": "Vibrant stock market graph trending sharply upwards, superimposed with a glowing, stylized holographic AI brain, digital numbers and financial data charts, cyberpunk neon lighting.",
-      "camera_effect": "panning right"
+      "text": "Meanwhile, vehicle manufacturing transforms rapidly. By 2035, electrification and software-defined systems will drive massive market growth, integrating complex intelligence directly into cars.",
+      "image_prompt": "Futuristic car interior with glowing holographic projections of intricate code and circuit patterns flowing across the dashboard. Dramatic cyberpunk lighting highlights the advanced tech.",
+      "text_overlay": "CARS EVOLVE"
     },
     {
-      "text": "Beyond chips and stocks, Winseed showcased new automotive AI insights at IAA TRANSPORTATION 2026. This spotlights AI's deep integration into future vehicles and global transport systems.",
-      "image_prompt": "A futuristic car dashboard with an advanced holographic AI interface displaying real-time traffic and diagnostics, city lights blurred in the background, sleek design, dramatic side lighting.",
-      "camera_effect": "zoom out"
+      "text": "Software is now central to vehicles. This enables over-the-air updates, personalized features, and advanced autonomous functions, reshaping the driving experience fundamentally.",
+      "image_prompt": "A sleek, electric vehicle on a digital highway, surrounded by streams of data representing connectivity and updates. A prominent 'OTA Update' icon glows on its virtual screen.",
+      "text_overlay": "2035 VISION"
     },
     {
-      "text": "These developments signify AI moving from concept to daily reality. From smarter devices to autonomous systems, this rapid technological shift will profoundly impact how we live.",
-      "image_prompt": "A human hand (only visible) interacting with a holographic interface projected from smart glasses, displaying various daily life applications like smart home controls and schedules, intense focus, cinematic lighting.",
-      "camera_effect": "slow pan"
+      "text": "How we term this vehicle intelligence—'AI' versus 'human-made'—critically shapes user acceptance. Trust in autonomous features relies on clear, reassuring language.",
+      "image_prompt": "Close-up on a driver's hand calmly gripping a futuristic steering wheel. Reflections of a serene, informational heads-up display showing navigation and system status, through smart glasses.",
+      "text_overlay": "DEFINE CONTROL"
     },
     {
-      "text": "This means major implications for the future of AI. Stay informed.",
-      "image_prompt": "Abstract data visualization with a central glowing orb representing AI, surrounded by interconnected nodes and neural pathways, deep purple and blue colors, subtle glitch effects.",
-      "camera_effect": "static"
+      "text": "These naming conventions are not just semantics. They guide ethical development, regulatory frameworks, and future public interaction with increasingly smart daily technology.",
+      "image_prompt": "A complex, glowing digital neural network with interconnected nodes and data streams. A stylized, cybernetic eye reflects this network, representing observation and thoughtful design.",
+      "text_overlay": "FUTURE GUIDANCE"
     },
     {
       "text": "If useful, please like and subscribe!",
