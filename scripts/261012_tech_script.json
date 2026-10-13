@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI SAFETY CRISIS",
+    "narration": "Warning! Microsoft's president just revealed a massive AI safety crisis brewing right now, affecting everyone!",
+    "image_description": "Extreme close-up of a cybernetic eye reflecting complex code and red warning lights, intense focus, digital glitch effects, cinematic lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI DANGER AHEAD",
+    "image_description": "A highly detailed 3D render of a glowing, abstract AI neural network core, with faint red warning indicators, surrounded by holographic data streams, set against a dark, dramatic background with cinematic backlighting, 8k resolution.",
+    "reasoning": "The provocative text 'AI DANGER AHEAD' combined with a visually striking, mysterious AI core image creates urgency and curiosity, maximizing click-through rates."
+  },
+  "title": "New Android 17 & AI Regulation SHOCK!",
+  "segments": [
+    {
+      "text": "Nothing Phone (3) just received the stable Nothing OS 5.0 update, bringing a completely redesigned Home Screen. Users report enhanced customisation and smoother navigation across the device.",
+      "image_prompt": "A cybernetic hand holding a transparent smartphone displaying a sleek, futuristic Home Screen with glowing app icons, dramatic side lighting.",
+      "camera_effect": "zoom_in",
+      "text_overlay": "NOTHING OS 5.0"
+    },
+    {
+      "text": "This significant update also integrates the latest Android 17, providing Nothing Phone (3) users with crucial security patches and new core system functionalities for better performance.",
+      "image_prompt": "A digital representation of a smartphone's internal architecture, with 'Android 17' glowing brightly at its core, schematic overlay, intense focus, cyberpunk neon.",
+      "camera_effect": "pan_left",
+      "text_overlay": "ANDROID 17 UPGRADE"
+    },
+    {
+      "text": "The revamped Home Screen focuses on intuitive widgets and improved app organization, aiming to deliver a more efficient and aesthetically pleasing daily user experience.",
+      "image_prompt": "A person's hands through smart glasses interacting with a holographic projection of a phone's home screen, focused expression, cinematic lighting.",
+      "camera_effect": "static",
+      "text_overlay": "REDESIGNED HOME"
+    },
+    {
+      "text": "Microsoft's President, Brad Smith, publicly called for urgent AI regulation. He emphasized existing basic safety gaps, raising concerns about uncontrolled technological expansion.",
+      "image_prompt": "A serious-looking individual (representing a corporate leader) with data reflecting in their cybernetic eyes, facing a complex AI flow chart with some red warning indicators, intense focus, dramatic side lighting.",
+      "camera_effect": "zoom_out",
+      "text_overlay": "AI REGULATION"
+    },
+    {
+      "text": "Smith highlighted potential risks, stating current AI systems lack robust safeguards against misuse and unexpected outcomes. This impacts data integrity and societal trust significantly.",
+      "image_prompt": "A fragmented digital interface with glitch effects, showing abstract data flowing into a 'black hole' symbol, red warning lights, digital corruption, cinematic lighting.",
+      "camera_effect": "pan_right",
+      "text_overlay": "SAFETY GAPS"
+    },
+    {
+      "text": "The call from a major tech leader like Microsoft suggests industry-wide acknowledgement of AI's critical need for oversight, potentially shaping future global tech policies.",
+      "image_prompt": "A holographic globe with interconnected data lines, a robotic hand gesturing towards it, reflecting a determined expression in its glowing iris, cyberpunk neon.",
+      "camera_effect": "static",
+      "text_overlay": "GLOBAL TECH POLICY"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
