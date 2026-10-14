@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "APPLE CONTROLS HOME",
+    "narration": "Stop scrolling! Apple just announced a radical shift that will change how you live in your home, forever!",
+    "image_description": "A cybernetic eye reflecting a flickering smart home interface with data overlays, showing intense focus, surrounded by digital glitched warnings, dramatic side lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "HOME REBOOTED",
+    "image_description": "A hyper-realistic 3D render of a sleek, futuristic smart home hub device, glowing with intricate circuit patterns and subtle data streams, centered against a dark, dramatic cyberpunk background, 8k resolution.",
+    "reasoning": "This thumbnail prioritizes a visually striking object representing the new tech, promising a major home transformation without revealing all details, generating high click-through rates by sparking curiosity."
+  },
+  "title": "Apple's Smart Home Shake-Up: Welcome Home Event Details!",
+  "segments": [
+    {
+      "text": "Apple's 'Welcome Home' event just debuted significant smart home advancements. The focus was deeply on seamlessly integrating devices for an enhanced user experience across the board.",
+      "image_prompt": "A sleek, glowing Apple HomeKit logo merging with a futuristic house outline, cybernetic reflections, cinematic lighting.",
+      "camera_effect": "dynamic zoom"
+    },
+    {
+      "text": "A standout feature, HomeView, introduces a new centralized interface. This unified dashboard provides intuitive control and real-time insights into all your connected smart home devices easily.",
+      "image_prompt": "A holographic user interface showing multiple smart home controls, a focused hand interacting with it through smart glasses, cyberpunk neon lighting.",
+      "camera_effect": "pan left to right"
+    },
+    {
+      "text": "The new Apple TV 4K features enhanced processing and acts as a central HomeKit hub. It significantly improves entertainment while seamlessly integrating smart home controls.",
+      "image_prompt": "A new Apple TV 4K box emitting subtle glowing data streams, connected visually to a smart thermostat and light bulb, dramatic side lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "HomePod mini 2 was also announced, delivering improved audio quality. Its enhanced Siri integration promises more responsive and contextual smart assistant capabilities for daily tasks.",
+      "image_prompt": "A sleek HomePod mini 2, digital sound waves emanating, a glowing iris through a smart speaker grille, intense focus.",
+      "camera_effect": "slow push-in"
+    },
+    {
+      "text": "This entire lineup emphasizes a more intuitive and interconnected Apple ecosystem. Users will experience smoother automation and convenience, deeply impacting daily routines in a positive way.",
+      "image_prompt": "People interacting naturally with smart home devices (e.g., hands adjusting a smart thermostat, phone displaying HomeView), cinematic warm lighting, glowing data links between devices.",
+      "camera_effect": "dolly shot"
+    },
+    {
+      "text": "The future of smart living just upgraded significantly with these unified platform enhancements.",
+      "image_prompt": "A dynamic shot of multiple Apple devices (HomePod, Apple TV, iPhone displaying HomeView) all interconnected with glowing lines, illustrating unified platform integration, 8k resolution.",
+      "camera_effect": "fast cut"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
