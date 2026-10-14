@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "APPLE JUST CHANGED",
+    "narration": "Warning! Apple just dropped a bomb, and your entire smart home is about to be unrecognizable!",
+    "image_description": "A close-up of a cybernetic eye reflecting abstract data streams, with an urgent red glow from smart glasses, emphasizing intense focus. Cinematic lighting, cyberpunk neon.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "APPLE'S HOMEVIEW",
+    "image_description": "A sleek, futuristic HomePod mini 2 glowing with subtle blue light, centered against a dark, hyper-realistic 3D rendered smart home interface backdrop, 8k resolution, dramatic blue backlighting.",
+    "reasoning": "This thumbnail prioritizes a new, visually appealing Apple device and hints at the core new feature ('HomeView'), creating strong curiosity for Apple users and smart home enthusiasts, ensuring high click-through."
+  },
+  "title": "Apple's Homeview: The Smart Home Game Changer",
+  "segments": [
+    {
+      "text_overlay": "WELCOME HOME",
+      "narration": "Apple's 'Welcome Home' event introduced major updates for its home ecosystem. This includes new hardware and a unified software experience.",
+      "image_prompt": "A minimalist, illuminated stage with the Apple logo, subtle holographic projections of smart home devices, reflecting a focused audience. Cinematic lighting.",
+      "camera_effect": "smooth zoom"
+    },
+    {
+      "text_overlay": "TV UPGRADE",
+      "narration": "The new Apple TV 4K boasts an A15 Bionic chip, enhancing streaming performance and gaming. It supports HDR10+ for superior visual fidelity.",
+      "image_prompt": "A sleek, black Apple TV 4K device, glowing blue light, connected to a screen displaying vibrant HDR10+ content. Technical, clear.",
+      "camera_effect": "static shot"
+    },
+    {
+      "text_overlay": "SMART SOUND",
+      "narration": "HomePod mini 2 offers improved audio with spatial sound and enhanced Thread connectivity for smart home devices, making integration smoother.",
+      "image_prompt": "Close-up of a HomePod mini 2, emitting subtle sound waves represented by digital patterns, surrounded by other Thread-enabled smart devices. Cyberpunk neon lighting.",
+      "camera_effect": "slow pan"
+    },
+    {
+      "text_overlay": "HOMEVIEW REVEAL",
+      "narration": "The headline feature, HomeView, integrates deeply with iOS, allowing users to monitor and control all connected devices from one intuitive dashboard.",
+      "image_prompt": "A human hand (wearing a sleek, data-reflecting smart glove) interacting with a holographic interface showing a detailed smart home layout. Intense focus expression, dramatic side lighting.",
+      "camera_effect": "cinematic dolly shot"
+    },
+    {
+      "text_overlay": "SEAMLESS CONTROL",
+      "narration": "HomeView simplifies daily routines, from adjusting thermostats to checking security cameras, all centralized. This elevates the smart home experience significantly.",
+      "image_prompt": "A clean, modern smart home interior, with various smart devices (lights, thermostat) subtly glowing, unified by a central, user-friendly digital interface on a wall. Clear, technical visuals.",
+      "camera_effect": "smooth transition"
+    },
+    {
+      "text_overlay": "APPLE'S FUTURE",
+      "narration": "Apple's new HomeView system integrates seamlessly, offering enhanced control and a unified smart home experience, launching next quarter.",
+      "image_prompt": "A futuristic smart home interface displaying a 'System Active' notification, with complex data flowing across screens, reflecting a determined cybernetic eye through smart glasses. Cinematic lighting.",
+      "camera_effect": "quick cut"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
