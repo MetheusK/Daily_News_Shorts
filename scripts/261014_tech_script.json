@@ -1,52 +1,52 @@
 {
   "hook_plan": {
-    "overlay_text": "APPLE JUST CHANGED",
-    "narration": "Warning! Apple just dropped a bomb, and your entire smart home is about to be unrecognizable!",
-    "image_description": "A close-up of a cybernetic eye reflecting abstract data streams, with an urgent red glow from smart glasses, emphasizing intense focus. Cinematic lighting, cyberpunk neon.",
+    "overlay_text": "APPLE'S NEW SPIES",
+    "narration": "WARNING: Apple's new HomeView device could be listening to EVERYTHING in your home!",
+    "image_description": "Extreme close-up of a smart display screen with a glowing iris reflecting a user's focused eye, digital glitch overlay, dark room with dramatic cyberpunk neon lighting, hint of red warning lights.",
     "mood_color": "red"
   },
   "thumbnail_plan": {
-    "thumbnail_text": "APPLE'S HOMEVIEW",
-    "image_description": "A sleek, futuristic HomePod mini 2 glowing with subtle blue light, centered against a dark, hyper-realistic 3D rendered smart home interface backdrop, 8k resolution, dramatic blue backlighting.",
-    "reasoning": "This thumbnail prioritizes a new, visually appealing Apple device and hints at the core new feature ('HomeView'), creating strong curiosity for Apple users and smart home enthusiasts, ensuring high click-through."
+    "thumbnail_text": "HOMEVIEW: WORTH IT?",
+    "image_description": "A sleek, minimalist 3D render of the Apple HomeView smart display on a modern desk, screen showing a vibrant, intuitive interface, dramatic backlighting, 8k resolution.",
+    "reasoning": "A direct question combined with a clear visual of the product immediately piques curiosity, directly addressing the news article's core question for high click-through rates."
   },
-  "title": "Apple's Homeview: The Smart Home Game Changer",
+  "title": "Apple HomeView: The $299 Smart Display Reviewed!",
   "segments": [
     {
-      "text_overlay": "WELCOME HOME",
-      "narration": "Apple's 'Welcome Home' event introduced major updates for its home ecosystem. This includes new hardware and a unified software experience.",
-      "image_prompt": "A minimalist, illuminated stage with the Apple logo, subtle holographic projections of smart home devices, reflecting a focused audience. Cinematic lighting.",
-      "camera_effect": "smooth zoom"
+      "text": "Apple just launched its new HomeView smart display, priced at $299. This device aims to integrate seamlessly into your Apple ecosystem.",
+      "image_prompt": "A 3D render of the sleek Apple HomeView device on a modern minimalist stand, showing a holographic projection of its price ($299), studio lighting.",
+      "camera_effect": "static",
+      "text_overlay": "APPLE HOMEVIEW"
     },
     {
-      "text_overlay": "TV UPGRADE",
-      "narration": "The new Apple TV 4K boasts an A15 Bionic chip, enhancing streaming performance and gaming. It supports HDR10+ for superior visual fidelity.",
-      "image_prompt": "A sleek, black Apple TV 4K device, glowing blue light, connected to a screen displaying vibrant HDR10+ content. Technical, clear.",
-      "camera_effect": "static shot"
+      "text": "It functions as a central hub, offering FaceTime calls, smart home control via HomeKit, and streaming Apple Music. A new era of home interaction.",
+      "image_prompt": "Split screen showing a crisp FaceTime call on one side of HomeView, and a user interface of smart home controls with glowing icons on the other, reflecting data in a user's cybernetic eye (subtly).",
+      "camera_effect": "static",
+      "text_overlay": "SMART HUB"
     },
     {
-      "text_overlay": "SMART SOUND",
-      "narration": "HomePod mini 2 offers improved audio with spatial sound and enhanced Thread connectivity for smart home devices, making integration smoother.",
-      "image_prompt": "Close-up of a HomePod mini 2, emitting subtle sound waves represented by digital patterns, surrounded by other Thread-enabled smart devices. Cyberpunk neon lighting.",
-      "camera_effect": "slow pan"
+      "text": "The design prioritizes intuitive user experience, featuring a responsive touch screen and advanced voice recognition for Siri commands. Simplify daily tasks.",
+      "image_prompt": "Close-up of clean, neutral hands interacting with a responsive, glowing touch screen of the HomeView, with a waveform visualization representing voice commands from Siri.",
+      "camera_effect": "static",
+      "text_overlay": "EASY CONTROL"
     },
     {
-      "text_overlay": "HOMEVIEW REVEAL",
-      "narration": "The headline feature, HomeView, integrates deeply with iOS, allowing users to monitor and control all connected devices from one intuitive dashboard.",
-      "image_prompt": "A human hand (wearing a sleek, data-reflecting smart glove) interacting with a holographic interface showing a detailed smart home layout. Intense focus expression, dramatic side lighting.",
-      "camera_effect": "cinematic dolly shot"
+      "text": "Deep integration with existing iPhones, iPads, and Apple Watches promises a cohesive, hands-free smart home experience. Effortless control across devices.",
+      "image_prompt": "A holographic interface projecting from the HomeView, showing interconnected icons of an iPhone, iPad, and Apple Watch, with data streams flowing between them.",
+      "camera_effect": "static",
+      "text_overlay": "SEAMLESS ECOSYSTEM"
     },
     {
-      "text_overlay": "SEAMLESS CONTROL",
-      "narration": "HomeView simplifies daily routines, from adjusting thermostats to checking security cameras, all centralized. This elevates the smart home experience significantly.",
-      "image_prompt": "A clean, modern smart home interior, with various smart devices (lights, thermostat) subtly glowing, unified by a central, user-friendly digital interface on a wall. Clear, technical visuals.",
-      "camera_effect": "smooth transition"
+      "text": "Positioned as a premium smart home upgrade, it targets Apple users seeking consolidated control and entertainment in a single elegant device. Daily convenience improved.",
+      "image_prompt": "A stylish living room with the HomeView as a central, elegant object on a minimalist table, a person (back to camera, showing serious thought) looking at its glowing screen, cinematic lighting.",
+      "camera_effect": "static",
+      "text_overlay": "PREMIUM UPGRADE"
     },
     {
-      "text_overlay": "APPLE'S FUTURE",
-      "narration": "Apple's new HomeView system integrates seamlessly, offering enhanced control and a unified smart home experience, launching next quarter.",
-      "image_prompt": "A futuristic smart home interface displaying a 'System Active' notification, with complex data flowing across screens, reflecting a determined cybernetic eye through smart glasses. Cinematic lighting.",
-      "camera_effect": "quick cut"
+      "text": "Analysts predict HomeView could redefine the smart display market, offering robust security features and superior privacy controls. A key differentiator at this price point.",
+      "image_prompt": "A stylized digital shield icon overlaid on a representation of the HomeView, with 'PRIVACY' and 'SECURITY' glowing text, dark background, data streams, green and blue cyberpunk neon lights.",
+      "camera_effect": "static",
+      "text_overlay": "SECURITY FOCUSED"
     },
     {
       "text": "If useful, please like and subscribe!",
