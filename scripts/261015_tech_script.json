@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "HOMEVIEW SHOCK",
+    "narration": "Stop scrolling! Apple just released a new device that will change your home, but there's a huge hidden cost!",
+    "image_description": "Close-up of a cybernetic eye, iris reflecting a holographic smart display interface, dramatic red and blue neon lighting, digital glitch effect, intense focus.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "HOMEVIEW: TRAP?",
+    "image_description": "A hyper-realistic 3D render of a futuristic smart display device, sleek black design with a glowing blue holographic user interface. Centered composition with dramatic backlighting, dark cyberpunk-style background, 8k resolution.",
+    "reasoning": "The direct question and striking visual of the device create curiosity about its value, compelling users to click and learn if the HomeView is truly a 'trap' or worth the investment."
+  },
+  "title": "Apple HomeView: Revolution or Rip-off?",
+  "segments": [
+    {
+      "text": "Apple officially launched HomeView, their first dedicated smart display, priced at $299. It aims to integrate seamlessly into existing Apple ecosystems, promising a new level of home interaction.",
+      "image_prompt": "A futuristic smart display device, sleek black design, displaying an intuitive Apple ecosystem interface, vibrant icons, clean lines, cinematic lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Users can expect intuitive controls for smart home devices, FaceTime calls, and interactive widgets. Its primary appeal is simplifying daily routines through a unified visual interface.",
+      "image_prompt": "A human hand (no face visible, focused on interaction) interacting with a holographic display of the Apple HomeView, controlling smart lights and thermostat icons, cinematic lighting, intense focus.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "HomeView deeply leverages Apple's robust ecosystem, offering continuity with iPhones, iPads, and Apple Watch. This integration provides unparalleled convenience for Apple loyalists.",
+      "image_prompt": "Digital representation of multiple Apple devices (iPhone, iPad, Apple Watch) connected to a central HomeView smart display by glowing data streams, dark background, cyberpunk neon.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "Imagine managing your schedule, video calls, and smart devices all from one central hub with a glance. HomeView transforms the home into a more connected, responsive environment.",
+      "image_prompt": "Modern living room with a sleek Apple HomeView device seamlessly integrated, soft ambient lighting. Focus on the device's display showing calendar and video call, no identifiable faces.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "At $299, the HomeView presents a significant investment for a smart display. Its value hinges on deep immersion within Apple's integrated services and a premium user experience for early adopters.",
+      "image_prompt": "A stylized 3D render of the Apple HomeView device, with digital holographic dollar signs rotating around it, depicting value analysis, glowing data, dark background, cinematic lighting.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "Initial reviews suggest HomeView sets a new standard for smart displays, but potential buyers should weigh its strong ecosystem lock-in against competing platforms before purchase.",
+      "image_prompt": "Split screen visual: Left side features the Apple HomeView with a glowing Apple logo, right side shows a generic smart display icon. A balanced weighing scale symbol sits in the middle, cyberpunk neon lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
