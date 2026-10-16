@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI'S NEW ERA",
+    "narration": "Warning: A 17-year-old just changed the future of AI, and Silicon Valley is terrified!",
+    "image_description": "Extreme close-up of a young person's face with cybernetic eyes reflecting complex data streams, intense focus, dramatic side lighting, neon green glow, cinematic lighting.",
+    "mood_color": "neon_green"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "GENIUS UNLEASHED",
+    "image_description": "A sleek, futuristic AI chip glowing with holographic data projections, centered composition, 3D render, cyberpunk style, hyper-realistic, 8k resolution, dramatic backlighting.",
+    "reasoning": "The image of an advanced AI chip combined with 'GENIUS UNLEASHED' creates intrigue and implies a breakthrough, appealing to a broad tech-curious audience interested in innovation."
+  },
+  "title": "The Teen Who Redefined AI",
+  "segments": [
+    {
+      "text_overlay": "MEET NATHAN CHEN",
+      "narration": "Meet Nathan Chen, the 17-year-old Chinese AI prodigy making waves. He's not just coding; he's rethinking fundamental AI paradigms.",
+      "image_prompt": "Nathan Chen (teenager), intense focus, serious thought, glowing cybernetic eye, in front of holographic code interface, cinematic lighting, blue and purple neon highlights, technical.",
+      "camera_effect": "zoom_in_on_face"
+    },
+    {
+      "text_overlay": "SILICON VALLEY REACTS",
+      "narration": "Major Silicon Valley players are actively courting Chen. His innovative deep learning frameworks promise significant advancements in AI efficiency.",
+      "image_prompt": "Abstract representation of interconnected Silicon Valley skylines, digital network lines converging, reflecting data, dynamic, clean, 8k resolution.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text_overlay": "AI'S YOUTH REVOLUTION",
+      "narration": "This represents a major shift: young, self-taught talent now drives cutting-edge AI. Age is no longer a barrier to groundbreaking innovation.",
+      "image_prompt": "A glowing neural network, with multiple diverse hands (focus on younger-looking hands) interacting with holographic data, digital light, 'wonder' expression subtly implied, cinematic lighting.",
+      "camera_effect": "tracking_shot"
+    },
+    {
+      "text_overlay": "DEMOCRATIZED AI",
+      "narration": "Accessible tools and open-source platforms enable such prodigies to emerge from anywhere. This democratization accelerates AI's global progress.",
+      "image_prompt": "Diverse hands reaching towards a central glowing AI core, digital light radiating outwards, global map outline in background, symbolizing accessibility and connection, technical.",
+      "camera_effect": "static_with_subtle_glow"
+    },
+    {
+      "text_overlay": "FUTURE OF INNOVATION",
+      "narration": "Chen's rise highlights a future where raw intellectual power, regardless of traditional credentials, will redefine technological frontiers globally.",
+      "image_prompt": "Futuristic cityscape at dawn, with data streams flowing upwards from buildings into a cloud, signifying growth and innovation, clean, hyper-realistic, 8k resolution.",
+      "camera_effect": "slow_dolly_zoom"
+    },
+    {
+      "text_overlay": "TALENT SHAPES AI",
+      "narration": "This shift signals a future where AI development is increasingly shaped by exceptional, young talent.",
+      "image_prompt": "A single, glowing human eye (cybernetic, reflecting data patterns), looking confidently into a digital future, intense focus, cinematic lighting, blue and silver tones, technical.",
+      "camera_effect": "static_focus"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
