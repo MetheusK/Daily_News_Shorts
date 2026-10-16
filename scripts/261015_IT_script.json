@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "ROBOTS ARE HERE",
+    "narration": "Warning! A silent revolution is transforming industries, and it's happening faster than you think!",
+    "image_description": "A humanoid robot arm, cybernetic, gently placing a glowing data chip into a circuit board. Intense focus in its glowing optical sensor, dramatic side lighting, cyberpunk neon glow. Digital corruption effect around the edges.",
+    "mood_color": "neon_green"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "$96 BILLION ROBOTS",
+    "image_description": "A sleek, hyper-realistic 3D render of multiple automated guided vehicles (AGVs) moving glowing parcels within a vast, futuristic warehouse. Holographic data streams float above, dramatic blue and purple backlighting, 8k resolution.",
+    "reasoning": "High monetary value ($96 Billion) combined with a clear visual of automation (robots) creates strong curiosity and implies a significant, tangible development, driving clicks."
+  },
+  "title": "Robotics & AI: The $96 Billion Future!",
+  "segments": [
+    {
+      "text": "The intralogistics market now commands a massive $96 billion annually. This sector, focusing on internal material flow, is undergoing unprecedented, rapid transformation.",
+      "image_prompt": "A vast, modern automated warehouse with tiny glowing robot forklifts moving packages. Overhead shot, cinematic lighting.",
+      "camera_effect": "dolly_zoom"
+    },
+    {
+      "text": "Software and robotics are its new growth engines. Advanced AI algorithms optimize every movement, while automated systems boost efficiency by over 30% in key operations.",
+      "image_prompt": "Close-up of a robotic arm precisely sorting glowing data blocks on a conveyor belt, digital interface overlay showing efficiency metrics.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "Driving this innovation are low-end FPGAs, making custom, power-efficient hardware acceleration accessible. These chips are crucial for real-time AI processing at the edge.",
+      "image_prompt": "A shimmering, microscopic view of a low-end FPGA chip, glowing circuit traces, reflecting abstract data streams. Cyberpunk aesthetic.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "This tech combination revolutionizes supply chains. From factory floors to your doorstep, smarter automation ensures faster delivery and significantly reduced operational costs.",
+      "image_prompt": "Dynamic visualization of a complex supply chain network; glowing lines connect global points, automated trucks on futuristic roads.",
+      "camera_effect": "tilt_up"
+    },
+    {
+      "text": "Broader AI trends show automation expanding rapidly across industries, moving beyond just logistics. Expect AI to enhance everything, from data analysis to creative tasks daily.",
+      "image_prompt": "A person wearing smart glasses, their cybernetic eyes reflecting a holographic display of various AI dashboards: code, data, robot schematics. Intense focus. Cinematic lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Investor interest in AI stocks reflects this growth, with projections suggesting continued exponential market expansion. The future of work and commerce is profoundly shifting.",
+      "image_prompt": "A sleek, glowing stock market ticker showing upward trends, integrated with abstract AI brain patterns, 3D render, dramatic blue and gold lighting.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
