@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "IPHONE SECURITY BROKEN",
+    "narration": "WARNING! A critical new exploit just shattered iPhone security, putting your most private messages at extreme risk!",
+    "image_description": "Extreme close-up of a smartphone screen displaying a glitching padlock icon breaking into digital fragments, surrounded by aggressive red warning lights and data streams, cinematic lighting, cyberpunk aesthetic.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "iOS IS VULNERABLE",
+    "image_description": "A hyper-realistic 8k render of a sleek, dark iPhone with a glowing, cracked screen, displaying abstract digital code. Cybernetic lines emanate from the cracks against a dramatically backlit, dark background. Object-focused.",
+    "reasoning": "The striking visual of a 'broken' iPhone screen combined with a direct, urgent text creates a strong sense of immediate threat and curiosity, compelling clicks from iOS users."
+  },
+  "title": "Untethered iOS Jailbreak: Your Privacy At Risk!",
+  "segments": [
+    {
+      "text": "Calif demonstrated an untethered iOS 27.0.1 jailbreak at Hexacon. This allows persistent, deep device access, circumventing Apple's core security architecture.",
+      "image_prompt": "A stylized digital representation of a broken padlock icon superimposed over a glowing circuit board, surrounded by abstract data streams, cinematic lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "An untethered jailbreak means the exploit remains active permanently. It signifies a profound security breach, impacting the device's fundamental operating system integrity.",
+      "image_prompt": "A holographic diagram of an iPhone's internal architecture with certain 'secured' layers highlighted in red and showing digital corruption/glitch effects.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Crucially, the demonstration hinted at critical exploits specifically targeting Signal and iMessage. These are globally trusted encrypted messaging platforms.",
+      "image_prompt": "Two sleek smartphone screens displaying 'Signal' and 'iMessage' logos, overlaid with transparent, flickering data streams indicating interference, dramatic side lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Such vulnerabilities could allow unauthorized parties to access private communications and sensitive user data, undermining digital privacy for millions daily.",
+      "image_prompt": "A cybernetic hand reaching towards a smartphone screen displaying blurred text messages, with digital 'lock' icons breaking apart, dark tones, intense focus.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Hexacon, a renowned cybersecurity conference, provided the stage for this revelation, signaling its profound importance to security researchers worldwide.",
+      "image_prompt": "A large, futuristic conference hall display showing abstract code and network diagrams, with a silhouetted figure (back view, looking at screen) representing a researcher, dramatic lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "This event underscores the dynamic threat landscape for mobile security. Users should remain vigilant about device updates and security advisories.",
+      "image_prompt": "A smartphone screen displaying a 'Security Update Available' notification, with a glowing, protective digital shield icon appearing over it, reflecting data in a cybernetic style.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
