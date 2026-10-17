@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "APPLE SECURITY CRISIS",
+    "narration": "Urgent Warning! Apple's ironclad security just got shattered, exposing millions of iPhones to unprecedented threats.",
+    "image_description": "Extreme close-up, a cybernetic eye with a glowing iris, reflecting a glitching screen displaying binary code and red warning lights, dramatic side lighting, intense focus.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "IPHONE HACKED?",
+    "image_description": "Hyper-realistic 3D render of a stylized iPhone with a glowing, cracked screen displaying abstract binary code, a digital padlock icon digitally dissolving, set against a dark, dramatic cyberpunk background, 8k resolution, centered object.",
+    "reasoning": "The direct question, combined with the iconic iPhone imagery and a 'broken' security visual, creates immediate curiosity and urgency, driving clicks by hinting at a major breach without giving away details."
+  },
+  "title": "iPhone Jailbreak Shocker: Your Data at Risk?",
+  "segments": [
+    {
+      "text": "At Hexacon, Calif demonstrated an untethered iOS 27.0.1 jailbreak. This exploit grants persistent, deep access to Apple devices.",
+      "image_prompt": "A complex digital representation of a smartphone with glowing lines tracing data paths, a spotlight on a 'broken' security shield icon, cinematic lighting.",
+      "camera_effect": "zoom_in",
+      "text_overlay": "JAILBREAK CONFIRMED"
+    },
+    {
+      "text": "Unlike previous methods, this untethered jailbreak requires no computer connection, remaining active even after a device restart.",
+      "image_prompt": "A schematic diagram of an iPhone connected to a wireless symbol, with digital 'ghost' data streams flowing, representing persistent access, cyberpunk neon lighting.",
+      "camera_effect": "pan_left",
+      "text_overlay": "PERSISTENT ACCESS"
+    },
+    {
+      "text": "Developers hinted at specific exploits targeting Signal and iMessage, potentially compromising supposedly secure, encrypted communications.",
+      "image_prompt": "Two glowing message bubbles (one green, one blue) dissolving into digital noise, a serious-looking silhouette observing with data reflecting in smart glasses, dramatic side lighting.",
+      "camera_effect": "static",
+      "text_overlay": "MESSAGE RISK"
+    },
+    {
+      "text": "This vulnerability could allow unauthorized access to sensitive user data, including personal files, contacts, and location history.",
+      "image_prompt": "A stylized digital globe with glowing data streams emanating from user locations, a protective digital barrier cracking and glitching, cyberpunk neon.",
+      "camera_effect": "pan_right",
+      "text_overlay": "USER DATA EXPOSED"
+    },
+    {
+      "text": "Millions of users on iOS 27.0.1 are now facing an unprecedented security challenge, demanding immediate attention from Apple.",
+      "image_prompt": "A singular, glowing Apple logo with a subtle, digital crack running through it, set against a dark, dramatic background, cinematic lighting, symbolizing a challenge.",
+      "camera_effect": "zoom_out",
+      "text_overlay": "APPLE'S CHALLENGE"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
