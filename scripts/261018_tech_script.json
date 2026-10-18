@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "TESLA'S HIDDEN POWER",
+    "narration": "Stop scrolling! Tesla's new Roadster has secret features that change everything you know about cars.",
+    "image_description": "A sleek, futuristic Tesla Roadster shrouded in mist with glowing red lines emanating from its chassis, viewed through smart glasses with a cybernetic eye reflecting data, intense focus.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "ROADSTER SECRETS REVEALED",
+    "image_description": "A hyper-realistic 8k 3D render of a Tesla Roadster, center frame, in a cyberpunk-inspired garage with dramatic blue and purple neon backlighting, hinting at advanced tech under the hood.",
+    "reasoning": "Highlights the iconic car with a promise of 'secrets revealed,' creating curiosity for a tech-savvy audience without sensationalism."
+  },
+  "title": "Tesla Roadster: Mind-Blowing Tricks Revealed!",
+  "segments": [
+    {
+      "text": "The new Tesla Roadster introduces never-before-seen capabilities, revolutionizing driving beyond acceleration. These 'tricks' redefine vehicle interaction and functionality for users.",
+      "image_prompt": "A digital interface floating over a driver's hands on a steering wheel, showing futuristic controls, cinematic lighting, serious thought expression.",
+      "camera_effect": "static",
+      "text_overlay": "BEYOND SPEED"
+    },
+    {
+      "text": "Its 'SpaceX Package' boasts 0-60 mph in 1.1 seconds, using cold gas thrusters. Unprecedented acceleration impacts launch control and high-performance driving experience.",
+      "image_prompt": "A Tesla Roadster accelerating with a subtle glow from its rear, digital thrust lines indicating propulsion, motion blur, hyper-realistic.",
+      "camera_effect": "dynamic_zoom_in",
+      "text_overlay": "THRUSTER POWER"
+    },
+    {
+      "text": "Advanced torque vectoring and adaptive suspension adjust road conditions 1,000 times per second. This ensures unparalleled stability, precise handling, and elevates driver confidence.",
+      "image_prompt": "Close-up of a cybernetic tire gripping a road, digital lines showing force distribution, viewed through smart glasses, intense focus.",
+      "camera_effect": "static",
+      "text_overlay": "ADAPTIVE HANDLING"
+    },
+    {
+      "text": "Revolutionary holographic displays for navigation and entertainment eliminate physical screens. This intuitive interface provides immersive user interaction, enhancing cabin aesthetics and driving focus.",
+      "image_prompt": "Interior view of a futuristic car, a holographic 3D map projected above the dashboard, driver looking with wonder, cinematic lighting.",
+      "camera_effect": "pan_left",
+      "text_overlay": "HOLOGRAPHIC CABIN"
+    },
+    {
+      "text": "Over-the-air software updates now include sensory feedback customization for acceleration and braking. Users personalize driving with unique haptic and audio profiles, enhancing immersion.",
+      "image_prompt": "A glowing iris reflecting data streams, indicating personalized car settings, seen through smart glasses, serious thought expression.",
+      "camera_effect": "dynamic_zoom_out",
+      "text_overlay": "CUSTOM FEEDBACK"
+    },
+    {
+      "text": "These innovations hint at a new era of automotive design, pushing boundaries for performance, safety, and personal immersion. The Roadster sets a benchmark for future electrics.",
+      "image_prompt": "A panoramic view of a futuristic city with flying cars, a Tesla Roadster parked prominently in the foreground, vibrant cyberpunk neon lighting.",
+      "camera_effect": "pan_right",
+      "text_overlay": "FUTURE IS HERE"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
