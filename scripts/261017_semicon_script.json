@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "CHIP MARKET CRASH?",
+    "narration": "The AI chip boom is a lie! The market just plunged, and your investments are at risk!",
+    "image_description": "A cybernetic investor with data reflecting in their glowing iris, intensely focused on a volatile stock graph overlaid with glitch effects and red warning lights. Cinematic lighting, cyberpunk neon.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "CHIP MARKET RISK",
+    "image_description": "A highly detailed, 3D render of a glowing semiconductor wafer, cracked down the middle with neon red light emanating from the fissure. Dark, cyberpunk background with subtle data streams. 8k resolution, dramatic backlighting.",
+    "reasoning": "The 'cracked wafer' visually conveys risk and instability in the chip market, directly appealing to investors and creating a high-contrast, attention-grabbing image."
+  },
+  "title": "AI Chip Market Shock: SOX Plunge & Tesla's Squeeze",
+  "segments": [
+    {
+      "text": "The Philadelphia Semiconductor Index dropped 14% since October. This signals growing downside risks amidst persistent AI hype, impacting investor confidence and CAPEX.",
+      "image_prompt": "A dynamic stock chart displaying a 14% decline since October, with analytical data overlays and a digital interface. Cinematic lighting.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "Despite soaring GPU and HBM demand, investor sentiment is re-evaluating valuations. Future manufacturing yields and CAPEX cycles face intense scrutiny.",
+      "image_prompt": "Abstract visualization of high-density data streaming through interconnected GPU and HBM modules within a server rack, subtle shift from green to yellow, reflecting market re-evaluation. Cyberpunk lighting.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "Tesla is reportedly pressuring Samsung Foundry over AI5 and AI6 chip pricing for 2026. This aggressive negotiation impacts foundry margins and long-term supply agreements.",
+      "image_prompt": "Holographic projection of intricate AI5 and AI6 chip designs, examined by a robotic arm's intense focus. A subtle digital pressure gauge in the background indicates 'squeeze.' Cybernetic aesthetic.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Such client pressure can trigger wider supply chain disruptions. Foundries face challenges maintaining profitability and funding crucial CAPEX for advanced nodes.",
+      "image_prompt": "Complex digital representation of a global semiconductor supply chain, with specific nodes blinking red due to 'digital corruption' effects, signifying disruption. Dark, analytical background.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "However, TSEM (Semtech) stock surged on an AI data center chip deal. This highlights robust demand for niche, high-performance solutions within the sector.",
+      "image_prompt": "A hyper-realistic 3D render of a glowing, intricate AI data center chip, held carefully by a focused robotic hand with cybernetic details. Vibrant green light emanates, symbolizing demand. Cinematic lighting.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "This reveals a complex market, where select demand meets broader valuation adjustments.",
+      "image_prompt": "A highly detailed, futuristic silicon wafer, reflecting complex data patterns and analytical projections. Cyberpunk neon lighting, 8k resolution.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
