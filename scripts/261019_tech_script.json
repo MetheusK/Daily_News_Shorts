@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI WAR LOOMS",
+    "narration": "A tech war is silently brewing in your living room, and it will change your daily life forever!",
+    "image_description": "A dynamic, fast-paced image showing two abstract, glowing digital entities, one shaped like an apple logo and the other a complex neural network, colliding in a dark, cyberpunk cityscape. Digital corruption effects and red warning lights emanate from the impact. Cinematic lighting, 8k resolution.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI VS APPLE",
+    "image_description": "A hyper-realistic 3D render of a glowing, stylized Apple logo on one side, facing a complex, intricate neural network architecture on the other. Both are centered on a dark, reflective surface with dramatic backlighting. Cyberpunk neon glow, 8k resolution.",
+    "reasoning": "The thumbnail clearly positions the two tech giants in a direct conflict, immediately communicating the core topic and generating curiosity for a major tech showdown."
+  },
+  "title": "Apple's Home vs. AI Engines: The Tech Battle Defining Your Future",
+  "segments": [
+    {
+      "text": "Apple is aggressively targeting your 'living room' with HomePod and Apple TV devices. The goal is seamless integration and ecosystem control, boosting user convenience dramatically.",
+      "image_prompt": "A sleek, minimalist living room with glowing interfaces connecting a HomePod, Apple TV, and other smart devices seamlessly. A subtle, almost invisible Apple logo projection. Cinematic lighting, 8k render.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Meanwhile, major competitors like Google and Amazon are investing heavily in advanced AI engines. Their focus is powerful, personalized intelligence across all smart devices, redefining interaction.",
+      "image_prompt": "A futuristic server farm with glowing AI processor chips, holographic data streams flowing between them. A digital representation of a neural network overlaying the scene. Dark, cyberpunk lighting.",
+      "camera_effect": "subtle_zoom_in"
+    },
+    {
+      "text": "Apple’s strategy aims to offer a unified, secure smart home experience. Users benefit from effortless device pairing and robust privacy features, simplifying daily interactions.",
+      "image_prompt": "A person's hand, seen through smart glasses reflecting a cybernetic data display, effortlessly controlling multiple smart home devices with gestures. The smart glasses show a 'secure' icon. Intense focus expression. Cinematic lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "AI engine development promises truly predictive and proactive assistance. Imagine devices anticipating needs, learning daily routines, and offering context-aware recommendations for every user.",
+      "image_prompt": "A futuristic smart display showing calendar events, traffic, and personal reminders intelligently arranged. A subtle, glowing AI brain icon represents proactive assistance. Holographic interface. Cinematic lighting.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "This creates distinct tech futures. Apple prioritizes integrated simplicity, while competitors chase raw AI capability and innovation across diverse platforms.",
+      "image_prompt": "A digital fork in the road, one path glowing with Apple's integrated ecosystem symbols (minimalist design), the other with complex, evolving AI data structures. Dramatic side lighting, 8k render.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Users will ultimately choose between an intricately woven ecosystem or powerful, pervasive AI intelligence. This battle defines your next decade of tech experiences.",
+      "image_prompt": "A person with intense focus, looking forward into a holographic projection that shows future tech concepts: seamless smart homes and advanced AI assistants. Their eyes reflect data streams. Cyberpunk neon lighting, 8k render.",
+      "camera_effect": "subtle_zoom_out"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
