@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI IS EVERYWHERE",
+    "narration": "STOP! AI just made its biggest leap yet, completely changing how industries operate and governments make decisions!",
+    "image_description": "Extreme close-up of a cybernetic eye reflecting a fast-paced industrial factory floor with glowing data streams, digital corruption effects, dramatic red and neon blue lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI IS HERE",
+    "image_description": "A hyper-realistic 3D render of a glowing, intricate AI processor chip at the center, surrounded by subtle holographic industrial diagrams and government building outlines. Dark background with dramatic backlighting, 8k resolution, cyberpunk style.",
+    "reasoning": "The thumbnail is clean and object-focused, highlighting the core AI technology in a sophisticated, intriguing way without the hook's alarmism. 'AI IS HERE' is direct and declarative, appealing to curiosity about AI's current state and generating clicks."
+  },
+  "title": "AI's Global Takeover: Factories & Government",
+  "segments": [
+    {
+      "text": "IMTS 2026 revealed a new industrial AI tech stack forming. This integrates intelligent systems directly into manufacturing for groundbreaking automation.",
+      "image_prompt": "A modern factory floor. A sophisticated robot arm with a glowing component is shown installing a digital chip, surrounded by blue data streams and cinematic lighting, reflecting data in its 'eye'.",
+      "camera_effect": "dynamic_pan_left"
+    },
+    {
+      "text": "This shift promises unprecedented efficiency. Advanced algorithms enable predictive maintenance and optimized production workflows across global facilities, minimizing downtime.",
+      "image_prompt": "Holographic dashboard displaying complex factory metrics and digital graphs with green indicators, overlaid on a blurred image of a production line. Focus on 'Intense focus' through smart glasses.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "The U.S. Government Accountability Office (GAO) will monitor AI use in agencies. They plan to hire AI experts in upcoming years for critical oversight.",
+      "image_prompt": "A digital representation of a government building with data flowing into a glowing 'GAO' logo. Blue and white light, cinematic lighting. Person with 'serious thought' looking at the data.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "This oversight ensures ethical AI deployment and accountability within federal operations. It manages complex implications of autonomous decision-making for public good.",
+      "image_prompt": "Abstract legal scales, where one side holds a glowing AI brain and the other represents 'justice' symbols. Balanced composition, light blue and white hues, reflecting data.",
+      "camera_effect": "slow_zoom"
+    },
+    {
+      "text": "Business Software and Services Market Reports detail evolving trends. Corporate strategies now prioritize AI integration heavily for sustained market growth.",
+      "image_prompt": "Dynamic 3D graph showing an upward trend, abstract business icons, and glowing lines connecting various data points. Cyberpunk neon lighting.",
+      "camera_effect": "fast_pan_right"
+    },
+    {
+      "text": "This comprehensive market pivot sees businesses adopting new AI solutions. It enhances service delivery and maintains critical competitive advantages globally.",
+      "image_prompt": "A network of interconnected computers and servers, glowing data points representing global connections, with a stylized cityscape in the background. Cinematic lighting, 'wonder' in a reflecting data eye.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
