@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "JOBS DISAPPEARING?",
+    "narration": "WARNING: The tech industry is secretly changing YOUR future, and thousands are already feeling the shock NOW!",
+    "image_description": "Extreme close-up of a human eye with cybernetic reflections of fast-scrolling code and a digital red warning sign, dramatic side lighting, intense focus, 8k resolution, cinematic.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI JOB CRISIS?",
+    "image_description": "A hyper-realistic 3D render of a futuristic glowing AI processor chip at the center, surrounded by swirling abstract data streams and subtle red digital glints. Dark, high-contrast background with dramatic backlighting, 8k resolution, cyberpunk aesthetic.",
+    "reasoning": "The combination of 'AI,' 'JOB CRISIS,' and a powerful, mysterious tech object creates immediate intrigue about the future of employment in the tech sector, driving clicks."
+  },
+  "title": "Tech Jobs: AI's Hidden Impact Revealed!",
+  "segments": [
+    {
+      "text": "Tech headlines scream crisis, but recent reports show business software and services markets are actually experiencing strong, strategic growth, indicating complex shifts.",
+      "text_overlay": "MARKET SHIFT",
+      "image_prompt": "Cinematic shot of a holographic market trend chart, showing upward trajectory amidst abstract data streams. Focus on intricate digital graphs, not human faces. Cyberpunk lighting.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "Economists confirm AI's workplace impact: it creates clear 'winners and losers,' transforming roles and demanding rapid adaptation, not uniform displacement.",
+      "text_overlay": "AI TRANSFORMS JOBS",
+      "image_prompt": "A digital representation of a neural network overlaid on a diverse group of professionals in intense focus, reflecting data in their smart glasses. Dramatic side lighting, serious thought.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "However, Israel’s tech sector experienced a staggering 59% jump in unemployment, starkly bucking global trends and revealing specific localized vulnerabilities.",
+      "text_overlay": "59% TECH UNEMPLOYMENT",
+      "image_prompt": "A stark, holographic graph with a dramatic red spike representing a 59% unemployment increase. Digital glitch effects around the spike, red warning lights reflecting. Technical focus.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "This surge correlates with shifting corporate strategies in business software, prioritizing efficiency gains and AI-driven automation over traditional headcount in specific areas.",
+      "text_overlay": "AUTOMATION DRIVES",
+      "image_prompt": "A server room with glowing blue lights, visualizing automated processes as swift data streams flowing between server racks. Focus on efficiency, no human presence.",
+      "camera_effect": "dolly_in"
+    },
+    {
+      "text": "The business software market itself is rapidly evolving, demanding new skill sets and pushing existing workforces towards continuous reskilling to stay relevant.",
+      "text_overlay": "SKILLS EVOLVE",
+      "image_prompt": "A person wearing futuristic smart glasses, looking intently at a holographic interface displaying evolving skill trees and dynamic learning modules. Determined expression, through smart glasses view.",
+      "camera_effect": "tilt_up"
+    },
+    {
+      "text": "These global and regional trends highlight an urgent need for robust talent development programs to effectively navigate accelerating technological integration.",
+      "text_overlay": "FUTURE WORKFORCE",
+      "image_prompt": "A vibrant, futuristic cityscape at dawn, with holographic interfaces projecting collaborative work environments and digital training platforms. Focus on interconnected systems, cinematic lighting.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
