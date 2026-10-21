@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "ECONOMY SHOCK!",
+    "narration": "Warning! A silent economic shockwave is about to hit, costing billions in lost productivity!",
+    "image_description": "A close-up of a digital clock rapidly counting down to zero, surrounded by glitching data streams and intense red warning lights, subtly reflecting a focused cybernetic eye through smart glasses.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "GAME STOPS ECONOMY",
+    "image_description": "A hyper-realistic 3D render of a stylized 'GTA VI' logo integrated into a fractured digital economy graph. The object is centered, with dramatic cyberpunk backlighting and subtle digital corruption effects. 8k resolution.",
+    "reasoning": "The direct, bold statement 'GAME STOPS ECONOMY' combined with the iconic 'GTA VI' logo on a fractured economic graph creates immediate intrigue and signals a significant, disruptive event, driving clicks."
+  },
+  "title": "GTA VI: The $1 Billion Work Stoppage",
+  "segments": [
+    {
+      "text": "The highly anticipated Grand Theft Auto VI is projected for a 2025 release, sparking immense global consumer excitement. This launch will likely redefine gaming entertainment standards.",
+      "image_prompt": "Futuristic city skyline at night, with a prominent holographic display of a sleek, advanced car. Cinematic lighting, cyberpunk style, 8k resolution.",
+      "text_overlay": "GTA VI LAUNCH",
+      "camera_effect": "dynamic_pan"
+    },
+    {
+      "text": "Analyst reports now estimate a potential $1 billion economic loss for the US economy on its launch day. This figure reflects significant anticipated market disruption.",
+      "image_prompt": "Digital representation of a plummeting stock graph, overlaid on a translucent map of the USA, with abstract, fast-moving data streams. Technical, clear.",
+      "text_overlay": "$1 BILLION LOSS",
+      "camera_effect": "zoom_in_graph"
+    },
+    {
+      "text": "This projected loss stems primarily from employees taking unscheduled leave to play the game. Such widespread absenteeism directly impacts company productivity and operations.",
+      "image_prompt": "A blurred, dimly lit office environment with several empty desks. A single digital clock on a monitor shows late morning, with a subtle 'offline' network symbol.",
+      "text_overlay": "WORKERS ABSENT",
+      "camera_effect": "static"
+    },
+    {
+      "text": "The phenomenon highlights the significant cultural and economic influence of major entertainment releases. Businesses face a unique challenge in managing this enthusiastic fan engagement.",
+      "image_prompt": "A complex network of glowing, interconnected nodes representing economic activity, with one large, central node pulsing intensely and pulling resources from others. Abstract, technical.",
+      "text_overlay": "CULTURE SHOCK",
+      "camera_effect": "circular_track"
+    },
+    {
+      "text": "Past major game launches have shown similar trends, though GTA VI's scale is unprecedented. Companies are now strategizing flexible work options to mitigate impact.",
+      "image_prompt": "A digital chessboard featuring abstract business figures and gaming console icons strategically placed. Dramatic side lighting, representing a strategic challenge.",
+      "text_overlay": "PRECEDENT SET",
+      "camera_effect": "dolly_zoom"
+    },
+    {
+      "text": "So, the actual economic hit for this massive gaming launch is still being calculated based on various regional factors.",
+      "image_prompt": "Abstract data visualization with complex numbers and interconnected lines, converging and diverging, implying intricate calculations. Clear, technical interface.",
+      "text_overlay": "ECONOMIC HIT",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
