@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "MERGER SHOCK!",
+    "narration": "Warning! Elon Musk just revealed a secret plan that could change EVERYTHING you know about tech and space!",
+    "image_description": "A cybernetic human eye, highly reflective, showing a glitched image of two distinct company logos (Tesla and SpaceX) merging into one, surrounded by red warning lights and subtle digital corruption. Cinematic lighting, intense focus.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "ELON'S NEW EMPIRE",
+    "image_description": "A hyper-realistic 3D render of a sleek, glowing SpaceX rocket taking off from a futuristic Tesla Gigafactory complex, both integrated seamlessly. Holographic data streams flow between them. Cyberpunk aesthetic, 8k resolution, dramatic backlighting, centered composition.",
+    "reasoning": "The thumbnail combines iconic objects (rocket, factory) representing the merger. 'ELON'S NEW EMPIRE' creates intrigue about the scale and power of the combined entity, drawing in tech and business enthusiasts."
+  },
+  "title": "Elon Musk's SHOCK Merger Plan: SpaceX & Tesla Unite?",
+  "segments": [
+    {
+      "text": "Elon Musk has officially endorsed a potential merger between his companies, SpaceX and Tesla. This signals a strategic consolidation.",
+      "image_prompt": "A sleek, futuristic graphic displaying the Tesla and SpaceX logos seamlessly blending into a single, cohesive entity, with digital data streams flowing between them. Clear, technical design.",
+      "camera_effect": "zoom_out_slowly"
+    },
+    {
+      "text": "This move follows SpaceX's significant profitability, driven by robust Starlink subscriptions and successful launch operations, solidifying its financial standing.",
+      "image_prompt": "A detailed 3D render of a Starlink satellite constellation orbiting a vibrant Earth, with glowing data transmission lines connecting satellites. Technical, clean aesthetic.",
+      "camera_effect": "pan_across_constellation"
+    },
+    {
+      "text": "Tesla, an industry leader in electric vehicles and AI, stands to gain access to advanced aerospace materials and propulsion technologies.",
+      "image_prompt": "A close-up of a futuristic Tesla Cybertruck with a subtle, transparent holographic overlay showcasing intricate rocket engine components and advanced material structures. Emphasize engineering synergy.",
+      "camera_effect": "dolly_in_to_holographic_overlay"
+    },
+    {
+      "text": "The merger promises unprecedented synergies, integrating space engineering with terrestrial automotive and battery innovation for new applications.",
+      "image_prompt": "Two diverse sets of engineers (one in a sleek space suit, another in a clean lab coat) intensely focused on a shared, large holographic blueprint displaying a hybrid vehicle/rocket design. Cinematic lighting, serious thought.",
+      "camera_effect": "static_slightly_angled"
+    },
+    {
+      "text": "This consolidation will create a formidable new entity, profoundly impacting space exploration, sustainable energy, and autonomous technology markets globally.",
+      "image_prompt": "A futuristic city skyline featuring Tesla autonomous vehicles on multi-level roads, with SpaceX rockets visible on launchpads in the background. Buildings display holographic digital projections. High-tech urban landscape.",
+      "camera_effect": "fly_through_cityscape"
+    },
+    {
+      "text": "Experts anticipate new ventures in space-based resource extraction, advanced robotics, or even interplanetary transport systems from this combined force.",
+      "image_prompt": "An artistic render of a human figure in advanced smart glasses, looking at a holographic projection of Mars with integrated mining operations and robotic exploration units. The glasses reflect complex data, showing intense focus.",
+      "camera_effect": "static_close_up"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
