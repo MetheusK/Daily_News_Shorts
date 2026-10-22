@@ -1,0 +1,63 @@
+{
+  "hook_plan": {
+    "overlay_text": "YOUR DATA IS SAFE?",
+    "narration": "WARNING: Your browser is under constant attack, but Google just deployed an invisible shield!",
+    "image_description": "A close-up of a human eye with a cybernetic glow, reflecting digital warning signs and a lock icon, dramatic red and blue cyberpunk lighting, intense focus.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI SCAM STOP",
+    "image_description": "A stylized 3D render of a glowing digital shield blocking a swarm of malicious phishing icons (like fake login pages, malware symbols), set against a dark, cyberpunk background with neon blue and red lights, 8k resolution.",
+    "reasoning": "The text 'AI SCAM STOP' is direct and highlights a major concern (scams) with a powerful solution (AI). The visual of a digital shield blocking threats is universally understood and visually striking, triggering curiosity about *how* it stops scams, leading to a click. The object focus makes it look professional and futuristic, not sensationalized."
+  },
+  "title": "Google Gemini: Chrome's New Secret Weapon Against Scams!",
+  "segments": [
+    {
+      "text_overlay": "CHROME'S AI SHIELD",
+      "text": "Google integrated Gemini AI into Chrome's Enhanced Safe Browsing. This combats online threats more proactively than ever before.",
+      "image_prompt": "A Chrome browser icon surrounded by a glowing, intricate AI network, digital lock symbol, 8k render, deep blue and green neon.",
+      "camera_effect": "Zoom out",
+      "background_color": "#1A1A2E"
+    },
+    {
+      "text_overlay": "REAL-TIME DEFENSE",
+      "text": "Gemini analyzes website URLs and page content in real-time, detecting phishing, malware, and other malicious activity before it loads.",
+      "image_prompt": "Digital data streams flowing rapidly into a glowing AI brain diagram, with red warning alerts popping up on some streams, sci-fi interface, dramatic side lighting.",
+      "camera_effect": "Fast pan",
+      "background_color": "#1A1A2E"
+    },
+    {
+      "text_overlay": "BILLIONS PROTECTED",
+      "text": "Google's Safe Browsing already protects 5 billion devices daily, identifying millions of dangerous sites. Gemini enhances this protection significantly.",
+      "image_prompt": "A holographic globe showing millions of interconnected devices, with a protective AI barrier pulsating around it, deep blue and green neon, 3D render.",
+      "camera_effect": "Rotate 360",
+      "background_color": "#1A1A2E"
+    },
+    {
+      "text_overlay": "ACTIVATE AI GUARD",
+      "text": "Users must enable \"Enhanced Safe Browsing\" in Chrome settings to activate Gemini's advanced real-time phishing and malware detection.",
+      "image_prompt": "A hand reaching to tap a glowing \"Enable\" button on a transparent settings screen, binary code background, cinematic lighting, focused expression.",
+      "camera_effect": "Close up",
+      "background_color": "#1A1A2E"
+    },
+    {
+      "text_overlay": "ON-DEVICE AI",
+      "text": "Crucially, some advanced analysis happens on-device using a local Gemini Nano model, minimizing user data transmission and maximizing privacy.",
+      "image_prompt": "A microscopic view of a glowing, intricate chip inside a phone, with data streams flowing around it, representing local processing, cyberpunk neon.",
+      "camera_effect": "Macro zoom",
+      "background_color": "#1A1A2E"
+    },
+    {
+      "text_overlay": "FUTURE ONLINE SAFETY",
+      "text": "This shift marks a proactive leap in browser security. Gemini AI aims to preempt new, evolving scam tactics, keeping users safer online constantly.",
+      "image_prompt": "A futuristic digital cityscape with glowing data pathways, a protective dome of light emanating from a central AI hub, dark, dramatic lighting, 8k render.",
+      "camera_effect": "Drone shot",
+      "background_color": "#1A1A2E"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
