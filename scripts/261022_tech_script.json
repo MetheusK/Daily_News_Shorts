@@ -1,58 +1,46 @@
 {
   "hook_plan": {
-    "overlay_text": "YOUR DATA IS SAFE?",
-    "narration": "WARNING: Your browser is under constant attack, but Google just deployed an invisible shield!",
-    "image_description": "A close-up of a human eye with a cybernetic glow, reflecting digital warning signs and a lock icon, dramatic red and blue cyberpunk lighting, intense focus.",
+    "overlay_text": "IPHONE SHOCKER!",
+    "narration": "WARNING! Apple just revealed a secret, and your wallet is NOT ready for the shocking truth about the new iPhone!",
+    "image_description": "Extreme close-up of a highly polished, partially folded smartphone screen reflecting a person's intense, focused eye. Digital glitch effects, dramatic cyberpunk neon lighting, hint of internal circuitry.",
     "mood_color": "red"
   },
   "thumbnail_plan": {
-    "thumbnail_text": "AI SCAM STOP",
-    "image_description": "A stylized 3D render of a glowing digital shield blocking a swarm of malicious phishing icons (like fake login pages, malware symbols), set against a dark, cyberpunk background with neon blue and red lights, 8k resolution.",
-    "reasoning": "The text 'AI SCAM STOP' is direct and highlights a major concern (scams) with a powerful solution (AI). The visual of a digital shield blocking threats is universally understood and visually striking, triggering curiosity about *how* it stops scams, leading to a click. The object focus makes it look professional and futuristic, not sensationalized."
+    "thumbnail_text": "APPLE'S FOLDABLE?",
+    "image_description": "3D render of a sleek, futuristic foldable smartphone, half-folded on a glowing pedestal. Hyper-realistic, 8k resolution, dramatic blue and purple backlighting, dark, reflective surface. Centered composition.",
+    "reasoning": "Highlights the core product (foldable iPhone) with mystery and high-quality visuals. Object-focused design and contrasting colors will attract clicks through curiosity about Apple's next big move."
   },
-  "title": "Google Gemini: Chrome's New Secret Weapon Against Scams!",
+  "title": "Apple's Foldable iPhone: Hype or Reality?",
   "segments": [
     {
-      "text_overlay": "CHROME'S AI SHIELD",
-      "text": "Google integrated Gemini AI into Chrome's Enhanced Safe Browsing. This combats online threats more proactively than ever before.",
-      "image_prompt": "A Chrome browser icon surrounded by a glowing, intricate AI network, digital lock symbol, 8k render, deep blue and green neon.",
-      "camera_effect": "Zoom out",
-      "background_color": "#1A1A2E"
+      "text": "Apple is reportedly developing the 'iPhone Duo,' its first foldable smartphone. This marks a significant shift for the tech giant, entering a competitive market.",
+      "image_prompt": "A futuristic, sleek render of a foldable phone in a designer's hand. Cinematic lighting, focused on the phone's hinge.",
+      "camera_effect": "static",
+      "text_overlay": "FOLDABLE IPHONE"
     },
     {
-      "text_overlay": "REAL-TIME DEFENSE",
-      "text": "Gemini analyzes website URLs and page content in real-time, detecting phishing, malware, and other malicious activity before it loads.",
-      "image_prompt": "Digital data streams flowing rapidly into a glowing AI brain diagram, with red warning alerts popping up on some streams, sci-fi interface, dramatic side lighting.",
-      "camera_effect": "Fast pan",
-      "background_color": "#1A1A2E"
+      "text": "Early reports suggest a hefty R48,000 price point, raising questions about its value. Consumers are debating if Apple's premium justifies this cost.",
+      "image_prompt": "A stylized hand reaching for a glowing digital representation of 'R48K' with shimmering question marks. Cyberpunk aesthetic, dramatic side lighting.",
+      "camera_effect": "static",
+      "text_overlay": "R48K PRICE TAG"
     },
     {
-      "text_overlay": "BILLIONS PROTECTED",
-      "text": "Google's Safe Browsing already protects 5 billion devices daily, identifying millions of dangerous sites. Gemini enhances this protection significantly.",
-      "image_prompt": "A holographic globe showing millions of interconnected devices, with a protective AI barrier pulsating around it, deep blue and green neon, 3D render.",
-      "camera_effect": "Rotate 360",
-      "background_color": "#1A1A2E"
+      "text": "Hands-on reviews hint at a refined user experience, possibly featuring optimized iOS for dual screens. Multitasking and media consumption could transform daily use.",
+      "image_prompt": "Split-screen UI concept on a smartphone, showing multiple apps running smoothly. Data flow visual effects, viewed through smart glasses perspective.",
+      "camera_effect": "static",
+      "text_overlay": "DUAL SCREEN UX"
     },
     {
-      "text_overlay": "ACTIVATE AI GUARD",
-      "text": "Users must enable \"Enhanced Safe Browsing\" in Chrome settings to activate Gemini's advanced real-time phishing and malware detection.",
-      "image_prompt": "A hand reaching to tap a glowing \"Enable\" button on a transparent settings screen, binary code background, cinematic lighting, focused expression.",
-      "camera_effect": "Close up",
-      "background_color": "#1A1A2E"
+      "text": "Unlike competitors, Apple may prioritize durability and a seamless hinge design. This aims to avoid common issues seen in many first-generation foldables.",
+      "image_prompt": "Close-up of a sophisticated, metallic hinge mechanism, with glowing blue lines indicating precision engineering. Technical blueprint overlay.",
+      "camera_effect": "static",
+      "text_overlay": "APPLE'S DURABILITY"
     },
     {
-      "text_overlay": "ON-DEVICE AI",
-      "text": "Crucially, some advanced analysis happens on-device using a local Gemini Nano model, minimizing user data transmission and maximizing privacy.",
-      "image_prompt": "A microscopic view of a glowing, intricate chip inside a phone, with data streams flowing around it, representing local processing, cyberpunk neon.",
-      "camera_effect": "Macro zoom",
-      "background_color": "#1A1A2E"
-    },
-    {
-      "text_overlay": "FUTURE ONLINE SAFETY",
-      "text": "This shift marks a proactive leap in browser security. Gemini AI aims to preempt new, evolving scam tactics, keeping users safer online constantly.",
-      "image_prompt": "A futuristic digital cityscape with glowing data pathways, a protective dome of light emanating from a central AI hub, dark, dramatic lighting, 8k render.",
-      "camera_effect": "Drone shot",
-      "background_color": "#1A1A2E"
+      "text": "While no official release date is confirmed, industry insiders anticipate a launch within the next two years. It will redefine the premium smartphone segment globally.",
+      "image_prompt": "A futuristic calendar interface with a blurred, upcoming date highlighted. A sleek smartphone silhouette in the foreground, glowing gently. Determination in a cybernetic eye reflecting the calendar.",
+      "camera_effect": "static",
+      "text_overlay": "2-YEAR LAUNCH"
     },
     {
       "text": "If useful, please like and subscribe!",
