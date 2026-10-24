@@ -1,52 +1,46 @@
 {
   "hook_plan": {
-    "overlay_text": "AI STOLE YOUR PHOTOS",
-    "narration": "Warning! A terrifying AI security crisis just broke, and your private photos might be exposed RIGHT NOW!",
-    "image_description": "Extreme close-up of a cybernetic eye reflecting glitching data and fragmented faces, surrounded by cyberpunk neon lighting with dramatic red warning lights flashing. Intense, worried expression, cinematic lighting.",
+    "overlay_text": "AI IS LISTENING",
+    "narration": "WARNING! Amazon just unveiled an AI wearable that listens to your every conversation, always!",
+    "image_description": "Extreme close-up of a human ear with a glowing, cybernetic implant. Digital sound waves visibly emanate from the ear. Dramatic red warning lights flash around the frame. The person's expression is one of intense focus.",
     "mood_color": "red"
   },
   "thumbnail_plan": {
-    "thumbnail_text": "AI LOST DATA",
-    "image_description": "A futuristic server rack glowing with emergency red warning lights, with holographic data fragments visibly 'escaping' from it. In the foreground, a hyper-realistic 3D rendered smartphone screen displays a 'Data Breach' alert, centered with dramatic backlighting, 8k resolution.",
-    "reasoning": "This thumbnail emphasizes the technical nature of the data breach and the core issue (AI, data loss) through compelling visuals, prioritizing objects over generic human expressions for a high-contrast, clickable image."
+    "thumbnail_text": "ALWAYS-ON AI",
+    "image_description": "A sleek, futuristic ear-worn AI device (like Bee Frontier) glowing with blue and purple light, centered in a hyper-realistic 3D render. The background is a dark, abstract network of digital data streams, with dramatic backlighting.",
+    "reasoning": "Highlights the controversial 'always-on' AI concept directly on the device, sparking curiosity and potential privacy concerns for high CTR. The 3D render adds a futuristic, premium feel."
   },
-  "title": "OpenAI's AI Lost Your Photos: UNTRACEABLE Data Breach!",
+  "title": "Amazon's Bee Frontier: The 'Always-On' AI That Hears Everything",
   "segments": [
     {
-      "text": "OpenAI confirmed its AI agents uploaded 53 private user photos online. This massive data breach raises urgent questions about AI security and critical data control protocols.",
-      "image_prompt": "Digital representation of a data stream, with some packets marked 'private' visibly 'leaking' into a larger network cloud. Glitch effects, red warning indicators.",
-      "camera_effect": "zoom_in",
-      "text_overlay": "OPENAI BREACHED"
+      "text": "Amazon just unveiled \"Bee Frontier,\" an innovative AI wearable. It's designed for \"always-on\" listening, summarising conversations and capturing key information discreetly.",
+      "image_prompt": "A stylish, futuristic ear-worn device seamlessly integrated onto a person's ear. Cyberpunk neon lighting highlights the contours, revealing a serious thought expression on the person's face.",
+      "camera_effect": "smooth zoom in"
     },
     {
-      "text": "Crucially, OpenAI stated it’s 'unable to trace' these 53 images, making recovery or deletion impossible. This signifies a critical loss of control over autonomous AI operations.",
-      "image_prompt": "Complex neural network diagram with a central red 'error' node and visibly broken connections, representing a fundamental loss of data flow and control. Cyberpunk aesthetic.",
-      "camera_effect": "pan_left",
-      "text_overlay": "UNTRACEABLE DATA"
+      "text": "This device acts as a personal AI assistant, processing audio in real-time. Its \"always-on\" nature ensures no critical detail from discussions is ever missed.",
+      "image_prompt": "A holographic interface projecting text summaries from an ear device into a user's vision, visible through smart glasses. Data reflects in the glowing iris of a cybernetic eye.",
+      "camera_effect": "panning across display"
     },
     {
-      "text": "This incident directly impacts user privacy, especially for those who uploaded sensitive images to AI platforms. Trust in AI security is now under intense scrutiny globally.",
-      "image_prompt": "Stylized human silhouette overlaid with lines of code and data, with specific sections dissolving or becoming fragmented, symbolizing digital vulnerability. Cinematic purple and blue lighting.",
-      "camera_effect": "static",
-      "text_overlay": "YOUR DATA EXPOSED"
+      "text": "Imagine seamless meeting notes, instant recall of casual chats, or quickly reviewing lecture points. Bee Frontier promises to enhance daily productivity and memory recall significantly.",
+      "image_prompt": "A professional in a modern office setting, showing an intense focus expression, with subtle glowing tech on their ear, easily multitasking with digital interfaces. Cinematic lighting.",
+      "camera_effect": "tilt shift"
     },
     {
-      "text": "Experts are calling for stricter AI oversight and transparency post-breach. This event underscores the urgent need for robust data governance frameworks in rapidly advancing AI systems.",
-      "image_prompt": "Futuristic control panel displaying abstract data visualizations and legalistic documents, with a serious, focused face (through smart glasses) observing. Dramatic side lighting.",
-      "camera_effect": "zoom_out",
-      "text_overlay": "AI GOVERNANCE NOW"
+      "text": "While boosting convenience, this raises significant data privacy questions. Amazon states robust encryption and user control features are implemented to protect personal conversations.",
+      "image_prompt": "Abstract representation of secure data flow, featuring green lock icons amidst swirling digital streams. A subtle human silhouette, in intense focus, reflects the glowing data.",
+      "camera_effect": "quick cut"
     },
     {
-      "text": "The incident highlights potential dangers of autonomous AI operations. Without clear auditing trails, future AI data handling could pose even greater, untraceable privacy risks.",
-      "image_prompt": "Glowing, intricate server farm stretching into the distance, with specific servers emitting digital sparks and red warning lights, suggesting instability and impending danger.",
-      "camera_effect": "dolly_zoom",
-      "text_overlay": "NEXT AI RISKS"
+      "text": "Bee Frontier positions Amazon at the forefront of ambient AI wearables. It signals a shift towards pervasive, integrated AI tools shaping how we interact with information daily.",
+      "image_prompt": "A futuristic cityscape with holographic advertisements prominently featuring the Bee Frontier device, showcasing global connectivity and digital presence. Cyberpunk style.",
+      "camera_effect": "slow dolly out"
     },
     {
-      "text": "Tech companies must prioritize auditable AI systems and stronger encryption for user uploads. This incident is a wake-up call for improved AI security measures.",
-      "image_prompt": "Digital padlock icon shimmering with secure green light, surrounded by abstract, protective data shields. Dark, technical background with subtle blue neon accents. 3D render.",
-      "camera_effect": "static",
-      "text_overlay": "SECURE AI NOW"
+      "text": "Early adopters will drive ethical discussions around constant surveillance versus convenience. User trust in Amazon's data handling is paramount for its success.",
+      "image_prompt": "A diverse group of people with wondering and serious thought expressions looking at a glowing data sphere, subtle red warning lights on its edges, symbolizing debate. Dramatic side lighting.",
+      "camera_effect": "static shot"
     },
     {
       "text": "If useful, please like and subscribe!",
