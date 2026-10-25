@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "APPLE'S SHOCKING SHIFT",
+    "narration": "WARNING! Apple just fundamentally changed your future devices, and you won't believe what's coming next week!",
+    "image_description": "Cybernetic hand reaching for a holographic MacBook Pro screen, glowing blue lines, intense user focus through smart glasses with data reflecting in the lenses, dramatic side lighting.",
+    "mood_color": "neon_green"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "NEW APPLE ERA",
+    "image_description": "A sleek, hyper-realistic 3D render of a MacBook Pro with a vibrant, glowing OLED touchscreen displaying a futuristic UI, centered composition, dramatically backlit with cyberpunk neon lighting, 8k resolution.",
+    "reasoning": "This thumbnail highlights the core product (MacBook Pro) and its revolutionary feature (OLED touchscreen) with a modern, high-contrast, cinematic aesthetic, immediately grabbing attention and generating curiosity about Apple's major shift."
+  },
+  "title": "Apple's Touchscreen OLED Revolution Is Here",
+  "segments": [
+    {
+      "text": "Apple is launching touchscreen Tandem OLED MacBook Pros and iPad mini devices next week. This marks a significant hardware evolution for their professional lineup.",
+      "image_prompt": "Ultra-thin MacBook Pro concept with a glowing touchscreen interface, showing a cybernetic finger elegantly touching the screen, dramatic lighting.",
+      "camera_effect": "dynamic_zoom"
+    },
+    {
+      "text": "Tandem OLED panels offer superior brightness, improved longevity, and reduced power consumption. This promises stunning visuals and extended battery life.",
+      "image_prompt": "Extreme close-up of OLED pixels glowing with vibrant, hyper-realistic colors, displaying complex data patterns, in a technical context.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Integrating touch radically transforms macOS interaction for creatives and students. Direct manipulation enhances workflows, bringing tablet fluidity to powerful laptops.",
+      "image_prompt": "Hands interacting seamlessly with a digital workspace on a sleek laptop screen, focused expressions, cinematic lighting, reflecting data.",
+      "camera_effect": "smooth_pan"
+    },
+    {
+      "text": "A new iPad Mini will also feature OLED technology, promising deeper blacks and vibrant colors in a compact, highly portable form factor.",
+      "image_prompt": "An elegant, new iPad Mini design, showcasing its vibrant OLED screen with dynamic content, held by a person with a determined expression, dramatic lighting.",
+      "camera_effect": "dynamic_zoom"
+    },
+    {
+      "text": "This aggressive product move strengthens Apple's premium segment. Competitors like Xiaomi's upcoming Pro Max models face renewed pressure in the high-end device market.",
+      "image_prompt": "Two abstract, futuristic smartphone silhouettes facing each other in a virtual arena, one Apple-like, one Android-like, with holographic data flowing between them, cyberpunk neon lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "This marks a major shift in the premium device market, impacting user interaction profoundly.",
+      "image_prompt": "A wide shot of a futuristic tech landscape with glowing data networks, reflecting abstract user interfaces, digital corruption effects, cinematic lighting.",
+      "camera_effect": "dynamic_zoom"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
