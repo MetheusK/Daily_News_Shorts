@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "CRITICAL CHOICE",
+    "narration": "Warning: Your next semiconductor investment choice could cost you everything!",
+    "image_description": "A close-up of a determined investor's face, augmented with subtle cybernetic enhancements. Their glowing iris reflects a split holographic display showing two competing company logos (TSMC and Nvidia), intense cinematic lighting, digital data streams flowing around them, slight red glitch effects, implying high stakes.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "CHIP DILEMMA",
+    "image_description": "A hyper-realistic 3D render of two distinct, glowing silicon wafers, one with an Nvidia logo subtly etched, the other with a TSMC logo. They are at a critical junction in a high-tech circuit board, dramatic backlighting, dark background, 8k resolution. Focus on the intricate chip details.",
+    "reasoning": "The 'CHIP DILEMMA' text clearly poses the investment question. The visual of two glowing, distinct wafers at a junction immediately conveys the choice between two semiconductor giants, appealing to both investors and engineers through its technical realism and thematic clarity."
+  },
+  "title": "TSMC vs. Nvidia: The 5-Year Investment Battle",
+  "segments": [
+    {
+      "text_overlay": "INVESTOR DILEMMA",
+      "narration": "Analysts are debating the 5-year investment thesis: TSMC's foundational foundry strength versus Nvidia's explosive AI GPU market dominance.",
+      "image_prompt": "A precise, high-tech graphic showing two distinct growth curves diverging, labeled 'Foundry' and 'GPU', within a holographic investment dashboard, cybernetic-themed.",
+      "camera_effect": "static"
+    },
+    {
+      "text_overlay": "TSMC FOUNDATION",
+      "narration": "TSMC's 3nm and 2nm wafer fabrication underpins the industry. Significant CAPEX solidifies their long-term supply chain control.",
+      "image_prompt": "Extreme close-up of a perfectly etched 3nm silicon wafer, glowing intricate patterns under cinematic lighting, a robotic arm delicately holding it, through a smart glass lens.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text_overlay": "NVIDIA DOMINANCE",
+      "narration": "Nvidia commands over 80% of the AI GPU market, driven by HBM and CUDA. Robust demand fuels their revenue growth.",
+      "image_prompt": "A sleek, futuristic Nvidia H100 GPU chip, highly detailed, radiating subtle blue light, surrounded by holographic data projections related to AI performance, cyberpunk neon lighting.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text_overlay": "YIELD CRITICALITY",
+      "narration": "High yield rates for advanced nodes are critical for both. TSMC’s mastery impacts Nvidia’s product availability and cost efficiencies.",
+      "image_prompt": "Technical diagram showing semiconductor manufacturing process flow, highlighting 'Yield Rate' metric, overlaid with precise data points, reflecting a focused engineer's eye through smart glasses, dramatic side lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text_overlay": "VALUATION SPLIT",
+      "narration": "Nvidia's valuation reflects aggressive AI growth. TSMC offers stable, indispensable infrastructure plays with consistent demand.",
+      "image_prompt": "A detailed financial chart showing two distinct stock valuation trajectories, clearly labeled NVDA and TSM, with superimposed analyst annotations and data points, glowing indicators.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text_overlay": "MARKET DECISION",
+      "narration": "The valuation hinges on this crucial market decision point.",
+      "image_prompt": "A stylized digital representation of a crossroads in a complex circuit board, binary choices glowing green/red, leading to two distinct paths, viewed with intense focus.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
