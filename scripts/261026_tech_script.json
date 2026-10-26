@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI EXPOSED YOUR PHOTOS",
+    "narration": "Stop everything! A massive AI privacy crisis just hit, exposing your most private moments!",
+    "image_description": "Extreme close-up of a cybernetic eye reflecting a mosaic of blurred, distorted private photos, overlaid with digital glitch effects and urgent red warning lights. Cinematic lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI DATA LEAK",
+    "image_description": "A 3D render of a glowing, transparent server rack with a broken digital padlock floating above it. Holographic data streams around, set against a dark, cyberpunk city background with dramatic backlighting. 8k resolution.",
+    "reasoning": "The 'AI Data Leak' text is direct and alarming. The broken padlock and server rack visually represent a security breach in AI infrastructure, drawing immediate attention and curiosity without relying on human expressions, fulfilling the object-priority rule."
+  },
+  "title": "ChatGPT Data Breach: Your Private Photos Exposed!",
+  "segments": [
+    {
+      "text": "OpenAI users faced a critical privacy breach with 53 private photos uploaded via ChatGPT. This significant incident raises immediate security concerns.",
+      "image_prompt": "A glitching ChatGPT interface displaying a placeholder icon for a blurred, corrupted image. Digital 'warning' text flashes. Cinematic lighting.",
+      "camera_effect": "dynamic_zoom"
+    },
+    {
+      "text": "The incident stemmed from a technical vulnerability within ChatGPT's system. User-uploaded images intended for private use became accessible, bypassing standard security protocols.",
+      "image_prompt": "Digital schematics of a complex AI system's data flow, highlighting a broken circuit with red error indicators. Abstract data packets flow through a digital firewall with a visible breach. Cyberpunk neon lighting.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "While the number '53' seems small, the vulnerability indicates a broader risk for any user data. This impacts trust in AI's sensitive data handling.",
+      "image_prompt": "An abstract, glowing data cloud fragmenting into smaller pieces, some containing miniature, blurred image icons. A broken 'lock' symbol hovers centrally. Dramatic side lighting.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "OpenAI has acknowledged the breach, initiating internal investigations and notifying affected users. They've updated security measures to prevent future occurrences immediately.",
+      "image_prompt": "A holographic OpenAI logo with a glowing shield icon. A silhouette of a person with an expression of intense focus or determination looking at code on a screen, illuminated by blue and green light reflecting data. Cinematic lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "This incident highlights increasing challenges with AI data privacy. As AI integrates into daily life, especially with new wearables, user vigilance becomes critical.",
+      "image_prompt": "A person wearing sleek smart glasses, through which their eyes are visible, reflecting digital data streams. A 'private data' icon flickers briefly within the reflection. Cyberpunk neon lighting.",
+      "camera_effect": "track_right"
+    },
+    {
+      "text": "Regulatory bodies are increasing scrutiny on AI companies for data protection. Users must understand these evolving risks when sharing personal information with AI platforms.",
+      "image_prompt": "Interlocking digital gears symbolizing regulation and compliance, with abstract user data flowing between them. Subtle red warning lights pulse in the background. Hyper-realistic, 8k resolution.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
