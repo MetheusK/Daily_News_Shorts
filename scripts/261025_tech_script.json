@@ -1,46 +1,46 @@
 {
   "hook_plan": {
-    "overlay_text": "APPLE'S SHOCKING SHIFT",
-    "narration": "WARNING! Apple just fundamentally changed your future devices, and you won't believe what's coming next week!",
-    "image_description": "Cybernetic hand reaching for a holographic MacBook Pro screen, glowing blue lines, intense user focus through smart glasses with data reflecting in the lenses, dramatic side lighting.",
-    "mood_color": "neon_green"
+    "overlay_text": "AI DATA LEAK",
+    "narration": "Urgent! OpenAI just leaked private photos, exposing a massive data privacy crisis. This is NOT a drill!",
+    "image_description": "Extreme close-up of a human eye with a glowing, cybernetic iris, reflecting distorted digital data. Red warning lights flash across the screen with glitch effects. Cinematic lighting.",
+    "mood_color": "red"
   },
   "thumbnail_plan": {
-    "thumbnail_text": "NEW APPLE ERA",
-    "image_description": "A sleek, hyper-realistic 3D render of a MacBook Pro with a vibrant, glowing OLED touchscreen displaying a futuristic UI, centered composition, dramatically backlit with cyberpunk neon lighting, 8k resolution.",
-    "reasoning": "This thumbnail highlights the core product (MacBook Pro) and its revolutionary feature (OLED touchscreen) with a modern, high-contrast, cinematic aesthetic, immediately grabbing attention and generating curiosity about Apple's major shift."
+    "thumbnail_text": "AI PRIVACY ALERT",
+    "image_description": "A shattered screen of a smartphone showing fragmented, pixelated images. A subtle glow emanates from the cracks. Hyper-realistic, 8k resolution, cyberpunk style, centered object.",
+    "reasoning": "The broken screen and fragmented data instantly communicate a security breach, grabbing attention with a visual metaphor for compromised information, ensuring high click-through rates."
   },
-  "title": "Apple's Touchscreen OLED Revolution Is Here",
+  "title": "OpenAI Leak & Future Tech Shocks!",
   "segments": [
     {
-      "text": "Apple is launching touchscreen Tandem OLED MacBook Pros and iPad mini devices next week. This marks a significant hardware evolution for their professional lineup.",
-      "image_prompt": "Ultra-thin MacBook Pro concept with a glowing touchscreen interface, showing a cybernetic finger elegantly touching the screen, dramatic lighting.",
-      "camera_effect": "dynamic_zoom"
-    },
-    {
-      "text": "Tandem OLED panels offer superior brightness, improved longevity, and reduced power consumption. This promises stunning visuals and extended battery life.",
-      "image_prompt": "Extreme close-up of OLED pixels glowing with vibrant, hyper-realistic colors, displaying complex data patterns, in a technical context.",
+      "text": "OpenAI confirms 53 private photos were unintentionally uploaded via ChatGPT. This raises critical questions about AI's data handling and user privacy protocols.",
+      "image_prompt": "A glowing, abstract representation of AI data flowing through a network, with a section showing corrupted or leaked files highlighted in red. Technical, clear.",
       "camera_effect": "static"
     },
     {
-      "text": "Integrating touch radically transforms macOS interaction for creatives and students. Direct manipulation enhances workflows, bringing tablet fluidity to powerful laptops.",
-      "image_prompt": "Hands interacting seamlessly with a digital workspace on a sleek laptop screen, focused expressions, cinematic lighting, reflecting data.",
-      "camera_effect": "smooth_pan"
+      "text": "The incident highlights vulnerabilities in large language models concerning personal data. Users must review consent settings for AI interactions and photo uploads proactively.",
+      "image_prompt": "A digital interface displaying consent forms with checkboxes, overlayed with a transparent red warning symbol. Minimalist, clean lines, focusing on UI.",
+      "camera_effect": "zoom_in"
     },
     {
-      "text": "A new iPad Mini will also feature OLED technology, promising deeper blacks and vibrant colors in a compact, highly portable form factor.",
-      "image_prompt": "An elegant, new iPad Mini design, showcasing its vibrant OLED screen with dynamic content, held by a person with a determined expression, dramatic lighting.",
-      "camera_effect": "dynamic_zoom"
+      "text": "Shifting gears, Apple is launching touchscreen tandem OLED MacBook Pros and iPad Minis next week. Expect stunning visuals and improved battery life.",
+      "image_prompt": "A sleek, thin laptop and tablet screen glowing with vibrant, deep OLED colors, showcasing dynamic imagery. Reflective surfaces, high contrast.",
+      "camera_effect": "pan_left"
     },
     {
-      "text": "This aggressive product move strengthens Apple's premium segment. Competitors like Xiaomi's upcoming Pro Max models face renewed pressure in the high-end device market.",
-      "image_prompt": "Two abstract, futuristic smartphone silhouettes facing each other in a virtual arena, one Apple-like, one Android-like, with holographic data flowing between them, cyberpunk neon lighting.",
+      "text": "This advanced OLED tech promises deeper blacks, vibrant colors, and smoother touch responses. It’s a huge leap for creative professionals and daily users.",
+      "image_prompt": "A close-up of a cybernetic-style hand seamlessly interacting with a responsive holographic touchscreen interface, showing fluid gestures and bright graphics.",
       "camera_effect": "static"
     },
     {
-      "text": "This marks a major shift in the premium device market, impacting user interaction profoundly.",
-      "image_prompt": "A wide shot of a futuristic tech landscape with glowing data networks, reflecting abstract user interfaces, digital corruption effects, cinematic lighting.",
-      "camera_effect": "dynamic_zoom"
+      "text": "Meanwhile, AI wearables are surging. New smart glasses and health monitors offer predictive insights and seamless daily assistance, changing how we interact.",
+      "image_prompt": "Various futuristic AI wearables: smart glasses with data overlays, sleek wrist devices displaying health metrics, all with subtle neon accents. Clear focus on tech.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "From real-time translation earbuds to AI-powered personal assistants on your wrist, these gadgets aim to integrate intelligence subtly into everyday life.",
+      "image_prompt": "A person wearing stylish, minimalist smart earbuds, with holographic sound waves subtly emanating. A sleek smartwatch displays real-time data on the wrist.",
+      "camera_effect": "static"
     },
     {
       "text": "If useful, please like and subscribe!",
