@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "APPLE'S SHOCKER",
+    "narration": "WARNING: Apple just secretly redefined an entire product category, and your current tech might be obsolete!",
+    "image_description": "Close-up of a person's intense eyes, partially obscured by data reflections from smart glasses, showing a glowing red digital interface, urgent cyberpunk aesthetic. Cinematic lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "IPAD MINI 2.0",
+    "image_description": "Hyper-realistic 3D render of a dramatically thin, glowing iPad mini, centered against a dark, industrial tech background with subtle neon blue backlighting, 8k resolution.",
+    "reasoning": "Highlights the core product (iPad mini) with a strong version indicator ('2.0') and sleek visual, promising a significant upgrade to capture attention."
+  },
+  "title": "Apple's New iPad Mini: Thinner, Brighter, & Why It Matters!",
+  "segments": [
+    {
+      "text_overlay": "IPAD REDESIGN",
+      "narration": "Apple just unveiled a dramatically redesigned iPad mini. Reports confirm a new, significantly thinner form factor is coming, signaling a major hardware refresh.",
+      "image_prompt": "Sleek, futuristic render of a thin tablet being held by a robotic hand, dramatic side lighting.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text_overlay": "OLED UPGRADE",
+      "narration": "Crucially, the new mini incorporates an OLED display. This technology offers superior contrast, deeper blacks, and vibrant colors, enhancing visual clarity for all users.",
+      "image_prompt": "Close-up of a tablet screen displaying vibrant, high-contrast digital art, glowing pixel effects, cinematic lighting.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text_overlay": "ULTRA THIN",
+      "narration": "The reduced thickness improves portability and ergonomics. This design targets users seeking ultra-light devices for on-the-go productivity and multimedia consumption.",
+      "image_prompt": "A holographic blueprint of a tablet showing a reduced profile, digital data flowing around it, cybernetic hand pointing. Cyberpunk neon lighting.",
+      "camera_effect": "rotate"
+    },
+    {
+      "text_overlay": "BATTERY BOOST",
+      "narration": "OLED also brings enhanced power efficiency, extending battery life significantly. Expect smoother animations and faster responsiveness from this advanced display technology.",
+      "image_prompt": "Tablet screen displaying battery percentage with glowing energy lines, digital interface overlays, dramatic side lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text_overlay": "PRO ON THE GO",
+      "narration": "This refresh targets professionals, students, and travelers who demand premium features in a compact, highly portable package for daily utility.",
+      "image_prompt": "A person's hands wearing smart glasses, intensely focused on a tablet displaying complex data, cinematic lighting.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text_overlay": "NEXT EVOLUTION",
+      "narration": "Get ready for the next evolution in personal computing, promising substantial power in an incredibly sleek form factor.",
+      "image_prompt": "A futuristic tablet shimmering with holographic elements, centered against a dark, minimalist background, 8k render, dramatic backlighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
