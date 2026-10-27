@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "DRONES ARE WATCHING",
+    "narration": "Warning! Unseen eyes are scaling autonomy, changing everything faster than you realize!",
+    "image_description": "Extreme close-up of a drone's camera lens, a glowing cybernetic iris reflecting data streams, dramatic red warning lights in the background, cinematic lighting, intense focus.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI TAKES OVER",
+    "image_description": "Hyper-realistic 3D render of a sleek, futuristic autonomous drone hovering over a holographic world map, emitting glowing blue data streams from its sensors. Center object, dramatic backlighting, 8k resolution, cyberpunk aesthetic.",
+    "reasoning": "The bold, slightly alarming 'AI TAKES OVER' combined with a visually stunning, futuristic drone hints at major technological shifts, creating strong curiosity and click-through potential."
+  },
+  "title": "Your World is Changing: AI & Autonomous Tech Explode!",
+  "segments": [
+    {
+      "text_overlay": "DRONES AUTONOMOUS",
+      "narration": "National Defense Magazine highlights unmanned systems scaling autonomy. Drones now operate independently in complex defense scenarios, reducing human intervention significantly.",
+      "image_prompt": "A sleek, advanced military drone with glowing blue sensors, performing an autonomous patrol over a digital battlefield map, cinematic lighting, reflections of data on its surface.",
+      "camera_effect": "dynamic_pan"
+    },
+    {
+      "text_overlay": "LESS HUMAN RISK",
+      "narration": "This evolution reduces human risk, enhances mission efficiency. AI integration enables real-time decision-making, setting new standards for defense operations and security.",
+      "image_prompt": "A cybernetic hand pointing at a holographic display showing real-time drone telemetry and data streams, expression of intense focus, dramatic side lighting, through smart glasses.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text_overlay": "AI IN SPORTS",
+      "narration": "AI is revolutionizing sports. Sportel 2026 predicts AI will drive media rights, personalized fan engagement, and athlete performance analysis globally.",
+      "image_prompt": "A holographic display showing real-time sports analytics with AI algorithms overlayed, glowing data points on player movements, diverse stadium background, cinematic lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text_overlay": "BIG MONEY MOVES",
+      "narration": "Significant US investment fuels AI advancements in sports. This impacts media rights, pushing the industry into a new era of data-driven innovation and broadcast experiences.",
+      "image_prompt": "A digital graph showing soaring investment trends in sports tech, with faint AI neural network patterns in the background, reflecting digital money symbols, cyberpunk neon lighting.",
+      "camera_effect": "dynamic_pan"
+    },
+    {
+      "text_overlay": "GET THE NEWS",
+      "narration": "To track these rapid global tech shifts, the new TechPulse app delivers all internet and tech news for free. It provides high-density insights directly to your device.",
+      "image_prompt": "A smartphone screen displaying the TechPulse app interface with breaking news headlines, surrounded by holographic data streams, held by a hand through smart glasses, cinematic lighting.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text_overlay": "FUTURE IS HERE",
+      "narration": "These developments show AI and autonomy integrating across defense, entertainment, and information, redefining our daily interactions and future societal structures.",
+      "image_prompt": "A montage of abstract digital representations of an autonomous drone, an AI neural network, and a smartphone, all connected by glowing lines, symbolizing global connectivity and impact, dramatic lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
