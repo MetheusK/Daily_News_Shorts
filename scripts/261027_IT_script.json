@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "FUTURE SHOCK!",
+    "narration": "Warning! 2027 tech isn't just coming, it's already reshaping your entire life!",
+    "image_description": "Extreme close-up of a person with glowing cybernetic eyes, intensely focused on a rapidly changing digital interface, reflecting data streams, dramatic side lighting, cyberpunk neon.",
+    "mood_color": "neon_green"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "2027 TECH REVEAL",
+    "image_description": "A highly detailed 3D render of a futuristic, glowing microchip integrated with holographic data projections, centered against a dark, dramatic background, 8k resolution, cinematic lighting.",
+    "reasoning": "The 'reveal' aspect and the clear, futuristic object create immediate intrigue, promising cutting-edge information without relying on human expressions, perfect for a high CTR."
+  },
+  "title": "2027 Tech Trends: Your Life is About to Change!",
+  "segments": [
+    {
+      "text": "Propel Software predicts intelligent automation will drive 40% of business efficiency by 2027. This impacts services you use daily, from delivery to support.",
+      "image_prompt": "A visually appealing graphic showing advanced automated systems, sleek robot arms in a clean, modern factory setting, smoothly assembling tech, cinematic lighting.",
+      "text_overlay": "SMART AUTOMATION",
+      "camera_effect": "dynamic_pan"
+    },
+    {
+      "text": "Paycor highlights HR tech trends, with AI-powered platforms personalizing employee experiences, recruitment, and upskilling for over 60% of workforce by 2027.",
+      "image_prompt": "A sleek, holographic interface displaying employee profiles and AI insights, a professional looking person interacting with it via smart glasses, glowing iris reflecting data, intense focus, dramatic side lighting.",
+      "text_overlay": "AI HR REVOLUTION",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "Beauty tech is transforming, leveraging AI and data for hyper-personalized skincare and cosmetics. 25% of consumers will use custom products by 2027.",
+      "image_prompt": "A futuristic device scanning a face with glowing light, showing a 3D model with data overlays, a person's eye reflecting digital information through smart glasses, wonder expression, cinematic lighting.",
+      "text_overlay": "CUSTOM BEAUTY",
+      "camera_effect": "static"
+    },
+    {
+      "text": "All these trends converge on data. From product lifecycle management to personal wellness, data analytics will enhance every interaction by 2027.",
+      "image_prompt": "A dense, glowing network of data streams converging towards a central, holographic globe, representing interconnectedness, 3D render, cyberpunk aesthetic.",
+      "text_overlay": "DATA IS KING",
+      "camera_effect": "fast_zoom_out"
+    },
+    {
+      "text": "The core impact is seamless user experience. Intuitive interfaces and predictive AI will anticipate needs, making technology practically invisible in daily life.",
+      "image_prompt": "A person using a transparent tablet, gestures controlling holographic elements, cybernetic eyes reflecting data, serious thought expression, cinematic lighting, dramatic side lighting.",
+      "text_overlay": "SEAMLESS UX",
+      "camera_effect": "smooth_tracking"
+    },
+    {
+      "text": "This is changing everything you know.",
+      "image_prompt": "A striking visual of a futuristic city emerging from a digital landscape, surrounded by holographic architectural plans, 8k render, dramatic lighting.",
+      "text_overlay": "GAME CHANGER",
+      "camera_effect": "cinematic_reveal"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
