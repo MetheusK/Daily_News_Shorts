@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "TECH LIES EXPOSED!",
+    "narration": "Stop scrolling! What you think is the next big tech trend might be a total lie!",
+    "image_description": "A figure with glowing cybernetic eyes stares intensely at a fractured holographic screen displaying a chaotic mix of buzzwords, digital glitch effects, dramatic red warning lights, cinematic lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "REAL TECH TRENDS",
+    "image_description": "A hyper-realistic 3D render of a futuristic data center with glowing blue server racks and transparent panels displaying rising analytical graphs. A central holographic brain-like structure pulses with data, 8k resolution, dramatic backlighting.",
+    "reasoning": "Combines familiar tech imagery (data centers, AI brain) with a clear promise of revealing 'real' trends, generating curiosity and a strong call-to-click."
+  },
+  "title": "IT Leaders Spill: Overhyped vs. Underhyped Tech Trends",
+  "segments": [
+    {
+      "text": "Recent industry reports surveyed hundreds of global IT leaders regarding current technology investment priorities. Key data reveals surprising shifts in perception.",
+      "image_prompt": "Abstract network of interconnected nodes representing global IT leaders and data points, displaying focused, determined expressions through smart glasses, cinematic lighting, 8k.",
+      "camera_effect": "zoom_in_slow"
+    },
+    {
+      "text": "Many executives now consider Generative AI as 'overhyped'. Expectations often exceed its immediate real-world business value and integration complexity.",
+      "image_prompt": "Digital graph showing a steep, unsustainable initial climb for a line labeled 'GenAI Hype', followed by a flat plateau. A hand with reflecting data on its palm points to the plateau. Cyberpunk neon lighting.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "Conversely, edge computing, process automation, and specific supply chain technologies are consistently identified as significantly 'underhyped' with high ROI.",
+      "image_prompt": "Three glowing holographic panels displaying icons for 'Edge Computing', 'Automation', and 'Supply Chain Logistics', with rising green bar graphs beneath. Intense focus in a user's glowing iris reflected.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "AI remains crucial, but leaders differentiate between speculative hype and practical, impactful applications focused on concrete operational efficiency and data synthesis.",
+      "image_prompt": "A glowing, complex AI brain, conceptually split: one half chaotic data streams (hype), the other orderly, structured connections (practical application). A serious expression of a person's face reflected through cybernetic eyes.",
+      "camera_effect": "rotate_slow"
+    },
+    {
+      "text": "Over 70% of IT decision-makers prioritize robust data analytics and governance. This drives major investments into secure, scalable data platforms for informed decisions.",
+      "image_prompt": "Streams of data flowing securely through digital pipelines into an advanced analytics dashboard displaying real-time growth metrics and security protocols. A determined expression on a face observing the data.",
+      "camera_effect": "zoom_out_slow"
+    },
+    {
+      "text": "Regional outlooks, especially in NZ-AUS, highlight logistics technology and intelligent automation as critical growth sectors for resilience and productivity gains.",
+      "image_prompt": "Automated forklifts moving packages in a futuristic smart warehouse, overlaid with a glowing digital map of New Zealand and Australia showing interconnected supply routes. Wonder and focus in the eyes of an observer.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
