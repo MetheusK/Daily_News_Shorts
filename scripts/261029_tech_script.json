@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI'S NEW TRICK",
+    "narration": "Warning! Meta just released an app with a secret AI that's learning all about you!",
+    "image_description": "A sleek smartphone screen displaying a cute virtual pet, but with glitching red digital eyes and subtle data streams emanating, cinematic lighting, a person with intense focus looking at it through smart glasses.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "PET OR SPY?",
+    "image_description": "A hyper-realistic 3D render of a cute, stylized virtual pet with a subtle, glowing AI neural network pattern visible beneath its skin, centered on a dark, cyberpunk background with dramatic backlighting, 8k resolution.",
+    "reasoning": "The provocative question 'PET OR SPY?' combined with the visually intriguing AI-infused pet creates mystery and strong curiosity, driving clicks by appealing to both the innocent pet aspect and the potential AI surveillance fear."
+  },
+  "title": "Meta's Secret AI Pet Revealed!",
+  "segments": [
+    {
+      "text": "Meta's new app secretly integrates an AI journal within an adorable virtual pet. This innovative approach aims to make personal reflection a daily habit for users.",
+      "image_prompt": "A sleek smartphone displaying a minimalist virtual pet interacting with holographic journal entries, cyberpunk neon lighting.",
+      "text_overlay": "META'S SECRET AI"
+    },
+    {
+      "text": "The embedded AI journal learns from your entries, providing personalized insights and mood tracking. It's designed to support mental well-being through subtle interaction.",
+      "image_prompt": "Glowing neural network patterns overlaid on a digital journal, with a thoughtful person's cybernetic eye reflecting data, dramatic side lighting.",
+      "text_overlay": "AI KNOWS YOU"
+    },
+    {
+      "text": "Your virtual companion evolves based on your engagement, encouraging consistent journaling. This gamified system makes daily self-reflection less intimidating and more fun.",
+      "image_prompt": "A cute, stylized virtual pet on a smartphone screen, emitting soft digital glows, with a hand gently interacting, cinematic lighting.",
+      "text_overlay": "YOUR DIGITAL FRIEND"
+    },
+    {
+      "text": "Data privacy is paramount; Meta states entries are processed securely for AI functionality. This highlights ongoing debates about personal data use in AI-driven tools.",
+      "image_prompt": "Abstract data streams flowing into a secure digital vault icon, surrounded by a subtle red warning light glow, technical, clear visuals.",
+      "text_overlay": "DATA PRIVACY"
+    },
+    {
+      "text": "Targeting students and early adopters, the app offers a unique blend of entertainment and self-improvement. It redefines personal growth through digital interaction.",
+      "image_prompt": "A young person (intense focus) wearing smart glasses, looking at holographic data projections showing mood graphs and pet interactions, cyberpunk aesthetic.",
+      "text_overlay": "NEW SELF-CARE"
+    },
+    {
+      "text": "This launch signifies a key industry shift towards 'hidden AI' experiences. Expect more subtle AI integrations appearing across everyday applications very soon.",
+      "image_prompt": "A futuristic smartphone interface seamlessly blending AI assistant icons with common app icons, dramatic side lighting, high-density information display.",
+      "text_overlay": "AI GOES COVERT"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
