@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "YOUR SKY IS CHANGING",
+    "narration": "Warning! Elon Musk just pushed the future into overdrive, and it's coming to a sky near you!",
+    "image_description": "A sleek, futuristic flying car (resembling a Tesla Roadster concept) quickly soaring above a neon-lit cyberpunk cityscape. The car's outline has a faint digital glitch effect. Close-up on a driver's cybernetic eye reflecting the flying car, intense focus, dramatic side lighting.",
+    "mood_color": "neon_green"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "TESLA FLIES?",
+    "image_description": "A hyper-realistic 3D render of a futuristic, dark grey flying car (resembling a Tesla Roadster) hovering above a high-tech landing pad. The background is a blurred cityscape at dusk with holographic traffic lines. Dramatic backlighting, 8k resolution.",
+    "reasoning": "The bold, interrogative text creates immediate curiosity. The hyper-realistic flying car makes it visually striking and raises questions about feasibility, driving clicks."
+  },
+  "title": "Elon Musk's Flying Tesla Sparks Future Shock!",
+  "segments": [
+    {
+      "text": "Recent online discussions surged after a concept for Elon Musk’s 'flying' Tesla Roadster went viral, igniting debates about future transport feasibility.",
+      "image_prompt": "A digital representation of a Tesla Roadster with transparent wings or thrusters, superimposed over a trending social media feed interface, showing 'likes' and 'shares' counters increasing rapidly. Cinematic lighting.",
+      "camera_effect": "zoom_in_on_car"
+    },
+    {
+      "text": "This 'flying' concept, initially suggested to utilize advanced cold gas thrusters for brief hover capabilities, captivated millions on social media platforms.",
+      "image_prompt": "Animated schematics of a vehicle demonstrating a 'cold gas thruster' system with blue energy bursts. Overlayed text showing hypothetical lift metrics. Technical, clean design.",
+      "camera_effect": "panning_left_to_right"
+    },
+    {
+      "text": "Within hours, discussions across X (formerly Twitter) and Reddit saw millions of impressions, with #FlyingTesla trending globally, showcasing intense public fascination.",
+      "image_prompt": "A globe with trending social media hashtags '#FlyingTesla' and '#FutureMobility' orbiting it, visualized as glowing data streams. Focus on digital engagement metrics.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Such concepts project significant shifts in urban planning, demanding new air traffic control systems and specialized landing infrastructure for personal aerial vehicles.",
+      "image_prompt": "A holographic projection of a futuristic city with multi-layered air traffic lanes and designated vertical landing pads integrated into skyscrapers. Drone-like vehicles are in motion.",
+      "camera_effect": "dolly_out"
+    },
+    {
+      "text": "Safety regulations are paramount; autonomous navigation and collision avoidance systems would be critical to prevent aerial incidents in dense urban environments.",
+      "image_prompt": "A high-tech vehicle dashboard with a holographic map displaying real-time obstacle detection and collision avoidance warnings, red warning lights flashing subtly. Driver's hands on controls, intense focus.",
+      "camera_effect": "quick_cut"
+    },
+    {
+      "text": "While a prototype isn't imminent, these viral concepts drive innovation, pushing companies like SpaceX to explore integrated terrestrial and aerial mobility solutions.",
+      "image_prompt": "An abstract, interconnected network of roads and aerial pathways, with small, glowing vehicle icons moving between them. Represents integrated mobility. Cybernetic blue and purple lighting.",
+      "camera_effect": "slow_pan_up"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
