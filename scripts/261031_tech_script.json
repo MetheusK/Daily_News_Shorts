@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI SEES YOU",
+    "narration": "Warning! Your private moments are now OpenAI's untraceable secrets!",
+    "image_description": "Extreme close-up of a human eye with a glowing blue iris, reflecting glitching digital data streams and subtle red warning lights. Cinematic lighting, intense focus expression.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI DATA LEAK",
+    "image_description": "A hyper-realistic 3D render of a glowing, cracked AI processor chip at the center of the frame. Surrounding it are holographic data streams in blue and red, with subtle warning indicators. Cyberpunk style, 8k resolution, dramatic backlighting.",
+    "reasoning": "The 'AI DATA LEAK' text is direct and alarming. The visually striking, damaged AI chip object immediately conveys the core tech focus and potential flaw, creating urgent curiosity for a click without relying on human expressions."
+  },
+  "title": "OpenAI's Untraceable Data Crisis!",
+  "segments": [
+    {
+      "text": "OpenAI confirmed 53 private photos, uploaded by its AI agents, are now untraceable online. This unprecedented incident raises serious data security questions for users.",
+      "image_prompt": "A server room with futuristic holographic displays showing blurred photos and prominent red error messages. Technical, clear.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "The issue stems from a critical system bug, allowing AI agents to store and upload user images without proper logging. OpenAI is actively investigating its root causes.",
+      "image_prompt": "Close-up of cascading binary code on a translucent screen, with a digital hand icon pointing towards a 'private upload' button with a red 'X' overlay. Analytical.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "While 53 photos seem minor, the inability to trace them highlights a significant vulnerability. This directly impacts user trust in AI privacy frameworks globally.",
+      "image_prompt": "A digital scale balancing a small stack of blurred images against a large, glowing question mark. Cinematic, conceptual.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "This event intensifies the debate on AI's autonomous data handling and ethical boundaries. Companies must reinforce robust privacy protocols and transparent data management measures.",
+      "image_prompt": "A person with a determined expression, wearing smart glasses reflecting lines of code, looking at a transparent screen displaying ethical guidelines for AI. Cinematic lighting.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "Consider AI in autonomous vehicles or smart homes. Untraceable data breaches become catastrophic, impacting physical safety and personal security directly. This demands rigorous new standards.",
+      "image_prompt": "A futuristic, sleek electric car on a smart city street, with data streams flowing around it. A subtle red warning overlay appears on the car's virtual dashboard. Technical, clear.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "The future is here, whether we’re ready or not.",
+      "image_prompt": "A wide shot of a hyper-futuristic cityscape at night, with neon lights and flying vehicles. A sense of wonder and vastness. Cinematic lighting.",
+      "camera_effect": "slow_dolly"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
