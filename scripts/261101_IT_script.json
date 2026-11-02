@@ -1,0 +1,57 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI UNLEASHED!",
+    "narration": "WARNING! A new form of self-improving AI is here, threatening everything you know!",
+    "image_description": "A close-up of a human eye with a glowing, intricate circuit board pattern reflected in its iris, surrounded by swirling holographic data streams, cinematic lighting, cyberpunk neon, intense focus.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI TAKES CONTROL",
+    "image_description": "A hyper-realistic 3D render of a futuristic robot hand reaching for a glowing, interconnected network sphere, surrounded by abstract data lines against a dark, dramatic background. 8k resolution, cyberpunk style.",
+    "reasoning": "The phrase 'AI Takes Control' combined with a visually striking, slightly ominous robot hand creates urgency and mystery, encouraging clicks for its potential impact."
+  },
+  "title": "Self-Improving AI & Cyber Threats: Your Digital World is Changing",
+  "segments": [
+    {
+      "text": "Z.ai founder confirms self-improving AI is critical for AGI development. This signals an imminent leap in AI capabilities, shifting paradigms.",
+      "text_overlay": "AI EVOLUTION",
+      "image_prompt": "A futuristic data center with servers glowing with blue light, digital streams flowing between racks, reflecting cybernetic eyes of a researcher in the foreground, intense focus.",
+      "camera_effect": "dynamic_pan"
+    },
+    {
+      "text": "Achieving AGI, Artificial General Intelligence, means AI can learn and adapt across diverse tasks, matching human cognitive functions.",
+      "text_overlay": "AGI DEFINED",
+      "image_prompt": "Holographic neural network projected in a dark room, displaying complex learning algorithms, with a serious thought expression on a cybernetically enhanced person's face, cinematic lighting.",
+      "camera_effect": "zoom_in_slow"
+    },
+    {
+      "text": "This self-improvement involves algorithms continually optimizing their own code and learning models without direct human oversight.",
+      "text_overlay": "AUTONOMOUS LEARNING",
+      "image_prompt": "Intricate, glowing code flowing across multiple transparent screens, overseen by a determined AI algorithm visualized as a digital entity, dramatic side lighting.",
+      "camera_effect": "rotating_view"
+    },
+    {
+      "text": "Simultaneously, a new XLoader malware variant uses business email lures for \"in-memory injection,\" bypassing traditional antivirus.",
+      "text_overlay": "NEW MALWARE ATTACK",
+      "image_prompt": "A digital firewall with a visible 'glitch effect' as a malicious data packet penetrates, represented by a red warning light, technical context.",
+      "camera_effect": "fast_cut"
+    },
+    {
+      "text": "This sophisticated attack injects malicious code directly into system memory, leaving minimal trace and making detection incredibly difficult for users.",
+      "text_overlay": "INVISIBLE THREAT",
+      "image_prompt": "Circuit board with glowing red lines indicating data corruption, a digital representation of an 'in-memory injection' effect, seen through smart glasses, intense focus.",
+      "camera_effect": "static_close_up"
+    },
+    {
+      "text": "As AI capabilities advance and cyber threats evolve, understanding these rapid tech shifts is crucial for digital safety and innovation.",
+      "text_overlay": "EVOLVING THREATS",
+      "image_prompt": "A digital shield symbol protecting a smart city hologram, with abstract data flowing around it, a sense of intense focus and determination in a cybernetic eye reflecting the shield.",
+      "camera_effect": "dolly_out"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
