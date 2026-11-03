@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "AI CRASHING?",
+    "narration": "WARNING! The AI stock market just took a shocking dive, impacting YOUR future tech investments!",
+    "image_description": "Extreme close-up of a cybernetic eye reflecting a glitching stock chart showing a sharp downward trend, red warning lights, cinematic lighting, intense focus.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "AI SHOCKER",
+    "image_description": "A 3D render of a fractured, glowing AI processor chip at the center of a dark, futuristic server room, dramatic backlighting, 8k resolution, cyberpunk style.",
+    "reasoning": "The fractured chip symbolizes a 'dive' or 'shock' in AI, while the clean, high-tech aesthetic attracts clicks. It prioritizes an object over a human, adhering to rules."
+  },
+  "title": "AI Stocks Dive: What It Means For YOU",
+  "segments": [
+    {
+      "text": "Reuters reported AI-related shares faced a significant October dive. This event tests the resilience of the broader US stock market.",
+      "image_prompt": "A complex, holographic stock market graph showing a sharp downward trend, superimposed over a digital map of the US, reflecting data, cinematic lighting.",
+      "camera_effect": "zoom_out_slow"
+    },
+    {
+      "text": "This decline, despite strong AI trends, shows market sensitivity. Investors are watching key players like NVDA, SMCI, and MSFT closely.",
+      "image_prompt": "Three glowing corporate logos (NVDA, SMCI, MSFT) depicted as high-tech data points on a futuristic digital dashboard with fluctuating numbers and cybernetic reflections.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "The performance of these AI stocks impacts broader tech sentiment. It signals potential shifts in investor confidence and valuation metrics.",
+      "image_prompt": "A digital human figure with glowing cybernetic eyes looking intently at a transparent screen displaying real-time financial data and investor sentiment indicators, serious thought, dramatic lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "While growth is predicted, October's volatility reminds us AI’s financial journey won't be linear, potentially affecting innovation speed.",
+      "image_prompt": "A winding, illuminated digital path representing AI development, with a visible 'dip' section, futuristic city background, cinematic lighting.",
+      "camera_effect": "track_forward"
+    },
+    {
+      "text": "Slower investment could delay new AI features in consumer products. Expect potential shifts in upcoming smart devices and software capabilities.",
+      "image_prompt": "A hand reaching towards a holographic interface displaying future smart device concepts, some appearing slightly faded or paused, seen through smart glasses, glowing iris.",
+      "camera_effect": "zoom_in_slow"
+    },
+    {
+      "text": "Global AI investment trends now directly shape how quickly advanced AI applications reach your daily phone and computer use.",
+      "image_prompt": "A close-up of a glowing AI neural network connecting to a stylized smartphone and laptop, data flowing between them, cinematic lighting, cybernetic elements.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
