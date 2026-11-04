@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "MUSK'S SECRET MESSAGE",
+    "narration": "Warning! A secret message from Elon Musk just revealed a hidden power play behind Google's empire!",
+    "image_description": "Extreme close-up of a cybernetic hand reaching towards a holographic display flickering with 'MISS YOU' text, digital corruption effects, red warning lights. Dark, dramatic cyberpunk lighting.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "MUSK'S MESSAGE",
+    "image_description": "A hyper-realistic 3D render of a vintage monitor displaying 'Miss You' in pixelated text, with faint, stylized Google and X (formerly Twitter) logos as reflections on its screen, dramatic side lighting, 8k resolution.",
+    "reasoning": "Creates intrigue around a personal message from a tech titan and hints at a significant past connection to Google, driving curiosity for the backstory without explicit sensationalism on the static thumbnail."
+  },
+  "title": "Elon Musk's Cryptic Message: Google Connection Revealed!",
+  "segments": [
+    {
+      "text": "Elon Musk recently shared a public 'miss you' message, directed at a 'long-lost friend' reportedly associated with Google, after hearing an undisclosed story.",
+      "image_prompt": "A stylized digital representation of a social media post, featuring a subtle, blurred 'miss you' text and abstract Google/X logos. Clean, modern tech aesthetic.",
+      "camera_effect": "zoom_in"
+    },
+    {
+      "text": "This rare public sentiment from the Tesla CEO, based on an unspecified 'story,' highlights the deeply interconnected and often personal dynamics within Silicon Valley's elite.",
+      "image_prompt": "Interconnected glowing neural network lines over a blurred image of sleek, modern tech company campuses, conveying complex relationships. Cyberpunk blue lighting.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "The identity of this Google friend is private. Such 'lost friends' often represent pivotal early collaborators or strategic contacts in tech history.",
+      "image_prompt": "A faded, holographic projection of two abstract, faceless corporate figures shaking hands, overlaid with digital code, suggesting past partnership. Soft, historical glow.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "These public acknowledgements humanize tech titans, reminding us that personal histories and relationships frequently underpin major industry shifts and rivalries.",
+      "image_prompt": "Close-up of intricate, polished metallic gears intermeshing smoothly, one gear glowing with a subtle 'X' symbol, another with a 'G' symbol, indicating influence and connection. High-definition 3D render.",
+      "camera_effect": "zoom_out"
+    },
+    {
+      "text": "High-profile personal notes suggest historical connections that could subtly influence future collaborations or competitive strategies between tech giants.",
+      "image_prompt": "A futuristic digital bridge made of light and data streams, visually connecting two distinct, stylized architectural structures representing different tech companies, with flowing data packets. Vibrant neon lighting.",
+      "camera_effect": "pan_right"
+    },
+    {
+      "text": "This incident underscores the often-overlooked human element shaping global technology; powerful individuals maintain ties across corporate boundaries, impacting innovation.",
+      "image_prompt": "A human-like cybernetic hand with glowing circuits gently touching a translucent, glowing orb of interconnected data nodes, symbolizing human influence on digital networks. Dramatic low-key lighting.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
