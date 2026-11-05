@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "REALITY SHIFTED!",
+    "narration": "Stop everything! Google just broke reality as we know it, and your world will never be the same!",
+    "image_description": "Close-up of a person's face with intensely focused eyes, smart glasses reflecting a rapidly distorting digital landscape, cyberpunk neon lighting, digital corruption effects, no gore.",
+    "mood_color": "neon_green"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "REALITY ENGINE",
+    "image_description": "A hyper-realistic 3D render of a futuristic, glowing processor chip at the center, emitting holographic 3D architectural blueprints and complex game environments, dark, dramatic backlighting, 8k resolution.",
+    "reasoning": "The 'Reality Engine' text creates mystery and impact, while the central glowing chip and holographic projections visually represent cutting-edge generation, appealing to tech curiosity and the 'wow' factor to maximize clicks."
+  },
+  "title": "Google Genie 4: Building YOUR Digital Reality!",
+  "segments": [
+    {
+      "text": "Google has just unveiled Genie 4, a groundbreaking AI model enabling real-time generation of interactive 3D environments. This marks a significant leap in virtual world creation.",
+      "image_prompt": "Futuristic Google logo with 'Genie 4' glowing, abstract 3D wireframe world forming and interacting in the background, cinematic lighting, high detail.",
+      "camera_effect": "dynamic_zoom"
+    },
+    {
+      "text": "Genie 4 generates fully interactive 3D spaces from text or images in mere seconds. It transforms static inputs into dynamic, explorable virtual worlds, pushing boundaries.",
+      "image_prompt": "A cybernetic hand interacting with a holographic UI, text prompt appearing, then a detailed, vibrant 3D environment instantly rendering, reflective surfaces.",
+      "camera_effect": "fast_pan"
+    },
+    {
+      "text": "This innovation drastically cuts development time for games and VR applications. Creators can now prototype entire virtual experiences, improving user content generation and immersion exponentially.",
+      "image_prompt": "A gamer wearing advanced VR headset, eyes glowing slightly with wonder, a complex 3D game world instantly materializing around them, vibrant colors, cinematic lighting.",
+      "camera_effect": "dolly_zoom"
+    },
+    {
+      "text": "Beyond gaming, Genie 4 empowers architects, designers, and educators. Imagine instantly generating virtual models for urban planning or interactive educational simulations, enhancing learning.",
+      "image_prompt": "Digital blueprint of a city transforming into a photorealistic 3D urban model, a student with smart glasses exploring a dynamically rendered historical scene, intense focus.",
+      "camera_effect": "tilt_shift"
+    },
+    {
+      "text": "Unlike previous methods, Genie 4 achieves real-time generation and rendering with unprecedented fidelity. It processes complex scene details at speeds previously unattainable, revolutionizing pipelines.",
+      "image_prompt": "A split screen showing a slow, pixelated render vs. an instant, high-fidelity render of a complex 3D object, green progress bar filling rapidly, technical data overlay.",
+      "camera_effect": "split_screen_transition"
+    },
+    {
+      "text": "This technology paves the way for truly personalized digital experiences, allowing anyone to build and inhabit unique virtual spaces. The future of interactive digital environments is here.",
+      "image_prompt": "A diverse group of people (some with subtle cybernetic eyes, intense focus) collaborating in a shared, dynamically generated virtual space, hands reaching out to holographic interfaces, dramatic lighting.",
+      "camera_effect": "slow_push_in"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
