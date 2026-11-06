@@ -1,0 +1,51 @@
+{
+  "hook_plan": {
+    "overlay_text": "TECH CRASHING!",
+    "narration": "Warning! The tech market just crashed, wiping out billions and threatening the future of AI!",
+    "image_description": "Extreme close-up of a cybernetic eye reflecting rapidly falling stock charts and glitched digital data, cinematic lighting with stark red and blue neon, intense focus, digital corruption overlay.",
+    "mood_color": "red"
+  },
+  "thumbnail_plan": {
+    "thumbnail_text": "BIG TECH CRASH!",
+    "image_description": "A shattered, glowing 3D render of a high-performance silicon chip surrounded by abstract digital currency symbols, dramatic backlighting, cyberpunk style, hyper-realistic, 8k resolution, centered composition.",
+    "reasoning": "This thumbnail uses a strong visual metaphor (shattered chip) for a market crash and direct, urgent text to incite curiosity and clicks, focusing on an object rather than a human."
+  },
+  "title": "Market Meltdown: What's Next for AI?",
+  "segments": [
+    {
+      "text": "The Nasdaq Composite recently saw a significant downturn, registering a 1.2% drop, pushing it into bear market territory for some major tech firms.",
+      "image_prompt": "A detailed 3D render of a digital stock chart rapidly falling, red negative bars, data flowing downwards, on a dark, technical interface, cinematic lighting.",
+      "camera_effect": "zoom_out_slowly"
+    },
+    {
+      "text": "Nvidia, a semiconductor giant crucial for AI, plummeted over 10% in just one day, entering bear territory for the first time this year.",
+      "image_prompt": "Hyper-realistic rendering of a glowing Nvidia GPU chip, with subtle digital 'bear' paw prints overlayed, data streams radiating outwards, intense focus.",
+      "camera_effect": "pan_left"
+    },
+    {
+      "text": "This sell-off reflects growing investor apprehension regarding high valuations and rising interest rates impacting future tech sector profitability and growth projections.",
+      "image_prompt": "Stylized graphic representing investor sentiment as a fluctuating wave pattern, with downward trends highlighted in red, superimposed on a city skyline, cybernetic aesthetic.",
+      "camera_effect": "static"
+    },
+    {
+      "text": "Big Tech companies like Amazon and Apple also experienced drops, indicating a broader market correction beyond just semiconductor specific concerns.",
+      "image_prompt": "Abstract digital representation of major tech company logos (Amazon, Apple, etc.) dissolving into pixelated fragments, dynamic glitch effect, dramatic side lighting.",
+      "camera_effect": "zoom_in_fast"
+    },
+    {
+      "text": "Analysts now warn of potential slowdowns in venture capital for AI startups and delayed timelines for advanced tech product development due to capital tightening.",
+      "image_prompt": "A stylized silhouette of a developer working on a holographic AI interface, overlaid with financial bar graphs showing decreasing investment, focused expression through smart glasses.",
+      "camera_effect": "dolly_zoom"
+    },
+    {
+      "text": "This shift signals a re-evaluation of valuation models, impacting future market stability and investment strategies in the sector.",
+      "image_prompt": "An intricate 3D render of a futuristic stock exchange floor, holographic screens displaying complex financial data models, cybernetic hands pointing at key projections, serious thought.",
+      "camera_effect": "pan_right_slow"
+    },
+    {
+      "text": "If useful, please like and subscribe!",
+      "image_prompt": "Subscribe",
+      "keyword": "Subscribe"
+    }
+  ]
+}
